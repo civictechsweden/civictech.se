@@ -15,7 +15,7 @@ Varje hackathon har ett tema och ordnas i samarbete mellan några olika organisa
 
 Deltagande organisationer hjälps åt att samla folk och sprida eventet, introducera projekten och handleda sin projektgrupp.
 
-Digidem Lab kan bidra med lokaler, fika och mat, handledning/processledning och eventuellt arvode till externa handledare.
+[Digidem Lab](http://digidemlab.org) kan bidra med lokaler, fika och mat, handledning/processledning och eventuellt arvode till externa handledare.
 
 ### Riktlinjer för hackathons:
 1. Projekten ska främja ökat deltagande i sociala rörelser, föreningsliv, politiska processer eller samhället i stort med hjälp av ny teknik.
