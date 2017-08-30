@@ -49,7 +49,7 @@ Passa på att laga din cykel hos cykelköket!
 
 ## Hackathon: Sharing Is Caring
 9 december 2017 (preliminärt)  
-Tema delningsekonomi, gemensamma resurser och hållbar konsumtion.
+Tema kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
 
 ### Bygg en delningsplattform i Yunity
 Vi utvecklar en med delningsplattformen Yunity, eller bygger vidare på foodsaving.world.
