@@ -36,7 +36,7 @@ Det här är ett första utkast till ett samarbete och gemensamma event. Kontakt
 Följande hackathon är förslag som kan komma att förändras. Kom gärna med input och förslag!
 
 ## Hackathon: I Like To Move It
-29 oktober 2017 (preliminärt)  
+28 oktober 2017 (preliminärt)  
 Tema hållbara transporter, resande och rörlighet.
 
 ### Skjutsgruppen
