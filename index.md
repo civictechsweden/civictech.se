@@ -42,7 +42,6 @@ Tema hållbara transporter, resande och rörlighet.
 Var med och gör en unik svenskt samåkningstjänst open source!
 
 ### Mobility as a service  
-> Exploring the future of mobility as a public network built on blockchain technology by enabling a neutral platform and sustainable ecosystem for mobility services, Joel Torstensson & Patrik Andersson
 
 ### Cykelköket
 Passa på att laga din cykel hos cykelköket!
