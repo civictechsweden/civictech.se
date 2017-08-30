@@ -36,6 +36,7 @@ Det här är ett första utkast till ett samarbete och gemensamma event. Kontakt
 Följande hackathon är förslag som kan komma att förändras. Kom gärna med input och förslag!
 
 ## Hackathon: I Like To Move It
+29 oktober 2017 (preliminärt)  
 Tema hållbara transporter, resande och rörlighet.
 
 ### Skjutsgruppen
@@ -47,6 +48,7 @@ Var med och gör en unik svenskt samåkningstjänst open source!
 Passa på att laga din cykel hos cykelköket!
 
 ## Hackathon: Sharing Is Caring
+9 december 2017 (preliminärt)  
 Tema delningsekonomi, gemensamma resurser och hållbar konsumtion.
 
 ### Bygg en delningsplattform i Yunity
@@ -56,6 +58,7 @@ Vi utvecklar en med delningsplattformen Yunity, eller bygger vidare på foodsavi
 Vi tar [Smarta Kartan](http://smartakartan.se) till nästa nivå genom att göra den open source.
 
 ## Hackathon: Power To The People
+februari 2018  
 Tema demokrati, deltagande och transparens.
 
 ### Medborgarplattformen Consul
