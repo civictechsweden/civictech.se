@@ -42,7 +42,7 @@ Tema kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
 ### Bygg en delningsplattform i Yunity
 Vi utvecklar en med delningsplattformen Yunity, eller bygger vidare på foodsaving.world.
 
-### Smarta kartan
+### Smarta kartan (?)
 Vi tar [Smarta Kartan](http://smartakartan.se) till nästa nivå genom att göra den open source.
 
 
@@ -69,5 +69,5 @@ Var med och gör en unik svenskt samåkningstjänst open source!
 
 ### Mobility as a service  
 
-### Cykelköket
+### Cykelköket (?)
 Passa på att laga din cykel hos cykelköket!
