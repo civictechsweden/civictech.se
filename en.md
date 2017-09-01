@@ -15,7 +15,7 @@ The hackathons will happen every other month in average and each will last a who
 
 The partners responsible for the organisation of each hackathon should collaborate in reaching out to the public, finding participants within and outside their own networks, presenting their projects and leading group participants during the event.
 
-Digidem Lab is supporting by providing the venue, food (also the famous Swedish fika) and guidance and (under specific circumstances).
+[Digidem Lab](http://digidemlab.org) is supporting by providing the venue, food (also the famous Swedish fika) and guidance and (under specific circumstances).
 
 ### Guidelines for the Hackathons
 1. The project should be about developing or using new technologies in order to promote an increased participation in social movements, non-profit associations, democratic political processes and civil society in general.
@@ -26,8 +26,8 @@ Digidem Lab is supporting by providing the venue, food (also the famous Swedish 
 
 ## Contact
 This is the first draft for a cooperation to a common event. Please, contact us if you'd like your organisation to participate, or if you have any ideas and suggestions!
-* Petter Joelson, Digidem Lab, petter@digidemlab.org
-* Bruno Chies, Solidariskt Kylskåp, bruno@solikyl.se
+* Petter Joelson, Digidem Lab, [petter@digidemlab.org](mailto:petter@digidemlab.org)
+* Bruno Chies, Solidariskt Kylskåp, [bruno@solikyl.se](mailto:bruno@solikyl.se)
 
 ---
 
