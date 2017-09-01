@@ -17,7 +17,7 @@ Varje hackathon har ett tema och ordnas i samarbete mellan några olika organisa
 
 Deltagande organisationer hjälps åt att samla folk och sprida eventet, introducera projekten och handleda sin projektgrupp.
 
-Digidem Lab kan bidra med lokaler, fika och mat, handledning/processledning och eventuellt arvode till externa handledare.
+[Digidem Lab](http://digidemlab.org) kan bidra med lokaler, fika och mat, handledning/processledning och eventuellt arvode till externa handledare.
 
 ### Riktlinjer för hackathons:
 1. Projekten ska främja ökat deltagande i sociala rörelser, föreningsliv, politiska processer eller samhället i stort med hjälp av ny teknik.
@@ -37,28 +37,19 @@ Det här är ett första utkast till ett samarbete och gemensamma event. Kontakt
 # Preliminära hackathon
 Följande hackathon är förslag som kan komma att förändras. Kom gärna med input och förslag!
 
-## Hackathon: I Like To Move It
-Tema hållbara transporter, resande och rörlighet.
-
-### Skjutsgruppen
-Var med och gör en unik svenskt samåkningstjänst open source!
-
-### Mobility as a service  
-> Exploring the future of mobility as a public network built on blockchain technology by enabling a neutral platform and sustainable ecosystem for mobility services, Joel Torstensson & Patrik Andersson
-
-### Cykelköket
-Passa på att laga din cykel hos cykelköket!
-
 ## Hackathon: Sharing Is Caring
-Tema delningsekonomi, gemensamma resurser och hållbar konsumtion.
+28 oktober 2017 (preliminärt)  
+Tema kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
 
-#### Bygg en delningsplattform i Yunity
+### Bygg en delningsplattform i Yunity
 Vi utvecklar en med delningsplattformen Yunity, eller bygger vidare på foodsaving.world.
 
-#### Smarta kartan
+### Smarta kartan (?)
 Vi tar [Smarta Kartan](http://smartakartan.se) till nästa nivå genom att göra den open source.
 
+
 ## Hackathon: Power To The People
+9 december 2017 (preliminärt)  
 Tema demokrati, deltagande och transparens.
 
 ### Medborgarplattformen Consul
@@ -69,3 +60,16 @@ Alla inköp från Göteborgs stad finns som öppen data, vi labbar med <http://n
 
 ### Folkomröstning med Blockchain
 [Democracy Earth](http://democracy.earth) presenterar sitt projekt med blockchainbaserade omröstningar.
+
+
+## Hackathon: I Like To Move It
+februari 2018  
+Tema hållbara transporter, resande och rörlighet.
+
+### Skjutsgruppen
+Var med och gör en unik svenskt samåkningstjänst open source!
+
+### Mobility as a service  
+
+### Cykelköket (?)
+Passa på att laga din cykel hos cykelköket!
