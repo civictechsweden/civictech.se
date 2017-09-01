@@ -1,0 +1,30 @@
+<div class="bg-info py-4 mt-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 offset-lg-2">
+        {% assign crew=site.crew | where:"lang", page.lang %}
+        {% for item in crew %}
+          <div class="row mb-2">
+            <div class="col-8 offset-2 offset-sm-0 col-sm-4 text-center mb-2">
+              <img class="w-100" src="{{site.baseurl}}{{item.image}}">
+            </div>
+            <div class="col-12 col-sm-8 text-white">
+                <h2 class="mb-1 text-white">{{item.title}}</h2>
+              <p>
+                <strong>{{item.job}}</strong>
+              </p>
+              <p>
+                {{item.presentation}}
+              </p>
+              <p>
+                {{item.phone}},
+                <a href="mailto:{{item.mail}}">{{item.mail}}</a>
+              </p>
+              </p>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

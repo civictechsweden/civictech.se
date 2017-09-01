@@ -1,0 +1,80 @@
+---
+layout: global
+---
+
+<article>
+  <div class="container">
+    {% include content/page-header.html %}
+    <div class="row">
+      <div class="col content">
+        {% assign paragraphs = content | split:'</p>' %}
+        {% for paragraph in paragraphs limit:2 %}
+          {{ paragraph | append: '</p>' }}
+        {% endfor %}
+        {% if page.banners.size > 0 %}
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid px-0 mb-3 my-lg-4">
+    {% include panels/banners.html %}
+  </div>
+  <div class="container mb-3">
+    <div class="row">
+      <div class="col content">
+        {% endif %}
+        {% for paragraph in paragraphs offset:2 limit:1 %}
+          {{ paragraph | append: '</p>' }}
+        {% endfor %}
+
+        {% if page.quotes %}
+          {% include panels/quote.html %}
+        {% endif %}
+
+        {% for paragraph in paragraphs offset:3 %}
+          {{ paragraph | append: '</p>' }}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  {% if page.contact %}
+    <div class="bg-info">
+      <div class="container py-3 py-lg-4">
+        <div class="row">
+          <div class="col-lg-3">
+            <h2 class="text-uppercase text-white">{{site.questions[page.lang]}}</h2>
+          </div>
+          <div class="col-lg-8">
+            {% for item in page.contact %}
+              <div class="row mb-2 mb-lg-0 {% if forloop.index > 1 %}mt-lg-3{% endif %}">
+                <div class="col-3">
+                  <img class="w-100" src="{{site.baseurl}}{{item.image}}">
+                </div>
+                <div class="col-9 col-md-6">
+                  <p class="small text-white">
+                    <strong>{{item.name}}</strong><br>
+                    {{item.text}}<br>
+                    {% if item.phone %}{{item.phone}}<br>{% endif %}
+                    <a href="mailto:{{item.mail}}">{{item.mail}}</a>
+                  </p>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+
+  <div class="bg-faded py-3 py-lg-4">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-7 offset-lg-3">
+          {% include content/partners.html partners=page.partner-links partner-text=page.partner-text %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</article>

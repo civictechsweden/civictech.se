@@ -1,0 +1,20 @@
+{% if include.partners %}
+  {% assign partners = include.partners %}
+  {% assign partner-text = include.partner-text %}
+{% else %}
+  {% assign partners = site.partner-links %}
+  {% assign partner-text = site.partner-text[page.lang] %}
+{% endif %}
+
+<div class="row">
+  {% for partner in partners %}
+    <div class="col-4 col-sm-2 col-lg-3 text-center mb-2 mb-lg-0">
+      <a href="{{partner.link}}">
+        <img class="mw-100 align-middle" src="{{site.baseurl}}{{partner.logo}}" alt="{{partner.name}}" style="max-height:115px">
+      </a>
+    </div>
+  {% endfor %}
+  <div class="col">
+    <p class="small text-muted">{{partner-text}}</p>
+  </div>
+</div>

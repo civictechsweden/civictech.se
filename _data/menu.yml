@@ -1,0 +1,18 @@
+sv:
+- title: Om
+  url: /about
+- title: Projekt
+  url: /projects
+- title: Ansök
+  url: /apply
+- title: Kontakt
+  url: /contact
+en:
+- title: About
+  url: /en/about
+- title: Projects
+  url: /en/projects
+- title: Apply
+  url: /en/apply
+- title: Contact
+  url: /en/contact

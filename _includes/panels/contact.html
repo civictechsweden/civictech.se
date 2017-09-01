@@ -1,0 +1,36 @@
+<section id="contact" class="bg-info">
+  <div class="container pt-3b pb-3 pb-lg-0">
+
+    <div class="row">
+      <div class="col-lg-10 offset-lg-1 text-center px-3">
+
+        <h2 class="display-2 text-white mb-lg-1">{{site.contact[page.lang].title}}</h2>
+        <p class="text-white">{{site.contact[page.lang].text}}</p>
+
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col">
+        <ul class="list-unstyled list-random mt-2">
+
+          {% assign crew=site.crew | where:"lang", page.lang %}
+
+          {% for item in crew %}
+            <li class="media text-white text-center list-random-item  list-random-item-{{forloop.index}} {% cycle 'mb-lg-6', '' %}">
+              <div class="media-body pt-2 pb-3">
+                <strong>{{item.title}}</strong>,
+                {{item.job}},
+                {{item.phone}},
+                <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
+              </div>
+              <img class="list-random-image list-random-image-{{forloop.index}} hidden-md-down" src="{{site.baseurl}}{{item.image}}" width="150">
+            </li>
+          {% endfor %}
+
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</section> <!-- /contact -->

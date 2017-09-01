@@ -1,0 +1,331 @@
+//
+// Custom styles
+//
+
+
+// Positioning
+
+.header {
+  position: relative;
+  top: 5.5rem; // ca 89
+  margin-top: -3rem;
+}
+
+.view-header-box {
+  position: absolute;
+  top: -0;
+  left: 3rem;
+  width: 18rem;
+  height: 10.7rem;
+  z-index: -1;
+}
+
+// Padding
+@include media-breakpoint-down(sm) {
+
+  .btn {
+    padding: 1.5rem;
+  }
+
+  .card-header {
+      padding: 2rem;
+    }
+}
+
+// Fonts
+
+.display-1 {
+  line-height: 1.375;
+  margin-top: -6rem;
+
+  @include media-breakpoint-down(sm) {
+    margin-top: -5rem;
+  }
+}
+
+.btn,
+.nav .nav-link,
+.card-link,
+.card-text {
+   font-size: 1.5rem;
+}
+
+.figure-caption {
+  font-size: 1.25rem;
+}
+
+.display-2 {
+  color: $black;
+}
+
+
+// Links
+
+.figure-caption,
+.card-text,
+.lead,
+.card-title {
+  font-family: $headings-font-family;
+  line-height: 1.4;
+
+  a {
+    text-decoration: underline;
+  }
+}
+
+.nav-item.active a {
+  text-decoration: underline;
+}
+
+a.card-link,
+a.nav-link {
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+a:hover .card-header span {
+  text-decoration: underline;
+}
+
+// Content
+
+.content h2 {
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+
+  @include media-breakpoint-up(lg) {
+    float: left;
+    width: 23.3%;
+  }
+}
+
+.content a {
+  text-decoration: underline;
+  color: $magenta;
+}
+
+.content h3 {
+  color: $black;
+  margin-bottom: $font-size-base;
+
+  @include media-breakpoint-up(lg) {
+    @include make-col-offset(3);
+    padding-left: ($grid-gutter-width-base / 4);
+  }
+}
+
+.content ul,
+.content ol,
+.content p {
+  margin: 0;
+  padding: 0;
+
+  @include media-breakpoint-up(lg) {
+    @include make-col-offset(3);
+    margin-bottom: 4.5rem;
+    padding-left: ($grid-gutter-width-base / 4);
+  }
+
+  margin-bottom: 3rem;
+}
+
+.content li {
+  margin-bottom: $font-size-base;
+  list-style-position: inside;
+}
+
+.content p strong {
+  background-color: $violet;
+  color: $white;
+  font-weight: normal;
+}
+
+blockquote {
+  font-family: $headings-font-family;
+  line-height: 1.83;
+  position: relative;
+  margin: 0;
+}
+
+.content blockquote:not(.blockquote) {
+  font-size: 1.5rem;
+
+  p {
+    margin-bottom: $font-size-base;
+  }
+}
+
+.blockquote-img {
+//  margin-right: -25%;
+  position: absolute;
+  top: -12.5%;
+  left: 0;
+  height: 125%;
+  z-index: -1;
+  @include media-breakpoint-down(md) {
+  //  margin-right: -50%;
+  }
+}
+
+small a,
+.small a {
+  text-decoration: underline;
+}
+
+// Navigation
+
+.btn,
+.nav-link,
+.card-link {
+  font-family: $headings-font-family;
+}
+
+.flex-column .nav-link {
+  color: $black;
+}
+
+.icon-arrow {
+  background: url('../images/pil.png') no-repeat 5px 4px;
+
+  @include media-breakpoint-up(md) {
+    background-position: 5px 6px
+  }
+}
+
+.icon-arrow-blue {
+  background: url('../images/pil-bla.png') no-repeat 5px 2px;
+
+  @include media-breakpoint-up(md) {
+    background-position: 5px 3px
+  }
+}
+
+.nav-menu-main {
+  font-size: 1.5rem;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.nav-menu-secondary {
+  font-size: 1rem !important;
+  line-height: 1;
+
+  li:first-child a {
+    border-right: 1px solid $blue;
+  }
+}
+
+.navbar-brand img {
+  @include media-breakpoint-down(sm) {
+    max-width: 80%;
+  }
+}
+
+// Lists
+
+ul.list-random {
+  margin-bottom: 0;
+}
+
+.list-random-item {
+  position: relative;
+  font-size: 1rem;
+
+  .media-body {
+    z-index: 99;
+  }
+}
+
+.list-random-image {
+  position: absolute;
+}
+
+.list-random-image-1 {
+  left: 4rem;
+  top: 0;
+}
+
+.list-random-image-2 {
+  bottom: -1.3rem;
+  right: 10rem;
+}
+
+.nav-link .fa-fw {
+  width: 3rem;
+  @include media-breakpoint-down(sm) {
+    width: 4rem;
+  }
+  float: left;
+  display: inline;
+  padding: 0.25rem 0 1rem;
+}
+
+// Panel, Box
+
+.box {
+  border: 10px solid $blue;
+}
+
+
+// Misc shit
+
+::selection {
+  color: $black;
+  background: $yellow;
+}
+
+::-moz-selection {
+  color: $black;
+  background: $yellow;
+}
+
+.close {
+  opacity: 1;
+}
+
+/* FULL SCREEN MODAL STYLES
+-------------------------------------------------- */
+.fullscreen .modal-dialog {
+   min-height: 100%;
+   max-width: 100%;
+}
+
+.fullscreen .modal-content {
+   min-height: 100%;
+   overflow:auto;
+}
+
+
+// Responsive font size
+
+@include media-breakpoint-down(sm) {
+  html {
+    font-size: 12px;
+  }
+
+  .display-1,
+  .display-2,
+  h1 {
+    font-size: 3rem;
+  }
+
+  h3,
+  .btn,
+  .nav .nav-link,
+  .blockquote,
+  blockquote,
+  .lead,
+  .figure-caption {
+    font-size: 1.6667rem !important;
+  }
+
+  .list-random-item {
+    font-size: 1.25rem;
+  }
+
+  .small,
+  small {
+    font-size: 1.16667rem;
+  }
+}
