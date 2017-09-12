@@ -5,13 +5,17 @@ event-date-desc: 28 oktober 2017 (preliminärt)
 place: Göteborg
 ref: sharing
 excerpt: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
-ingress-text: Smarta lösningar för ett hållbart samhälle.
+ingress-text: Smarta lösningar för ett hållbart samhälle. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor.
+links:
+  - title: Anmälan
+    url: '#'
+    style: button
 partner-links:
 - name: Solidariskt Kylskåp
   logo: "/uploads/logo-solikyl.jpg"
   link: http://solikyl.se/
 - name: Smarta Kartan
-  logo: "holder.js/100x100"
+  logo: "/uploads/logo-solikyl.jpg"
   link: http://smartakartan.se/
 ---
 Collaborative economy, the real sharing economy, the commons and sustainable consumption.

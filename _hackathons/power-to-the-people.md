@@ -5,11 +5,7 @@ event-date-desc: 9 december 2017 (preliminärt)
 place: Göteborg
 ref: power
 excerpt: Tema demokrati, deltagande och transparens.
-ingress-text: Tema demokrati, deltagande och transparens.
-links:
-  - title: Anmälan
-    url: '#'
-    style: button
+ingress-text: Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna.
 partner-links:
 - name: Digidem Lab
   logo: "/uploads/logo-digidemlab.png"
