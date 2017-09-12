@@ -2,63 +2,55 @@
 layout: default
 ---
 
-<header class="site-header bg-success" role="banner">
-  <div class="container">
-    {% include panels/navbar.html %}
-  </div>
-
-  <div class="container header">
-    <div class="row">
-      <div class="col-lg-10 offset-lg-1 text-center">
-        <img src="{{site.baseurl}}{{page.header-image}}" class="img-responsive" height="" alt="" style="max-height:445px; max-width:72%;">
-        <h1 class="display-1"><span class="bg-info text-white text-uppercase">{{page.title}}</span></h1>
+<header class="site-header bg-primary" role="banner">
+  <div class="header-image">
+    <div class="container" style="z-index:99">
+      <nav class="navbar navbar-toggleable-md navbar-light pt-2 pt-lg-3 pb-0">
+        <button class="navbar-toggler navbar-toggler-right border-0" type="button" data-toggle="modal" data-target="#menuModal" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <!-- <i class="fa fa-bars fa-3x" aria-hidden="true"></i> -->
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end mb-auto" id="main-menu">
+          <ul class="navbar-nav nav-menu-secondary ml-4">
+            {% include panels/menu-lang.html %}
+          </ul>
+        </div>
+      </nav>
+      <div class="row py-5">
+        <div class="col-lg-10 offset-lg-1 text-center">
+          <h1 class="display-1"><span class="bg-danger text-white text-uppercase">{{page.title}}</span></h1>
+          <h2 class=""><span class="bg-danger text-white text-uppercase">{{page.description}}</span></h2>
+        </div>
       </div>
     </div>
   </div>
 </header>
 
-<section class="container mt-4 mt-lg-5 pb-3b">
-  <div class="row mb-2b mb-lg-4">
-    <div class="col-lg-7 offset-lg-5">
-      <p class="lead text-primary pl-lg-5">{{page.description}}</p>
-    </div>
-  </div>
-  <nav class="nav flex-column flex-lg-row mb-2b">
-    {% for item in page.links %}
-      <a class="flex-lg-fill nav-link pl-4 pl-lg-3 pr-lg-5 pt-0 pb-1 pb-lg-0 icon-arrow" href="{{site.baseurl}}{{item.link}}">{{item.title}}</a>
-    {% endfor %}
-  </nav>
-
-  {% if page.news-flash %}
-    <div class="row">
-      <div class="col p-0">
-        <div class="box text-primary py-2b px-2 px-lg-3">
-          <p class="mb-2b lead">{{page.news-flash[0].text}}</p>
-          <div class="text-right lead">
-            <a href="{{site.baseurl}}{{page.news-flash[0].link}}" class="icon-arrow-blue pl-4 pl-lg-3">{{page.news-flash[0].link-title}}</a>
-          </div>
+<section class="container mt-2 mt-lg-3 pb-3b">
+  <div class="row">
+    <div class="col p-0">
+      <div class="box text-update py-2b px-2 px-lg-3">
+        <p class="mb-2b lead text-primary">{{page.news-flash[0].text}}</p>
+        <div class="text-right lead text-primary">
+          <a href="{{site.baseurl}}{{page.news-flash[0].link}}" class="icon-arrow-blue pl-4 pl-lg-3">{{page.news-flash[0].link-title}}</a>
         </div>
       </div>
     </div>
-  {% endif %}
+  </div>
 </section>
 
-<section id="projects" class="bg-faded">
-  <div class="container py-3b pb-lg-3c">
+<section id="projects">
+  <div class="container pt-2">
     <div class="row">
       <div class="col">
         <h2 class="display-3">{{site.project-title[page.lang]}}</h2>
       </div>
     </div>
-    <div class="row">
-      {% include panels/projects-small.html %}
-    </div>
   </div>
+
+  {% include panels/projects.html %}
 </section>
 
-<section class="container-fluid px-0">
-  {% include panels/banners.html %}
-</section>
 
 {% include panels/contact.html %}
 

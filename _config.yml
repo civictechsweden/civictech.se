@@ -1,5 +1,56 @@
-title: Civic Tech Gbg
+title: CivicTechGbg
 description: Hackathons för Civic Tech-communitiet i Göteborg
 theme: jekyll-theme-cayman
 plugins:
 - jemoji
+
+project-title:
+  sv: Kommande hackathons
+  en: Hackathons
+contact:
+  sv:
+    title: Kontakta oss!
+    text: Det här är ett första utkast till ett samarbete och gemensamma event. Kontakta gärna oss om din organisation vill vara med, eller om du har idéer och förslag.
+  en:
+    title: Get in touch!
+    text: Digidem Lab is a non-profit organisation promoting participatory democracy
+      on all levels of society. Get in touch to see how we can help your movement
+      or organisation to find new processes and tools for participation.
+collections:
+  crew:
+    title: Crew
+    output: false
+  posts:
+    title: Posts
+    output: true
+  hackathons:
+    title: Hackathons
+    output: true
+    permalink: "/hackathon/:title/"
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+    lang: sv
+- scope:
+    path: en
+    type: pages
+  values:
+    layout: page
+    lang: en
+- scope:
+    path: ''
+    type: hackathons
+  values:
+    layout: project
+    lang: sv
+- scope:
+    path: ''
+    type: crew
+  values:
+    lang: sv

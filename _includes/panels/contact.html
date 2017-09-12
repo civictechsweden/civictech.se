@@ -1,36 +1,18 @@
-<section id="contact" class="bg-info">
-  <div class="container pt-3b pb-3 pb-lg-0">
-
+<section id="contact" class="bg-primary">
+  <div class="container py-3">
     <div class="row">
       <div class="col-lg-10 offset-lg-1 text-center px-3">
-
-        <h2 class="display-2 text-white mb-lg-1">{{site.contact[page.lang].title}}</h2>
+        <h2 class="display-2 text-white mb-lg-1">Vill du vara med?</h2>
         <p class="text-white">{{site.contact[page.lang].text}}</p>
-
       </div>
     </div>
 
     <div class="row">
       <div class="col">
-        <ul class="list-unstyled list-random mt-2">
-
-          {% assign crew=site.crew | where:"lang", page.lang %}
-
-          {% for item in crew %}
-            <li class="media text-white text-center list-random-item  list-random-item-{{forloop.index}} {% cycle 'mb-lg-6', '' %}">
-              <div class="media-body pt-2 pb-3">
-                <strong>{{item.title}}</strong>,
-                {{item.job}},
-                {{item.phone}},
-                <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
-              </div>
-              <img class="list-random-image list-random-image-{{forloop.index}} hidden-md-down" src="{{site.baseurl}}{{item.image}}" width="150">
-            </li>
-          {% endfor %}
-
-        </ul>
+        <p class="text-white text-center" style="font-size:1rem;">
+          Petter Joelson, <a  class="text-white" href="http://digidemlab.org">Digidem Lab</a>, <a class="text-white" href="mailto:petter@digidemlab.org">petter@digidemlab.org</a><br>
+          Bruno Chies, <a  class="text-white" href="http://solikyl.se/">Solidariskt Kylskåp</a>, <a class="text-white" href="mailto:bruno@solikyl.se">bruno@solikyl.se</a></p>
       </div>
     </div>
-
   </div>
 </section> <!-- /contact -->

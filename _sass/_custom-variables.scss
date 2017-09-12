@@ -231,7 +231,7 @@ $grid-gutter-width-base:     25px !default;
 
 $link-color:            inherit !default;
 $link-decoration:       none !default;
-$link-hover-color:      $blue !default;
+$link-hover-color:      $magenta !default;
 $link-hover-decoration: underline !default;
 
 // Fonts
@@ -245,7 +245,7 @@ $font-family-sans-serif:    'Noto Sans', sans-serif !default;
 
 $headings-font-family:      'BentonSans', !default;
 $headings-font-weight:      normal !default;
-$headings-color:            $blue !default;
+$headings-color:            $magenta !default;
 $headings-line-height:      1.56 !default;
 $headings-margin-bottom:    ($spacer * 2) !default;
 
@@ -301,12 +301,12 @@ $navbar-toggler-padding-x:           0 !default;
 $navbar-toggler-padding-y:           0 !default;
 $navbar-toggler-font-size:           2.5rem;
 
-$navbar-light-color:                $blue !default;
-$navbar-light-hover-color:          $blue !default;
-$navbar-light-active-color:         $blue !default;
+$navbar-light-color:                $magenta !default;
+$navbar-light-hover-color:          $magenta !default;
+$navbar-light-active-color:         $magenta !default;
 $navbar-light-disabled-color:       rgba($black,.3) !default;
 $navbar-light-toggler-bg: str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#{$navbar-light-color}' stroke-width='3' stroke-linecap='square' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"), "#", "%23") !default;
-$navbar-light-toggler-border:       $blue !default;
+$navbar-light-toggler-border:       $magenta !default;
 
 // Buttons
 $btn-padding-x:                  1.5rem !default;

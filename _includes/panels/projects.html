@@ -1,17 +1,18 @@
-{% assign projects=site.projects | where:"lang", page.lang %}
+{% assign hackathons=site.hackathons | where:"lang", page.lang | sort:'event-date'%}
 
-{% for item in projects %}
+{% for item in hackathons %}
   <div class="{% cycle 'bg-faded', '' %}">
     <div class="container py-3b py-lg-3c">
       <div class="row">
         <div class="col">
-          <h2 class="display-2 mb-0b mb-lg-2b"><a href="{{site.baseurl}}{{item.url}}" class="{% cycle 'text-info', '' %}">{{item.title}}</a></h2>
+          <h2 class="display-2 mb-0b mb-lg-2b"><a href="{{site.baseurl}}{{item.url}}" class="text-primary">{{item.title}}</a></h2>
         </div>
       </div>
       <div class="row mb-3">
         <div class="col-lg-9">
-          <p class="lead">{{item.excerpt}}</p>
-          <p>{{ item.ingress-text | strip_html }}</p>
+          <h3 class="mb-0">{{item.event-date-desc}}</h3>
+          <p class="lead text-primary">{{item.excerpt}}</p>
+          <p class="">{{ item.ingress-text | strip_html }}</p>
         </div>
       </div>
       <div class="row">

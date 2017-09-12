@@ -1,49 +1,30 @@
 ---
-title: Om Digidem Lab
+title: Om CivicTechGbg
 position: 1
-description: Digidem Lab är en ideell organisation som verkar för deltagande demokrati
-  med ny teknik.
+description: Hackathons för Civic Tech-communitiet i Göteborg.
 ref: about
-ingress-text: Digidem Lab är en ideell organisation som verkar för deltagande demokrati
-  med ny teknik. Det gör vi bland annat genom att [backa](/apply) bra [projekt](/projects),
-  ordna föreläsningar, workshops och hackathons.
-quotes:
-- text: New online tools for interaction and collaboration have let people come together
-    across space and time to build amazing things. As the Internet breaks down the
-    last justifications for a professional class of politicians, it also builds up
-    the tools for replacing them.
-  person: Aaron Swartz
 ---
 
-## Så här ser det ut
-Möjligheterna för demokratiskt deltagande har aldrig varit större än nu. Det finns verktyg för påverkan, diskussion och beslut färdiga att användas. Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi vara fast i politiska system som inte kan förnya sig, eller i värsta fall sätter miljardärer och fascister till makten.  
-Det måste inte se ut så här.
+## Bakgrund
+Det finns flera ideella organisationer i Göteborg som jobbar med digital teknik för samhällsnytta. Här finns väldigt mycket kunskap och innovativa idéer. Genom att arrangera gemensamma hackathons med olika teman kan vi höja statusen för civic tech och bygga upp ett gemensamt community av utvecklare, designers, aktivister och andra intresserade.
 
-## Nya former
-Vi samlar aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Nya former för deltagande måste skapas underifrån och i alla delar av samhället.
+## Hackathons
+En serie hackathons för att främja civic tech-utvecklingen i Göteborg arrangeras av olika aktörer från civilsamhället och staden. Inspirationen kommer från bland annat franska Open Democracy Now och tyska Code for Germany.
 
-## En växande rörelse
-Vi är en del av en växande demokratirörelse, som använder kollektiv intelligens för att utmana gamla politiska och ekonomiska eliter. Brittiska [Jeremy Corbyns digitala manifest](http://www.jeremyforlabour.com/digital_democracy_manifesto), spanska [Podemos demokratiska plattform](https://plaza.podemos.info/) och det växande [nätverket för städer](http://democratic-cities.cc/) som söker nya sätt för deltagande visar på en annan typ av framtid än den som Donald Trump står för.
+> **Hackathon ordnas ungefär varannan månad, en heldag på helgen.**
 
+Varje hackathon har ett tema och ordnas i samarbete mellan några olika organisationer. Inom varje tema finns några förberedda projekt som samarbetspartnerna ansvarar för, så att varje hackathon har 2-4 projekt som deltagarna kan välja mellan. Det går också att anmäla egna projekt i förväg som passar in på temat och riktlinjerna.
 
-{% include panels/quote.html %}
+> **Deltagande organisationer hjälps åt att samla folk och sprida eventet, introducera projekten och handleda sin projektgrupp.**
 
-<h2 id="values" style="float:none;width:auto;margin-bottom:3rem;" class=" text-center display-2"><span class="text-success bg-info">Vi tror på</span></h2>
+Digidem Lab kan bidra med lokaler, fika och mat, handledning/processledning och eventuellt arvode till externa handledare.
 
-### Behoven i centrum
-Processer och verktyg för kollektiv intelligens börjar alltid med deltagarnas behov. Ny teknik i sig kommer inte lösa några problem, inte heller är nya metoder något som kan klistras på exkluderande processer för att dölja deras brister. Verkligt demokratiskt deltagande är en process i flera steg, och alla de stegen ska ha medborgarens behov i centrum.
+## Riktlinjer
+> **1) Projektet ska främja ökat deltagande i sociala rörelser, föreningsliv, politiska processer eller samhället i stort med hjälp av ny teknik.**
 
-### Experimenterande skapar utveckling
-Vi skapar utrymmen för att utveckla nya idéer. Experimenterande och labbande minskar risken för stora misstag och gör små misstag till erfarenheter. Genom att återanvända andras arbete och bygga vidare på internationella erfarenheter blir vi till en del av en global experimentverkstad för kollektiv intelligens.
+> **2) Projektresultatet ska göras tillgängligt för alla.**
 
-### Din data — din kontroll
-Vi använder och utvecklar tjänster som i största möjliga mån ger dig själv, inte företag eller stater, kontroll över din data. Säkerhet och integritetsskydd ska inte kräva extra arbete av användarna, utan vara inbyggt i bra digitala tjänster. Du ska kunna välja själv vad du delar med dig av för information och till vem.
-
-### Det här är för alla
-Nya former för deltagande måste skapas underifrån och på alla nivåer av samhället. De som bäst behöver tjänster för deltagande är ofta de som tycker att de är svårast att använda. Det vill vi ändra på. Vi använder tillgängliga möteslokaler och digitala tjänster som är tillgänglighetsanpassade, läsbara, väl designade och användarvänliga.
-
-### Öppenhet för allmännytta
-Att utveckla tjänster för allas bästa innebär att göra det öppet. Öppen källkod, öppna standarder, öppen data och öppen innovation är garantier för att ny kunskap kommer alla till del. Vi behöver transparenta och väl testade tjänster som bidrar till vår gemensamma kunskapsbank och som kan utvecklas och anpassas efter specifika behov.
-
-### Kollektiv intelligens
-Förändring kräver att vi samlar olika kompetenser och erfarenheter för att arbeta mot ett gemensamt mål. Processer och verktyg för kollektiv intelligens är inte en fråga om teknik, design, forskning eller politik. Det är alla de sakerna på en gång. Vårt jobb är att skapa förutsättningar för så breda och inkluderande samarbeten som möjligt.
+### Det kan ske på olika sätt beroende på typ av projekt:
+* Arbetssättet dokumenteras så att fler kan dra nytta av lärdomarna från projektet.
+* Kod som produceras använder någon av licenserna för öppen källkod.
+* Text, bild eller video som produceras använder någon av Creative Commons licenser.

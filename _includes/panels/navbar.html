@@ -4,16 +4,11 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <a class="navbar-brand p-0" href="{{site.baseurl}}{% if page.lang == 'sv'%}/{% else %}/en{% endif %}"><img src="{{site.baseurl}}/assets/images/logotyp.svg" width="250" height="70" class="d-inline-block align-top"></a>
+  <a class="navbar-brand p-0" href="{{site.baseurl}}{% if page.lang == 'sv'%}/{% else %}/en{% endif %}">
+    {{site.title}}
+  </a>
 
   <div class="collapse navbar-collapse justify-content-end mb-auto" id="main-menu">
-    <ul class="navbar-nav nav-menu-main">
-      {% for item in site.data.menu[page.lang] %}
-        <li class="nav-item">
-          <a class="nav-link px-2 py-0" href="{% unless item.url contains 'http' %}{{site.baseurl}}{% endunless %}{{item.url}}">{{item.title}}</a>
-        </li>
-      {% endfor %}
-    </ul>
     <ul class="navbar-nav nav-menu-secondary ml-4">
       {% include panels/menu-lang.html %}
     </ul>
