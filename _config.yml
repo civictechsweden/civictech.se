@@ -16,10 +16,16 @@ contact:
     text: Digidem Lab is a non-profit organisation promoting participatory democracy
       on all levels of society. Get in touch to see how we can help your movement
       or organisation to find new processes and tools for participation.
+
+partners:
+  - title: Ideella samåkningsrörelsen Skjutsgruppen
+    logo: "/uploads/logo-skjutsgruppen.jpg"
+    link: http://skjutsgruppen.se/
+  - title: Solidariskt Kylskåp
+    logo: "/uploads/logo-solikyl.jpg"
+    link: http://solikyl.se/
+
 collections:
-  crew:
-    title: Crew
-    output: false
   posts:
     title: Posts
     output: true
@@ -48,9 +54,4 @@ defaults:
     type: hackathons
   values:
     layout: project
-    lang: sv
-- scope:
-    path: ''
-    type: crew
-  values:
     lang: sv

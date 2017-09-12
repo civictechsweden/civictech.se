@@ -4,7 +4,7 @@ layout: global
 
 <article>
   <div class="container">
-    {% include content/page-header.html %}
+    {% include page-header.html %}
     <div class="row">
       <div class="col content">
         {% assign paragraphs = content | split:'</p>' %}
@@ -16,7 +16,7 @@ layout: global
     </div>
   </div>
   <section class="container-fluid px-0 mb-3 my-lg-4">
-    {% include panels/banners.html %}
+    {% include banners.html %}
   </section>
   <div class="container">
     <div class="row content mb-lg-3">
@@ -29,4 +29,4 @@ layout: global
     </div>
   </div>
 </article>
-{% include panels/contact.html %}
+{% include contact.html %}

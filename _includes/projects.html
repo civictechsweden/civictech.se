@@ -10,17 +10,17 @@
       </div>
       <div class="row mb-3">
         <div class="col-lg-9">
-          <h3 class="mb-0">{{item.event-date-desc}}</h3>
+          <h3 class="mb-0">{{item.event-date-desc}} - {{item.place}}</h3>
           <p class="lead text-primary">{{item.excerpt}}</p>
           <p class="">{{ item.ingress-text | strip_html }}</p>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-5 col-xl-4 offset-xl-1 push-lg-7">
-          {% include content/page-links.html links=item.links %}
+          {% include page-links.html links=item.links %}
         </div>
         <div class="col-lg-7 pull-lg-5  hidden-xs-down">
-          {% include content/partners.html partners=item.partner-links partner-text=item.partner-text %}
+          {% include partners.html partners=item.partner-links partner-text=item.partner-text %}
         </div>
       </div>
     </div>

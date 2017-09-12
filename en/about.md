@@ -27,8 +27,6 @@ challenge old political and economical elites.
 [Jeremy Corbyn's digital manifesto](http://www.jeremyforlabour.com/digital_democracy_manifesto) in Britain,  [Podemo's platform for participation](https://plaza.podemos.info/) in Spain and the growing
 [network of cities](http://democratic-cities.cc/) experimenting with new forms of participation is the opposite of the kind of future that Donald Trump stands for.
 
-{% include panels/quote.html %}
-
 <h2 id="values" style="float:none;width:auto;margin-bottom:3rem;" class=" text-center display-2"><span class="text-success bg-info">We believe in</span></h2>
 
 ### Start with needs

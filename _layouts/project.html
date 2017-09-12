@@ -4,7 +4,7 @@ layout: global
 
 <article>
   <div class="container">
-    {% include content/page-header.html %}
+    {% include page-header.html %}
     <div class="row">
       <div class="col content">
         {% assign paragraphs = content | split:'</p>' %}
@@ -16,7 +16,7 @@ layout: global
     </div>
   </div>
   <div class="container-fluid px-0 mb-3 my-lg-4">
-    {% include panels/banners.html %}
+    {% include banners.html %}
   </div>
   <div class="container mb-3">
     <div class="row">
@@ -27,7 +27,7 @@ layout: global
         {% endfor %}
 
         {% if page.quotes %}
-          {% include panels/quote.html %}
+          {% include quote.html %}
         {% endif %}
 
         {% for paragraph in paragraphs offset:3 %}
@@ -70,7 +70,7 @@ layout: global
     <div class="container">
       <div class="row">
         <div class="col-lg-7 offset-lg-3">
-          {% include content/partners.html partners=page.partner-links partner-text=page.partner-text %}
+          {% include partners.html partners=page.partner-links partner-text=page.partner-text %}
         </div>
       </div>
     </div>

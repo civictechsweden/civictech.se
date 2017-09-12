@@ -3,27 +3,21 @@
   <div class="container py-3">
     <div class="row">
       <div class="col-4">
-        <h2 class="display-3">Ett initiativ från</a>
-        <img data-src="holder.js/300x120?text=DigidemLab&auto=yes" class="img-fluid">
+        <h2 class="display-3">Ett initiativ från</h2>
+          <a href="http://digidemlab.org" title="Digidem Lab">
+            <img src="{{site.baseurl}}/uploads/logo-digidemlab.png" alt="Digidem Lab" class="img-fluid">
+          </a>
       </div>
       <div class="col-8">
-        <h2 class="display-3">I samarbete med</a>
+        <h2 class="display-3">I samarbete med</h2>
         <div class="row">
-          <div class="col-4 pb-1">
-            <img data-src="holder.js/300x200?text=Solidariskt Kylskåp&auto=yes" class="img-fluid">
-          </div>
-          <div class="col-4">
-            <img data-src="holder.js/300x200?text=Skjutsgruppen&auto=yes" class="img-fluid">
-          </div>
-          <div class="col-4">
-            <img data-src="holder.js/300x200?text=Någon mer&auto=yes" class="img-fluid">
-          </div>
-          <div class="col-4">
-            <img data-src="holder.js/300x200?text=En till&auto=yes" class="img-fluid">
-          </div>
-          <div class="col-4">
-            <img data-src="holder.js/300x200?text=Fler&auto=yes" class="img-fluid">
-          </div>
+          {% for item in site.partners %}
+            <div class="col-4 col-md-3 pb-1">
+              <a href="{{item.link}}" title="{{item.title}}">
+                <img src="{{site.baseurl}}{{item.logo}}" alt="{{item.title}}" class="img-fluid">
+              </a>
+            </div>
+          {% endfor %}
         </div>
       </div>
     </div>
@@ -33,6 +27,6 @@
 <footer id="footer" class="bg-danger">
 
   <div class="container pt-2 pb-1">
-    {% include panels/social.html %}
+    {% include social.html %}
   </div>
 </footer>
