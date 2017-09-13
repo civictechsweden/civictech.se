@@ -22,11 +22,6 @@
     opacity : 0.7;
 }
 
-
-.view-header-box {
-
-}
-
 // Padding
 @include media-breakpoint-down(sm) {
 
@@ -45,11 +40,12 @@
   line-height: 1.375;
 }
 
+.navbar-brand,
 .btn,
-.nav .nav-link,
 .card-link,
 .card-text {
    font-size: 1.5rem;
+   text-decoration: none;
 }
 
 .figure-caption {
@@ -58,6 +54,10 @@
 
 .display-2 {
   color: $black;
+}
+.nav-link,
+h2 a {
+  text-decoration: none;
 }
 
 

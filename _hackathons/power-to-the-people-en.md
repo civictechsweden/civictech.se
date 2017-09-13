@@ -4,6 +4,8 @@ event-date: 2017-12-09 00:00
 event-date-desc: 9 december 2017 (preliminärt)
 place: Göteborg
 ref: power
+permalink: "/en/hackathon/power-to-the-people"
+lang: en
 excerpt: Demokrati, deltagande och transparens.
 ingress-text: Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna.
 links:

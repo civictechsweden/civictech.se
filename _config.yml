@@ -9,13 +9,18 @@ project-title:
   en: Hackathons
 contact:
   sv:
-    title: Kontakta oss!
+    title: Vill du vara med?
     text: Det här är ett första utkast till ett samarbete och gemensamma event. Kontakta gärna oss om din organisation vill vara med, eller om du har idéer och förslag.
   en:
-    title: Get in touch!
-    text: Digidem Lab is a non-profit organisation promoting participatory democracy
-      on all levels of society. Get in touch to see how we can help your movement
-      or organisation to find new processes and tools for participation.
+    title: Join us!
+    text: This is the first draft for a cooperation to a common event. Please, contact us if you'd like your organisation to participate, or if you have any ideas and suggestions!
+partner:
+  sv:
+    initiative: Ett initiativ från
+    partnership: I samarbete med
+  en:
+    initiative: An initiative from
+    partnership: In partnership with
 
 partners:
   - title: Ideella samåkningsrörelsen Skjutsgruppen

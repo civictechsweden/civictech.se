@@ -4,6 +4,8 @@ event-date: 2018-02-01 00:00
 event-date-desc: februari 2018
 place: Göteborg
 ref: move
+permalink: "/en/hackathon/i-like-to-move-it"
+lang: en
 links:
   - title: Anmälan
     url: '#'

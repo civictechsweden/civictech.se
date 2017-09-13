@@ -3,39 +3,43 @@ layout: global
 ---
 
 <article>
-  <div class="container">
+  <div class="container mb-3">
     {% include page-header.html %}
     <div class="row">
       <div class="col content">
-        {% assign paragraphs = content | split:'</p>' %}
-        {% for paragraph in paragraphs limit:2 %}
-          {{ paragraph | append: '</p>' }}
-        {% endfor %}
-        {% if page.banners.size > 0 %}
+        {{content}}
       </div>
     </div>
   </div>
-  <div class="container-fluid px-0 mb-3 my-lg-4">
-    {% include banners.html %}
-  </div>
-  <div class="container mb-3">
-    <div class="row">
-      <div class="col content">
-        {% endif %}
-        {% for paragraph in paragraphs offset:2 limit:1 %}
-          {{ paragraph | append: '</p>' }}
-        {% endfor %}
 
-        {% if page.quotes %}
-          {% include quote.html %}
-        {% endif %}
-
-        {% for paragraph in paragraphs offset:3 %}
-          {{ paragraph | append: '</p>' }}
-        {% endfor %}
+  {% for item in page.projects %}
+    <div class="{% cycle 'bg-faded', '' %}">
+      <div class="container py-4">
+        <div class="row">
+          <div class="col-lg-10 offset-lg-2">
+            <div class="row">
+              <div class="col-8 offset-2 offset-sm-0 col-sm-4 text-center mb-2">
+                <img class="w-100" src="{{site.baseurl}}{{item.image}}">
+              </div>
+              <div class="col-12 col-sm-8">
+                  <h2 class="mb-1">{{item.title}}</h2>
+                <p>
+                  {{item.text}}
+                </p>
+                <p>
+                  {% for link in item.links %}
+                    <a class="text-danger" href="{{link.url}}">{{link.title}}</a>
+                    {% unless forloop.last %}, {% endunless %}
+                  {% endfor %}
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
+  {% endfor %}
+
 
   {% if page.contact %}
     <div class="bg-info">
@@ -66,7 +70,7 @@ layout: global
     </div>
   {% endif %}
 
-  <div class="bg-faded py-3 py-lg-4">
+  <div class="{% cycle 'bg-faded', '' %} py-3 py-lg-4">
     <div class="container">
       <div class="row">
         <div class="col-lg-7 offset-lg-3">

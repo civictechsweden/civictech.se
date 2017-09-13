@@ -1,20 +1,10 @@
 ---
-title: The future of participation in your hands
-position: 0
-description: Digidem Lab is a space to create new processes for democratic participation.
-  We put new tools for collective intelligence in your hands.
+title: CivicTechGbg
 ref: start
-header-image: "/uploads/JBe2745-04ret.jpg"
-links:
-- title: Who are Digidem Lab?
-  link: "/en/about"
-- title: Which tools are you talking about?
-  link: "/en/projects/digidem-guide"
-banners:
-- title: Blog
-  image: "/uploads/blogg.jpg"
-  link: https://medium.com/digidemlab
-  format: wide
+description: Hackathons for the Civic Tech community of Gothenburg
 layout: start
+news-flash:
+- text: In CivicTechGbg developers, designers, activists and open data enthusiasts come together to build applications, visualisations and tools for citizens. Read about our upcoming hackathons and get in touch to join the network!
+  link-title: About us
+  link: "/en/about"
 ---
-

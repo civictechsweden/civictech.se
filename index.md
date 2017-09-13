@@ -1,12 +1,10 @@
 ---
-title: Code for Sweden
+title: CivicTechGbg
 ref: start
-header-image: "/uploads/lab-with-audrey-wide.jpg"
-description: Ska vi heta det? Eller inte?
+description: Hackathons för Civic Tech-communitiet i Göteborg
 layout: start
-
 news-flash:
-- text: Code for Sweden samlar utvecklare, designers, aktivister och öppen data-entusiaster som skapar tekniska lösningar för samhällsnytta. Läs om våra kommande hackathon och kontakta oss om du vill bli en del av vårt nätverk!
+- text: CivicTechGbg samlar utvecklare, designers, aktivister och öppen data-entusiaster som skapar tekniska lösningar för samhällsnytta. Läs om våra kommande hackathon och kontakta oss om du vill bli en del av vårt nätverk!
   link-title: Så funkar våra hackathon
   link: "/about"
 ---

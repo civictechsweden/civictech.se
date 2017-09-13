@@ -1,10 +1,25 @@
 <div class="row mt-4 mt-lg-5 mb-2 mb-lg-4">
   <div class="col-lg-10 offset-lg-1 text-center">
     <h1 class="text-primary">{{page.title}}</h1>
+    {% if page.place %}
+      <h3 class="mb-0">{{page.event-date-desc}} - {{page.place}}</h3>
+    {% endif %}
   </div>
 </div>
+{% if page.ingress-text %}
+  <div class="row mb-2 mb-lg-3">
+    <div class="col-lg-6 push-lg-6 offset-xl-2 push-xl-4">
+      <div class="lead text-primary">{{ page.ingress-text | markdownify }}</div>
+    </div>
+    {% if page.links %}
+      <div class="col-lg-5 pull-lg-6 col-xl-4 pull-xl-8 mt-2 mt-lg-0">
+        {% include page-links.html links=page.links %}
+      </div>
+    {% endif %}
+  </div>
+{% endif %}
 {% if page.image-top %}
-  <div class="row mt-1 mb-3 mb-lg-5">
+  <div class="row mt-1 mb-3 mb-lg-4">
     <div class="col-10 offset-1 col-lg-5 offset-lg-4 text-center">
       <img src="{{site.baseurl}}{{page.image-top}}" class="img-fluid">
     </div>

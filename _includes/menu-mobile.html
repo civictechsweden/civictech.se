@@ -1,9 +1,9 @@
 <!-- FULLSCREEN MODAL CODE (.fullscreen) -->
 <div class="modal fullscreen" id="menuModal">
   <div class="modal-dialog m-0 p-0 h-100 w-100">
-    <div class="modal-content h-100 border-0 bg-success text-primary">
+    <div class="modal-content h-100 border-0 bg-primary text-white">
       <div class="modal-header border-0 pt-0b pr-2 pb-0">
-        <button type="button" class="close ml-auto" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="close ml-auto text-white" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -13,7 +13,7 @@
           {% for item in site.data.menu[page.lang] %}
             <li class="nav-item">
               <h2 class="display-2 mb-0">
-                <a class="px-2 text-primary" href="{% unless item.url contains 'http' %}{{site.baseurl}}{% endunless %}{{item.url}}">{{item.title}}</a>
+                <a class="px-2 text-white" href="{% unless item.url contains 'http' %}{{site.baseurl}}{% endunless %}{{item.url}}">{{item.title}}</a>
               </h2>
             </li>
           {% endfor %}

@@ -4,6 +4,8 @@ event-date: 2017-10-28 00:00
 event-date-desc: 28 oktober 2017 (preliminärt)
 place: Göteborg
 ref: sharing
+lang: en
+permalink: "/en/hackathon/sharing-is-caring/"
 excerpt: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
 ingress-text: Smarta lösningar för ett hållbart samhälle. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor.
 links:

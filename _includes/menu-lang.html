@@ -1,7 +1,12 @@
-
+{% assign posts=site.hackathons | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  <li class="nav-item {% if post.lang == page.lang %}active{% endif %}">
+    <a class="nav-link py-0 text-uppercase {{ post.lang }}" href="{{ site.baseurl }}{{ post.url }}">{{ post.lang }}</a>
+  </li>
+{% endfor %}
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for item in pages %}
   <li class="nav-item {% if item.lang == page.lang %}active{% endif %}">
-    <a class="nav-link text-danger py-0 text-uppercase {{ item.lang }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.lang }}</a>
+    <a class="nav-link py-0 text-uppercase {{ item.lang }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.lang }}</a>
   </li>
 {% endfor %}

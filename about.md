@@ -24,7 +24,6 @@ Digidem Lab kan bidra med lokaler, fika och mat, handledning/processledning och 
 
 > **2) Projektresultatet ska göras tillgängligt för alla.**
 
-### Det kan ske på olika sätt beroende på typ av projekt:
 * Arbetssättet dokumenteras så att fler kan dra nytta av lärdomarna från projektet.
 * Kod som produceras använder någon av licenserna för öppen källkod.
 * Text, bild eller video som produceras använder någon av Creative Commons licenser.
