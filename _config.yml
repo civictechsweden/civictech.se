@@ -31,29 +31,29 @@ defaults:
   values:
     layout: project
     lang: sv
-    event-date:
-    event-date-desc:
-    place:
-    ref:
+    event-date: 
+    event-date-desc: 
+    place: 
+    ref: 
     links:
-    - title:
-      url:
-      style:
-    image-top:
-    excerpt:
-    ingress-text:
+    - title: 
+      url: 
+      style: 
+    image-top: 
+    excerpt: 
+    ingress-text: 
     projects:
-    - title:
-      text:
-      image:
+    - title: 
+      text: 
+      image: 
       links:
-      - title:
-        url:
-    partner-text:
+      - title: 
+        url: 
+    partner-text: 
     partner-links:
-    - name:
-      logo:
-      link:
+    - name: 
+      logo: 
+      link: 
 description: Hackathons för Civic Tech-communitiet i Göteborg
 theme: jekyll-theme-cayman
 plugins:
