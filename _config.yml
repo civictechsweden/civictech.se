@@ -32,15 +32,15 @@ defaults:
     layout: project
     lang: sv
     event-date:
-    event-date-desc:
-    place:
-    ref:
-    links:
+    event-date-desc: # datum som text, tex 28 februari 2018
+    place: # stad och plats
+    ref: # används för översättning
+    links: # Anmälan osv
     - title:
       url:
       style:
-    image-top:
-    excerpt:
+    image-top: # Bild under ingressen
+    excerpt: # Kort sammandrag
     ingress-text:
     projects:
     - title:
