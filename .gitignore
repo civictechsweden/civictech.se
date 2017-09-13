@@ -3,3 +3,7 @@ _site/
 .jekyll-metadata
 path/
 Gemfile*
+.DS_Store
+path
+.bundle
+bower_components
