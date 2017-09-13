@@ -1,43 +1,14 @@
+---
 title: CivicTechGbg
-description: Hackathons för Civic Tech-communitiet i Göteborg
-theme: jekyll-theme-cayman
-plugins:
-- jemoji
-
-project-title:
-  sv: Kommande hackathons
-  en: Hackathons
-contact:
-  sv:
-    title: Vill du vara med?
-    text: Det här är ett första utkast till ett samarbete och gemensamma event. Kontakta gärna oss om din organisation vill vara med, eller om du har idéer och förslag.
-  en:
-    title: Join us!
-    text: This is the first draft for a cooperation to a common event. Please, contact us if you'd like your organisation to participate, or if you have any ideas and suggestions!
-partner:
-  sv:
-    initiative: Ett initiativ från
-    partnership: I samarbete med
-  en:
-    initiative: An initiative from
-    partnership: In partnership with
-
-partners:
-  - title: Ideella samåkningsrörelsen Skjutsgruppen
-    logo: "/uploads/logo-skjutsgruppen.jpg"
-    link: http://skjutsgruppen.se/
-  - title: Solidariskt Kylskåp
-    logo: "/uploads/logo-solikyl.jpg"
-    link: http://solikyl.se/
-
+timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
   hackathons:
     title: Hackathons
     output: true
     permalink: "/hackathon/:title/"
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -60,3 +31,34 @@ defaults:
   values:
     layout: project
     lang: sv
+description: Hackathons för Civic Tech-communitiet i Göteborg
+theme: jekyll-theme-cayman
+plugins:
+- jemoji
+project-title:
+  sv: Kommande hackathons
+  en: Hackathons
+contact:
+  sv:
+    title: Vill du vara med?
+    text: Det här är ett första utkast till ett samarbete och gemensamma event. Kontakta
+      gärna oss om din organisation vill vara med, eller om du har idéer och förslag.
+  en:
+    title: Join us!
+    text: This is the first draft for a cooperation to a common event. Please, contact
+      us if you'd like your organisation to participate, or if you have any ideas
+      and suggestions!
+partner:
+  sv:
+    initiative: Ett initiativ från
+    partnership: I samarbete med
+  en:
+    initiative: An initiative from
+    partnership: In partnership with
+partners:
+- title: Ideella samåkningsrörelsen Skjutsgruppen
+  logo: "/uploads/logo-skjutsgruppen.jpg"
+  link: http://skjutsgruppen.se/
+- title: Solidariskt Kylskåp
+  logo: "/uploads/logo-solikyl.jpg"
+  link: http://solikyl.se/
