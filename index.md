@@ -1,7 +1,7 @@
 ---
 title: CivicTechGbg
 ref: start
-description: Hackathons för Civic Tech-communitiet i Göteborg
+description: Hackathons för Göteborgs Civic Tech-community
 layout: start
 news-flash:
 - text: CivicTechGbg samlar utvecklare, designers, aktivister och öppen data-entusiaster
