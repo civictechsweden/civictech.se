@@ -12,6 +12,14 @@ layout: global
     </div>
   </div>
 
+  <div class="container pt-2">
+    <div class="row">
+      <div class="col">
+        <h2 class="display-3">{{site.projects[page.lang]}}</h2>
+      </div>
+    </div>
+  </div>
+
   {% for item in page.projects %}
     <div class="{% cycle 'bg-faded', '' %}">
       <div class="container py-4">
@@ -70,6 +78,7 @@ layout: global
     </div>
   {% endif %}
 
+  <!--
   <div class="{% cycle 'bg-faded', '' %} py-3 py-lg-4">
     <div class="container">
       <div class="row">
@@ -79,6 +88,7 @@ layout: global
       </div>
     </div>
   </div>
+  -->
 
 </div>
 </article>

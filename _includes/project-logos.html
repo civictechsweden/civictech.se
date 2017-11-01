@@ -1,0 +1,14 @@
+{% assign partners = include.partners %}
+{% assign partner-text = include.partner-text %}
+
+<div class="row">
+  {% for partner in partners %}
+    <div class="col-4 col-sm-2 col-lg-3 text-center mb-2 mb-lg-0">
+      <img class="mw-100 align-middle" src="{{site.baseurl}}{{partner.image}}" alt="{{partner.title}}" style="max-height:115px">
+    </div>
+    <div class="col">
+      <p class="small text-muted">{{partner.title}}<br>
+        {{partner.text}}</p>
+    </div>
+  {% endfor %}
+</div>
