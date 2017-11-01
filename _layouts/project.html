@@ -13,6 +13,15 @@ layout: global
   </div>
 
   {% if page.projects > 0 %}
+  
+    <div class="container pt-2">
+      <div class="row">
+        <div class="col">
+          <h2 class="display-3">{{site.projects[page.lang]}}</h2>
+        </div>
+      </div>
+    </div>
+
     {% for item in page.projects %}
       <div class="{% cycle 'bg-faded', '' %}">
         <div class="container py-4">
@@ -72,6 +81,7 @@ layout: global
     </div>
   {% endif %}
 
+<<<<<<< HEAD
   {% if page.partner-text %}
     <div class="{% cycle 'bg-faded', '' %} py-3 py-lg-4">
       <div class="container">
@@ -83,6 +93,19 @@ layout: global
       </div>
     </div>
   {% endif %}
+=======
+  <!--
+  <div class="{% cycle 'bg-faded', '' %} py-3 py-lg-4">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-7 offset-lg-3">
+          {% include partners.html partners=page.partner-links partner-text=page.partner-text %}
+        </div>
+      </div>
+    </div>
+  </div>
+  -->
+>>>>>>> dev
 
 </div>
 </article>

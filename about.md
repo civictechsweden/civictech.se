@@ -13,7 +13,10 @@ En serie hackathons för att främja civic tech-utvecklingen i Göteborg arrange
 
 > **Hackathon ordnas ungefär varannan månad, en heldag på helgen.**
 
-Varje hackathon har ett tema och ordnas i samarbete mellan några olika organisationer. Inom varje tema finns några förberedda projekt som samarbetspartnerna ansvarar för, så att varje hackathon har 2-4 projekt som deltagarna kan välja mellan. Det går också att anmäla egna projekt i förväg som passar in på temat och riktlinjerna.
+Hackathonen har tre olika spår, och inom varje spår går det att anmäla projekt. Kontakta oss om du eller din organisation vill vara samarbetspartner eller anmäla ett projekt. De tre spår som finns är:
+* Sharing is caring: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
+* Power to the people: Demokrati, deltagande och transparens.
+* I like to move it: Hållbara transporter, resande och rörlighet.
 
 Deltagande organisationer hjälps åt att samla folk och sprida eventet, introducera projekten och handleda sin projektgrupp.
 
