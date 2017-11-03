@@ -12,8 +12,8 @@ layout: global
     </div>
   </div>
 
-  {% if page.projects > 0 %}
-  
+  {% if page.projects %}
+
     <div class="container pt-2">
       <div class="row">
         <div class="col">
@@ -81,19 +81,6 @@ layout: global
     </div>
   {% endif %}
 
-<<<<<<< HEAD
-  {% if page.partner-text %}
-    <div class="{% cycle 'bg-faded', '' %} py-3 py-lg-4">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7 offset-lg-3">
-            {% include partners.html partners=page.partner-links partner-text=page.partner-text %}
-          </div>
-        </div>
-      </div>
-    </div>
-  {% endif %}
-=======
   <!--
   <div class="{% cycle 'bg-faded', '' %} py-3 py-lg-4">
     <div class="container">
@@ -105,7 +92,6 @@ layout: global
     </div>
   </div>
   -->
->>>>>>> dev
 
 </div>
 </article>

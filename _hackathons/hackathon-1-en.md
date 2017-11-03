@@ -1,48 +1,46 @@
 ---
-title: Sharing Is Caring
+title: "Hackathon #1"
 permalink: "/en/hackathon-1/"
 event-date: 2018-03-10 00:00
 event-date-desc: 10 March 2018, 10 am - 7 pm
 place: Gothenburg, Sweden
 ref: hackathon-1
 lang: en
-excerpt: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
-ingress-text: Smarta lösningar för ett hållbart samhälle. Donec ullamcorper nulla
-  non metus auctor fringilla. Curabitur blandit tempus porttitor.
+excerpt: "Hackathon #1 for the civic tech community of Gothenburg"
+ingress-text: Welcome to Gothenburg's new meeting point for the civic tech community! The first hackathon will be a full day of exciting projects, good food and fika in a friendly atmosphere.
+image-top: "/uploads/hackathon-1.jpg"
 links:
-- title: Anmälan
-  url: "#"
+- title: Register projects
+  url: https://digidemlab.typeform.com/to/Ko2mGm
   style: button
+- title: Register attendance
+  url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
 projects:
-- title: Bygg en delningsplattform i Yunity
-  text: Nullam quis risus eget urna mollis ornare vel eu leo. Sed posuere consectetur
-    est at lobortis. Praesent commodo cursus magna, vel scelerisque nisl consectetur
-    et. Maecenas sed diam eget risus varius blandit sit amet non magna. Fusce dapibus,
-    tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo
-    sit amet risus. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.
-  image: "/uploads/yunity-orange.svg"
+- title: The Consul Citizen Platform
+  text: We install, try out and translate Consul, Madrid's platform for participatory budgeting and Europe's most used open source citizen platform.
+  image: "/uploads/consul-share.png"
   links:
-  - title: Läs om Yunity
-    url: https://yunity.org/en
-- title: Gör Smarta Kartan open source
-  text: Etiam porta sem malesuada magna mollis euismod. Morbi leo risus, porta ac
-    consectetur ac, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum
-    faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Donec
-    ullamcorper nulla non metus auctor fringilla. Etiam porta sem malesuada magna
-    mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.
-  image: "/uploads/smarta-kartan-logo.svg"
-  links:
-  - title: Smartakartan.se
-    url: http://smartakartan.se/
-partner-text: Sharing is Caring arrangeras av Digidem Lab och Solidariskt Kylskåp
-  Vestibulum id ligula porta felis euismod semper.
-partner-links:
-- name: Solidariskt Kylskåp
-  logo: "/uploads/logo-solikyl.jpg"
-  link: http://solikyl.se/
-- name: Smarta Kartan
-  logo: "/uploads/logo-solikyl.jpg"
-  link: http://smartakartan.se/
+  - title: Making Madrid´s citizen platform accessible to a wider audience
+    url: https://medium.com/digidemlab/making-madrid-s-citizen-platform-accessible-to-a-wider-audience-f452dd59a394
+
 ---
 
-Collaborative economy, the real sharing economy, the commons and sustainable consumption. Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+Groups and organisations will register their projects in advance, so that we can match participants to something they can contribute to the most.
+
+Important dates are:
+* 1 February - Deadline for registering projects
+* 24 February - Deadline for registering as participant
+
+## Register a project
+Do you have a project who want to do? Contact us to discuss the details, or register with [this form](https://digidemlab.typeform.com/to/Ko2mGm).
+
+The projects will have three different themes:
+* Sharing is caring: Collaborative economy, the commons and sustainable consumption.
+* Power to the people: Democracy, participation and transparency.
+* I like to move it: Sustainable transportation, travel and mobility.
+
+The basic guidelines for the projects are:
+1. The project should be about developing or using new technologies in order to promote an increased participation in social movements, non-profit associations, democratic political processes and civil society in general.
+2. The results of the project should be made available to the public.
+
+See you!

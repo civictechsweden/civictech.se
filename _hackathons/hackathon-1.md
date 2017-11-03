@@ -6,6 +6,7 @@ place: Göteborg
 ref: hackathon-1
 excerpt: "Hackathon #1 för Civic Tech-communitiet i Göteborg"
 ingress-text: Välkommen till Göteborgs nya mötesplats för civic tech-communitiet! Det första hackathonet blir en heldag med spännande projekt, mat, fika och skönt häng.
+image-top: "/uploads/hackathon-1.jpg"
 links:
 - title: Anmäl projekt
   url: https://digidemlab.typeform.com/to/Ko2mGm
