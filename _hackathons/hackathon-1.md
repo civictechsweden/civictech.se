@@ -15,13 +15,17 @@ links:
   url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
 projects:
 - title: Medborgarplattformen Consul
-  text: Vi installerar, testar och översätter Consul, Madrids plattform för deltagarbudget
-    och Europas mest använda medborgarplattform.
+  text: Vi installerar, testar och översätter Consul, den mest använda Ruby-plattformen just nu och världens största medborgarplattform.
   image: "/uploads/consul-share.png"
   links:
   - title: Making Madrid´s citizen platform accessible to a wider audience
     url: https://medium.com/digidemlab/making-madrid-s-citizen-platform-accessible-to-a-wider-audience-f452dd59a394
-
+- title: Inlärningsplattform för rörelser
+  text: Openki är en öppen och kollaborativ inlärningsplattform. Hur kan vi anpassa och utveckla den för att användas till kampanj- och påverkansarbete för sociala rörelser?
+  image: "/uploads/logo-openki.png"
+  links:
+  - title: Openki - The Platform for Open Education
+    url: https://openki.net/
 ---
 
 Varje projektgrupp kommer att och anmäla sitt projekt i förväg, så att vi kan matcha dig som deltagare till ett projekt som du är intresserad av och som dina kunskaper kan bidra till.

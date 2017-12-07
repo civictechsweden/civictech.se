@@ -17,11 +17,17 @@ links:
   url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
 projects:
 - title: The Consul Citizen Platform
-  text: We install, try out and translate Consul, Madrid's platform for participatory budgeting and Europe's most used open source citizen platform.
+  text: We install, try out and translate Consul, the biggest citizen platform and most used Ruby platform in the world.
   image: "/uploads/consul-share.png"
   links:
   - title: Making Madrid´s citizen platform accessible to a wider audience
     url: https://medium.com/digidemlab/making-madrid-s-citizen-platform-accessible-to-a-wider-audience-f452dd59a394
+- title: Knowledge sharing for movements
+  text: Openki is an open and collaborative education platform. How can we develop it to be used for campaign work for social movements?
+  image: "/uploads/logo-openki.png"
+  links:
+  - title: Openki - The Platform for Open Education
+    url: https://openki.net/
 
 ---
 
