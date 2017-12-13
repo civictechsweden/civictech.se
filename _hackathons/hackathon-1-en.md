@@ -28,6 +28,14 @@ projects:
   links:
   - title: Openki - The Platform for Open Education
     url: https://openki.net/
+- title: Foodsharing platform
+  text: "Karrot is a sleek and user-friendly open source tool where people can coordinate pickups to save food from being wasted and to share it freely. It is used by many grassroots initiatives around the world and by Solikyl in Gothenburg, the one making most use of it. Solikyl has at least six regular pickups a week on Karrot, and a couple of tons of food are rescued and distributed every month through a system of community fridges. However, more work is needed on Karrot to help scale up the foodsaving projects using it."
+  image: "/uploads/logo-karrot.png"
+  links:
+  - title: "Karrot's project page"
+    url: https://foodsaving.world/en/karrot
+  - title: Karrot on Github
+    url: https://github.com/yunity/karrot-backend
 
 ---
 
