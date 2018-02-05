@@ -8,7 +8,7 @@ excerpt: "Hackathon #1 för Civic Tech-communitiet i Göteborg"
 ingress-text: Välkommen till Göteborgs nya mötesplats för civic tech-communitiet! Det första hackathonet blir en heldag med spännande projekt, mat, fika och skönt häng.
 image-top: "/uploads/hackathon-1.jpg"
 links:
-- title: Anmälan för deltagare
+- title: Anmälan
   url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
   style: button
 projects:
