@@ -10,11 +10,9 @@ excerpt: "Hackathon #1 for the civic tech community of Gothenburg"
 ingress-text: Welcome to Gothenburg's new meeting point for the civic tech community! The first hackathon will be a full day of exciting projects, good food and fika in a friendly atmosphere.
 image-top: "/uploads/hackathon-1.jpg"
 links:
-- title: Register projects
-  url: https://digidemlab.typeform.com/to/Ko2mGm
-  style: button
 - title: Register attendance
   url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
+  style: button
 projects:
 - title: The Consul Citizen Platform
   text: We install, try out and translate Consul, the biggest citizen platform and most used Ruby platform in the world.
@@ -44,9 +42,6 @@ Groups and organisations will register their projects in advance, so that we can
 Important dates are:
 * 1 February - Deadline for registering projects
 * 24 February - Deadline for registering as participant
-
-## Register a project
-Do you have a project who want to do? Contact us to discuss the details, or register with [this form](https://digidemlab.typeform.com/to/Ko2mGm).
 
 The projects will have three different themes:
 * Sharing is caring: Collaborative economy, the commons and sustainable consumption.
