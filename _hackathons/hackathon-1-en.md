@@ -10,7 +10,7 @@ excerpt: "Hackathon #1 for the civic tech community of Gothenburg"
 ingress-text: Welcome to Gothenburg's new meeting point for the civic tech community! The first hackathon will be a full day of exciting projects, good food and fika in a friendly atmosphere.
 image-top: "/uploads/hackathon-1.jpg"
 links:
-- title: Register attendance
+- title: Register
   url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
   style: button
 projects:
