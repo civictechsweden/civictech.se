@@ -8,11 +8,9 @@ excerpt: "Hackathon #1 för Civic Tech-communitiet i Göteborg"
 ingress-text: Välkommen till Göteborgs nya mötesplats för civic tech-communitiet! Det första hackathonet blir en heldag med spännande projekt, mat, fika och skönt häng.
 image-top: "/uploads/hackathon-1.jpg"
 links:
-- title: Anmäl projekt
-  url: https://digidemlab.typeform.com/to/Ko2mGm
-  style: button
 - title: Anmälan för deltagare
   url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
+  style: button
 projects:
 - title: Medborgarplattformen Consul
   text: Vi installerar, testar och översätter Consul, den mest använda Ruby-plattformen just nu och världens största medborgarplattform.
@@ -41,9 +39,6 @@ Varje projektgrupp kommer att och anmäla sitt projekt i förväg, så att vi ka
 Datum att hålla reda på är:
 * 1 februari - Deadline för att anmäla projekt
 * 24 februari - Senaste anmälningsdatum för deltagare
-
-## Anmäl projekt
-Har du ett projekt som du vill genomföra? Kontakta oss för att diskutera mer, eller anmäl intresse i [det här formuläret](https://digidemlab.typeform.com/to/Ko2mGm).
 
 Projekten kommer att vara inom tre olika spår:
 * Sharing is caring: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
