@@ -1,17 +1,18 @@
 ---
-title: "Hackathon #1"
+title: 'Hackathon #1'
 event-date: 2018-03-10 00:00
 event-date-desc: 10 mars 2018, kl 10 - 19
 place: Viktoriahuset, Göteborg
 ref: hackathon-1
-excerpt: "Hackathon #1 för Civic Tech-communitiet i Göteborg"
-ingress-text: Välkommen till Göteborgs nya mötesplats för civic tech-communitiet! Det första hackathonet blir en heldag med spännande projekt, mat, fika och skönt häng.
+excerpt: 'Hackathon #1 för Civic Tech-communitiet i Göteborg'
+ingress-text: Välkommen till Göteborgs nya mötesplats för civic tech-communitiet!
+  Det första hackathonet blir en heldag med spännande projekt, mat, fika och skönt
+  häng.
 image: "/uploads/hackathon-1.jpg"
 links:
 - title: Anmälan
   url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
   style: button
-
 ---
 
 Varje projektgrupp kommer att och anmäla sitt projekt i förväg, så att vi kan matcha dig som deltagare till ett projekt som du är intresserad av och som dina kunskaper kan bidra till.

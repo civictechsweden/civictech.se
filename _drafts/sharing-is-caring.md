@@ -1,5 +1,6 @@
 ---
 title: Sharing Is Caring
+date: 2018-02-07 16:33:29.972000000 +01:00
 event-date: 2018-03-28 00:00
 event-date-desc: Våren 2018
 place: Göteborg

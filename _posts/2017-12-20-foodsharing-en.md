@@ -1,28 +1,30 @@
 ---
 title: Foodsharing platform
+date: 2017-12-20 00:00:00 +01:00
+permalink: "/en/projects/foodsharing/"
+categories:
+- Sharing is caring
+- hackathon-1
+tags:
+- Development
+- Design
 lang: en
 ref: foodsharing
-permalink: "/en/projects/foodsharing/"
-excerpt: Karrot is a sleek and user-friendly open source tool where people can coordinate pickups to save food from being wasted and to share it freely.
-ingress-text: Karrot is a sleek and user-friendly open source tool where people can coordinate pickups to save food from being wasted and to share it freely.
+excerpt: Karrot is a sleek and user-friendly open source tool where people can coordinate
+  pickups to save food from being wasted and to share it freely.
+ingress-text: Karrot is a sleek and user-friendly open source tool where people can
+  coordinate pickups to save food from being wasted and to share it freely.
 image: "/uploads/logo-karrot.png"
 links:
-- title: "Karrot's project page"
+- title: Karrot's project page
   url: https://foodsaving.world/en/karrot
 - title: Karrot on Github
   url: https://github.com/yunity/karrot-backend
 contact:
 - name: Bruno Chies
-#  image: "/uploads/petter2-crop.gif"
   mail: bruno@solikyl.se
   organisation: Solidariskt Kylskåp
   organisation-link: http://solikyl.se/
-tags:
-- Development
-- Design
-categories:
-- Sharing is caring
-- hackathon-1
 ---
 
 ## Summary

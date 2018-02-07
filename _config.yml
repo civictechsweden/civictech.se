@@ -37,30 +37,30 @@ defaults:
   values:
     layout: project
     lang: sv
-    event-date:
-    event-date-desc: # datum som text, tex 28 februari 2018
-    place: # stad och plats
-    ref: # används för översättning
-    links: # Anmälan osv
-    - title:
-      url:
-      style:
-    image-top: # Bild under ingressen
-    excerpt: # Kort sammandrag
-    ingress-text:
+    event-date: 
+    event-date-desc: 
+    place: 
+    ref: 
+    links:
+    - title: 
+      url: 
+      style: 
+    image-top: 
+    excerpt: 
+    ingress-text: 
     projects:
-    - title:
-      text:
-      image:
+    - title: 
+      text: 
+      image: 
       links:
-      - title:
-        url:
-    partner-text:
+      - title: 
+        url: 
+    partner-text: 
     partner-links:
-    - name:
-      logo:
-      link:
-permalink: /projects/:title/
+    - name: 
+      logo: 
+      link: 
+permalink: "/projects/:title/"
 description: Hackathons för Göteborgs Civic Tech-community
 theme: jekyll-theme-cayman
 plugins:
