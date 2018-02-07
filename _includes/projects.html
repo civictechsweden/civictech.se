@@ -19,9 +19,11 @@
         <div class="col-lg-5 col-xl-4 offset-xl-1 push-lg-7">
           {% include page-links.html links=item.links %}
         </div>
-        <div class="col-lg-7 pull-lg-5  hidden-xs-down">
-          {% include project-logos.html partners=item.projects %}
-        </div>
+        {% if site.categories[item.ref] %}
+          <div class="col-lg-7 pull-lg-5  hidden-xs-down">
+            {% include project-logos.html %}
+          </div>
+        {% endif %}
       </div>
     </div>
   </div>

@@ -1,0 +1,20 @@
+{% assign projects=site.posts | where:"lang", page.lang %}
+{% for item in projects %}
+  <div class="col-sm-6 col-lg-4 mb-3">
+    <div class="card h-100 bg-{% cycle 'primary', 'danger', 'warning', 'success' %}">
+      <div class="card-block px-1 py-2b text-center">
+        <a href="{{site.baseurl}}{{item.url}}">
+          {% if item.image %}
+          <figure class="figure" style="position:relative">
+            <img src="{{site.baseurl}}{{item.image}}" class="figure-img img-fluid img-responsive w-100 px-3" alt="">
+            <figcaption class="figure-caption" style="position:absolute;top:50%;width:100%;">
+              <span class="{% cycle 'text-primary', 'text-danger', 'text-warning', 'text-white' %} bg-{% cycle 'success', 'warning', 'danger', 'info' %} ">{{ item.excerpt }}</span>
+            </figcaption>
+          </figure>
+          {% endif %}
+          <h3 class="m-0 text-uppercase card-title {% cycle 'text-white', 'text-warning', 'text-danger', 'text-info' %}">{{item.title}}</h3>
+        </a>
+      </div>
+    </div>
+  </div>
+{% endfor %}

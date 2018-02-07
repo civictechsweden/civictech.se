@@ -27,6 +27,12 @@ defaults:
     lang: en
 - scope:
     path: ''
+    type: posts
+  values:
+    layout: project
+    lang: sv
+- scope:
+    path: ''
     type: hackathons
   values:
     layout: project
@@ -54,6 +60,7 @@ defaults:
     - name:
       logo:
       link:
+permalink: /projects/:title/
 description: Hackathons för Göteborgs Civic Tech-community
 theme: jekyll-theme-cayman
 plugins:
@@ -81,6 +88,12 @@ partner:
   en:
     initiative: An initiative from
     partnership: In partnership with
+projectmanager:
+  sv: Projektledare
+  en: Project manager
+projectpartner:
+  sv: Projektpartner
+  en: Project partner
 partners:
 - title: Göteborgs Stad - Förvaltningen för konsument- och medborgarservice
   logo: "/uploads/logo-goteborg.png"

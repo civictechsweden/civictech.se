@@ -4,6 +4,15 @@
     {% if page.place %}
       <h3 class="mb-0">{{page.event-date-desc}} // {{page.place}}</h3>
     {% endif %}
+
+    <!-- Hackathons -->
+    {% assign hackathons=site.hackathons | where:"lang", page.lang %}
+    {% for item in hackathons %}
+      {% if page.categories contains item.ref %}
+        <h3 class="mb-0"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h3>
+      {% endif %}
+    {% endfor %}
+
   </div>
 </div>
 {% if page.ingress-text %}
@@ -18,10 +27,10 @@
     {% endif %}
   </div>
 {% endif %}
-{% if page.image-top %}
+{% if page.image %}
   <div class="row mt-1 mb-3 mb-lg-4">
     <div class="col-10 offset-1 col-lg-5 offset-lg-4 text-center">
-      <img src="{{site.baseurl}}{{page.image-top}}" class="img-fluid">
+      <img src="{{site.baseurl}}{{page.image}}" class="img-fluid">
     </div>
   </div>
 {% endif %}
