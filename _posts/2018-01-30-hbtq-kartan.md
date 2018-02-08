@@ -1,22 +1,23 @@
 ---
 title: HBTQ-kartan
-ref: hbtq-kartan
-excerpt: En interaktiv karta där en som HBTQ-person eller allierad kan recensera platser baserat på dess tillgänglighet för HBTQ-personer.
-ingress-text: En interaktiv karta över Göteborg (eller varför inte Sverige?) där en som HBTQ-person eller allierad kan recensera platser baserat på dess tillgänglighet för HBTQ-personer.
-# image: "/uploads/logo-openki.png"
-contact:
-- name: Sofi Ingersdotter
-#  image: "/uploads/petter2-crop.gif"
-#  mail: bruno@solikyl.se
-  organisation: Oh Lorde Göteborg
-  organisation-link: https://www.facebook.com/ohlordegbg/
+date: 2018-01-30 00:00:00 +01:00
+categories:
+- Power to the people
+- hackathon-1
 tags:
 - Development
 - Design
 - Discussion
-categories:
-- Power to the people
-- hackathon-1
+ref: hbtq-kartan
+excerpt: En interaktiv karta där en som HBTQ-person eller allierad kan recensera platser
+  baserat på dess tillgänglighet för HBTQ-personer.
+ingress-text: En interaktiv karta över Göteborg (eller varför inte Sverige?) där en
+  som HBTQ-person eller allierad kan recensera platser baserat på dess tillgänglighet
+  för HBTQ-personer.
+contact:
+- name: Sofi Ingersdotter
+  organisation: Oh Lorde Göteborg
+  organisation-link: https://www.facebook.com/ohlordegbg/
 ---
 
 Som HBTQ-person är det svårt att veta var ens safe spaces finns, särskilt i en stad en inte känner till. Var finns gym med könsneutrala omklädningsrum? Var kan jag träffa likasinnade? Var kan jag dra och bärsa? I de allra flesta fall får en chansa, vilket i somliga fall kan leda till otrevliga konsekvenser. Initiativtagarna till detta projekt har varit med om allt från att inte våga gå på rätt toalett till att ha blivit nekade bord på vissa restauranger.

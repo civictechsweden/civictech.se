@@ -1,9 +1,18 @@
 ---
 title: Öppen data för Riksdagen
+date: 2018-01-20 00:00:00 +01:00
+categories:
+- Power to the people
+- hackathon-1
+tags:
+- Development
+- Design
+- Discussion
 ref: oppen-data-riksdagen
-excerpt: Adaptera flera verktyg som har utvecklats av Regards Citoyens i Frankrike för att visa på ett bättre sätt Riksdagens öppna data.
-ingress-text: Adaptera flera verktyg som har utvecklats av Regards Citoyens i Frankrike för att visa på ett bättre sätt Riksdagens öppna data.
-# image: "/uploads/logo-openki.png"
+excerpt: Adaptera flera verktyg som har utvecklats av Regards Citoyens i Frankrike
+  för att visa på ett bättre sätt Riksdagens öppna data.
+ingress-text: Adaptera flera verktyg som har utvecklats av Regards Citoyens i Frankrike
+  för att visa på ett bättre sätt Riksdagens öppna data.
 links:
 - title: NosDéputés.fr
   url: http://nosdeputes.fr/
@@ -11,15 +20,6 @@ links:
   url: https://www.lafabriquedelaloi.fr
 contact:
 - name: Pierre Mesure
-#  image: "/uploads/petter2-crop.gif"
-#  mail: bruno@solikyl.se
-tags:
-- Development
-- Design
-- Discussion
-categories:
-- Power to the people
-- hackathon-1
 ---
 
 Adaptera flera verktyg som har utvecklats av Regards Citoyens i Frankrike för att visa på ett bättre sätt Riksdagens öppna data och öka medborgares och journalisters granskning av parlamentarisk aktivitet.
