@@ -8,6 +8,9 @@ links:
 - title: Anmälan
   url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
   style: button
+- title: Ladda ner flyer
+  url: "/uploads/civictechgbg%20flyer%20hackathon%201.pdf"
+  style: 
 excerpt: 'Hackathon #1 för Civic Tech-communitiet i Göteborg'
 ingress-text: Välkommen till Göteborgs nya mötesplats för civic tech-communitiet!
   Det första hackathonet blir en heldag med spännande projekt, mat, fika och skönt
