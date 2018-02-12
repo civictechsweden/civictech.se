@@ -30,3 +30,7 @@ Sidan har varit igång under en längre period, men vi vill nu lägga om fokus f
 Vi vill ge en samlad bild av hyresgästers situation gentemot hyresvärdar genom att samla in berättelser om renovräkningar och dylikt och publicera de på en karta och i ett flöde på Hyresrättskollen.
 
 Vi jobbar redan med att uppdatera hemsidan för detta, men inser att vi kommer behöva tänka om vissa delar av sidan för att det ska bli bra. Vi hoppas att civic tech kan bli en möjlighet till detta!
+
+## Teknisk specifikation
+Vår förhoppning är att få hjälp med lite konkret design och utveckling. En .NET-utvecklare kunde vara användbart.Det är bra om deltagare har kunskap i JavaScript(Leaflet i synnerhet), HTML och CSS.
+
