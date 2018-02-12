@@ -1,5 +1,5 @@
 ---
-title: Öppen data för Riksdagen
+title: DinRiksdag
 date: 2018-01-20 00:00:00 +01:00
 categories:
 - Power to the people
