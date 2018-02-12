@@ -10,9 +10,9 @@ tags:
 - Discussion
 ref: oppen-data-riksdagen
 excerpt: Skapa en plattform där medborgare kan debattera om Riksdagens aktivitet,
-  prata med deras ledamöter och vara ett stöd i skrivandet av motioner
+  prata med deras ledamöten och vara ett stöd i skrivandet av motioner
 ingress-text: Skapa en plattform där medborgare kan debattera om Riksdagens aktivitet,
-  prata med deras ledamöter och vara ett stöd i skrivandet av motioner
+  prata med deras ledamöten och vara ett stöd i skrivandet av motioner
 links:
 - title: Dinriksdag
   url: http://www.dinriksdag.se
@@ -23,7 +23,7 @@ contact:
   E-mail: pierre.mesure@gmail.com
 ---
 
-Målet med projektet är att skapa en plattform där medborgare kan debattera om Riksdagens aktivitet, prata med deras ledamöter och vara ett stöd i skrivandet av motioner. Plattformen finns redan: https://www.dinriksdag.se och är baserat på Consul, den online plattform som Madrids stad använder för medborgarbudget, medborgarförslag och andra funktioner för att stärka invånares inflytande i staden. 
+Målet med projektet är att skapa en plattform där medborgare kan debattera om Riksdagens aktivitet, prata med deras ledamöten och vara ett stöd i skrivandet av motioner. Plattformen finns redan: https://www.dinriksdag.se och är baserat på Consul, den online plattform som Madrids stad använder för medborgarbudget, medborgarförslag och andra funktioner för att stärka invånares inflytande i staden. 
 
 ## Teknisk specifikation
 Dels behöver vi anpassa innehållet och strukturen av plattformen till Riksdagen och det svenska sammanhanget. För detta krävs det inte programmeringskunskaper utan ett intresse för politik och demokratifrågor.
