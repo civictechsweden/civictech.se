@@ -75,10 +75,8 @@ projects:
 contact:
   sv:
     title: Vill du vara med?
-    text: "[Anmäl dig som deltagare](https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785).
-      Eller kontakta gärna oss om din organisation vill vara med, eller om du har
-      idéer och förslag."
-    url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
+    text: Kontakta gärna oss om din organisation vill vara med, eller om du har idéer
+      och förslag.
   en:
     title: Join us!
     text: Please, contact us if you'd like your organisation to participate, or if
