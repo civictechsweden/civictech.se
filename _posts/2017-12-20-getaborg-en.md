@@ -11,16 +11,15 @@ tags:
 - Discussion
 lang: en
 ref: getaborg
-excerpt: Karrot is a sleek and user-friendly open source tool where people can coordinate
-  pickups to save food from being wasted and to share it freely.
-ingress-text: Karrot is a sleek and user-friendly open source tool where people can
-  coordinate pickups to save food from being wasted and to share it freely.
-image: "/uploads/logo-karrot.png"
+excerpt: Start designing an open-source sharing/gifting platform to be first implemented
+  in Gothenburg!
+ingress-text: Start designing an open-source sharing/gifting platform to be first
+  implemented in Gothenburg!
 links:
-- title: Karrot's project page
-  url: https://foodsaving.world/en/karrot
-- title: Karrot on Github
-  url: https://github.com/yunity/karrot-backend
+- title: 
+  url: 
+- title: 
+  url: 
 contact:
 - name: Bruno Chies
   mail: bruno@solikyl.se
