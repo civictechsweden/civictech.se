@@ -18,9 +18,7 @@ links:
   style: 
 ---
 
-Varje projektgrupp kommer att och anmäla sitt projekt i förväg, så att vi kan matcha dig som deltagare till ett projekt som du är intresserad av och som dina kunskaper kan bidra till.
-
-24 februari är senaste anmälningsdatum för deltagare
+Kom ihåg: 24 februari är senaste anmälningsdatum för deltagare!
 
 De grundläggande riktlinjerna för projekt är att:
 1. Projektet ska främja ökat deltagande i sociala rörelser, föreningsliv, politiska processer eller samhället i stort med hjälp av ny teknik.
