@@ -16,13 +16,13 @@ excerpt: A website by Allt åt alla Göteborg to keep track of tenancy prices an
 ingress-text: A website by Allt åt alla Göteborg to keep track of tenancy prices and
   acknowledge conflicts with landlords.
 image: "/uploads/logo-hyresrattskollen.png"
+links:
+- title: Hyresrättskollen
+  url: http://hyresrattskollen.se/
 contact:
 - name: Fredrik Ekelund
   organisation: Allt åt alla Göteborg
   organisation-link: https://alltatalla.se/goteborg
-links:
-- title: Hyresrättskollen
-  url: http://hyresrattskollen.se/
 ---
 
 A website by Allt åt alla Göteborg to keep track of tenancy prices and acknowledge conflicts.
@@ -32,4 +32,4 @@ The website has been active for a long time, and now we want to change focus fro
 We want to create a comprehensive picture of the situation for tenants in relation to their landlords by collecting stories of for example evictions and publish those stories on the website.
 
 ## Technical specs
-Our hope is to get help with design and development. A .NET-developer could be useful. Participants with knowledge of JavaScript(Leaflet in particular), HTML och CSS are preferable.
+The current map is built on Leaflet/JavaScript but we are planing to redo the concept a bit. Our hope is to get help with design and development. A .NET-developer could be useful. 
