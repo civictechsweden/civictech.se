@@ -9,17 +9,18 @@ tags:
 - Design
 - Discussion
 ref: oppen-data-riksdagen
-excerpt: Adaptera flera verktyg som har utvecklats av Regards Citoyens i Frankrike
-  för att visa på ett bättre sätt Riksdagens öppna data.
-ingress-text: Adaptera flera verktyg som har utvecklats av Regards Citoyens i Frankrike
-  för att visa på ett bättre sätt Riksdagens öppna data.
+excerpt: Skapa en plattform där medborgare kan debattera om Riksdagens aktivitet,
+  prata med deras ledamöter och vara ett stöd i skrivandet av motioner
+ingress-text: Skapa en plattform där medborgare kan debattera om Riksdagens aktivitet,
+  prata med deras ledamöter och vara ett stöd i skrivandet av motioner
 links:
-- title: NosDéputés.fr
-  url: http://nosdeputes.fr/
-- title: La Fabrique de la Loi
-  url: https://www.lafabriquedelaloi.fr
+- title: Dinriksdag
+  url: http://www.dinriksdag.se
+- title: Dinriksdag blogg
+  url: https://blog.dinriksdag.se
 contact:
 - name: Pierre Mesure
+  E-mail: pierre.mesure@gmail.com
 ---
 
 Målet med projektet är att skapa en plattform där medborgare kan debattera om Riksdagens aktivitet, prata med deras ledamöter och vara ett stöd i skrivandet av motioner. Plattformen finns redan: https://www.dinriksdag.se och är baserat på Consul, den online plattform som Madrids stad använder för medborgarbudget, medborgarförslag och andra funktioner för att stärka invånares inflytande i staden. 
