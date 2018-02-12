@@ -20,7 +20,7 @@ links:
   url: https://blog.dinriksdag.se
 contact:
 - name: Pierre Mesure
-  E-mail: pierre.mesure@gmail.com
+  E-mail: " info@dinriksdag.se"
 ---
 
 Målet med projektet är att skapa en plattform där medborgare kan debattera om Riksdagens aktivitet, prata med deras ledamöten och vara ett stöd i skrivandet av motioner. Plattformen finns redan: https://www.dinriksdag.se och är baserat på Consul, den online plattform som Madrids stad använder för medborgarbudget, medborgarförslag och andra funktioner för att stärka invånares inflytande i staden. 
