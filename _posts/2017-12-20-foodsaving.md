@@ -19,8 +19,8 @@ links:
 - title: Karrot på Github
   url: https://github.com/yunity/karrot-backend
 contact:
-- name: Bruno Chies
-  mail: bruno@solikyl.se
+- name: Nicolas Sahlqvist
+  mail: nicolas@solikyl.se
   organisation: Solidariskt Kylskåp
   organisation-link: http://solikyl.se/
 ---
