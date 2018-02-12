@@ -26,6 +26,9 @@ contact:
   mail: bruno@solikyl.se
   organisation: Solidariskt Kylskåp
   organisation-link: http://solikyl.se/
+  text: As a co-founder of Solikyl, Bruno has brought Foodsharing to the city of Gothenburg
+    and now he's into digital tools that can boost the gifting and commons economy
+    locally and internationally.
 - name: Agnese Priekule
   image: "/uploads/agnese.jpg"
   mail: agnese.priekule@gmail.com
