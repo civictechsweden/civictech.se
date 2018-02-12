@@ -9,8 +9,8 @@ tags:
 - Development
 - Design
 - Discussion
-ref: hyresrattskollen
 lang: en
+ref: hyresrattskollen
 excerpt: A website by Allt åt alla Göteborg to keep track of tenancy prices and acknowledge
   conflicts with landlords.
 ingress-text: A website by Allt åt alla Göteborg to keep track of tenancy prices and
@@ -30,3 +30,6 @@ A website by Allt åt alla Göteborg to keep track of tenancy prices and acknowl
 The website has been active for a long time, and now we want to change focus from individual tenants to bigger conflicts.
 
 We want to create a comprehensive picture of the situation for tenants in relation to their landlords by collecting stories of for example evictions and publish those stories on the website.
+
+## Technical specs
+Our hope is to get help with design and development. A .NET-developer could be useful. Participants with knowledge of JavaScript(Leaflet in particular), HTML och CSS are preferable.
