@@ -33,5 +33,6 @@ Gothenburg needs an open-source gifting/sharing platform! Thousands of people ar
 
 During this occasion we’ll try out different design methods and evaluate existing tools, and we’ll work mostly on design and user experience. People with this particular background are most welcome, but also backend and frontend developers for consultation and to start playing with code (there’s an ambition to build from Karrot’s backend). People who are already engaged in gifting practices using existing tools are also invited for this participatory design process.
 
-##Who
+## Who
+
 This project is an initiative of people with know-how in local sharing groups and is supported by officials in the city of Gothenburg who are interested in seeking finance for its development, in order to promote a more sustainable use of resources.
