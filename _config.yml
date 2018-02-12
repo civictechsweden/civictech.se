@@ -31,35 +31,36 @@ defaults:
   values:
     layout: project
     lang: sv
+    ref:
+    excerpt:
+    ingress-text:
+    image:
+    links:
+    - title:
+      url:
+    contact:
+    - name:
+      image:
+      mail:
+      organisation:
+      organisation-link:
 - scope:
     path: ''
     type: hackathons
   values:
     layout: project
     lang: sv
-    event-date: 
-    event-date-desc: 
-    place: 
-    ref: 
+    ref:
+    image:
+    excerpt:
+    ingress-text:
+    event-date:
+    event-date-desc:
+    place:
     links:
-    - title: 
-      url: 
-      style: 
-    image-top: 
-    excerpt: 
-    ingress-text: 
-    projects:
-    - title: 
-      text: 
-      image: 
-      links:
-      - title: 
-        url: 
-    partner-text: 
-    partner-links:
-    - name: 
-      logo: 
-      link: 
+    - title:
+      url:
+      style:
 permalink: "/projects/:title/"
 description: Hackathons för Göteborgs Civic Tech-community
 theme: jekyll-theme-cayman
