@@ -22,12 +22,12 @@ links:
   url: 
 contact:
 - name: Bruno Chies
-  image: 
+  image: "/uploads/bruno_medialabprado.jpg"
   mail: bruno@solikyl.se
   organisation: Solidariskt Kylskåp
   organisation-link: http://solikyl.se/
 - name: Agnese Priekule
-  image: 
+  image: "/uploads/agnese.jpg"
   mail: agnese.priekule@gmail.com
   organisation: 
   organisation-link: 
