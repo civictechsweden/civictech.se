@@ -16,6 +16,7 @@ ingress-text: En interaktiv karta över Göteborg (eller varför inte Sverige?) 
   för HBTQ-personer.
 contact:
 - name: Sofi Ingersdotter
+  image: "/uploads/ohlorde"
   text: Oh Lorde är ett nätverk som gör nyfiket queera revolutionära saker tillsammans
     i Audre Lordes anda. Projektledarna i hackathonet är Nino och Shelly som tillsammans
     brinner för en mer rättvis och demokratisk queerhälsa.
