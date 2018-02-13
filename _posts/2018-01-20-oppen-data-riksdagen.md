@@ -20,8 +20,8 @@ links:
   url: https://blog.dinriksdag.se
 contact:
 - name: Pierre Mesure
-  text: Utvecklare med intresse av öppen data, civic tech och digital demokrati. Han
-    har förutom erfarenhet av programmering och design även kunskaper i projektledning.
+  text: Utvecklare med intresse för öppen data, civic tech och digital demokrati.
+    Han har förutom erfarenhet av programmering och design även kunskaper i projektledning.
   mail: " info@dinriksdag.se"
 ---
 
