@@ -15,6 +15,7 @@ excerpt: Create a platform where citizens can debate about Riksdagens activity, 
   to its commissioners and support the creation of proposals
 ingress-text: Create a platform where citizens can debate about Riksdagens activity,
   talk to its commissioners and support the creation of proposals
+image: "/uploads/dinriksdag-logo-color-big.png"
 links:
 - title: Dinriksdag
   url: https://www.dinriksdag.se
