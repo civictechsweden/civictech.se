@@ -23,6 +23,7 @@ links:
   url: https://blog.dinriksdag.se
 contact:
 - name: Pierre Mesure
+  image: "/uploads/pierre"
   text: 'Developer with an interest for open gov, civic tech and digital democracy.
     Besides skills in programming and design he also has experience in project management. '
   mail: info@dinriksdag.se
