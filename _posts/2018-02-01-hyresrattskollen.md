@@ -19,10 +19,10 @@ links:
   url: http://hyresrattskollen.se/
 contact:
 - name: Fredrik Ekelund
-  text: Jag jobbar till vardags som webbutvecklare med ganska mycket fokus på design.
-    Utanför jobbet är jag sedan ett par år tillbaka engagerad i olika aktivistsammanhang,
-    i det här fallet har jag jobbat med Hyresrättskollen sedan 2015. Olika frågor
-    om stadsutveckling ligger mig varmt om hjärtat!
+  text: Jobbar till vardags som webbutvecklare med ganska mycket fokus på design.
+    Utanför jobbet är han sedan ett par år tillbaka engagerad i olika aktivistsammanhang,
+    i det här fallet har han jobbat med Hyresrättskollen sedan 2015. Olika frågor
+    om stadsutveckling ligger honom varmt om hjärtat.
   mail: fredrik@fredrik.computer
   organisation: Allt åt alla Göteborg
   organisation-link: https://alltatalla.se/goteborg
