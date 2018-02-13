@@ -9,14 +9,15 @@ tags:
 - Development
 - Design
 - Discussion
-ref: hbtq-kartan
 lang: en
+ref: hbtq-kartan
 excerpt: An interactive map where LGBTQ persons or allies can review places based
   on their accessibility for LGBTQ people.
 ingress-text: An interactive map of Gothenburg (or maybe Sweden?) where LGBTQ persons
   or allies can review places based on their accessibility for LGBTQ people.
 contact:
 - name: Sofi Ingersdotter
+  mail: ohlorde.gbg@gmail.com
   organisation: Oh Lorde Göteborg
   organisation-link: https://www.facebook.com/ohlordegbg/
 ---
