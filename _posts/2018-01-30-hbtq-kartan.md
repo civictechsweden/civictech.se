@@ -16,6 +16,7 @@ ingress-text: En interaktiv karta över Göteborg (eller varför inte Sverige?) 
   för HBTQ-personer.
 contact:
 - name: Sofi Ingersdotter
+  mail: ohlorde.gbg@gmail.com
   organisation: Oh Lorde Göteborg
   organisation-link: https://www.facebook.com/ohlordegbg/
 ---
