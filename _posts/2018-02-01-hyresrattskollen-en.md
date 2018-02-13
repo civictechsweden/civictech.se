@@ -21,6 +21,9 @@ links:
   url: http://hyresrattskollen.se/
 contact:
 - name: Fredrik Ekelund
+  text: Works as a webdeveloper with focus on design. He is also engaged in different
+    types of activism, in this case he has worked with Hyresrättskollen since 2015.
+    Different issues regarding city development lies close to his heart.
   mail: fredrik@fredrik.computer
   organisation: Allt åt alla Göteborg
   organisation-link: https://alltatalla.se/goteborg
