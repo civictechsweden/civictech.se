@@ -13,6 +13,7 @@ excerpt: Skapa en plattform där medborgare kan debattera om Riksdagens aktivite
   prata med deras ledamöten och vara ett stöd i skrivandet av motioner
 ingress-text: Skapa en plattform där medborgare kan debattera om Riksdagens aktivitet,
   prata med deras ledamöten och vara ett stöd i skrivandet av motioner
+image: "/uploads/dinriksdag-logo-color-big-9715da.png"
 links:
 - title: Dinriksdag
   url: http://www.dinriksdag.se
