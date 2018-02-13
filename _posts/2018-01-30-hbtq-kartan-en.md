@@ -17,6 +17,9 @@ ingress-text: An interactive map of Gothenburg (or maybe Sweden?) where LGBTQ pe
   or allies can review places based on their accessibility for LGBTQ people.
 contact:
 - name: Sofi Ingersdotter
+  text: Oh Lorde is a network that does curiously queer and revolutionary things togheter
+    in the spirit of Audre Lorde. The projectleaders in the hackathon are Nino and
+    Shelly who togheter long for a more just and democratic queer health.
   mail: ohlorde.gbg@gmail.com
   organisation: Oh Lorde Göteborg
   organisation-link: https://www.facebook.com/ohlordegbg/
