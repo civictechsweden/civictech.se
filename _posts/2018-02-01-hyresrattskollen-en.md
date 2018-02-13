@@ -21,6 +21,7 @@ links:
   url: http://hyresrattskollen.se/
 contact:
 - name: Fredrik Ekelund
+  mail: fredrik@fredrik.computer
   organisation: Allt åt alla Göteborg
   organisation-link: https://alltatalla.se/goteborg
 ---
