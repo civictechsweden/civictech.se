@@ -22,18 +22,22 @@ links:
   url: 
 contact:
 - name: Bruno Chies
+  image: "/uploads/bruno_medialabprado.jpg"
   text: As a co-founder of Solikyl, Bruno has brought Foodsharing to the city of Gothenburg
     and now he's into digital tools that can boost the gifting and commons economy
     locally and internationally.
-  image: "/uploads/bruno_medialabprado.jpg"
   mail: bruno@solikyl.se
   organisation: Solidariskt Kylskåp
   organisation-link: http://solikyl.se/
 - name: Agnese Priekule
+  text: During her studies in design, Agnese joined the Foodsharing movement in Gothenburg
+    and aimed to explore how design thinking, tools and methods could be used in the
+    activism against food waste. Now she is looking for new ways on how the concept
+    of sharing could be spread further and deeper, and how design can help it happen.
   image: "/uploads/agnese.jpg"
   mail: agnese.priekule@gmail.com
   organisation: 
-  organisation-link: 
+  organisation-link: foodfriendship.org
 ---
 
 Gothenburg needs an open-source gifting/sharing platform! Thousands of people are already sharing at give-away (bortskänkes) groups on Facebook or other smaller websites that are based on closed systems of classified ads, such as bortskankes.se. However, none of these tools have a nice user experience nor the features for sharing both within closed groups (say, among friends or within an organization) and sharing openly with the public. There is no open-source alternative out there for this true gift economy to reach its potential.
