@@ -36,7 +36,7 @@ contact:
     of sharing could be spread further and deeper, and how design can help it happen.
   image: "/uploads/agnese.jpg"
   mail: agnese.priekule@gmail.com
-  organisation: 
+  organisation: foodfriendship.org
   organisation-link: foodfriendship.org
 ---
 
