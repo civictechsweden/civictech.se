@@ -38,5 +38,5 @@ Vi vill ge en samlad bild av hyresgästers situation gentemot hyresvärdar genom
 Vi jobbar redan med att uppdatera hemsidan för detta, men inser att vi kommer behöva tänka om vissa delar av sidan för att det ska bli bra. Vi hoppas att civic tech kan bli en möjlighet till detta!
 
 ## Teknisk specifikation
-Nuvarande karta bygger på Leaflet/JavaScript men vi tänkte lägga om konceptet lite. Vår förhoppning är att få hjälp med lite konkret design och utveckling. En .NET-utvecklare kunde vara användbart. 
+Nuvarande karta bygger på Leaflet/JavaScript men vi tänkte lägga om konceptet lite. Vår förhoppning är att få hjälp med lite konkret design och utveckling. 
 
