@@ -20,9 +20,18 @@ links:
   url: https://github.com/yunity/karrot-backend
 contact:
 - name: Nicolas Sahlqvist
+  image: 
+  text: 
   mail: nicolas@solikyl.se
   organisation: Solidariskt Kylskåp
   organisation-link: http://solikyl.se/
+- name: Karrots kärnutvecklarna
+  image: 
+  text: Nick, Janina och Tilmann är Karrots kärntuvecklarna och åker buss hela vägen
+    från Tyskland för att delta i hackatonet!
+  mail: 
+  organisation: Foodsaving World
+  organisation-link: https://foodsaving.world/en/team
 ---
 
 ## Sammanfattning
