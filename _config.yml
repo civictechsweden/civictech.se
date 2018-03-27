@@ -76,11 +76,12 @@ projects:
 contact:
   sv:
     title: Vill du vara med?
-    text: CivicTechGbg är ett samarbete mellan organisationer, nätverk och offentliga aktörer. Kontakta
-      gärna oss om din organisation vill vara med som arrangör!
+    text: CivicTechGbg är ett samarbete mellan organisationer, nätverk och offentliga
+      aktörer. Kontakta gärna oss om din organisation vill vara med som arrangör!
   en:
     title: Join us!
-    text: CivicTechGbg is a cooperation between organisations, networks and the public sector. Please get in touch if you want to be a part of the network!
+    text: CivicTechGbg is a cooperation between organisations, networks and the public
+      sector. Please get in touch if you want to be a part of the network!
 partner:
   sv:
     initiative: Ett initiativ från
