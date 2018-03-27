@@ -68,7 +68,7 @@ theme: jekyll-theme-cayman
 plugins:
 - jemoji
 project-title:
-  sv: Kommande hackathons
+  sv: Tidigare hackathons
   en: Hackathons
 projects:
   sv: Projekt
@@ -76,13 +76,11 @@ projects:
 contact:
   sv:
     title: Vill du vara med?
-    text: Det här är ett första utkast till ett samarbete och gemensamma event. Kontakta
-      gärna oss om din organisation vill vara med, eller om du har idéer och förslag.
+    text: CivicTechGbg är ett samarbete mellan organisationer, nätverk och offentliga aktörer. Kontakta
+      gärna oss om din organisation vill vara med som arrangör!
   en:
     title: Join us!
-    text: This is the first draft for a cooperation to a common event. Please, contact
-      us if you'd like your organisation to participate, or if you have any ideas
-      and suggestions!
+    text: CivicTechGbg is a cooperation between organisations, networks and the public sector. Please get in touch if you want to be a part of the network!
 partner:
   sv:
     initiative: Ett initiativ från
