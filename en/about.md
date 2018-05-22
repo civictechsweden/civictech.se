@@ -11,8 +11,6 @@ There are many non-profits and movements in Gothenburg working for social and en
 ## Hackathons
 A series of hackathons to promote civic-tech development is organised by different actors from civil society and the municipality. Some of our inspiration comes from [Code for Germany](https://codefor.de/en/) and [Open Democracy Now](http://opendemocracynow.net/) in France.
 
-The hackathons will happen every other month in average and each will last a whole day during the weekend.
-
 The projects will have three different themes:
 * Sharing is caring: Collaborative economy, the commons and sustainable consumption.
 * Power to the people: Democracy, participation and transparency.
