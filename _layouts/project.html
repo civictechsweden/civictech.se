@@ -11,7 +11,7 @@ layout: global
 
         <!-- Projects in Hackathon -->
         {% if site.categories[page.ref] %}
-          <h2>{{site.projects[page.lang]}}</h2>
+          <h2>{{site.posts[page.lang]}}</h2>
 
           {% assign projects=site.categories[page.ref] | where:"lang", page.lang %}
           {% for item in projects %}
@@ -31,7 +31,7 @@ layout: global
     <div class="container pt-2">
       <div class="row">
         <div class="col">
-          <h2 class="display-3">{{site.projects[page.lang]}}</h2>
+          <h2 class="display-3">{{site.posts[page.lang]}}</h2>
         </div>
       </div>
     </div>

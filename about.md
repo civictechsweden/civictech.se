@@ -1,7 +1,7 @@
 ---
-title: Om CivicTechGbg
+title: Om CivicTechSweden
 position: 1
-description: Hackathons för Civic Tech-communitiet i Göteborg.
+description: Hackathons för Sveriges Civic Tech-community.
 ref: about
 ---
 

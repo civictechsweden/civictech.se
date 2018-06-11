@@ -1,6 +1,6 @@
 ---
 permalink: "/sitemaps.xml"
-layout: 
+layout:
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -34,7 +34,7 @@ layout:
     {% if page.id contains "404" %}{% else %}
       <url>
         <loc>{{site.base}}{{ project.url }}</loc>
-        {% assign versions=site.projects | where:"ref", page.ref %}
+        {% assign versions=site.posts | where:"ref", page.ref %}
         {% for version in versions %}
           <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
         {% endfor %}

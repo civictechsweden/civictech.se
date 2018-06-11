@@ -1,5 +1,5 @@
 ---
-title: CivicTechGbg
+title: CivicTechSweden
 timezone: Europe/Stockholm
 collections:
   hackathons:
@@ -63,7 +63,7 @@ defaults:
       url:
       style:
 permalink: "/projects/:title/"
-description: Hackathons för Göteborgs Civic Tech-community
+description: Hackathons för Sveriges Civic Tech-community
 theme: jekyll-theme-cayman
 plugins:
 - jemoji
