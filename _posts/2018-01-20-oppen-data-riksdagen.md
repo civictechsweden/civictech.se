@@ -13,6 +13,7 @@ excerpt: Skapa en plattform där medborgare kan debattera om Riksdagens aktivite
   prata med deras ledamöten och vara ett stöd i skrivandet av motioner
 ingress-text: Skapa en plattform där medborgare kan debattera om Riksdagens aktivitet,
   prata med deras ledamöten och vara ett stöd i skrivandet av motioner
+image: "/uploads/dinriksdag-logo-color-big-9715da.png"
 links:
 - title: Dinriksdag
   url: http://www.dinriksdag.se
@@ -20,7 +21,10 @@ links:
   url: https://blog.dinriksdag.se
 contact:
 - name: Pierre Mesure
-  E-mail: " info@dinriksdag.se"
+  image: "/uploads/pierre"
+  text: Utvecklare med intresse för öppen data, civic tech och digital demokrati.
+    Han har förutom erfarenhet av programmering och design även kunskaper i projektledning.
+  mail: " info@dinriksdag.se"
 ---
 
 Målet med projektet är att skapa en plattform där medborgare kan debattera om Riksdagens aktivitet, prata med deras ledamöten och vara ett stöd i skrivandet av motioner. Plattformen finns redan: https://www.dinriksdag.se och är baserat på Consul, den online plattform som Madrids stad använder för medborgarbudget, medborgarförslag och andra funktioner för att stärka invånares inflytande i staden. 
@@ -28,5 +32,5 @@ Målet med projektet är att skapa en plattform där medborgare kan debattera om
 ## Teknisk specifikation
 Dels behöver vi anpassa innehållet och strukturen av plattformen till Riksdagen och det svenska sammanhanget. För detta krävs det inte programmeringskunskaper utan ett intresse för politik och demokratifrågor.
 
-Vi behöver också anpassa inloggningssystemet så att man kan skapa ett konto med sitt personnummer och/eller inkludera valkretsar så det går att lägga till sin adress och skapa innehåll beroende på sin valkrets. Programmering krävs där.
+När det gäller programmeringsdelen behöver vi anpassa inloggningssystemet så att en kan skapa ett konto med sitt personnummer och/eller inkludera valkretsar så det går att lägga till sin adress och skapa innehåll beroende på sin valkrets. 
 

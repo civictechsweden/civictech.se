@@ -21,7 +21,11 @@ links:
   url: http://hyresrattskollen.se/
 contact:
 - name: Fredrik Ekelund
-  mail: fredrik@fredrik.computer
+  image: "/uploads/Fredrik"
+  text: Works as a webdeveloper with focus on design. He is also engaged in different
+    types of activism, in this case he has worked with Hyresrättskollen since 2015.
+    Different issues regarding city development lies close to his heart.
+  mail: " info@hyresrattskollen.se"
   organisation: Allt åt alla Göteborg
   organisation-link: https://alltatalla.se/goteborg
 ---
@@ -33,4 +37,4 @@ The website has been active for a long time, and now we want to change focus fro
 We want to create a comprehensive picture of the situation for tenants in relation to their landlords by collecting stories of for example evictions and publish those stories on the website.
 
 ## Technical specs
-The current map is built on Leaflet/JavaScript but we are planing to redo the concept a bit. Our hope is to get help with design and development. A .NET-developer could be useful. 
+The current map is built on Leaflet/JavaScript but we are planing to redo the concept a bit. Our hope is to get help with design and development. 

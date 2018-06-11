@@ -11,8 +11,6 @@ Det finns flera ideella organisationer i Göteborg som jobbar med digital teknik
 ## Hackathons
 En serie hackathons för att främja civic tech-utvecklingen i Göteborg arrangeras av olika aktörer från civilsamhället och staden. Inspirationen kommer från bland annat franska [Open Democracy Now](http://opendemocracynow.net/) och tyska [Code for Germany](https://codefor.de/en/).
 
-> **Hackathon ordnas ungefär varannan månad, en heldag på helgen.**
-
 Hackathonen har tre olika spår, och inom varje spår går det att anmäla projekt. Kontakta oss om du eller din organisation vill vara samarbetspartner eller anmäla ett projekt. De tre spår som finns är:
 * Sharing is caring: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
 * Power to the people: Demokrati, deltagande och transparens.

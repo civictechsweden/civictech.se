@@ -17,12 +17,10 @@ links:
   style: button
 ---
 
-Remember that the 24th of February is the deadline for registering as participant.
+Remember that the 5th of March is the deadline for registering as participant.
 
 The basic guidelines for the projects are:
 1. The project should be about developing or using new technologies in order to promote an increased participation in social movements, non-profit associations, democratic political processes and civil society in general.
 2. The results of the project should be made available to the public.
-
-We will hold a programming course for beginners before the event, more information about this is coming soon!
 
 See you!

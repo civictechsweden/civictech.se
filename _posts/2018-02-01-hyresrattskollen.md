@@ -19,7 +19,12 @@ links:
   url: http://hyresrattskollen.se/
 contact:
 - name: Fredrik Ekelund
-  mail: fredrik@fredrik.computer
+  image: "/uploads/Fredrik-4c331e"
+  text: Jobbar till vardags som webbutvecklare med ganska mycket fokus på design.
+    Utanför jobbet är han sedan ett par år tillbaka engagerad i olika aktivistsammanhang,
+    i det här fallet har han jobbat med Hyresrättskollen sedan 2015. Olika frågor
+    om stadsutveckling ligger honom varmt om hjärtat.
+  mail: " info@hyresrattskollen.se"
   organisation: Allt åt alla Göteborg
   organisation-link: https://alltatalla.se/goteborg
 ---
@@ -33,5 +38,5 @@ Vi vill ge en samlad bild av hyresgästers situation gentemot hyresvärdar genom
 Vi jobbar redan med att uppdatera hemsidan för detta, men inser att vi kommer behöva tänka om vissa delar av sidan för att det ska bli bra. Vi hoppas att civic tech kan bli en möjlighet till detta!
 
 ## Teknisk specifikation
-Nuvarande karta bygger på Leaflet/JavaScript men vi tänkte lägga om konceptet lite. Vår förhoppning är att få hjälp med lite konkret design och utveckling. En .NET-utvecklare kunde vara användbart. 
+Nuvarande karta bygger på Leaflet/JavaScript men vi tänkte lägga om konceptet lite. Vår förhoppning är att få hjälp med lite konkret design och utveckling. 
 

@@ -31,44 +31,44 @@ defaults:
   values:
     layout: project
     lang: sv
-    ref:
-    excerpt:
-    ingress-text:
-    image:
+    ref: 
+    excerpt: 
+    ingress-text: 
+    image: 
     links:
-    - title:
-      url:
+    - title: 
+      url: 
     contact:
-    - name:
-      image:
-      text:
-      mail:
-      organisation:
-      organisation-link:
+    - name: 
+      image: 
+      text: 
+      mail: 
+      organisation: 
+      organisation-link: 
 - scope:
     path: ''
     type: hackathons
   values:
     layout: project
     lang: sv
-    ref:
-    image:
-    excerpt:
-    ingress-text:
-    event-date:
-    event-date-desc:
-    place:
+    ref: 
+    image: 
+    excerpt: 
+    ingress-text: 
+    event-date: 
+    event-date-desc: 
+    place: 
     links:
-    - title:
-      url:
-      style:
+    - title: 
+      url: 
+      style: 
 permalink: "/projects/:title/"
 description: Hackathons för Sveriges Civic Tech-community
 theme: jekyll-theme-cayman
 plugins:
 - jemoji
 project-title:
-  sv: Kommande hackathons
+  sv: Tidigare hackathons
   en: Hackathons
 projects:
   sv: Projekt
@@ -76,13 +76,12 @@ projects:
 contact:
   sv:
     title: Vill du vara med?
-    text: Det här är ett första utkast till ett samarbete och gemensamma event. Kontakta
-      gärna oss om din organisation vill vara med, eller om du har idéer och förslag.
+    text: CivicTechGbg är ett samarbete mellan organisationer, nätverk och offentliga
+      aktörer. Kontakta gärna oss om din organisation vill vara med som arrangör!
   en:
     title: Join us!
-    text: This is the first draft for a cooperation to a common event. Please, contact
-      us if you'd like your organisation to participate, or if you have any ideas
-      and suggestions!
+    text: CivicTechGbg is a cooperation between organisations, networks and the public
+      sector. Please get in touch if you want to be a part of the network!
 partner:
   sv:
     initiative: Ett initiativ från
@@ -106,3 +105,12 @@ partners:
 - title: Gothenburg Hackerspace
   logo: "/uploads/logo-gbghackerspace.jpg"
   link: https://www.facebook.com/gbghackerspace
+- title: Göteborgsregionens Kommunalförbund
+  logo: "/uploads/gr_color_ny_stor.png"
+  link: http://www.grkom.se/toppmenyn/dettajobbargrmed/miljoochsamhallsbyggnad/miljoochkretslopp.4.4fea3bce111092982468000586.html
+- title: Räkna till 10
+  logo: "/uploads/RT10_logo_neg.jpg"
+  link: http://raknatill10.se/
+- title: 'ABF '
+  logo: "/uploads/ABF_logo_w.svg.png"
+  link: http://www.abf.se
