@@ -11,7 +11,8 @@ CivicTechSweden är ett samarbete mellan organisationer, nätverk och offentliga
 ## Hackathons
 Vi arrangerar hackathons och meetups med aktörer från civilsamhället och staden. Inspirationen kommer från bland annat franska [f0rk](http://f0rk.fr/) och tyska [Code for Germany](https://codefor.de/en/).
 
-Hackathonen har tre olika spår, och inom varje spår går det att anmäla projekt. Kontakta oss om du eller din organisation vill vara samarbetspartner eller anmäla ett projekt. De tre spår som finns är:
+Vi arbetar inom tre teman:
+
 * Sharing is caring: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
 * Power to the people: Demokrati, deltagande och transparens.
 * I like to move it: Hållbara transporter, resande och rörlighet.
