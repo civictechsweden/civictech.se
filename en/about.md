@@ -6,10 +6,10 @@ ref: about
 ---
 
 ## Background
-There are many non-profits and movements in Gothenburg working for social and environmental goals and making use of digital technologies. There’s also a lot of knowledge and innovative ideas in the city. By organising a series of hackathons together with different themes we wish to raise the status for the civic tech sector and bring together developers, designers, hackers, activists, innovators and anyone sharing the same interests and values.
+CivicTechSweden is a cooperation between organisations, networks and the public sector working for social and environmental goals and making use of digital technologies. By organising hackathons and meetups with different themes we wish to raise the status for the civic tech sector and bring together developers, designers, hackers, activists, innovators and anyone sharing the same interests and values.
 
 ## Hackathons
-A series of hackathons to promote civic-tech development is organised by different actors from civil society and the municipality. Some of our inspiration comes from [Code for Germany](https://codefor.de/en/) and [Open Democracy Now](http://opendemocracynow.net/) in France.
+We organise hackathons and meetups to promote civic-tech development together with different actors from civil society and the municipality. Some of our inspiration comes from [Code for Germany](https://codefor.de/en/) and [f0rk](http://f0rk.fr/) in France.
 
 The projects will have three different themes:
 * Sharing is caring: Collaborative economy, the commons and sustainable consumption.

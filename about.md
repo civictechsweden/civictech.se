@@ -6,10 +6,10 @@ ref: about
 ---
 
 ## Bakgrund
-Det finns flera ideella organisationer i Göteborg som jobbar med digital teknik för samhällsnytta. Här finns väldigt mycket kunskap och innovativa idéer. Genom att arrangera gemensamma hackathons med olika teman kan vi höja statusen för civic tech och bygga upp ett gemensamt community av utvecklare, designers, aktivister och andra intresserade.
+CivicTechSweden är ett samarbete mellan organisationer, nätverk och offentliga aktörer som jobbar med digital teknik för samhällsnytta. Genom att arrangera gemensamma hackathons och meetups med olika teman kan vi höja statusen för civic tech och bygga upp ett gemensamt community av utvecklare, designers, aktivister och andra intresserade.
 
 ## Hackathons
-En serie hackathons för att främja civic tech-utvecklingen i Göteborg arrangeras av olika aktörer från civilsamhället och staden. Inspirationen kommer från bland annat franska [Open Democracy Now](http://opendemocracynow.net/) och tyska [Code for Germany](https://codefor.de/en/).
+Vi arrangerar hackathons och meetups med aktörer från civilsamhället och staden. Inspirationen kommer från bland annat franska [f0rk](http://f0rk.fr/) och tyska [Code for Germany](https://codefor.de/en/).
 
 Hackathonen har tre olika spår, och inom varje spår går det att anmäla projekt. Kontakta oss om du eller din organisation vill vara samarbetspartner eller anmäla ett projekt. De tre spår som finns är:
 * Sharing is caring: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
