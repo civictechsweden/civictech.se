@@ -320,6 +320,10 @@ $btn-primary-color:              $brand-primary !default;
 $btn-primary-bg:                 $white !default;
 $btn-primary-border:             $btn-primary-color !default;
 
+$btn-secondary-color:            $brand-danger !default;
+$btn-secondary-bg:               $btn-primary-bg;
+$btn-secondary-border:           $btn-secondary-color !default;
+
 
 // Close
 $close-font-size:             5rem;

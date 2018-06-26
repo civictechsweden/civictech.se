@@ -181,6 +181,12 @@ small a,
   font-family: $headings-font-family;
 }
 
+.btn-secondary,
+.btn-secondary:focus, .btn-secondary.focus
+.btn-secondary:active, .btn-secondary.active {
+  box-shadow: 8px 8px 0 0 $btn-secondary-color;
+}
+
 .flex-column .nav-link {
   color: $black;
 }
