@@ -31,37 +31,37 @@ defaults:
   values:
     layout: project
     lang: sv
-    ref:
-    excerpt:
-    ingress-text:
-    image:
+    ref: 
+    excerpt: 
+    ingress-text: 
+    image: 
     links:
-    - title:
-      url:
+    - title: 
+      url: 
     contact:
-    - name:
-      image:
-      text:
-      mail:
-      organisation:
-      organisation-link:
+    - name: 
+      image: 
+      text: 
+      mail: 
+      organisation: 
+      organisation-link: 
 - scope:
     path: ''
     type: hackathons
   values:
     layout: project
     lang: sv
-    ref:
-    image:
-    excerpt:
-    ingress-text:
-    event-date:
-    event-date-desc:
-    place:
+    ref: 
+    image: 
+    excerpt: 
+    ingress-text: 
+    event-date: 
+    event-date-desc: 
+    place: 
     links:
-    - title:
-      url:
-      style:
+    - title: 
+      url: 
+      style: 
 permalink: "/projects/:title/"
 description: Hackathons för Sveriges Civic Tech-community
 theme: jekyll-theme-cayman
@@ -80,8 +80,8 @@ contact:
       aktörer. Kontakta gärna oss om din organisation vill vara med som arrangör!
   en:
     title: Join us!
-    text: CivicTechSweden is a cooperation between organisations, networks and the public
-      sector. Please get in touch if you want to be a part of the network!
+    text: CivicTechSweden is a cooperation between organisations, networks and the
+      public sector. Please get in touch if you want to be a part of the network!
 partner:
   sv:
     initiative: Ett initiativ från
