@@ -61,7 +61,7 @@
 
 
 // Links
-
+label,
 .figure-caption,
 .card-text,
 .lead,
@@ -171,6 +171,11 @@ blockquote {
 small a,
 .small a {
   text-decoration: underline;
+}
+
+textarea,
+input {
+  font-family: $font-family-sans-serif;
 }
 
 // Navigation
@@ -316,6 +321,7 @@ ul.list-random {
     font-size: 3rem;
   }
 
+  label,
   h3,
   .btn,
   .nav .nav-link,

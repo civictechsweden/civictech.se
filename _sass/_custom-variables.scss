@@ -325,6 +325,16 @@ $btn-secondary-bg:               $btn-primary-bg;
 $btn-secondary-border:           $btn-secondary-color !default;
 
 
+// Forms
+
+$form-check-input-margin-y: .5rem !default;
+$form-check-input-gutter:   .75rem !default;
+
+$input-color:                    $black !default;
+$input-btn-border-width:         $border-width !default; // For form controls and buttons
+$input-box-shadow:               0 !default;
+$input-border-focus:             $brand-primary !default;
+
 // Close
 $close-font-size:             5rem;
 $close-font-weight:           normal !default;

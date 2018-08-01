@@ -1,0 +1,45 @@
+<p>test</p>
+<form class="" role="form">
+  {% for item in page.form %}
+    <div class="form-group">
+    {% case item.type %}
+      {% when 'markup' %}
+        <h4>{{item.title}}</h4>
+      {% when 'radio' %}
+        <label for="{{ item.id }}">{{ item.title }}</label>
+        {% for option in item.options %}
+          <label class="radio-inline">
+            <input type="{{ item.type }}" name="{{ item.id }}" id="{{ option.id }}" value="{{ option.id }}"> {{ option.name }}
+          </label>
+        {% endfor %}
+      {% when 'select' %}
+        <label for="{{ item.id }}">{{ item.title }}</label>
+          <select class="form-control">
+            {% for option in item.options %}
+              <option>{{option.name}}</option>
+            {% endfor %}
+          </select>
+      {% when 'checkbox' %}
+        {% for option in item.options %}
+          <div class="checkbox">
+            <label>
+              <input type="checkbox" value="{{option.id}}">{{option.name}}
+            </label>
+          </div>
+        {% endfor %}
+      {% when 'textarea' %}
+        <label for="{{ item.id }}">{{ item.title }}</label>
+        <textarea class="form-control" id="{{ item.id }}" rows="2"></textarea>
+      {% when 'submit' %}
+        <button type="{{ item.type }}" class="btn btn-primary">{{ item.title }}</button>
+      {% else %}
+        <label for="{{ item.id }}">{{ item.title }}</label>
+        <input type="{{ item.type }}" class="form-control" id="{{ item.id }}" placeholder="">
+      {% endcase %}
+      {% if item.description %}
+        <p class="help-block">{{item.description}}</p>
+      {% endif %}
+    </div>
+  {% endfor %}
+
+</form>
