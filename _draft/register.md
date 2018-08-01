@@ -16,7 +16,8 @@ form:
   title: Telefonnummer
   type: text
 - id: kunskaper
-  title: Vad har du för kunskaper som du kan bidra med inom programmering, design, projektledning eller annat?
+  title: Vad har du för kunskaper som du kan bidra med inom programmering, design,
+    projektledning eller annat?
   required: required
 - id: mat
   title: Maten blir vegetarisk, fyll i om du har allergier eller andra behov för maten
@@ -25,7 +26,7 @@ form:
   title: Vill du vara med på en nybörjarkurs i programmering innan hackathonet?
   type: checkbox
   options:
-  - option:
+  - option: 
     name: Ja
     id: ja
 - id: _subject

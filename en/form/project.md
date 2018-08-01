@@ -5,8 +5,8 @@ ref: project-presentation
 layout: form
 ingress-text: Apply to be a part of CivicTechSweden's hackathons.
 links:
-  - title: Guidelines for projects
-    url: /en/about/#guidelines
+- title: Guidelines for projects
+  url: "/en/about/#guidelines"
 form:
 - id: namn
   title: Your name
@@ -32,15 +32,15 @@ form:
   type: checkbox
   required: required
   options:
-    - option:
-      name: Sharing is caring
-      id: sharing-is-caring
-    - option:
-      name: Power to the people
-      id: power-to-the-people
-    - option:
-      name: I like to move it
-      id: i-like-to-move-it
+  - option: 
+    name: Sharing is caring
+    id: sharing-is-caring
+  - option: 
+    name: Power to the people
+    id: power-to-the-people
+  - option: 
+    name: I like to move it
+    id: i-like-to-move-it
 - id: projectDesc
   title: Describe your project
   type: textarea
@@ -50,7 +50,8 @@ form:
   type: textarea
 - id: projectMaterial
   title: Do you need to borrow equipment?
-  description: Material och programs, besides the laptops that the participants will bring.
+  description: Material och programs, besides the laptops that the participants will
+    bring.
   type: text
 - id: projectLeader
   title: Tell us a little bit about yourself
@@ -71,3 +72,4 @@ form:
   type: submit
   title: Send
 ---
+

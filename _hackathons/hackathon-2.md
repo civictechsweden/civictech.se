@@ -4,7 +4,7 @@ ref: hackathon-2
 image: "/uploads/hackathon-1.jpg"
 excerpt: 'Hackathon #2 för Civic Tech-communitiet i Göteborg'
 ingress-text: Välkommen till Göteborgs nya mötesplats för civic tech-communitiet!
-event-date: 2018-09-02 00:00:00 +01:00
+event-date: 2018-09-02 01:00:00 +02:00
 event-date-desc: 2 september 2018, kl 10 - 19
 place: Viktoriahuset, Göteborg
 links:
@@ -35,7 +35,7 @@ form:
 - id: kurs
   type: checkbox
   options:
-  - option:
+  - option: 
     name: Jag vill vara med på en nybörjarkurs i programmering innan hackathonet
     id: ja
 - id: _subject
@@ -51,3 +51,4 @@ form:
   type: submit
   title: Skicka
 ---
+
