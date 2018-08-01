@@ -65,7 +65,7 @@ De grundläggande riktlinjerna för projekt är att:
 1. Projektet ska främja ökat deltagande i sociala rörelser, föreningsliv, politiska processer eller samhället i stort med hjälp av ny teknik.
 2. Projektresultatet ska göras tillgängligt för alla.
 
-Har du ett projekt som du vill genomföra? Anmäl intresse i formuläret eller kontakta oss om du har en idé som behöver utvecklas.
+Har du ett projekt som du vill genomföra? Anmäl intresse i formuläret under "Ansök med projekt" eller kontakta oss om du har en idé som behöver utvecklas.
 
 Datum att hålla reda på är:
 23 Augusti - Deadline för att anmäla projekt
