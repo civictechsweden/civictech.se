@@ -63,7 +63,7 @@ form:
   value: Anmälan av projekt
   type: hidden
 - id: redirect_to
-  value: http://civictech.se/en
+  value: http://civictech.se
   type: hidden
 - id: _after
   value: http://civictech.se
