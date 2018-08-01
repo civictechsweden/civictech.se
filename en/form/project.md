@@ -64,6 +64,9 @@ form:
 - id: _after
   value: http://civictech.se/en
   type: hidden
+- id: redirect_to
+  value: http://civictech.se/en
+  type: hidden
 - id: _honeypot
   value: ''
   type: hidden
