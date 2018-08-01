@@ -5,8 +5,8 @@ ref: project-presentation
 layout: form
 ingress-text: Ansök här för att bli antagen till CivicTechSwedens hackathon.
 links:
-  - title: Riktlinjer för projekt
-    url: /about/#riktlinjer
+- title: Riktlinjer för projekt
+  url: "/about/#riktlinjer"
 form:
 - id: namn
   title: Ditt namn
@@ -33,15 +33,15 @@ form:
   type: checkbox
   required: required
   options:
-    - option:
-      name: Sharing is caring
-      id: sharing-is-caring
-    - option:
-      name: Power to the people
-      id: power-to-the-people
-    - option:
-      name: I like to move it
-      id: i-like-to-move-it
+  - option: 
+    name: Sharing is caring
+    id: sharing-is-caring
+  - option: 
+    name: Power to the people
+    id: power-to-the-people
+  - option: 
+    name: I like to move it
+    id: i-like-to-move-it
 - id: projectDesc
   title: Beskriv ditt projekt i några meningar
   type: textarea
@@ -72,3 +72,4 @@ form:
   type: submit
   title: Skicka
 ---
+
