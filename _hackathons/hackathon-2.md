@@ -68,7 +68,7 @@ De grundläggande riktlinjerna för projekt är att:
 Har du ett projekt som du vill genomföra? Anmäl intresse i formuläret under "Ansök med projekt" eller kontakta oss om du har en idé som behöver utvecklas.
 
 Datum att hålla reda på är:
-23 Augusti - Deadline för att anmäla projekt
-28 Augusti - Senaste anmälningsdatum för deltagare
+* 23 Augusti - Deadline för att anmäla projekt
+* 28 Augusti - Senaste anmälningsdatum för deltagare
 
 Vi hörs!
