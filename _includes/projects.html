@@ -1,4 +1,4 @@
-{% assign hackathons=site.hackathons | where:"lang", page.lang | sort:'event-date'%}
+{% assign hackathons=site.hackathons | where:"lang", page.lang | sort:'event-date' | reverse %}
 
 {% for item in hackathons %}
   <div class="{% cycle 'bg-faded', '' %}">

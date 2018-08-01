@@ -21,50 +21,16 @@ layout: global
 
         {% endif %}
 
+        <!-- Anmälningsformulär -->
+        {% if page.form %}
+          <h3 id="register">{{site.register[page.lang]}}</h3>
+          <p>{{site.register_desc[page.lang]}}</p>
+          {% include form.html %}
+        {% endif %}
+
       </div>
     </div>
   </div>
-
-  <!--
-  {% if site.categories[page.ref] %}
-
-    <div class="container pt-2">
-      <div class="row">
-        <div class="col">
-          <h2 class="display-3">{{site.posts[page.lang]}}</h2>
-        </div>
-      </div>
-    </div>
-
-    {% assign projects=site.categories[page.ref] | where:"lang", page.lang %}
-    {% for item in projects %}
-      <div class="{% cycle 'bg-faded', '' %}">
-        <div class="container py-4">
-          <div class="row">
-            <div class="col-lg-10 offset-lg-2">
-              <div class="row">
-                <div class="col-8 offset-2 offset-sm-0 col-sm-4 text-center mb-2">
-                  <a href="{{site.baseurl}}{{item.url}}">
-                    <img class="w-100" src="{{site.baseurl}}{{item.image}}">
-                  </a>
-                </div>
-                <div class="col-12 col-sm-8">
-                    <h2 class="mb-1">
-                      <a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
-                    </h2>
-                  <p>
-                    {{item.excerpt}}
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    {% endfor %}
-  {% endif %}
-  -->
-
 
   {% if page.contact %}
     <div class="bg-faded">

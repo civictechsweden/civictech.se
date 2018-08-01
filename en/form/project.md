@@ -1,35 +1,34 @@
 ---
-title: Ansök med projekt
-excerpt: Ansök med projekt till CivicTechSweden
+title: Apply with project
+excerpt: Apply with your project for CivicTechSweden
 ref: project-presentation
 layout: form
-ingress-text: Ansök här för att bli antagen till CivicTechSwedens hackathon.
+ingress-text: Apply to be a part of CivicTechSweden's hackathons.
 links:
-  - title: Riktlinjer för projekt
-    url: /about/#riktlinjer
+  - title: Guidelines for projects
+    url: /en/about/#guidelines
 form:
 - id: namn
-  title: Ditt namn
+  title: Your name
   type: text
   required: required
 - id: organisation
-  title: Organisation som du representerar
+  title: Organisation that you represent
   type: text
-  description: Du kan också göra projekt som privatperson.
 - id: _replyto
-  title: Din mailadress
+  title: Your email
   required: required
   type: email
 - id: phone
-  title: Ditt telefonnummer
+  title: Your phone number
   type: text
   required: required
 - id: projectName
-  title: Projektets namn
+  title: Name of the project
   type: text
   required: required
 - id: projectTrack
-  title: Vilket spår passar ditt projekt in på?
+  title: Which track suits your project best?
   type: checkbox
   required: required
   options:
@@ -43,32 +42,32 @@ form:
       name: I like to move it
       id: i-like-to-move-it
 - id: projectDesc
-  title: Beskriv ditt projekt i några meningar
+  title: Describe your project
   type: textarea
   required: required
 - id: projectNeeds
-  title: Vad behöver du för kompetens till ditt projekt?
+  title: Which skills do you need for your project?
   type: textarea
 - id: projectMaterial
-  title: Behöver du låna utrustning?
-  description: Till exempel program eller material, förutom egna laptops?
+  title: Do you need to borrow equipment?
+  description: Material och programs, besides the laptops that the participants will bring.
   type: text
 - id: projectLeader
-  title: Berätta kort om dig själv
+  title: Tell us a little bit about yourself
   type: textarea
 - id: file
-  title: Logotyp eller bild till projektet
+  title: Logo or image for the project
   type: file
 - id: _subject
   value: Anmälan av projekt
   type: hidden
 - id: _after
-  value: http://civictech.se
+  value: http://civictech.se/en
   type: hidden
 - id: _honeypot
   value: ''
   type: hidden
 - id: send
   type: submit
-  title: Skicka
+  title: Send
 ---

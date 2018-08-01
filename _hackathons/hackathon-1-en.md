@@ -11,10 +11,6 @@ ingress-text: Welcome to Gothenburg's new meeting point for the civic tech commu
 event-date: 2018-03-10 00:00:00 +01:00
 event-date-desc: 10 March 2018, 10 am - 7 pm
 place: Viktoriahuset, Gothenburg, Sweden
-links:
-- title: Register
-  url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
-  style: button
 ---
 
 Remember that the 5th of March is the deadline for registering as participant.

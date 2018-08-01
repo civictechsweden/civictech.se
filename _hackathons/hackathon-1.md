@@ -10,12 +10,9 @@ event-date: 2018-03-10 00:00:00 +01:00
 event-date-desc: 10 mars 2018, kl 10 - 19
 place: Viktoriahuset, Göteborg
 links:
-- title: Anmälan
-  url: https://www.eventbrite.com/e/civictechgbg-hackathon-1-tickets-39479679785
-  style: button
 - title: Ladda ner flyer
   url: "/uploads/civictechgbg%20flyer%20hackathon%201.pdf"
-  style: 
+  style:
 ---
 
 Kom ihåg: 5 mars är senaste anmälningsdatum för deltagare!
