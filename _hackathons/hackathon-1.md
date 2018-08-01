@@ -12,7 +12,7 @@ place: Viktoriahuset, Göteborg
 links:
 - title: Ladda ner flyer
   url: "/uploads/civictechgbg%20flyer%20hackathon%201.pdf"
-  style:
+  style: 
 ---
 
 Kom ihåg: 5 mars är senaste anmälningsdatum för deltagare!
