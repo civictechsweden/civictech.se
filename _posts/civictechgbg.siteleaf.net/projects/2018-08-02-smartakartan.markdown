@@ -22,7 +22,7 @@ contact:
   image: "/uploads/smarta-kartan-logo-a45a1d.svg"
   text: En konsumtionskritisk trebarnspappa och egenföretagare från Sundsvall. Tillsammans
     med Emma Öhrwall grundade han den ideella föreningen Kollaborativ Ekonomi Göteborg
-    som ligger bakom Smartakartan.
+    som ligger bakom Smarta Kartan.
   mail: jmp@kollekogbg.se
   organisation: Kollaborativ Ekonomi Göteborg
   organisation-link: http://www.kollekogbg.se/
