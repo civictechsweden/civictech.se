@@ -28,7 +28,7 @@ contact:
   organisation-link: http://www.kollekogbg.se/
 ---
 
-Smarta Kartan är en plattform som möjliggör tillgång framför ägande och vill underlätta för göteborgare och besökare att leva hållbart. Webbplatsen samlar delningsinitiativ som  Göteborgs cykelkök, bytesgrupper, fritidsbanker, klädbytardagar, leksaksbibliotek och gratisbutiker och skapar på så sätt nya möten ihop samtidigt som ett minskat klimatavtryck.
+Smarta Kartan är en plattform som möjliggör tillgång framför ägande och vill underlätta för göteborgare och besökare att leva hållbart. Webbplatsen samlar delningsinitiativ som  Göteborgs cykelkök, bytesgrupper, fritidsbanker, klädbytardagar, leksaksbibliotek och gratisbutiker och skapar på så sätt nya möten ihop med ett minskat klimatavtryck.
 
 ## Kompetenser som önskas
 Vi vill ha input från folk som kan ta sig en titt på webplatsen som den är idag och tillgängliggöra den ännu mer. De kompetenser vi önskar är arabisktalande, UXkunniga, psykologikunniga och growthhackers.
