@@ -35,9 +35,9 @@ form:
 - id: kurs
   type: checkbox
   options:
-  - option: 
+  - option:
     name: Jag vill vara med på en nybörjarkurs i programmering innan hackathonet
-    id: ja
+    id: kurs
 - id: _subject
   value: Anmälan till hackathon
   type: hidden
@@ -45,14 +45,14 @@ form:
   value: http://civictech.se
   type: hidden
 - id: _honeypot
-  value: 
+  value:
   type: hidden
 - id: send
   type: submit
   title: Skicka
 ---
 
-Välkommen att delta i Civic Tech Swedens andra hackathon den 2 september! Det blir en heldag med spännande projekt, mat, fika och skönt häng. 
+Välkommen att delta i Civic Tech Swedens andra hackathon den 2 september! Det blir en heldag med spännande projekt, mat, fika och skönt häng.
 
 Projekten kommer att vara inom tre olika spår:
 * Sharing is caring: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
