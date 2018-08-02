@@ -31,7 +31,7 @@ contact:
   organisation-link: http://www.kollekogbg.se/
 ---
 
-Smarta Kartan is a platform that promotes access rather than ownership and makes it easier for people in Gothenburg to live sustainably. The website collects sharing initiatives such as Gothenburgs bike kitchen, exchange groups, clothing exchange days, leisure equipment banks and give-away shops. It creates new meetings between people and lessens the impact on the climate at the same time.
+The Smart Map is a platform that promotes access rather than ownership and makes it easier for people in Gothenburg to live sustainably. The website collects sharing initiatives such as Gothenburgs bike kitchen, exchange groups, clothing exchange days, leisure equipment banks and give-away shops. It creates new meetings between people and lessens the impact on the climate at the same time.
 
 ## Desired skills
 We want people to look at the website as it is today and make it more accessable. The skills we particulary want are Arabic speakers, UX-experts, people with knowledge in psychology and growth hackers.   
