@@ -1,5 +1,6 @@
 ---
 title: Anmälan till hackathon
+date: 2018-08-02 10:15:12.410000000 +02:00
 excerpt: Anmälan till hackathon
 ref: register
 layout: form
