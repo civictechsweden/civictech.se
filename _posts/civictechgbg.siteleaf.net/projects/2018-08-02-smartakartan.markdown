@@ -19,7 +19,7 @@ links:
   url: www.smartakartan.se
 contact:
 - name: Jonathan Mattebo Persson
-  image: "/uploads/161116_CafePlanet_kegsmartakartan-598x350.jpg"
+  image: "/uploads/smarta-kartan-logo-a45a1d.svg"
   text: En konsumtionskritisk trebarnspappa och egenföretagare från Sundsvall. Tillsammans
     med Emma Öhrwall grundade han den ideella föreningen Kollaborativ Ekonomi Göteborg
     som ligger bakom Smartakartan.
