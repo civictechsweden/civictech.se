@@ -4,8 +4,7 @@ permalink: "/en/hackathon-2/"
 lang: en
 ref: hackathon-2
 image: "/uploads/hackathon-2.jpg"
-excerpt: Welcome to take part in Civic Tech Swedens second hackathon September 2nd!
-  It will be a full day of exciting projects, good food and fika in a friendly atmosphere.
+excerpt: 'Hackathon #2 for the civic tech community of Gothenburg'
 ingress-text: Welcome to take part in Civic Tech Swedens second hackathon September
   2nd! It will be a full day of exciting projects, good food and fika in a friendly
   atmosphere.
