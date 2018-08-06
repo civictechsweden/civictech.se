@@ -1,9 +1,11 @@
 ---
 title: 'Hackathon #2'
 ref: hackathon-2
-image: "/uploads/hackathon-1.jpg"
-excerpt: 'Hackathon #2 för Civic Tech-communitiet i Göteborg'
-ingress-text: Välkommen till Göteborgs nya mötesplats för civic tech-communitiet!
+image: "/uploads/hackathon-2.jpg"
+excerpt: Välkommen att delta i Civic Tech Swedens andra hackathon den 2 september!
+  Det blir en heldag med spännande projekt, mat, fika och skönt häng.
+ingress-text: Välkommen att delta i Civic Tech Swedens andra hackathon den 2 september!
+  Det blir en heldag med spännande projekt, mat, fika och skönt häng.
 event-date: 2018-09-02 01:00:00 +02:00
 event-date-desc: 2 september 2018, kl 10 - 19
 place: Viktoriahuset, Göteborg
@@ -52,16 +54,14 @@ form:
   title: Skicka
 ---
 
-Välkommen att delta i Civic Tech Swedens andra hackathon den 2 september! Det blir en heldag med spännande projekt, mat, fika och skönt häng.
-
-Projekten kommer att vara inom tre olika spår:
+Projekten kommer att vara inom tre olika spår:  
 * Sharing is caring: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
 * Power to the people: Demokrati, deltagande och transparens.
 * I like to move it: Hållbara transporter, resande och rörlighet.
 
 Nu söker vi organisationer/personer som vill anmäla  projekt på dessa teman och deltagare som vill arbeta i projekten. Vi söker främst deltagare med kunskaper i programmering, kommunikation, teknologi, öppen data, design men också de med erfarenheter i att arbeta med demokratifrågor eller delningsekonomi.
 
-De grundläggande riktlinjerna för projekt är att:
+De grundläggande riktlinjerna för projekt är att:  
 1. Projektet ska främja ökat deltagande i sociala rörelser, föreningsliv, politiska processer eller samhället i stort med hjälp av ny teknik.
 2. Projektresultatet ska göras tillgängligt för alla.
 
