@@ -2,8 +2,7 @@
 title: 'Hackathon #2'
 ref: hackathon-2
 image: "/uploads/hackathon-2.jpg"
-excerpt: Välkommen att delta i Civic Tech Swedens andra hackathon den 2 september!
-  Det blir en heldag med spännande projekt, mat, fika och skönt häng.
+excerpt: 'Hackathon #2 för Civic Tech-communitiet i Göteborg'
 ingress-text: Välkommen att delta i Civic Tech Swedens andra hackathon den 2 september!
   Det blir en heldag med spännande projekt, mat, fika och skönt häng.
 event-date: 2018-09-02 01:00:00 +02:00
