@@ -60,9 +60,9 @@ form:
 
 The projects will have three different themes:
 
-*Sharing is caring: Collaborative economy, the commons and sustainable consumption.
-*Power to the people: Democracy, participation and transparency.
-*I like to move it: Sustainable transportation, travel and mobility.
+* Sharing is caring: Collaborative economy, the commons and sustainable consumption.
+* Power to the people: Democracy, participation and transparency.
+* I like to move it: Sustainable transportation, travel and mobility.
 
 Now, we are looking for organisations/people who want to register projects around these themes and participants who want to come and work on the projects. We are mostly looking for participants with knowledge of programming, communication, technology, open data, design but also those who have experience in working with democracy or sharing economy.
 
