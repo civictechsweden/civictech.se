@@ -3,9 +3,12 @@ title: 'Hackathon #2'
 permalink: "/en/hackathon-2/"
 lang: en
 ref: hackathon-2
-image: "/uploads/hackathon-1.jpg"
-excerpt: 'Hackathon #2 for the civic tech community of Gothenburg'
-ingress-text: Welcome to Gothenburg's new meeting point for the civic tech community!
+image: "/uploads/hackathon-2.jpg"
+excerpt: Welcome to take part in Civic Tech Swedens second hackathon September 2nd!
+  It will be a full day of exciting projects, good food and fika in a friendly atmosphere.
+ingress-text: Welcome to take part in Civic Tech Swedens second hackathon September
+  2nd! It will be a full day of exciting projects, good food and fika in a friendly
+  atmosphere.
 event-date: 2018-09-02 01:00:00 +02:00
 event-date-desc: 2 September 2018, 10 am - 7 pm
 place: Viktoriahuset, Gothenburg, Sweden
@@ -55,9 +58,8 @@ form:
   title: Send
 ---
 
-Welcome to take part in Civic Tech Swedens second hackathon September 2nd! It will be a full day of exciting projects, good food and fika in a friendly atmosphere.
-
 The projects will have three different themes:
+
 *Sharing is caring: Collaborative economy, the commons and sustainable consumption.
 *Power to the people: Democracy, participation and transparency.
 *I like to move it: Sustainable transportation, travel and mobility.
@@ -65,12 +67,14 @@ The projects will have three different themes:
 Now, we are looking for organisations/people who want to register projects around these themes and participants who want to come and work on the projects. We are mostly looking for participants with knowledge of programming, communication, technology, open data, design but also those who have experience in working with democracy or sharing economy.
 
 The basic guidelines for the projects are:
+
 1. The project should be about developing or using new technologies in order to promote an increased participation in social movements, non-profit associations, democratic political processes and civil society in general.
 2. The results of the project should be made available to the public.
 
 Do you have a project you want to do? Register in the form under "Apply with project" or contact us if you have an idea that needs to be developed. 
 
 Important dates are:
+
 * 23 Augusti - Deadline for registering projects
 * 28 Augusti - Deadline for registering as a participant
 
