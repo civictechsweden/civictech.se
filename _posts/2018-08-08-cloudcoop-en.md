@@ -1,6 +1,6 @@
 ---
 title: CloudCoop
-date: 2018-08-08 00:00:00 +01:00
+date: 2018-08-08 01:00:00 +02:00
 permalink: "/en/projects/cloudcoop/"
 published: false
 categories:
