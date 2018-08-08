@@ -1,6 +1,7 @@
 ---
 title: CloudCoop
 date: 2018-02-01 00:00:00 +01:00
+published: false
 permalink: "/en/projects/cloudcoop/"
 lang: en
 categories:
