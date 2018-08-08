@@ -1,9 +1,6 @@
 ---
 title: CloudCoop
 date: 2018-02-01 00:00:00 +01:00
-published: false
-permalink: "/en/projects/cloudcoop/"
-lang: en
 categories:
 - Power to the people
 - Sharing is caring
@@ -13,14 +10,19 @@ tags:
 - Design
 - Discussion
 ref: cloudcoop
+links:
+- title: Chatta om projektet
+  url: https://chat.civictech.se/channel/cloudcoop
 excerpt: Fria molntjänster för sociala rörelser.
 ingress-text: Fria molntjänster för sociala rörelser.
 image: "/uploads/cloud.jpg"
 contact:
 - name: Petter Joelson
   image: "/uploads/petter.png"
-  text: "Jag är digital strateg och aktivist. Nu koordinator och medgrundare av Digidem Lab, tidigare startade och drev jag en kooperativ webbyrå i åtta år och innan dess var jag yrkesdemonstrant ;)"
-  mail: "petter@digidemlab.org"
+  text: Jag är digital strateg och aktivist. Nu koordinator och medgrundare av Digidem
+    Lab, tidigare startade och drev jag en kooperativ webbyrå i åtta år och innan
+    dess var jag yrkesdemonstrant ;)
+  mail: petter@digidemlab.org
   organisation: Digidem Lab
   organisation-link: http://digidemlab.org
 ---
