@@ -1,6 +1,7 @@
 ---
 title: Smarta Kartan 2.0
 date: 2018-08-02 11:22:00 +02:00
+permalink: "/en/projects/smartakartan/"
 categories:
 - Sharing is caring
 - hackathon-2
@@ -9,7 +10,7 @@ tags:
 - Discussion
 - UX
 lang: en
-ref: Smarta Kartan 2.0
+ref: smartakartan
 excerpt: The Smart Map aims to make it easier for the people of Gothenburg and visitors
   to the city to live sustainably by encouraging community, new meetings and access
   rather than ownership.

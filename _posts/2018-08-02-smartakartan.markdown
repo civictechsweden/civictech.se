@@ -8,7 +8,7 @@ tags:
 - Sharingeconomy
 - Discussion
 - UX
-ref: smartakartan 2.0
+ref: smartakartan
 excerpt: 'En webbplats som vill underlätta för göteborgare och besökare att leva hållbart,
   genom att uppmuntra till gemenskap, nya möten och tillgång framför ägande. '
 ingress-text: 'En webbplats som vill underlätta för göteborgare och besökare att leva
