@@ -1,6 +1,6 @@
 ---
 title: CloudCoop
-date: 2018-02-01 00:00:00 +01:00
+date: 2018-08-08 00:00:00 +01:00
 categories:
 - Power to the people
 - Sharing is caring
@@ -32,3 +32,6 @@ Målet med projektet är att hitta tekniska lösningar för att kunna erbjuda fr
 Digidem Lab har testat olika verktyg med rörelser det senaste året och skulle rekommendera att använda Nextcloud, Rocket.chat (eller Mattermost) för diskussion och Wekan för projekthantering.
 
 Läs mer och kom med i diskussionen på <https://chat.civictech.se/channel/cloudcoop>
+
+## Kompetenser som önskas
+Systemadministratörer; personer med erfarenhet från rörelser (där folk har varierande vana av digitala verktyg); designer; interaktionsdesigner.
