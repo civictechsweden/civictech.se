@@ -8,10 +8,10 @@ tags:
 - Öppendata
 - demokrati
 ref: Dinriksdag
-excerpt: Visualisera regerings arbete och ta Sveriges arbete med öppen data till nästa
-  nivå
-ingress-text: Visualisera regerings arbete och ta Sveriges arbete med öppen data till
+excerpt: Visualisera regeringens arbete och ta Sveriges arbete med öppen data till
   nästa nivå
+ingress-text: Visualisera regeringens arbete och ta Sveriges arbete med öppen data
+  till nästa nivå
 image: "/uploads/dinriksdag-logo-color-big-9715da.png"
 links:
 - title: Din Riksdag
