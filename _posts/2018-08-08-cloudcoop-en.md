@@ -15,6 +15,9 @@ ref: cloudcoop
 excerpt: Free cloud services for social movements.
 ingress-text: Free cloud services for social movements.
 image: "/uploads/cloud.jpg"
+links:
+- title: Chat about the project
+  url: https://chat.civictech.se/channel/cloudcoop
 contact:
 - name: Petter Joelson
   image: "/uploads/petter.png"
