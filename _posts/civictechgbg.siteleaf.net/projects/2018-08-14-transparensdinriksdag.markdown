@@ -14,8 +14,8 @@ ingress-text: Visualisera regeringens arbete och ta Sveriges arbete med öppen d
   till nästa nivå
 image: "/uploads/dinriksdag-logo-color-big-9715da.png"
 links:
-- title: Din Riksdag
-  url: http://www.dinriksdag.se/
+- title: Chatta om projektet
+  url: https://chat.civictech.se/channel/dinriksdag
 contact:
 - name: Pierre Mesure
   image: "/uploads/pierre"
