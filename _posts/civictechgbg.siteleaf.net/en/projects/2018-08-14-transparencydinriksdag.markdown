@@ -15,8 +15,8 @@ ingress-text: Visualise the governments documents and take Swedens work with ope
   data to the next level
 image: "/uploads/dinriksdag-logo-color-big-9715da.png"
 links:
-- title: Dinriksdag
-  url: http://dinriksdag.se/
+- title: Chat about the project
+  url: https://chat.civictech.se/channel/dinriksdag
 contact:
 - name: Pierre Mesure
   image: "/uploads/pierre"
