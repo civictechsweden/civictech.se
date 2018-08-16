@@ -17,7 +17,7 @@ links:
   url: https://skjutsgruppen.nu/
 contact:
 - name: Mattias Jägerskog
-  text: 'Grundare av skjutsgruppen, en samåkningstjänst för att minska ensambilismen
+  text: 'Grundare av Skjutsgruppen, en samåkningstjänst för att minska ensambilismen
     och kommunikationsexpert som brinner för ett solidariskt och hållbart samhälle. '
   mail: hej@skjutsgruppen.nu
   organisation: Skjutsgruppen
