@@ -30,13 +30,29 @@ form:
   title: Vad har du för kunskaper som du kan bidra med?
   description: Inom programmering, design, projektledning eller annat?
   required: required
+- id: projectTrack
+  title: Vilket projekt vill du helst jobba med?
+  type: checkbox
+  options:
+  - option:
+    name: Åke
+    id: ake
+  - option:
+    name: Transparens @ Din Riksdag
+    id: dinriksdag
+  - option:
+    name: CloudCoop
+    id: cloudcoop
+  - option:
+    name: Smarta Kartan 2.0
+    id: smartakartan
 - id: mat
   title: Maten blir vegetarisk, fyll i om du har allergier eller andra behov för maten
   type: text
 - id: kurs
   type: checkbox
   options:
-  - option: 
+  - option:
     name: Jag vill vara med på en nybörjarkurs i programmering innan hackathonet
     id: kurs
 - id: _subject
@@ -46,7 +62,7 @@ form:
   value: http://civictech.se
   type: hidden
 - id: _honeypot
-  value: 
+  value:
   type: hidden
 - id: send
   type: submit

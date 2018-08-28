@@ -33,6 +33,22 @@ form:
   title: What knowledge can you contribute to the projects?
   description: For example programming, design, project management or something else?
   required: required
+- id: projectTrack
+  title: Which project do you want to work with?
+  type: checkbox
+  options:
+  - option:
+    name: Åke
+    id: ake
+  - option:
+    name: Transparens @ Din Riksdag
+    id: dinriksdag
+  - option:
+    name: CloudCoop
+    id: cloudcoop
+  - option:
+    name: Smarta Kartan 2.0
+    id: smartakartan
 - id: mat
   title: All food will be vegetarian, please let us know about alergies or other specific
     needs
@@ -40,7 +56,7 @@ form:
 - id: kurs
   type: checkbox
   options:
-  - option: 
+  - option:
     name: I want to join a beginners programming course before the hackathon
     id: ja
 - id: _subject
@@ -50,7 +66,7 @@ form:
   value: http://civictech.se
   type: hidden
 - id: _honeypot
-  value: 
+  value:
   type: hidden
 - id: send
   type: submit
@@ -70,7 +86,7 @@ The basic guidelines for the projects are:
 1. The project should be about developing or using new technologies in order to promote an increased participation in social movements, non-profit associations, democratic political processes and civil society in general.
 2. The results of the project should be made available to the public.
 
-Do you have a project you want to do? Register in the form under "Apply with project" or contact us if you have an idea that needs to be developed. 
+Do you have a project you want to do? Register in the form under "Apply with project" or contact us if you have an idea that needs to be developed.
 
 Important dates are:
 
