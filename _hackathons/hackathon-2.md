@@ -74,16 +74,12 @@ Projekten kommer att vara inom tre olika spår:
 * Power to the people: Demokrati, deltagande och transparens.
 * I like to move it: Hållbara transporter, resande och rörlighet.
 
-Nu söker vi organisationer/personer som vill anmäla  projekt på dessa teman och deltagare som vill arbeta i projekten. Vi söker främst deltagare med kunskaper i programmering, kommunikation, teknologi, öppen data, design men också de med erfarenheter i att arbeta med demokratifrågor eller delningsekonomi.
+Nu söker vi deltagare som vill arbeta i projekten. Vi söker främst deltagare med kunskaper i programmering, kommunikation, teknologi, öppen data, design men också de med erfarenheter i att arbeta med demokratifrågor eller delningsekonomi.
 
 De grundläggande riktlinjerna för projekt är att:  
 1. Projektet ska främja ökat deltagande i sociala rörelser, föreningsliv, politiska processer eller samhället i stort med hjälp av ny teknik.
 2. Projektresultatet ska göras tillgängligt för alla.
 
-Har du ett projekt som du vill genomföra? Anmäl intresse i formuläret under "Ansök med projekt" eller kontakta oss om du har en idé som behöver utvecklas.
-
-Datum att hålla reda på är:
-* 23 Augusti - Deadline för att anmäla projekt
-* 28 Augusti - Senaste anmälningsdatum för deltagare
+30 Augusti är senaste anmälningsdatum för deltagare.
 
 Vi hörs!
