@@ -37,16 +37,16 @@ form:
   title: Which project do you want to work with?
   type: checkbox
   options:
-  - option:
+  - option: 
     name: Åke
     id: ake
-  - option:
+  - option: 
     name: Transparens @ Din Riksdag
     id: dinriksdag
-  - option:
+  - option: 
     name: CloudCoop
     id: cloudcoop
-  - option:
+  - option: 
     name: Smarta Kartan 2.0
     id: smartakartan
 - id: mat
@@ -56,7 +56,7 @@ form:
 - id: kurs
   type: checkbox
   options:
-  - option:
+  - option: 
     name: I want to join a beginners programming course before the hackathon
     id: ja
 - id: _subject
@@ -66,7 +66,7 @@ form:
   value: http://civictech.se
   type: hidden
 - id: _honeypot
-  value:
+  value: 
   type: hidden
 - id: send
   type: submit
