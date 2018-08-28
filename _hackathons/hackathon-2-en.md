@@ -79,18 +79,13 @@ The projects will have three different themes:
 * Power to the people: Democracy, participation and transparency.
 * I like to move it: Sustainable transportation, travel and mobility.
 
-Now, we are looking for organisations/people who want to register projects around these themes and participants who want to come and work on the projects. We are mostly looking for participants with knowledge of programming, communication, technology, open data, design but also those who have experience in working with democracy or sharing economy.
+Now, we are looking for participants who want to come and work on the projects. We are mostly looking for participants with knowledge of programming, communication, technology, open data, design but also those who have experience in working with democracy or sharing economy.
 
 The basic guidelines for the projects are:
 
 1. The project should be about developing or using new technologies in order to promote an increased participation in social movements, non-profit associations, democratic political processes and civil society in general.
 2. The results of the project should be made available to the public.
 
-Do you have a project you want to do? Register in the form under "Apply with project" or contact us if you have an idea that needs to be developed.
-
-Important dates are:
-
-* 23 Augusti - Deadline for registering projects
-* 28 Augusti - Deadline for registering as a participant
+Deadline for registering as a participant is 30th of August.
 
 See you!
