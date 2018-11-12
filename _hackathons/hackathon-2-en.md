@@ -11,66 +11,66 @@ ingress-text: Welcome to take part in Civic Tech Swedens second hackathon Septem
 event-date: 2018-09-02 01:00:00 +02:00
 event-date-desc: 2 September 2018, 10 am - 7 pm
 place: Viktoriahuset, Gothenburg, Sweden
-links:
-- title: Register
-  url: "/en/hackathon-2/#register"
-  style: button
-- title: Apply with project
-  url: "/en/form/project/"
-form:
-- id: namn
-  title: Name
-  type: text
-  required: required
-- id: _replyto
-  title: E-mail
-  required: required
-  type: email
-- id: telefon
-  title: Phone
-  type: text
-- id: kunskaper
-  title: What knowledge can you contribute to the projects?
-  description: For example programming, design, project management or something else?
-  required: required
-- id: projectTrack
-  title: Which project do you want to work with?
-  type: checkbox
-  options:
-  - option:
-    name: Åke
-    id: ake
-  - option:
-    name: Transparens @ Din Riksdag
-    id: dinriksdag
-  - option:
-    name: CloudCoop
-    id: cloudcoop
-  - option:
-    name: Smarta Kartan 2.0
-    id: smartakartan
-- id: mat
-  title: All food will be vegetarian, please let us know about alergies or other specific
-    needs
-  type: text
-- id: kurs
-  type: checkbox
-  options:
-  - option:
-    name: I want to join a beginners programming course before the hackathon
-    id: ja
-- id: _subject
-  value: Anmälan till hackathon
-  type: hidden
-- id: _after
-  value: http://civictech.se
-  type: hidden
-- id: _honeypot
-  value:
-  type: hidden
-- id: send
-  type: submit
-  title: Send
+# links:
+# - title: Register
+#   url: "/en/hackathon-2/#register"
+#   style: button
+# - title: Apply with project
+#   url: "/en/form/project/"
+# form:
+# - id: namn
+#   title: Name
+#   type: text
+#   required: required
+# - id: _replyto
+#   title: E-mail
+#   required: required
+#   type: email
+# - id: telefon
+#   title: Phone
+#   type: text
+# - id: kunskaper
+#   title: What knowledge can you contribute to the projects?
+#   description: For example programming, design, project management or something else?
+#   required: required
+# - id: projectTrack
+#   title: Which project do you want to work with?
+#   type: checkbox
+#   options:
+#   - option:
+#     name: Åke
+#     id: ake
+#   - option:
+#     name: Transparens @ Din Riksdag
+#     id: dinriksdag
+#   - option:
+#     name: CloudCoop
+#     id: cloudcoop
+#   - option:
+#     name: Smarta Kartan 2.0
+#     id: smartakartan
+# - id: mat
+#   title: All food will be vegetarian, please let us know about alergies or other specific
+#     needs
+#   type: text
+# - id: kurs
+#   type: checkbox
+#   options:
+#   - option:
+#     name: I want to join a beginners programming course before the hackathon
+#     id: ja
+# - id: _subject
+#   value: Anmälan till hackathon
+#   type: hidden
+# - id: _after
+#   value: http://civictech.se
+#   type: hidden
+# - id: _honeypot
+#   value:
+#   type: hidden
+# - id: send
+#   type: submit
+#   title: Send
 ---
 
 The projects will have three different themes:
