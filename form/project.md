@@ -47,7 +47,7 @@ form:
   type: textarea
   required: required
 - id: projectNeeds
-  title: Vad behöver du för kompetens eller kompetenser till ditt projekt?
+  title: Vad behöver du för kompetens till ditt projekt?
   type: textarea
 #- id: projectMaterial
 #  title: Behöver du låna utrustning?
