@@ -3,7 +3,7 @@ title: Apply with project
 excerpt: Apply with your project for CivicTechSweden
 ref: project-presentation
 layout: form
-ingress-text: Apply to be a part of CivicTechSweden's hackathons.
+ingress-text: Apply or your project to be part of CivicTechSweden's hackathons.
 links:
 - title: Guidelines for projects
   url: "/en/about/#guidelines"
@@ -27,20 +27,20 @@ form:
   title: Name of the project
   type: text
   required: required
-- id: projectTrack
-  title: Which track suits your project best?
-  type: checkbox
-  required: required
-  options:
-  - option: 
-    name: Sharing is caring
-    id: sharing-is-caring
-  - option: 
-    name: Power to the people
-    id: power-to-the-people
-  - option: 
-    name: I like to move it
-    id: i-like-to-move-it
+#- id: projectTrack
+#  title: Which track suits your project best?
+#  type: checkbox
+#  required: required
+#  options:
+#  - option: 
+#    name: Sharing is caring
+#    id: sharing-is-caring
+#  - option: 
+#    name: Power to the people
+#    id: power-to-the-people
+#  - option: 
+#    name: I like to move it
+#    id: i-like-to-move-it
 - id: projectDesc
   title: Describe your project
   type: textarea
@@ -48,11 +48,11 @@ form:
 - id: projectNeeds
   title: Which skills do you need for your project?
   type: textarea
-- id: projectMaterial
-  title: Do you need to borrow equipment?
-  description: Material och programs, besides the laptops that the participants will
-    bring.
-  type: text
+#- id: projectMaterial
+#  title: Do you need to borrow equipment?
+#  description: Material och programs, besides the laptops that the participants will
+#    bring.
+#  type: text
 - id: projectLeader
   title: Tell us a little bit about yourself
   type: textarea

@@ -3,7 +3,7 @@ title: Ansök med projekt
 excerpt: Ansök med projekt till CivicTechSweden
 ref: project-presentation
 layout: form
-ingress-text: Ansök här för att bli antagen till CivicTechSwedens hackathon.
+ingress-text: Ansök för att få ditt projekt antaget till CivicTechSwedens hackathon.
 links:
 - title: Riktlinjer för projekt
   url: "/about/#riktlinjer"
@@ -28,31 +28,31 @@ form:
   title: Projektets namn
   type: text
   required: required
-- id: projectTrack
-  title: Vilket spår passar ditt projekt in på?
-  type: checkbox
-  required: required
-  options:
-  - option: 
-    name: Sharing is caring
-    id: sharing-is-caring
-  - option: 
-    name: Power to the people
-    id: power-to-the-people
-  - option: 
-    name: I like to move it
-    id: i-like-to-move-it
+#- id: projectTrack
+#  title: Vilket spår passar ditt projekt in på?
+#  type: checkbox
+#  required: required
+#  options:
+#  - option: 
+#    name: Sharing is caring
+#    id: sharing-is-caring
+#  - option: 
+#    name: Power to the people
+#    id: power-to-the-people
+#  - option: 
+#    name: I like to move it
+#    id: i-like-to-move-it
 - id: projectDesc
   title: Beskriv ditt projekt i några meningar
   type: textarea
   required: required
 - id: projectNeeds
-  title: Vad behöver du för kompetens till ditt projekt?
+  title: Vad behöver du för kompetens eller kompetenser till ditt projekt?
   type: textarea
-- id: projectMaterial
-  title: Behöver du låna utrustning?
-  description: Till exempel program eller material, förutom egna laptops?
-  type: text
+#- id: projectMaterial
+#  title: Behöver du låna utrustning?
+#  description: Till exempel program eller material, förutom egna laptops?
+#  type: text 
 - id: projectLeader
   title: Berätta kort om dig själv
   type: textarea
