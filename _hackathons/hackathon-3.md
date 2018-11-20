@@ -85,7 +85,7 @@ links:
 
 Har du ett projekt du vill involvera fler i eller behöver du hjälp med något specfikt i ett projekt du håller på med? Då är det ett perfekt tillfälle att anmäla projektet till hacket den 26 januari. 
 
-Vi tar även emot idéer på projekt som du skulle vilja  utveckla men som du inte har tid med, eller inte vet hur du ska börja med. Under hackathonet ges tid för intresserade deltagare utveckla och diskutera vad som skulle kunna göras kring idén, och hur initiativet kan tas vidare efteråt.
+Vi tar även emot idéer på projekt som du skulle vilja  utveckla men som du inte har tid med, eller inte vet hur du ska börja med. Under hackathonet ges tid för intresserade deltagare att utveckla och diskutera vad som skulle kunna göras kring idén, och hur initiativet kan tas vidare efteråt.
 
 De grundläggande riktlinjerna för projekt är att:  
 1. Projektet ska främja ökat deltagande i sociala rörelser, föreningsliv, politiska processer eller samhället i stort med hjälp av ny teknik.
