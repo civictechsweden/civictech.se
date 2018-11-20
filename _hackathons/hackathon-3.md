@@ -3,7 +3,7 @@ title: 'Hackathon #3'
 ref: hackathon-3
 image: "/uploads/hackathon3proj.jpg"
 excerpt: 'Hackathon #3 för Civic Tech-communitiet i Stockholm'
-ingress-text: Den 26 januari hålls Civic Tech Swedens tredje hackathon, i Stockholm! Nu öppnar vi upp för anmälan av  projekt som deltagarna kan introduceras och bidra till under dagen.
+ingress-text: Den 26 januari hålls Civic Tech Swedens tredje hackathon, denna gång i Stockholm! Nu öppnar vi upp för anmälan av  projekt som deltagarna kan introduceras och bidra till under dagen.
 event-date: 2019-01-26 00:00:00 +02:00
 event-date-desc: 26 januari 2019, kl 10 - 18
 place: Goto10, Stockholm
@@ -85,7 +85,7 @@ links:
 
 Har du ett projekt du vill involvera fler i eller behöver du hjälp med något specfikt i ett projekt du håller på med? Då är det ett perfekt tillfälle att anmäla projektet till hacket den 26 januari. 
 
-Vi tar även emot idéer på projekt som du tycker borde utvecklas men som du inte har tid med, eller inte vet var du ska börja. Under hackathonet kan intresserade deltagare brainstorma och diskutera vad som skulle kunna göras kring idén, och hur vi kan gå vidare med den efteråt.
+Vi tar även emot idéer på projekt som du skulle vilja  utveckla men som du inte har tid med, eller inte vet hur du ska börja med. Under hackathonet ges tid för intresserade deltagare utveckla och diskutera vad som skulle kunna göras kring idén, och hur initiativet kan tas vidare efteråt.
 
 De grundläggande riktlinjerna för projekt är att:  
 1. Projektet ska främja ökat deltagande i sociala rörelser, föreningsliv, politiska processer eller samhället i stort med hjälp av ny teknik.
@@ -94,4 +94,4 @@ De grundläggande riktlinjerna för projekt är att:
 Anmälan av projekt stänger i slutet av december. Vid frågor maila <a href="mailto:victoria@digidemlab.org">victoria@digidemlab.org</a>.
 
 
-Vi hörs!
+Vi ser fram emot att höra mer om era projekt och projektidéer! 

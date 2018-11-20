@@ -82,5 +82,5 @@ The basic guidelines for the projects are:
 
 It will be possible to submit projects until the end of December. If you have any questions contact <a href="mailto:victoria@digidemlab.org">victoria@digidemlab.org</a>.
 
-See you!
+Looking forward to getting to know more about your projects and ideas!
 
