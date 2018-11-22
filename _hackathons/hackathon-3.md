@@ -1,5 +1,5 @@
 ---
-title: 'Hackathon #3'
+title: 'Civic tech your way-hackathon'
 ref: hackathon-3
 image: "/uploads/hackathon3proj.jpg"
 excerpt: 'Hackathon #3 för Civic Tech-communitiet i Stockholm'
@@ -14,6 +14,8 @@ links:
 - title: Anmäl projekt
   url: "/form/project/"
   style: button
+- title: Gå med i chatten
+  url: "https://chat.civictech.se/channel/general"
 #form:
 #- id: namn
 #  title: Ditt namn
@@ -83,7 +85,7 @@ links:
 #  title: Skicka
 ---
 
-Har du ett projekt du vill involvera fler i eller behöver du hjälp med något specfikt i ett projekt du håller på med? Då är det ett perfekt tillfälle att anmäla projektet till hacket den 26 januari. 
+Har du ett projekt du vill involvera fler i eller behöver du hjälp med något specfikt i ett projekt du håller på med? Då är det ett perfekt tillfälle att anmäla projektet till hacket den 26 januari.
 
 Vi tar även emot idéer på projekt som du skulle vilja  utveckla men som du inte har tid med, eller inte vet hur du ska börja med. Under hackathonet ges tid för intresserade deltagare att utveckla och diskutera vad som skulle kunna göras kring idén, och hur initiativet kan tas vidare efteråt.
 
@@ -93,5 +95,8 @@ De grundläggande riktlinjerna för projekt är att:
 
 Anmälan av projekt stänger i slutet av december. Vid frågor maila <a href="mailto:victoria@digidemlab.org">victoria@digidemlab.org</a>.
 
+Nytt för detta hackathon är att det är separatistiskt för kvinnor och icke-binära. I tidigare hackathons har män varit överrepresenterade bland deltagarna, vilket reflekterar tech-världen i allmänhet. Vi gör detta hack separatistiskt för är att vi vill säkerställa icke-mäns deltagande från start i utformningen av civic tech, så att det växer till en inkluderande och trygg community för alla. 
+
+Om du vill delta i planeringen av hackathonet eller se vad som händer så finns en privat kanal i civictech-chatten. Skriv i någon annan kanal eller skicka ett mail till adressen ovan så blir du inbjuden. Håll utkik här för att inte missa anmälan för att delta som öppnar i december.
 
 Vi ser fram emot att höra mer om era projekt och projektidéer! 

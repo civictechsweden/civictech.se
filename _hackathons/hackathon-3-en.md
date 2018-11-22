@@ -1,5 +1,5 @@
 ---
-title: 'Hackathon #3'
+title: 'Civic tech your way-hackathon'
 permalink: "/en/hackathon-3/"
 lang: en
 ref: hackathon-3
@@ -16,6 +16,8 @@ links:
 - title: Apply with project
   url: "/en/form/project/"
   style: button
+- title: Join the chat!
+  url: "https://chat.civictech.se/channel/general"
 #form:
 #- id: namn
 #  title: Name
@@ -79,8 +81,11 @@ The basic guidelines for the projects are:
 1. The project should be about developing or using new technologies in order to promote an increased participation in social movements, non-profit associations, democratic political processes and civil society in general.
 2. The results of the project should be made available to the public.
 
-
 It will be possible to submit projects until the end of December. If you have any questions contact <a href="mailto:victoria@digidemlab.org">victoria@digidemlab.org</a>.
+
+New for this hackathon is that its exclusively open for people who identify as women or non-binary. Previous hackathons have had predominantly male particpants which reflects the tech world in general. We are making this hack women- and non-binary-only to ensure the participation of non-men from start in the shaping of civic tech sweden, so it will grow to be an inclusive and safe community for all.
+
+If you wish to participate in the planning of the hackathon or see what's going on, there's a private channel in the civic tech-chat. Write in another channel or send an email to the above given adress and we will invite you. Keep an eye out for the registering that will open in december.
 
 Looking forward to getting to know more about your projects and ideas!
 
