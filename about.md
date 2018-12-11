@@ -32,7 +32,7 @@ CTS är organiserat i:
 
 CTS är ett decentraliserat nätverk som eftersträvar maximal frihet för deltagande grupper inom ramarna för nätverkets riktlinjer.
 
-## Koordineringsgrupp
+### Koordineringsgrupp
 
 För att koordinera event och stödja lokala initiativ finns en koordineringsgrupp. Varje lokalgrupp, intressegrupp och nationell partner kan utse en representant till koordineringsgruppen. 
 
@@ -40,16 +40,16 @@ De lokala kontaktpersonerna ansvarar för att uppförandekoden följs och att sk
 
 Koordineringsgruppen är ansvarig för att uppförandekoden följs på nationella aktiviteter och i digitala forum. Kontaktpersonerna och koordineringsgruppen kan utesluta personer som inte följer uppförandekoden från CTS aktiviteter och digitala forum.
 
-## Starta en grupp
+### Starta en grupp
 
 Den som vill starta en lokalgrupp eller intressegrupp kan göra det genom att kontakta CTS på admin@digidemlab.org. Koordineringsgruppen diskuterar med den intresserade parten om det är lämpligt att inleda ett samarbete. Om ett samarbete inleds kommer CTS koordineringsgrupp och nationella samarbetspartners att vara till hjälp i organiseringen av meetups och hackathon.
 
 
-## Partners
+### Partners
 
 Organisationer, nätverk, företag och offentliga aktörer som huvudsakligen arbetar inom CTS arbetsområden är välkomna i nätverket, som lokala eller nationella partners. Lokala partners hjälper till med hackathons eller meetups genom mobilisering, kunskapsdelning eller ekonomiskt stöd. Nationella partners behöver godkännas av koordineringsgruppen, och bidrar med resurser till mobilisering och spridning nationellt.
 
-## Beteende mot varandra
+## Uppförandekod
 CTS förväntar sig att alla nätverkets aktiviteter och digitala forum: 
 
 * Är säkra och respektfulla platser för alla deltagare
