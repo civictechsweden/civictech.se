@@ -1,91 +1,53 @@
 ---
-title: 'Civic tech your way-hackathon'
+title: 'Reclaim the room!'
 permalink: "/en/hackathon-3/"
 lang: en
 ref: hackathon-3
 image: "/uploads/hackathon3proj.jpg"
 excerpt: 'Hackathon #3 for the civic tech community of Stockholm'
-ingress-text: The 26th of Januari Civic Tech Swedens third hackathon will take place in Stockholm! Now we are opening up for submitting projects for the participants to be introduced and contribute to during the day.
+ingress-text: CivicTechSweden’s third hackathon "Reclaim the room!" is now open for participants to register for! The hack is exclusive for women and non-binary people and takes place the 26th of January in Goto10’s space in Stockholm, 10am-6pm. We will provide food and fika, interesting projects and a chill atmosphere. 
 event-date: 2019-01-26 00:00:00 +02:00
 event-date-desc: 26 January 2011, 10 am - 6 pm
 place: Goto10, Stockholm, Sweden
 links:
-#- title: Register
-#  url: "/en/hackathon-3/#register"
-#  style: button
-- title: Apply with project
-  url: "/en/form/project/"
+- title: Register
+  url: "/en/form/register/"
   style: button
 - title: Join the chat!
   url: "https://chat.civictech.se/channel/general"
-#form:
-#- id: namn
-#  title: Name
-#  type: text
-#  required: required
-#- id: _replyto
-#  title: E-mail
-#  required: required
-#  type: email
-#- id: telefon
-#  title: Phone
-#  type: text
-#- id: kunskaper
-#  title: What knowledge can you contribute to the projects?
-#  description: For example programming, design, project management or something else?
-#  required: required
-#- id: projectTrack
-#  title: Which project do you want to work with?
-#  type: checkbox
-#  options:
-#  - option:
-#    name: Åke
-#    id: ake
-#  - option:
-#    name: Transparens @ Din Riksdag
-#    id: dinriksdag
-#  - option:
-#    name: CloudCoop
-#    id: cloudcoop
-#  - option:
-#    name: Smarta Kartan 2.0
-#    id: smartakartan
-#- id: mat
-#  title: All food will be vegetarian, please let us know about alergies or other specific
-#    needs
-#  type: text
-#- id: kurs
-#  type: checkbox
-#  options:
-#  - option:
-#    name: I want to join a beginners programming course before the hackathon
-#    id: ja
-#- id: _subject
-#  value: Anmälan till hackathon
-#  type: hidden
-#- id: _after
-#  value: http://civictech.se
-#  type: hidden
-#- id: _honeypot
-#  value:
-#  type: hidden
-#- id: send
-#  type: submit
-#  title: Send
 ---
-Do you have a project you want to involve more people to, or do you need help with something specific in a project you are wokring on? Then this is the perfect time to submit that project to the hackathon the 26th of January. 
+## CivicTechSweden's hackathons
+Civic tech is about creating technical solutions for the good of society. All around the world there are civic tech communities taking on challenges in society and offering their time and knowledge to solve them. We want a community like that to be strong in Sweden as well! We want to gather coders, designers, activists and anyone who thinks civic tech sounds exciting and important in this hackathon and our future hackathons.
 
-We also accept ideas for projects that you would want to see developed, but don't know where to start at or dont have the time to do yourself. During the hackathon, interested participants can brainstorm and discuss what could be done and how to move forward with the idea.
+Civic tech don’t just do the regular hackathon. Our purpose is not marketing a brand or evaluating the accomplishments or skills of the participants by competitions or anything like that. Therefor our hackathon is a chill space where we get to know each other and create things together.
 
-The basic guidelines for the projects are:
-1. The project should be about developing or using new technologies in order to promote an increased participation in social movements, non-profit associations, democratic political processes and civil society in general.
-2. The results of the project should be made available to the public.
+## Reclaim the room!
+This hackathon’s theme is “Reclaim the room!”, meaning any space we enter, as well as the public space and the political space. We reclaim our obvious part in shaping the future by the use of technology, by meeting and making things for the common good.
 
-It will be possible to submit projects until the end of December. If you have any questions contact <a href="mailto:victoria@digidemlab.org">victoria@digidemlab.org</a>.
+Since the event is only one day we will not be able to work wonders - but we will be able to get introduced to a project, eat good food, meet nice people and be inspired by two initiatives by the women behind them. Vanessa will tell us about her experience of starting up MariaLab, a feminist hackerspace in Brazil, and Rebecka will tell us about metoohacks, which took place in February of 2018 following up on the metoo-movement. When registering, you will be able to share if there is anything specific you’d want to hear about from them.
 
-New for this hackathon is that its exclusively open for people who identify as women or non-binary. Previous hackathons have had predominantly male particpants which reflects the tech world in general. We are making this hack women- and non-binary-only to ensure the participation of non-men from start in the shaping of civic tech sweden, so it will grow to be an inclusive and safe community for all.
+New for this hackathon is that it’s exclusive for women and non-binary people. The previous CivicTechSweden-hackathon participants have been predominantly male, which also reflects the tech-world in general. We are making this hack women- and non-binary-only to ensure the participation of non-men from start in the shaping of civic tech sweden, so it will grow to be an inclusive and safe community for all.
 
-If you wish to participate in the planning of the hackathon or see what's going on, there's a private channel in the civic tech-chat. Write in another channel or send an email to the above given adress and we will invite you. Keep an eye out for the registering that will open in december.
+## Prior knowledge
+No prior knowledge is needed to participate. Some projects are in need of specific skills, but there are things that you can do during the event that needs no knowledge of programming or technical background. Everything needed is an open mind and the will to learn! Below we describe every projekt including which competences needed for them.
 
-Looking forward to getting to know more about your projects and ideas!
+## During the day
+Among the projects of the day, we have “Documents”, a platform for making it easier to request public information and make it available to everyone. We also have the project “Open diversity data”, which is a site gathering data on the diversity of different organizations. The last project, “Who owns the city?” is about visualizing who owns the public spaces that many of us move through every day.
 
+The projects together aim to the citizens rights to information, influence and representation. In a time like ours, where populism grows globally and people are put against each other, the need of raising awareness  about the state of our democracy grows as well. We hope to contribute to this through our projects. Read more details on each project below. 
+
+### Other activities during the day
+Apart from the main projects, we have two more things that you can participate in during the day. Neither of them require any specific prior knowledge to participate in!
+
+One of them is contributing to CivicTechSweden, which needs input from you with experiences living as a woman or non-binary person. During the hack we will gather thoughts and ideas on how we can create an inclusive community. We will also talk about how we want to proceed with CivicTech in Stockholm, for example which types of events we are interested in and what themes or questions to focus on. 
+
+The other one is contributing to a citizen science-project called Luftdata (Air data). There will be the opportunity to build Luftdata-stations at the event, used in a citizen science-network to measure the air quality in Sweden. We will provide instructions on how to do it and an instructor to ask for help if needed. 
+
+
+## What happens after registration?
+After registering we will send out more information about the project/s that are relevant for you, and what you can do to prepare on your own before the event. For those interested, there is an opportunity to come to a pre-meetup a week or two before the hack and prepare, by for example installing software needed for your project. This is to give us as much time as possible to be productive and avoid problems with installations during the day of the event . You can let us know if you are interested in the pre-meetup when registering, and we will try to find a suitable date. 
+
+If you want to be part of the planning of the event, there is a chat-channel on chat.civictech.se. The channel is private to ensure it consists of only women and non-binary people, so if you are interested to join you can provide your username for the chat when registering and you will be invited to the channel. 
+
+We encourage you to reach out to us with any questions you have. The hackathon is for you and we therefore gladly take input and keep a dialogue on what the day should look like!
+ 
