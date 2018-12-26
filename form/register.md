@@ -57,7 +57,7 @@ form:
     name: Ja
     id: ja
   - option: 
-    value: Nej
+    name: Nej
     id: nej
 - id: when
   title: Om du vill delta på en förträff, när passar det dig bäst?
