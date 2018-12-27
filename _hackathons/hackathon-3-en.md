@@ -50,4 +50,5 @@ After registering we will send out more information about the project/s that are
 If you want to be part of the planning of the event, there is a chat-channel on chat.civictech.se. The channel is private to ensure it consists of only women and non-binary people, so if you are interested to join you can provide your username for the chat when registering and you will be invited to the channel. 
 
 We encourage you to reach out to us with any questions you have. The hackathon is for you and we therefore gladly take input and keep a dialogue on what the day should look like!
- 
+
+Contact goes through <a href="mailto:victoria@digidemlab.org">victoria@digidemlab.org</a>!

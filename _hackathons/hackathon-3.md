@@ -55,3 +55,5 @@ Om du vill vara med i planeringen av eventet så har vi en chatt-kanal på chat.
 
 Vi uppmuntrar er till att höra av er angående alla små och stora frågor ni har, hackathonet är till för er och vi tar därför gärna emot önskemål och håller dialog kring hur dagen kan utformas på bästa sätt!
 
+Vid frågor maila <a href="mailto:victoria@digidemlab.org">victoria@digidemlab.org</a>!
+
