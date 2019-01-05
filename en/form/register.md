@@ -28,6 +28,10 @@ form:
   - option: 
     name: No
     id: nej
+- id: desc
+  title: Tell us a little about yourself!
+  type: textarea
+  description: For example your areas of interest, what you can contribute with during the hack, your education or your work. If you have any specific skill or competence it's perfect to put here!
 - id: mat
   title: Do you have any allergies or food preferences? 
   type: text
@@ -54,11 +58,9 @@ form:
   - option: 
     name: Yes
     id: ja
-    required: required
   - option: 
     name: No
     id: nej
-    required: required
 - id: when
   title: If you want to come to the pre-meetup, which times work well for you?
   type: checkbox

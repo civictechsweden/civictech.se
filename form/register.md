@@ -20,15 +20,17 @@ form:
 - id: sep
   title: Identifierar du dig som kvinna eller icke-binär? 
   type: radio
-  required: required
   options:
   - option: 
     name: Ja
     id: ja
-    required: required
   - option: 
     name: Nej
     id: nej
+- id: desc
+  title: Beskriv dig själv lite kort!
+  type: textarea
+  description: Till exempel intressen, vad du kan bidra med till projekten du är intresserad av, utbildning eller jobb. Om du har någon specifik kompetens så nämn gärna den!
 - id: mat
   title: Har du några allergier eller matpreferenser?
   type: text
