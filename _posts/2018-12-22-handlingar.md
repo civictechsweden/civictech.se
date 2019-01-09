@@ -22,7 +22,7 @@ contact:
 ---
 Ett projekt där målet är att få upp en plattform en kan begära ut allmänna handlingar från, där handlingarna också blir kvar att söka efter senare. Plattformen kan öppna upp Sveriges offentliga sektor mer!
 
-Projektet bygger på <a href="https://alavateli.org">alaveteli</a> som använts för liknande plattformar i andra länder.
+Projektet bygger på <a href="https://alaveteli.org">alaveteli</a> som använts för liknande plattformar i andra länder.
 
 ## Kompetenser som önskas
 ### Grafiskt 

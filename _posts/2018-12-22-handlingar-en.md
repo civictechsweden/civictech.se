@@ -23,7 +23,7 @@ contact:
 ---
 A project with the goal of setting up a platform where one can request public information from authorities, where the information is also stored and open for anyone to take part of in the future. The platform is meant to open up the public sector of Sweden!
 
-The project is based on <a href="https://alavateli.org">alaveteli</a> which have been used for similar platforms in other countries.
+The project is based on <a href="https://alaveteli.org">alaveteli</a> which have been used for similar platforms in other countries.
 
 ## Skills needed
 ### Graphical
