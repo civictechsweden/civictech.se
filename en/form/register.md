@@ -3,7 +3,7 @@ title: Register for hackathon
 excerpt: Registration for hackathon
 ref: participant
 layout: form
-ingress-text: Register by the form below.
+ingress-text: We have filled all the spots for the hackathon, but please register anyway and we will mail you if someone drops off. Register by the form below.
 form:
 - id: namn
   title: Your name
@@ -39,7 +39,7 @@ form:
   title: Which project/s are you interested in?
   type: checkbox
   required: required
-  description: Information about <a href="/projects/mdgh-en"> Who owns the city? </a>, <a href="/projects/handlingar-en"> Documents </a> or <a href="/projects/mangfaldsdata-en"> Open diversity data </a>! 
+  description: Information about <a href="/projects/mdgh-en"> Who owns the city? </a>, <a href="/projects/handlingar-en"> Documents </a>, <a href="/projects/mangfaldsdata-en"> Open diversity data </a> or <a href="/projects/civilkurage-en"> Family dinner and courage</a>! 
   options:
   - option: 
     name: Who owns the city?
@@ -50,6 +50,9 @@ form:
   - option: 
     name: Open diveristy data
     id: oppnamangfaldsdata
+  - option:
+    name: Family dinner and courage
+    id: kurage
 - id: pre-meetup
   title: Do you want to participate in a pre-meetup? 
   type: radio

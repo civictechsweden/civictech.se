@@ -3,7 +3,7 @@ title: Anmäl dig till hackathonet
 excerpt: Anmälan till hackathon
 ref: participant
 layout: form
-ingress-text: Anmälan sker via formuläret nedan.
+ingress-text: Vi har nu fyllt antal deltagare för hacket! Anmäl dig gärna ändå så skriver vi upp dig på reserv-lista och hör av oss om något avhopp sker. Anmälan sker via formuläret nedan.
 form:
 - id: namn
   title: Ditt namn
@@ -38,7 +38,7 @@ form:
   title: Vilket/vilka projekt är du intresserad av?
   type: checkbox
   required: required
-  description: Läs mer om <a href="/projects/mdgh"> Vem äger staden </a>, <a href="/projects/handlingar"> Handlingar </a> eller  <a href="/projects/mangfaldsdata"> Öppna mångfaldsdata </a>! 
+  description: Läs mer om <a href="/projects/mdgh"> Vem äger staden </a>, <a href="/projects/handlingar"> Handlingar </a>, <a href="/projects/mangfaldsdata"> Öppna mångfaldsdata </a> eller <a href="/projects/civilkurage">Släktmiddag och civilkurage</a>! 
   options:
   - option: 
     name: Vem äger staden?
@@ -49,6 +49,9 @@ form:
   - option: 
     name: Öppna mångfaldsdata
     id: oppnamangfaldsdata
+  - option:
+    name: Släktmiddag och civilkurage
+    id: kurage
 - id: pre-meetup
   title: Vill du delta i en förträff?
   type: radio
