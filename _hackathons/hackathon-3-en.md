@@ -7,7 +7,7 @@ image: "/uploads/hackathon3proj.jpg"
 excerpt: 'Hackathon #3 for the civic tech community of Stockholm'
 ingress-text: CivicTechSweden’s third hackathon "Reclaim the room!" is now open for participants to register for! The hack is exclusive for women and non-binary people and takes place the 26th of January in Goto10’s space in Stockholm, 10am-6pm. We will provide food and fika, interesting projects and a chill atmosphere. 
 event-date: 2019-01-26 00:00:00 +02:00
-event-date-desc: 26 January 2011, 10 am - 6 pm
+event-date-desc: 26 January 2019, 10 am - 6 pm
 place: Goto10, Stockholm, Sweden
 links:
 - title: Register
