@@ -56,7 +56,7 @@ form:
   title: Vill du delta i en förträff?
   type: radio
   required: required
-  description: För att installera mjukvara etc
+  description: För att installera mjukvara, sätta upp projekt lokalt etc. Datum är den 22/1!
   options:
   - option: 
     name: Ja
@@ -64,24 +64,8 @@ form:
   - option: 
     name: Nej
     id: nej
-- id: when
-  title: Om du vill delta på en förträff, när passar det dig bäst?
-  type: checkbox
-  options:
-  - option: 
-    name: Vardag, dagtid
-    id: vardag-dag
-  - option: 
-    name: Vardag, kvällstid
-    id: vardag-kvall
-  - option: 
-    name: Helg, dagtid
-    id: helg-dag
-  - option:
-    name: Helg, kvällstid
-    id: helg-kvall
 - id: needs
-  title: Finns det något vi kan göra för att det ska kännas mer bekvämt inför eventet eller under eventet för dig, eller har du några frågor eller önskemål?  
+  title: Har du några önskemål inför eller under eventet, eller några frågor?  
   type: textarea
 - id: fragar
   title: Är det något du gärna vill höra presentatörerna, Vanessa eller Rebecca, prata extra om? 

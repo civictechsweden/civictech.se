@@ -19,7 +19,7 @@ links:
 ## CivicTechSweden's hackathons
 Civic tech is about creating technical solutions for the good of society. All around the world there are civic tech communities taking on challenges in society and offering their time and knowledge to solve them. We want a community like that to be strong in Sweden as well! We want to gather coders, designers, activists and anyone who thinks civic tech sounds exciting and important in this hackathon and our future hackathons.
 
-Civic tech don’t just do the regular hackathon. Our purpose is not marketing a brand or evaluating the accomplishments or skills of the participants by competitions or anything like that. Therefor our hackathon is a chill space where we get to know each other and create things together.
+Civic tech don’t just do the regular hackathon. Our purpose is not marketing a brand or evaluating the accomplishments or skills of the participants by competitions or anything like that. Therefor our hackathon is a chill event where we get to know each other and create things together.
 
 ## Reclaim the room!
 This hackathon’s theme is “Reclaim the room!”, meaning any space we enter, as well as the public space and the political space. We reclaim our obvious part in shaping the future by the use of technology, by meeting and making things for the common good.
@@ -45,7 +45,9 @@ The other one is contributing to a citizen science-project called Luftdata (Air 
 
 
 ## What happens after registration?
-After registering we will send out more information about the project/s that are relevant for you, and what you can do to prepare on your own before the event. For those interested, there is an opportunity to come to a pre-meetup a week or two before the hack and prepare, by for example installing software needed for your project. This is to give us as much time as possible to be productive and avoid problems with installations during the day of the event . You can let us know if you are interested in the pre-meetup when registering, and we will try to find a suitable date. 
+After registering we will send out more information about the project/s that are relevant for you, a schedule for the day and a list of participants.
+
+For those interested, there is an opportunity to come to a pre-meetup the 22/1 to prepare, by for example installing software or setting up a project locally. This is to give us as much time as possible to be productive and avoid problems with installations during the day of the event.
 
 If you want to be part of the planning of the event, there is a chat-channel on chat.civictech.se. The channel is private to ensure it consists of only women and non-binary people, so if you are interested to join you can provide your username for the chat when registering and you will be invited to the channel. 
 

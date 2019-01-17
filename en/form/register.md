@@ -56,7 +56,7 @@ form:
 - id: pre-meetup
   title: Do you want to participate in a pre-meetup? 
   type: radio
-  description: To install software etc
+  description: To install software, set up projects locally etc
   options:
   - option: 
     name: Yes
@@ -64,24 +64,8 @@ form:
   - option: 
     name: No
     id: nej
-- id: when
-  title: If you want to come to the pre-meetup, which times work well for you?
-  type: checkbox
-  options:
-  - option: 
-    name: Daytime, monday-friday
-    id: vardag-dag
-  - option: 
-    name: Evenings, monday-friday
-    id: vardag-kvall
-  - option: 
-    name: Daytime, weekends
-    id: helg-dag
-  - option:
-    name: Evenings, weekends
-    id: helg-kvall
 - id: needs
-  title: Is there anything we can do to make you feel more comfortable before or during the event, or do you have any questions or wishes?  
+  title: Do you have any wishes or suggestions for the event, or any questions?  
   type: textarea
 - id: fragar
   title: Is there anything specific you'd like to hear the presenters, Vanessa or Rebecca, talk about?

@@ -24,7 +24,7 @@ Civic tech handlar om att skapa tekniska lösningar för samhällsnytta. Runtom 
 Civic Tech Sweden gör inte vilka hackathon som helst. Vårt syfte är inte marknadsföring eller att bedöma deltagarnas prestationer genom tävlingar eller liknande. Därför är hacket ett kravlöst häng där vi lär känna varandra och skapar saker tillsammans.
 
 ## Ta tillbaka rummet! 
-Det här hackathonet har temat “Ta tillbaka rummet!” och syftar på varje plats vi befinner oss på, det offentliga rummet och det politiska rummet. Dels tar vi den självklara plats som vi kvinnor och icke-binära har i att forma vår gemensamma framtid med hjälp av tekniken, genom att träffas och skapa teknik för att föra samhället framåt.
+Det här hackathonet har temat “Ta tillbaka rummet!” och syftar på varje plats vi befinner oss på, det offentliga rummet och det politiska rummet. Vi tar den självklara plats som vi kvinnor och icke-binära har i att forma vår gemensamma framtid med hjälp av tekniken, genom att träffas och skapa teknik för att föra samhället framåt.
 
 Eftersom eventet bara är en dag hinner vi inte uträtta mirakel - men vi hinner hoppa in i ett projekt, äta god mat, träffa härligt folk och inspireras av två kvinnliga initiativtagare! Vanessa Guedes kommer berätta om sin erfarenhet av att starta upp MariaLab, ett feministiskt hackerspace i Brasilien, och Rebecka Gustin kommer berätta om metoohack, som hölls i februari 2018 som en uppföljning på metoo-rörelsen. I anmälan får du möjlighet att berätta vad du skulle vilja att de pratar om eller ställa frågor du vill ha svar på.
 
@@ -47,9 +47,9 @@ Det andra handlar om att bidra till ett citizen science-projekt som heter Luftda
 
 
 ## Vad händer efter anmälan?
-Efter anmälan skickar vi ut mer information kring det/de projekt som är relevant för dig, och vilka förberedelser du kan göra på egen hand inför eventet. Vi kommer även skicka ut lite pepp inför eventet via mail! 
+Efter anmälan skickar vi ut mer information kring det projekt som är relevant för dig, ett schema och en deltagarlista. 
 
-För de som är intresserade finns möjligheten att delta på en förträff där vi träffas någon vecka innan hacket och förbereder oss, till exempel laddar ner mjukvara som behövs. Tanken är att vi ska få så mycket tid som möjligt den 26:e där vi kan vara produktiva, och undvika alla problem som kan uppstå vid installationer den dagen. I anmälan kan du klicka i om du är intresserad av att delta på förträffen, så försöker vi ordna ett datum som passar.
+För de som är intresserade finns möjligheten att delta på en förträff där vi träffas den 22/1 och förbereder oss, till exempel laddar ner mjukvara som behövs eller sätter upp projekt lokalt. Tanken är att vi ska få så mycket tid som möjligt den 26:e där vi kan vara produktiva, och undvika alla problem som kan uppstå vid installationer den dagen.
 
 Om du vill vara med i planeringen av eventet så har vi en chatt-kanal på chat.civictech.se. Kanalen är privat för att den ska vara separatistisk, så ni kan vid intresse ange det namn ni använder i chatten vid anmälan, så blir du inbjuden.
 
