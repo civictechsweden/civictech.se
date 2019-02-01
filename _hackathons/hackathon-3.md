@@ -11,9 +11,9 @@ links:
 #- title: Anmäl projekt
 #  url: "/form/project/"
 #  style: button
-- title: Anmälan
-  url: "/form/register/"
-  style: button
+#- title: Anmälan
+#  url: "/form/register/"
+#  style: button
 - title: Gå med i chatten
   url: "https://chat.civictech.se/channel/general"
 ---

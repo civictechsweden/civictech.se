@@ -10,9 +10,9 @@ event-date: 2019-01-26 00:00:00 +02:00
 event-date-desc: 26 January 2019, 10 am - 6 pm
 place: Goto10, Stockholm, Sweden
 links:
-- title: Register
-  url: "/en/form/register/"
-  style: button
+#- title: Register
+#  url: "/en/form/register/"
+#  style: button
 - title: Join the chat!
   url: "https://chat.civictech.se/channel/general"
 ---
