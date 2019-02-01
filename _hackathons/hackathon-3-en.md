@@ -9,12 +9,12 @@ ingress-text: CivicTechSweden’s third hackathon "Reclaim the room!" is now ope
 event-date: 2019-01-26 00:00:00 +02:00
 event-date-desc: 26 January 2019, 10 am - 6 pm
 place: Goto10, Stockholm, Sweden
-links:
+#links:
 #- title: Register
 #  url: "/en/form/register/"
 #  style: button
-- title: Join the chat!
-  url: "https://chat.civictech.se/channel/general"
+#- title: Join the chat!
+#  url: "https://chat.civictech.se/channel/general"
 ---
 ## CivicTechSweden's hackathons
 Civic tech is about creating technical solutions for the good of society. All around the world there are civic tech communities taking on challenges in society and offering their time and knowledge to solve them. We want a community like that to be strong in Sweden as well! We want to gather coders, designers, activists and anyone who thinks civic tech sounds exciting and important in this hackathon and our future hackathons.

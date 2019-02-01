@@ -7,15 +7,15 @@ ingress-text: CivicTechSweden's tredje hackathon "Ta tillbaka rummet!" är nu ö
 event-date: 2019-01-26 00:00:00 +02:00
 event-date-desc: 26 januari 2019, kl 10 - 18
 place: Goto10, Stockholm
-links:
+#links:
 #- title: Anmäl projekt
 #  url: "/form/project/"
 #  style: button
 #- title: Anmälan
 #  url: "/form/register/"
 #  style: button
-- title: Gå med i chatten
-  url: "https://chat.civictech.se/channel/general"
+#- title: Gå med i chatten
+#  url: "https://chat.civictech.se/channel/general"
 ---
 
 ## CivicTechSweden's hackathon
