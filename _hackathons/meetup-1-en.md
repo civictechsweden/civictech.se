@@ -6,7 +6,7 @@ lang: en
 excerpt: 'CivicTech-event in Uppsala on Open Data Day'
 ingress-text: A meetup in Uppsala to explore how open data can be used and created to help us reach sustainability in practice. 
 event-date: 2019-02-03 13:00:00 +02:00
-event-date-desc: 2 March 2019, 13-16
+event-date-desc: March 2nd 2019, 13-16
 place: Kollaboratoriet, Östra Ågatan 19, Uppsala
 links:
 - title: Join the chat
