@@ -23,7 +23,7 @@ Vi vill undersöka möjligheten till att skapa en kampanj för att öppna upp ko
 
 Vi kommer även diskutera möjligheterna att skapa en Uppsala-version av <a href="http://smartakartan.se">Smarta Kartan</a> som finns i Göteborg. Den samlar alla initiativ i staden som handlar om att hyra, dela, byta, låna, ge och få, för att sprida konceptet delningsekonomi och få fler att delta i det i praktiken.
 
-Vi välkomnar även egna initiativ och idéer mer än gärna! 
+Har du egna initiativ och idéer är de mer än välkomna! 
 
 Vi bjuder på fika. Hoppas vi ses där!
 
