@@ -21,6 +21,8 @@ Open Data Day går av stapeln den 2:a Mars och vi bjuder in till en meetup om Ö
 
 Vi vill undersöka möjligheten till att skapa en kampanj för att öppna upp kontrakt mellan offentliga sektorn och privata företag, för att bland annat få svart på vitt hur miljöskadliga respektive miljövänliga lösningar prioriteras vid upphandling. Vi vill också ge förslag till Uppsala Kommun på hur de kan utveckla sin öppna data, som finns på <a href="http://opendata.uppsala.se/">opendata.uppsala.se</a>. 
 
+Vi kommer även diskutera möjligheterna att skapa en Uppsala-version av <a href="http://smartakartan.se">Smarta Kartan</a> som finns i Göteborg. Den samlar alla initiativ i staden som handlar om att hyra, dela, byta, låna, ge och få, för att sprida konceptet delningsekonomi och få fler att delta i det i praktiken.
+
 Vi välkomnar även egna initiativ och idéer mer än gärna! 
 
 Vi bjuder på fika. Hoppas vi ses där!
