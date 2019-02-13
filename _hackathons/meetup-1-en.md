@@ -5,8 +5,8 @@ image:
 lang: en 
 excerpt: 'CivicTech-event in Uppsala on Open Data Day'
 ingress-text: A meetup in Uppsala to explore how open data can be used and created to help us reach sustainability in practice. 
-event-date: 2019-03-02 13:00:00 +02:00
-event-date-desc: 3 mars 2019, kl 13-16
+event-date: 2019-02-03 13:00:00 +02:00
+event-date-desc: 2 March 2019, 13-16
 place: Kollaboratoriet, Östra Ågatan 19, Uppsala
 links:
 - title: Join the chat
@@ -16,11 +16,11 @@ links:
   style: button
 ---
 
-Open data is information made available to the public, from for example authorities, the state or community projects. How can transparancy and spreading information contribute to our struggle for a sustainable society?
+Open data is information made available to the public, from for example authorities, the state or community projects. How can transparency and spreading information contribute to our struggle for a sustainable society?
 
-Open Data Day takes place the 3nd of March and we invite you to a meetup on Open Data in Uppsala. What would you like to do with open data for the environment? What would you like to see on the open data-portal of Uppsala municipality? 
+Open Data Day takes place the 2nd of March and we invite you to a meetup on Open Data in Uppsala. What would you like to do with open data for the environment? What would you like to see on the open data-portal of Uppsala municipality? 
 
-We want to explore the possibility to create a campaign for opening up contracts between the public sector and private corporations, to be able to see clearly how environmentally friendly contra environmentally harmful solutions are prioritized in public procurement. We also want to give suggestions to Uppsala municipality on how they can develop their open data, available at <a href="http://opendata.uppsala.se/">opendata.uppsala.se</a>. 
+We want to explore the possibility to create a campaign for opening up contracts between the public sector and private corporations, to be able to see clearly how environmentally friendly contra environmentally harmful solutions are prioritized in public procurement. Apart from the campaign we want to suggest to Uppsala municipality on how they can develop their open data, which is available at <a href="http://opendata.uppsala.se/">opendata.uppsala.se</a>. 
 
 We will also discuss the possibility to create a Uppsala-version of <a href="http://smartakartan.se">Smarta Kartan</a>, a smart map in Gothenburg! It gathers all initiatives in the city that are about sharing, renting, trading, borrowing, giving and receiving, and is a way to promote collaborative economy and get more people to participate in it.  
 
