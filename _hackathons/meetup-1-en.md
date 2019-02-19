@@ -12,7 +12,7 @@ links:
 - title: Join the chat
   url: "https://chat.civictech.se/channel/general"
 - title: Register here!
-  url: "/form/meetupregister"
+  url: "/en/form/meetupregister/"
   style: button
 ---
 

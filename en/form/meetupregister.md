@@ -1,7 +1,7 @@
 ---
-title: Register for hackathon
-excerpt: Registration for hackathon
-ref: participant
+title: Register for meetup
+excerpt: Registration for meetup in Uppsala
+ref: meetupregister
 layout: form
 ingress-text: We have filled all the spots for the hackathon, but please register anyway and we will mail you if someone drops off. Register by the form below.
 form:
