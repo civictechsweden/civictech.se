@@ -1,9 +1,9 @@
 ---
 title: Register for meetup
 excerpt: Registration for meetup in Uppsala
-ref: meetupregister
+ref: code-with-us-register
 layout: form
-ingress-text: We have filled all the spots for the hackathon, but please register anyway and we will mail you if someone drops off. Register by the form below.
+ingress-text: Code with us in Uppsala 21/3
 form:
 - id: namn
   title: Your name
@@ -19,18 +19,11 @@ form:
   required: required
   description: Only used to contact you if the event is cancelled in last minute
 - id: interest
-  title: What are you interested in doing/discussing at the meetup? 
+  title: What are you interested in doing at the meetup? 
   type: textarea
   description: You can always show up to see whats going on without a plan.
-- id: organisation
-  title: Your organisation
-  type: text
-  description: People without a connection to an organisation are welcome as well! 
-- id: allergies
-  title: Allergies or food preferences
-  type: text
 - id: _subject
-  value: Anmälan
+  value: Anmälan code with us
   type: hidden
 - id: redirect_to
   value: http://civictech.se/tack/

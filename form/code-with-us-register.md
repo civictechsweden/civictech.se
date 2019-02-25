@@ -1,9 +1,9 @@
 ---
 title: Anmäl dig till meetup
-excerpt: Anmälan till Open Data Day i Uppsala
-ref: meetupregister
+excerpt: Koda med Civic Tech i Uppsala
+ref: code-with-us-register
 layout: form
-ingress-text: Anmälan sker via formuläret nedan.
+ingress-text: Koda med oss i Uppsala den 21/3
 form:
 - id: namn
   title: Ditt namn
@@ -22,15 +22,8 @@ form:
   title: Vad är du intresserad av att göra på meetupen?   
   type: textarea
   description: Du kan även komma och se vad som händer utan en färdig plan!
-- id: organisation
-  title: Din organisation
-  type: text
-  description: Privatpersoner är välkomna också!
-- id: allergies
-  title: Allergier/matpreferens
-  type: text
 - id: _subject
-  value: Anmälan
+  value: Anmälan koda med oss
   type: hidden
 - id: redirect_to
   value: http://civictech.se/tack/
