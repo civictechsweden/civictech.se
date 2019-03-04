@@ -14,7 +14,7 @@ links:
   url: "/form/integrity-register"
   style: button
 ---
-Vi anordnar en dag med workshops på tema integritet och anonymitet i samarbete med föreningen <a href="https://www.dfri.se/">DFRI</a>. Ämnet är mer relevant än någonsin i och med hur micro-targeting används för att påverka vår världsbild och politiska åsikter, att svenska polisen ska börja använda ansiktsigenkänning i sitt arbete och storföretag hela tiden utvecklar sätt att samla in information om oss. När övervakningsaktörer expanderar måste vi kontra med att utveckla vår förståelse för övervaknings-algoritmerna, samt använda, sprida och utveckla verktyg för att försöka undfly de fällor som vi riskerar att falla i.   
+Vi anordnar en dag med workshops på tema integritet och anonymitet. Ämnet är mer relevant än någonsin i och med hur micro-targeting används för att påverka vår världsbild och politiska åsikter, att svenska polisen ska börja använda ansiktsigenkänning i sitt arbete och storföretag hela tiden utvecklar sätt att samla in information om oss. När övervakningsaktörer expanderar måste vi kontra med att utveckla vår förståelse för övervaknings-algoritmerna, samt använda, sprida och utveckla verktyg för att försöka undfly de fällor som vi riskerar att falla i.   
 
 
 Inga förkunskaper krävs för att delta! Alla workshops är på grundläggande nivå.
@@ -37,5 +37,4 @@ Vi går igenom olika verktyg du kan använda för att skydda din integritet, til
 Vi testar beprövade och obeprövade sätt att undvika ansiktsigenkänning! 
 
 
-
-Hope to see you there!
+Hoppas vi ses där!

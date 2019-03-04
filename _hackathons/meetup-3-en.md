@@ -16,7 +16,7 @@ links:
   style: button
 ---
 
-We invite you to a day of workshops on the theme integrity and anonymity, in cooperation with the organisation <a href="https://www.dfri.se/">DFRI</a>. The subject is more relevant than ever considering how micro-targeting is used to affect our view of the world and our opinions, that the swedish police are going to start using face recognition in their work and big corporations keep developing their ways of gathering information about us. When areas of surveillance are expanded, we need to expand our own understanding of the surveillance algorithms, as well as use, spread and develop tools to escape the traps we risk falling into.
+We invite you to a day of workshops on the theme integrity and anonymity. The subject is more relevant than ever considering how micro-targeting is used to affect our view of the world and our opinions, that the swedish police are going to start using face recognition in their work and big corporations keep developing their ways of gathering information about us. When areas of surveillance are expanded, we need to expand our own understanding of the surveillance algorithms, as well as use, spread and develop tools to escape the traps we risk falling into.
 
 No prior knowledge is needed to participate!
 

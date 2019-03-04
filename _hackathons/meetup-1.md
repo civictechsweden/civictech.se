@@ -10,9 +10,9 @@ place: Kollaboratoriet, Östra Ågatan 19, Uppsala
 links:
 - title: Gå med i chatten
   url: "https://chat.civictech.se/channel/general"
-- title: Anmäl dig här!
-  url: "/form/meetupregister"
-  style: button
+#- title: Anmäl dig här!
+#  url: "/form/meetupregister"
+#  style: button
 ---
 
 Öppna data är information som görs tillgänglig för allmänheten, till exempel data från myndigheter, staten eller ideella projekt. Hur kan transparens och spridning av information bidra till vår strävan efter ett hållbart samhälle? 
