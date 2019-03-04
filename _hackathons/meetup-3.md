@@ -27,11 +27,15 @@ Under dagen skriver vi ihop tips med tillgängliga verktyg och liknande för den
 Vi bjuder på fika och bra häng!
 
 ## Workshops
-### Sätt upp ett TOR-relä 
+### Kom igång med Tor
+Tor browser tillåter dig att surfa anonymt genom människors frivilliga bidrag. Tor används bland annat för att kringgå censur, av journalister och aktivister eller för att i privatlivet skydda sin integritet och identitet online. Lär dig mer om varför vi använder Tor och hur man sätter upp ett eget relä. Att sätta upp ett relä är ett enkelt men avgörande sätt att göra Tor bättre och säkrare.
 
 ### Intro till verktyg för integritet 
+Vi går igenom olika verktyg du kan använda för att skydda din integritet, till exempel hur man testar säkerheten av sin browser, addons till din browser och hantering av lösenord.
 
 ### Ansiktsmålning mot ansiktsigenkänning 
+Vi testar beprövade och obeprövade sätt att undvika ansiktsigenkänning! 
 
 
-Mer info om workshops postas här snart!
+
+Hope to see you there!

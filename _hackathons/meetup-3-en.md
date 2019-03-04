@@ -28,11 +28,16 @@ We will provide fika and a chill atmosphere!
 
 
 ## Workshops
-### Setting up a TOR-relay
+### Getting started with Tor
+Tor browser allows you to surf anonymously through peoples contribution to the Tor-network. Tor is used to avoid censorship, by journalists and activists or to protect your integrity and identity online in your private life. Learn more about why we use Tor and how to set up a relay. Setting up a relay is an easy but important way to make Tor better and safer. 
 
 ### Introduction to integrtiy-tools
+Tips of tools you can use to protect your integrity, for example how you can test the safety of your browser, which addons you could use to your browser and handling of passwords.
 
 ### Face paint to avoid face recognition 
+We will try reliable and maybe unreliable ways of avoiding face-recognition!
 
-More details about the workshops will be posted here soon!
+
+
+Hope to see you there!
 
