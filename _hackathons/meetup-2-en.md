@@ -21,6 +21,6 @@ We meet at 18 on Capsule and the workshop starts at 18.30. After the workshop yo
 
 If you can; bring a laptop. If you don’t have one; show up anyway! There are some laptops you can borrow, and also the opportunity to share a laptop with someone else.
 
-If you already know how to how to make websites you are welcome to join us as well and code on your own project or help out if needed. 
+If you already know how to how to make code you are welcome to join us as well and work on your own project or help out if needed. 
 
 Hope to see you there!  

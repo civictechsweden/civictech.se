@@ -2,7 +2,7 @@
 title: 'Koda med oss!'
 ref: meetup-2
 image: "/uploads/group-pic.jpg" 
-excerpt: 'Gör din första hemsida!'
+excerpt: 'Gör din första hemsida eller kom och koda på ett projekt du redan jobbar med.'
 ingress-text: En meetup i Uppsala för kvinnor och icke-binära som vill testa på att göra sin första egna hemsida eller koda på sina egna projekt. 
 event-date: 2019-03-21 18:00:00 +02:00
 event-date-desc: 21 mars 2019, kl 18-20
