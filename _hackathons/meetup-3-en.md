@@ -1,7 +1,7 @@
 ---
 title: 'Integrity-hangout' 
 ref: meetup-3
-image:
+image: "/uploads/hackathon3proj.jpg"
 lang: en 
 excerpt: 'A meetup for the Civic Tech-community in Stockholm'
 ingress-text: A day of workshops on integrity and anonymity. Learn more or spread what you already know!

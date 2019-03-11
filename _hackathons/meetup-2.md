@@ -17,10 +17,10 @@ links:
 
 Gör din första egna hemsida från scratch. När du har grunderna på plats är det din fantasi som sätter gränserna. Inga förkunskaper krävs för att delta. Det här eventet är separatistiskt för kvinnor och icke-binära.
 
-Vi ses kl 18 på Capsule och själva workshopen drar igång 18.30. Efter workshopen får du gärna sitta kvar och jobba vidare. 
+Vi ses kl 18 på <a href="https://lifeatcapsule.com/">Capsule</a> på Smedsgränd 4 och själva workshopen drar igång 18.30. Workshopen hålls av Victoria Wagman som jobbar som utvecklare på 46elks. Efteråt får du gärna sitta kvar och jobba vidare. 
 
 Om du kan; ta med en dator. Om du inte har en, kom ändå! Det finns några datorer som kan lånas ut, och också möjligheten att dela dator med någon annan. 
 
-Om du redan kan göra hemsidor är du mer än välkommen att komma och jobba med något eget projekt eller hjälpa till där det behövs. 
+Om du redan kan göra hemsidor eller kodar på något annat än en hemsida är du mer än välkommen att komma och jobba med ett eget projekt eller hjälpa till där det behövs. 
 
-Hoppas vi ses där!
+Vi bjuder på fika. Hoppas vi ses där!

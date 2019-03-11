@@ -1,7 +1,7 @@
 ---
 title: 'Integritets-häng' 
 ref: meetup-3
-image: 
+image: "/uploads/hackathon3proj.jpg" 
 excerpt: 'Meetup för Civic Tech-communitiet i Stockholm'
 ingress-text: En dag med workshops om integritet och anonymitet. Lär dig mer eller sprid det du redan kan!
 event-date: 2019-03-24 13:00:00 +02:00
