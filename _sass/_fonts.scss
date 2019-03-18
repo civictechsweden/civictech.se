@@ -14,3 +14,16 @@
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'OfficeCodeProD';
+    src: url('../fonts/officecodeprod-regular-webfont.eot');
+    src: url('../fonts/officecodeprod-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/officecodeprod-regular-webfont.woff2') format('woff2'),
+         url('../fonts/officecodeprod-regular-webfont.woff') format('woff'),
+         url('../fonts/officecodeprod-regular-webfont.ttf') format('truetype'),
+         url('../fonts/officecodeprod-regular-webfont.svg#office_code_pro_dregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

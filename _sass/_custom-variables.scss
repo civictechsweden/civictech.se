@@ -94,21 +94,21 @@
 // Start with assigning color names to specific hex values.
 $white:                     #fff !default;
 $black:                     #000 !default;
-$teal:                      #00ffcc;
+$teal:                      #50E3C2;
 // $strong-blue:            #3300ff;
-$violet:                    #9a24f4;
+$violet:                    #9013FE;
 $magenta:                   #ff21f5;
-$yellow:                    #ffff00;
+$yellow:                    #F2E610;
 // $primary-blue:           #0000ff;
-$blue:                      #0425f3;
+$blue:                      #00ADEF;
 
 // Create grayscale
-$gray-dark:                 #1f2021 !default;
-$gray:                      #f7f7f7 !default;
+$gray-dark:                 #4A4A4A !default;
+$gray:                      rgba(155,155,155,0.52) !default;
 
 // Reassign color vars to semantic color scheme
-$brand-primary:             $blue !default;
-$brand-success:             $teal !default;
+$brand-primary:             $teal !default;
+$brand-success:             $yellow !default;
 $brand-info:                $violet !default;
 $brand-warning:             $yellow !default;
 $brand-danger:              $magenta !default;
@@ -241,7 +241,7 @@ $link-hover-decoration: underline !default;
 $font-size-base: 1.25rem !default;
 $line-height-base: 1.5 !default;
 
-$font-family-sans-serif:    'Noto Sans', sans-serif !default;
+$font-family-sans-serif:    'OfficeCodeProD', sans-serif !default;
 
 $headings-font-family:      'BentonSans', !default;
 $headings-font-weight:      normal !default;

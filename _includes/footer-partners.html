@@ -1,37 +1,15 @@
-<section id="partners" class="">
+<section class="section">
+  <div class="container">
+    <h2 class="title">{{site.partner[page.lang].partnership}}</h2>
 
-  <div class="container py-3">
-    <div class="row">
-      <div class="col-sm-4">
-        <h2 class="display-3">{{site.partner[page.lang].initiative}}</h2>
-        <div class="row">
-          <div class="col-md-8 col-sm-12 pb-2">
-            <a href="http://digidemlab.org" title="Digidem Lab">
-              <img src="{{site.baseurl}}/uploads/logo-digidemlab.png" alt="Digidem Lab" class="img-fluid">
-            </a>
-          </div>
+    <div class="columns">
+      {% for item in site.partners %}
+        <div class="column">
+          <a href="{{item.link}}" title="{{item.title}}">
+            <img src="{{site.baseurl}}{{item.logo}}" alt="{{item.title}}">
+          </a>
         </div>
-        <h2 class="display-3">{{site.partner[page.lang].support}}</h2>
-        <div class="row">
-          <div class="col-md-6 col-sm-12 pb-2">
-            <a href="http://arvsfonden.se" title="Allmänna Arvsfonden">
-              <img src="{{site.baseurl}}/uploads/logo-arvsfonden.png" alt="Arvsfonden" class="img-fluid">
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-8">
-        <h2 class="display-3">{{site.partner[page.lang].partnership}}</h2>
-        <div class="row">
-          {% for item in site.partners %}
-            <div class="col-sm-6 col-md-3 pb-1">
-              <a href="{{item.link}}" title="{{item.title}}">
-                <img src="{{site.baseurl}}{{item.logo}}" alt="{{item.title}}" class="img-fluid">
-              </a>
-            </div>
-          {% endfor %}
-        </div>
-      </div>
+      {% endfor %}
     </div>
   </div>
 </section>

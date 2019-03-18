@@ -12,6 +12,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  groups:
+    title: Groups
+    output: true
 defaults:
 - scope:
     path: ''
@@ -25,6 +28,12 @@ defaults:
   values:
     layout: page
     lang: en
+- scope:
+    path: ''
+    type: groups
+  values:
+    layout: project
+    lang: sv
 - scope:
     path: ''
     type: posts
@@ -107,6 +116,12 @@ projectpartner:
   sv: Projektpartner
   en: Project partner
 partners:
+- title: Digidem Lab
+  link: http://digidemlab.org
+  logo: "/uploads/logo-digidemlab.png"
+- title: Allmänna Arvsfonden
+  link: http://arvsfonden.se
+  logo: "/uploads/logo-arvsfonden.png"
 - title: Göteborgs Stad - Förvaltningen för konsument- och medborgarservice
   logo: "/uploads/logo-goteborg.png"
   link: http://goteborg.se/wps/portal/start/kommun-o-politik/kommunens-organisation/forvaltningar/forvaltningar/forvaltningen-for-konsument--och-medborgarservice-/!ut/p/z1/hU7NCoMwGHsar_1q_Wm7WxlD0P3ALrpehrpOZauVWjfY00-Pg40FcghJSEBCAbIvH11Tus705X3WJxmfQ5JgPw39LNkIikW0JtFufwiyI4H8X0DONv4BgSEF2VUaPWuNMCIkoowwzhkNGY85XfZFXwWsAWnVVVll0WTnW61zw7jysIcvU31b2BhUG-3hb5XWjA6KzyQMunhtVS7e-Y0waA!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/

@@ -1,58 +1,96 @@
 ---
 layout: default
 ---
-
-<header class="site-header bg-primary" role="banner">
-  <div class="header-image">
-    <div class="container" style="z-index:99">
-      <nav class="navbar navbar-toggleable-md navbar-light pt-2 pt-lg-3 pb-0">
-        <button class="navbar-toggler navbar-toggler-right border-0" type="button" data-toggle="modal" data-target="#menuModal" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <!-- <i class="fa fa-bars fa-3x" aria-hidden="true"></i> -->
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse justify-content-end mb-auto" id="main-menu">
-          <ul class="navbar-nav nav-menu-secondary ml-4">
-            {% include menu-lang.html %}
-          </ul>
+<section class="hero is-primary is-medium">
+  <!-- Hero head: will stick at the top -->
+  <div class="hero-head">
+    <nav class="navbar">
+      <div class="container">
+        <div class="navbar-brand">
+          <a class="navbar-item">
+            <img src="https://bulma.io/images/bulma-type-white.png" alt="Logo">
+          </a>
+          <span class="navbar-burger burger" data-target="navbarMenuHeroA">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
         </div>
-      </nav>
-      <div class="row py-5">
-        <div class="col-lg-10 offset-lg-1 text-center">
-          <h1 class="display-1"><span class="bg-danger text-white text-uppercase">{{page.title}}</span></h1>
-          <h2 class=""><span class="bg-danger text-white text-uppercase">{{page.description}}</span></h2>
-          <a class="btn btn-secondary" href="https://chat.civictech.se" role="button">{{site.join[page.lang]}}</a>
+        <div id="navbarMenuHeroA" class="navbar-menu">
+          <div class="navbar-end">
+            <a class="navbar-item">
+              Om oss
+            </a>
+            <a class="navbar-item">
+              Joina chatten
+            </a>
+          </div>
         </div>
       </div>
+    </nav>
+  </div>
+
+  <!-- Hero content: will be in the middle -->
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <h1 class="title">
+        Title
+      </h1>
+      <h2 class="subtitle">
+        Subtitle
+      </h2>
     </div>
   </div>
-</header>
 
-<section class="container mt-2 mt-lg-3 pb-3b">
-  <div class="row">
-    <div class="col p-0">
-      <div class="box text-update py-2b px-2 px-lg-3">
-        <p class="mb-2b lead text-primary">{{page.news-flash[0].text}}</p>
-        <div class="text-right lead text-primary">
-          <a href="{{site.baseurl}}{{page.news-flash[0].link}}" class="icon-arrow-blue pl-4 pl-lg-3">{{page.news-flash[0].link-title}}</a>
-        </div>
+  <!-- Hero footer: will stick at the bottom -->
+  <div class="hero-foot">
+    <div class="container">
+      <div class="field is-grouped is-pulled-right">
+        {% for item in site.groups %}
+          <p class="control">
+            <a href="{{item.url}}" class="button is-text">{{item.title}}</a>
+          </p>
+        {% endfor %}
+        <p class="control">
+          <a class="button">
+            Starta i din stad!
+          </a>
+        </p>
       </div>
     </div>
   </div>
 </section>
 
-<section id="projects">
-  <div class="container pt-2">
-    <div class="row">
-      <div class="col">
-        <h2 class="display-3">{{site.project-title[page.lang]}}</h2>
-      </div>
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      {% for item in page.principles %}
+        <div class="column">
+          <h3 class="title">{{item.title}}</h3>
+          <p>{{item.text}}</p>
+        </div>
+      {% endfor %}
     </div>
   </div>
+</section>
 
-  {% include projects.html %}
+<section class="section">
+  <div class="container">
+    <p class="mb-2b lead text-primary">{{page.news-flash[0].text}}</p>
+    <div>
+      <a href="{{site.baseurl}}{{page.news-flash[0].link}}" class="icon-arrow-blue pl-4 pl-lg-3">{{page.news-flash[0].link-title}}</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2 class="title">{{site.project-title[page.lang]}}</h2>
+    {% include projects.html %}
+
+  </div>
 </section>
 
 
-{% include contact.html %}
 {% include footer-partners.html %}
 {% include footer.html %}
