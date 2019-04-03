@@ -1,11 +1,11 @@
 <div id="navbarMenuHeroA" class="navbar-menu">
 	<div class="navbar-end">
 		{% include menu-lang.html %}
-		<a class="navbar-item" href="about">Om oss</a>
+		<a class="navbar-item" href="{{site.data.menu[page.lang][0].url}}">{{site.data.menu[page.lang][0].title}}</a>
 
 		<div class="navbar-item has-dropdown is-hoverable">
       <a class="navbar-link">
-        Grupper
+        {{site.data.menu[page.lang][1].title}}
       </a>
       <div class="navbar-dropdown">
 				{% assign groups=site.groups | where:"lang", page.lang %}
@@ -16,6 +16,6 @@
       </div>
     </div>
 
-		<a class="navbar-item" href="https://chat.civictech.se">Joina chatten &nbsp;<span class="icon"><i class="fab fa-rocketchat fa-lg"></i></span></a>
+		<a class="navbar-item" href="https://chat.civictech.se">{{site.data.menu[page.lang][2].title}} &nbsp;<span class="icon"><i class="fab fa-rocketchat fa-lg"></i></span></a>
 	</div>
 </div>

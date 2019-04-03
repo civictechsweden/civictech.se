@@ -67,7 +67,7 @@ body {
   background-position: top center;
 }
 
-.navbar-menu {
+.navbar-menu:not(.is-active) {
   max-height: 3rem;
 }
 
@@ -89,6 +89,10 @@ body {
 
 .navbar-brand .navbar-item {
   max-width: 80%;
+}
+
+.navbar-item img {
+  max-height: inherit;
 }
 
 .is-front .hero-body {
