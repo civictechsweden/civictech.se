@@ -2,8 +2,8 @@
 title: CivicTechSweden
 timezone: Europe/Stockholm
 collections:
-  hackathons:
-    title: Hackathons
+  events:
+    title: Events
     output: true
     permalink: "/:title/"
   posts:
@@ -32,13 +32,13 @@ defaults:
     path: ''
     type: groups
   values:
-    layout: project
+    layout: page
     lang: sv
 - scope:
     path: ''
     type: posts
   values:
-    layout: project
+    layout: page
     lang: sv
     ref:
     excerpt:
@@ -56,9 +56,9 @@ defaults:
       organisation-link:
 - scope:
     path: ''
-    type: hackathons
+    type: events
   values:
-    layout: project
+    layout: event
     lang: sv
     ref:
     image:
@@ -91,6 +91,9 @@ register:
 register_desc:
   sv: Anmäl dig här för att vara med på hackathonet
   en: Register here to participate in the hackathon
+mission:
+  sv: CivicTechSweden är ett nätverk av personer, organisationer och offentliga aktörer som verkar för att möjligheterna med öppen och fri digitalisering ska komma så många som möjligt till del.
+  en: CivicTechSweden är ett nätverk av personer, organisationer och offentliga aktörer som verkar för att möjligheterna med öppen och fri digitalisering ska komma så många som möjligt till del.
 contact:
   sv:
     title: Vill du vara med?
@@ -103,11 +106,11 @@ contact:
 partner:
   sv:
     initiative: Ett initiativ från
-    partnership: I samarbete med
+    partnership: Partners
     support: Med stöd av
   en:
     initiative: An initiative from
-    partnership: In partnership with
+    partnership: Partners
     support: Supported by
 projectmanager:
   sv: Projektledare
@@ -115,6 +118,9 @@ projectmanager:
 projectpartner:
   sv: Projektpartner
   en: Project partner
+language:
+  sv: Svenska
+  en: English
 partners:
 - title: Digidem Lab
   link: http://digidemlab.org

@@ -1,24 +1,21 @@
-<div class="columns">
-
-  {% for post in site.posts limit:3 %}
-    <div class="column">
-      <div class="card">
-        <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-          </figure>
-        </div>
-        <div class="card-content">
-          <div class="content">
-            <h3 class="title">{{post.title}}</h3>
-            {{post.excerpt}}
-          </div>
-          <div class="card-footer">
-            icon
-          </div>
-        </div>
+<div class="column is-one-third">
+  <div class="card">
+    <div class="card-image">
+      <figure class="image is-4by3">
+        <a href="{{site.baseurl}}{{post.url}}"><img src="{{post.image}}" alt=""></a>
+      </figure>
+    </div>
+    <div class="card-content">
+      <div class="content">
+        <h3 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
+        {{post.excerpt}}
       </div>
     </div>
-  {% endfor %}
-
+    <div class="card-footer">
+      {% if post.chat %}
+        <a class="card-footer-item left" href="https://chat.civictech.se/{{post.chat}}"><span class="icon is-medium"><i class="fab fa-rocketchat fa-lg"></i></span></a>
+      {% endif %}
+      <a class="card-footer-item right" href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/assets/images/pil.svg" alt="Läs mer"></a>
+    </div>
+  </div>
 </div>

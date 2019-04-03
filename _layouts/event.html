@@ -1,0 +1,34 @@
+---
+layout: global
+---
+
+<article class="section is-medium is-overlapping">
+
+  <div class="columns is-centered">
+    <div class="column is-four-fifths has-background-primary">
+      <div class="columns is-centered">
+        <div class="column is-four-fifths">
+          <h1 class="title is-1">{{page.title}}</h1>
+          <div>
+    				<strong>{{page.event-date-desc}} /
+    					{{page.place}}
+    				</strong>
+    			</div>
+          <p class="title is-5">{{page.ingress-text}}</p>
+
+          {% if page.links[0].title %}
+            {% include page-links.html links=page.links %}
+          {% endif %}
+        </div>
+      </div>
+
+      <div class="columns is-centered">
+        <div class="column is-three-fifths">
+          <div class="content">
+            {{content}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>

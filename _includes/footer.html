@@ -1,5 +1,19 @@
-<footer id="footer" class="bg-danger">
-  <div class="container pt-2 pb-1">
-    {% include social.html %}
+<footer class="footer has-background-black">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-half">
+        <p class="title is-6 has-text-white">{{site.mission[page.lang]}}</p>
+      </div>
+    </div>
+    <div class="columns">
+      <div class="column has-text-white">
+        <p>Content
+        is licensed <a class="has-text-white" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.</p>
+        <p>Contact // <a class="has-text-white" href="mailto:hello@civictech.se">hello@civictech.se</a></p>
+      </div>
+      <div class="column">
+        {% include social.html %}
+      </div>
+    </div>
   </div>
 </footer>

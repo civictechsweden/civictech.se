@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<section class="hero is-primary is-medium">
+<section class="hero is-medium is-primary is-front hero-image hero-cts">
   <!-- Hero head: will stick at the top -->
   <div class="hero-head">
     <nav class="navbar">
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item">
-            <img src="https://bulma.io/images/bulma-type-white.png" alt="Logo">
+            <img src="{{site.baseurl}}/assets/images/cts-logo.svg" alt="Logo">
           </a>
           <span class="navbar-burger burger" data-target="navbarMenuHeroA">
             <span></span>
@@ -16,56 +16,68 @@ layout: default
             <span></span>
           </span>
         </div>
-        <div id="navbarMenuHeroA" class="navbar-menu">
-          <div class="navbar-end">
-            <a class="navbar-item">
-              Om oss
-            </a>
-            <a class="navbar-item">
-              Joina chatten
-            </a>
-          </div>
-        </div>
+        {% include menu.html %}
       </div>
     </nav>
   </div>
 
   <!-- Hero content: will be in the middle -->
   <div class="hero-body">
-    <div class="container has-text-centered">
-      <h1 class="title">
-        Title
-      </h1>
-      <h2 class="subtitle">
-        Subtitle
-      </h2>
+    <div class="container">
+      <div class="columns">
+        <div class="column is-half">
+        </div>
+        <div class="column is-half is-desktop">
+          <div class="box">
+            {% assign events=site.events | where:"lang", page.lang | sort:'event-date' | reverse %}
+            <h1 class="title">
+              <a href="{{site.baseurl}}{{events[0].url}}">{{events[0].title}}</a>
+            </h1>
+            <p>{{events[0].ingress-text}}</p>
+            <div>
+              <strong>{{events[0].event-date-desc}} /
+                {{events[0].place}}
+              </strong>
+            </div>
+            {% for link in events[0].links %}
+              <div class="has-text-right arrow-line">
+                <a href="{{link.url}}" class="title is-6 arrow">{{link.title}}</a>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 
   <!-- Hero footer: will stick at the bottom -->
   <div class="hero-foot">
     <div class="container">
-      <div class="field is-grouped is-pulled-right">
-        {% for item in site.groups %}
-          <p class="control">
-            <a href="{{item.url}}" class="button is-text">{{item.title}}</a>
-          </p>
+      <div class="columns is-multiline is-mobile has-text-centered">
+        {% assign groups=site.groups | where:"lang", page.lang %}
+        {% for item in groups %}
+          <div class="column">
+            <a href="{{item.url}}" class="button is-text has-text-warning">{{item.title}}</a>
+          </div>
         {% endfor %}
-        <p class="control">
-          <a class="button">
+        <div class="column">
+          <a class="button is-outlined is-warning">
             Starta i din stad!
           </a>
-        </p>
+        </div>
       </div>
     </div>
   </div>
 </section>
 
-<section class="section">
+<section class="section is-medium">
   <div class="container">
     <div class="columns">
       {% for item in page.principles %}
-        <div class="column">
+        <div class="column has-text-centered">
+          <figure class="mission-image image is-128x128">
+            <img src="{{item.image}}" alt="">
+          </figure>
           <h3 class="title">{{item.title}}</h3>
           <p>{{item.text}}</p>
         </div>
@@ -74,23 +86,36 @@ layout: default
   </div>
 </section>
 
-<section class="section">
+<section class="section is-medium">
+  <div class="container mission has-text-centered has-background-info">
+    <p class="title has-text-white">{{site.mission[page.lang]}}</p>
+  </div>
+</section>
+
+<section class="section is-medium has-background-light">
   <div class="container">
-    <p class="mb-2b lead text-primary">{{page.news-flash[0].text}}</p>
-    <div>
-      <a href="{{site.baseurl}}{{page.news-flash[0].link}}" class="icon-arrow-blue pl-4 pl-lg-3">{{page.news-flash[0].link-title}}</a>
+    <h2 class="title has-text-centered">{{site.projects[page.lang]}}</h2>
+    <div class="columns">
+      {% assign projects=site.posts | where:"lang", page.lang %}
+      {% for post in projects limit:3 %}
+        {% include projects.html %}
+      {% endfor %}
+    </div>
+    <div class="has-text-centered">
+      <a class="button is-black is-outlined" href="projects">{{site.projects[page.lang]}}</a>
     </div>
   </div>
 </section>
 
-<section class="section">
+<section id="partners" class="section has-background-light">
   <div class="container">
-    <h2 class="title">{{site.project-title[page.lang]}}</h2>
-    {% include projects.html %}
-
+    <h2 class="title has-text-centered">{{site.partner[page.lang].partnership}}</h2>
+    <div class="columns partners is-vcentered is-multiline">
+      {% for item in site.partners %}
+        {% include partner.html %}
+      {% endfor %}
+    </div>
   </div>
 </section>
 
-
-{% include footer-partners.html %}
 {% include footer.html %}

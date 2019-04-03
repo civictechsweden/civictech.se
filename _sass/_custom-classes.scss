@@ -3,341 +3,188 @@
 //
 
 
-// Positioning
+// General
 
-.header-image {
-   position: relative;
-}
-.header-image:after {
-    content: "";
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-image: url('/uploads/lab-with-audrey-wide.jpg');
-    background-size: cover;
-    background-position: 75%;
-    width: 100%;
-    height: 100%;
-    opacity : 0.7;
+body {
+  font-size: 0.875rem;
 }
 
-// Padding
-@include media-breakpoint-down(sm) {
-
-  .btn {
-    padding: 1.5rem;
-  }
-
-  .card-header {
-      padding: 2rem;
-    }
+.title {
+  font-family: $family-headlines;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: normal;
+  line-height: 1.5;
 }
 
-// Fonts
-
-.display-1 {
-  line-height: 1.375;
-}
-
-.navbar-brand,
-.btn,
-.card-link,
-.card-text {
-   font-size: 1.5rem;
-   text-decoration: none;
-}
-
-.figure-caption {
-  font-size: 1.25rem;
-}
-
-.display-2 {
-  color: $black;
-}
-.nav-link {
+.button.is-text {
   text-decoration: none;
-}
 
-
-// Links
-label,
-.figure-caption,
-.card-text,
-.lead,
-.card-title {
-  font-family: $headings-font-family;
-  line-height: 1.4;
-
-  a {
-    text-decoration: underline;
-  }
-}
-
-.nav-item.active a {
-  text-decoration: underline;
-}
-
-a.card-link,
-a.nav-link {
   &:hover {
     text-decoration: underline;
   }
 }
 
-a:hover .card-header span {
-  text-decoration: underline;
+.button {
+  font-weight: bold;
+  font-size: 1rem !important;
+}
+
+.card .image {
+  overflow: hidden;
+
+  img {
+    height: auto !important;
+  }
+}
+
+.card {
+    display:flex;
+    flex-direction: column;
+    height: 100%;
+}
+.card-footer {
+    margin-top: auto;
+}
+
+.card-footer-item {
+
+  &.left {
+    justify-content: left;
+  }
+
+  &.right {
+    justify-content: right;
+  }
+}
+
+
+// Hero
+
+.hero-image {
+  background-image: url('/assets/images/hero.jpg');
+  background-size: cover;
+  background-position: top center;
+}
+
+.navbar-menu {
+  max-height: 3rem;
+}
+
+.select:not(.is-multiple):not(.is-loading)::after, .navbar-link:not(.is-arrowless)::after {
+  border-width: 1px;
+  border-radius: 0;
+}
+
+.hero .navbar-item,
+.hero .navbar-link {
+  color: $navbar-item-color !important;
+
+  &:hover,
+  &.is-active {
+    background: $navbar-item-hover-background-color !important;
+    text-decoration: underline;
+  }
+}
+
+.navbar-brand .navbar-item {
+  max-width: 80%;
+}
+
+.is-front .hero-body {
+  padding-top: 0 !important;
+}
+
+.hero-foot {
+  padding: 0 1.5rem 3rem;
+}
+
+.arrow {
+  display: inline-block;
+  background: url('/assets/images/pil-thin.svg') $primary 0 0 no-repeat;
+  padding-left: 30px;
+}
+
+.arrow-line {
+  background: url('/assets/images/pil-line.svg') 0 11px repeat-x;
+}
+
+// Mission
+
+.mission-image {
+  margin: 0 auto;
+}
+
+.mission > p:before {
+  content: '”';
+  display: block;
+  margin-bottom: 2rem;
+}
+
+.container.mission {
+  padding: 4rem 7.5rem 7rem;
+}
+
+// Partners
+
+.columns.partners {
+  border: 3px solid $grey-lighter;
+  border-width: 3px 0;
+}
+
+.partner-image {
+  max-width: 128px;
+  margin: 2rem auto;
+}
+
+// Footer
+.icon.is-large {
+  margin-left: 2rem;
 }
 
 // Content
 
-.content h2 {
-  text-transform: uppercase;
-  margin-bottom: 1.5rem;
-
-  @include media-breakpoint-up(lg) {
-    float: left;
-    width: 23.3%;
-  }
-}
-
-.content a {
-  text-decoration: underline;
-  color: $magenta;
-}
-
-.content h3 {
-  color: $black;
-  margin-bottom: $font-size-base;
-
-  @include media-breakpoint-up(lg) {
-    @include make-col-offset(3);
-    padding-left: ($grid-gutter-width-base / 4);
-  }
-}
-
-.content ul,
-.content ol,
-.content p {
-  margin: 0;
-  padding: 0;
-
-  @include media-breakpoint-up(lg) {
-    @include make-col-offset(3);
-    padding-left: ($grid-gutter-width-base / 4);
-  }
-
-  margin-bottom: $font-size-base * 2;
-}
-
-.content li {
-  margin-bottom: $font-size-base;
-  list-style-position: inside;
-}
-
-.content p strong {
-  // background-color: $blue;
-  color: $blue;
-  font-weight: normal;
-}
-
-blockquote {
-  font-family: $headings-font-family;
-  line-height: 1.83;
-  position: relative;
-  margin: 0;
-}
-
-.content blockquote:not(.blockquote) {
-  font-size: 1.5rem;
-
-  p {
-    // margin-bottom: $font-size-base;
-  }
-}
-
-.blockquote-img {
-//  margin-right: -25%;
-  position: absolute;
-  top: -12.5%;
-  left: 0;
-  height: 125%;
-  z-index: -1;
-  @include media-breakpoint-down(md) {
-  //  margin-right: -50%;
-  }
-}
-
-small a,
-.small a {
-  text-decoration: underline;
-}
-
-textarea,
-input {
-  font-family: $font-family-sans-serif;
-}
-
-// Navigation
-.navbar-brand,
-.btn,
-.nav-link,
-.card-link {
-  font-family: $headings-font-family;
-}
-
-.btn-secondary,
-.btn-secondary:focus, .btn-secondary.focus
-.btn-secondary:active, .btn-secondary.active {
-  box-shadow: 8px 8px 0 0 $btn-secondary-color;
-}
-
-.flex-column .nav-link {
-  color: $black;
-}
-
-.icon-arrow {
-  background: url('../images/pil.png') no-repeat 5px 4px;
-
-  @include media-breakpoint-up(md) {
-    background-position: 5px 6px
-  }
-}
-
-.icon-arrow-blue {
-  background: url('../images/pil-bla.png') no-repeat 5px 2px;
-
-  @include media-breakpoint-up(md) {
-    background-position: 5px 3px
-  }
-}
-
-.nav-menu-main {
-  font-size: 1.5rem;
-  line-height: 1;
-  white-space: nowrap;
-}
-
-.nav-menu-secondary {
-  font-size: 1rem !important;
-  line-height: 1;
-
-  li:first-child a {
-    border-right: 1px solid $blue;
-  }
-}
-
-.navbar-brand img {
-  @include media-breakpoint-down(sm) {
-    max-width: 80%;
-  }
-}
-
-// Lists
-
-ul.list-random {
-  margin-bottom: 0;
-}
-
-.list-random-item {
-  position: relative;
+.content {
   font-size: 1rem;
-
-  .media-body {
-    z-index: 99;
-  }
+  line-height: 1.75;
 }
 
-.list-random-image {
-  position: absolute;
+.content p {
+  margin-bottom: 1.75em;
 }
 
-.list-random-image-1 {
-  left: 4rem;
-  top: 0;
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  font-size: 1em;
+  font-weight: bold;
 }
 
-.list-random-image-2 {
-  bottom: -1.3rem;
-  right: 10rem;
+.content h2:not(:first-child) {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
 }
 
-.nav-link .fa-fw {
-  width: 3rem;
-  @include media-breakpoint-down(sm) {
-    width: 4rem;
-  }
-  float: left;
-  display: inline;
-  padding: 0.25rem 0 1rem;
-}
-
-// Panel, Box
-
-.box {
-  border: 10px solid $blue;
+.content h3:not(:first-child) {
+  margin-top: 1.75rem;
 }
 
 
-// Misc shit
 
-::selection {
-  color: $black;
-  background: $yellow;
-}
+/** ---------------- **/
 
-::-moz-selection {
-  color: $black;
-  background: $yellow;
-}
+// Project
 
-.close {
-  opacity: 1;
-}
-
-/* FULL SCREEN MODAL STYLES
--------------------------------------------------- */
-.fullscreen .modal-dialog {
-   min-height: 100%;
-   max-width: 100%;
-}
-
-.fullscreen .modal-content {
-   min-height: 100%;
-   overflow:auto;
+.contact {
+  margin-top: 5rem;
 }
 
 
-// Responsive font size
+// Event
 
-@include media-breakpoint-down(sm) {
-  html {
-    font-size: 12px;
-  }
-
-  .display-1,
-  .display-2,
-  h1 {
-    font-size: 3rem;
-  }
-
-  label,
-  h3,
-  .btn,
-  .nav .nav-link,
-  .blockquote,
-  blockquote,
-  .lead,
-  .figure-caption {
-    font-size: 1.6667rem !important;
-  }
-
-  .list-random-item {
-    font-size: 1.25rem;
-  }
-
-  .small,
-  small {
-    font-size: 1.16667rem;
-  }
+.is-overlapping {
+  margin-top: -25rem;
 }

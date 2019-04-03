@@ -30,7 +30,7 @@ layout:
       </url>
     {% endif %}
   {% endfor %}
-  {% for project in site.hackathons %}
+  {% for project in site.events %}
     {% if page.id contains "404" %}{% else %}
       <url>
         <loc>{{site.base}}{{ project.url }}</loc>

@@ -1,0 +1,33 @@
+<section class="hero is-info hero-cts is-medium hero-image" {% if page.image %} style="background-image:url('{{site.baseurl}}{{page.image}}');" {% endif %}>
+  <!-- Hero head: will stick at the top -->
+  <div class="hero-head">
+    <nav class="navbar">
+      <div class="container">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="{{site.baseurl}}{% if page.lang == 'sv'%}/{% else %}/en{% endif %}">
+            <img src="{{site.baseurl}}/assets/images/cts-logo-h.svg" alt="Logo">
+          </a>
+          <span class="navbar-burger burger" data-target="navbarMenuHeroA">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+        </div>
+				{% include menu.html %}
+      </div>
+    </nav>
+  </div>
+
+  <!-- Hero content: will be in the middle -->
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-one-quarter has-text-centered">
+          <!--
+          <img class="project-image" src="{{site.baseurl}}{{page.image}}" alt="" >
+          -->
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

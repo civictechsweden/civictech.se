@@ -4,6 +4,7 @@ date: 2017-12-20 00:00:00 +01:00
 categories:
 - Sharing is caring
 - hackathon-1
+- goteborg
 tags:
 - Development
 - Design
@@ -20,16 +21,16 @@ links:
   url: https://github.com/yunity/karrot-backend
 contact:
 - name: Nicolas Sahlqvist
-  image: 
-  text: 
+  image:
+  text:
   mail: nicolas@solikyl.se
   organisation: Solidariskt Kylskåp
   organisation-link: http://solikyl.se/
 - name: Karrots kärnutvecklarna
-  image: 
+  image:
   text: Nick, Janina och Tilmann är Karrots kärntuvecklarna och åker buss hela vägen
     från Tyskland för att delta i hackatonet!
-  mail: 
+  mail:
   organisation: Foodsaving World
   organisation-link: https://foodsaving.world/en/team
 ---

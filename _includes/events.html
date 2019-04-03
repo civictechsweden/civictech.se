@@ -1,0 +1,22 @@
+<div class="columns is-centered">
+	<div class="column is-four-fifths">
+		<div class="box">
+			<h2 class="title is-1">
+				<a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
+			</h2>
+			<div>
+				<strong>{{item.event-date-desc}} /
+					{{item.place}}
+				</strong>
+			</div>
+			<p class="title is-5">{{item.ingress-text}}</p>
+			{% if item.links > 0 %}
+				{% for link in item.links %}
+					<div class="has-text-right arrow-line">
+						<a href="{{link.url}}" class="title is-6 arrow">{{link.title}}</a>
+					</div>
+				{% endfor %}
+			{% endif %}
+		</div>
+	</div>
+</div>

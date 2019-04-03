@@ -2,28 +2,38 @@
 layout: default
 ---
 
-<header class="site-header" role="banner">
-  <div class="container">
-    <nav class="navbar navbar-toggleable-md navbar-light pt-2 pt-lg-3 pb-0">
-      <button class="navbar-toggler navbar-toggler-right border-0" type="button" data-toggle="modal" data-target="#menuModal" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <!-- <i class="fa fa-bars fa-3x" aria-hidden="true"></i> -->
-        <span class="navbar-toggler-icon"></span>
-      </button>
+{% include header.html %}
 
-      <a class="navbar-brand text-uppercase p-0" href="{{site.baseurl}}{% if page.lang == 'sv'%}/{% else %}/en{% endif %}">
-        {{site.title}}
-      </a>
-
-      <div class="collapse navbar-collapse justify-content-end mb-auto" id="main-menu">
-        <ul class="navbar-nav nav-menu-secondary ml-4">
-          {% include menu-lang.html %}
-        </ul>
-
-      </div>
-    </nav>
-  </div>
-</header>
 {{content}}
-{% include contact.html %}
-{% include footer-partners.html %}
+
+<!-- Projects in Event -->
+{% assign projects=site.categories[page.ref] | where:"lang", page.lang %}
+{% if projects[0].title %}
+  <section class="section is-medium has-background-light">
+    <div class="container">
+      <h2 class="title has-text-centered">{{site.projects[page.lang]}}</h2>
+      <div class="columns is-multiline">
+        {% assign projects=site.categories[page.ref] | where:"lang", page.lang %}
+        {% for post in projects %}
+          {% include projects.html %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+{% endif %}
+
+<!-- Event partners -->
+{% if page.partners %}
+  <section id="partners" class="section has-background-light">
+    <div class="container">
+      <h2 class="title has-text-centered">{{site.partner[page.lang].partnership}}</h2>
+      <div class="columns partners is-vcentered is-multiline">
+        {% for item in page.partners %}
+          {% include partner.html %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+{% endif %}
+
 {% include footer.html %}

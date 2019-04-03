@@ -3,6 +3,12 @@ title: Om CivicTechSweden
 position: 1
 description: Hackathons för Sveriges Civic Tech-community.
 ref: about
+contact:
+- name: Vill du veta mer, få hjälp att ordna ett event eller dra igång en grupp?
+  image: /uploads/agnese.jpg
+  text: Kontakta Viktoria Bull, projektledare
+  mail: hello@civictech.se
+
 ---
 
 ## Bakgrund
@@ -34,7 +40,7 @@ CTS är ett decentraliserat nätverk som eftersträvar maximal frihet för delta
 
 ### Koordineringsgrupp
 
-För att koordinera event och stödja lokala initiativ finns en koordineringsgrupp. Varje lokalgrupp, intressegrupp och nationell partner kan utse en representant till koordineringsgruppen. 
+För att koordinera event och stödja lokala initiativ finns en koordineringsgrupp. Varje lokalgrupp, intressegrupp och nationell partner kan utse en representant till koordineringsgruppen.
 
 De lokala kontaktpersonerna ansvarar för att uppförandekoden följs och att skapa en välkomnande och inkluderande stämning i sin grupp.
 
@@ -50,13 +56,13 @@ Den som vill starta en lokalgrupp eller intressegrupp kan göra det genom att ko
 Organisationer, nätverk, företag och offentliga aktörer som huvudsakligen arbetar inom CTS arbetsområden är välkomna i nätverket, som lokala eller nationella partners. Lokala partners hjälper till med hackathons eller meetups genom mobilisering, kunskapsdelning eller ekonomiskt stöd. Nationella partners behöver godkännas av koordineringsgruppen, och bidrar med resurser till mobilisering och spridning nationellt.
 
 ## Uppförandekod
-CTS förväntar sig att alla nätverkets aktiviteter och digitala forum: 
+CTS förväntar sig att alla nätverkets aktiviteter och digitala forum:
 
 * Är säkra och respektfulla platser för alla deltagare
 * Är platser där alla fritt kan uttrycka sin identitet.
 * Tar till vara på deltagarnas kunskap och värdesätter allas idéer, erfarenheter och arbete.
 * Inte utgår från att alla kommer från samma sammanhang och uppmuntrar till frågor.
-* Hittar sätt för alla att kunna bidra med sin kunskap (teknisk eller inte) och energi. 
+* Hittar sätt för alla att kunna bidra med sin kunskap (teknisk eller inte) och energi.
 * Använder språk som "ja/och", inte "nej/men"
 * Uppmuntrar deltagare till att lyssna lika mycket som de pratar.
 * Prioriterar deltagande och insatser från de som ofta utesluts från civic tech-världen.

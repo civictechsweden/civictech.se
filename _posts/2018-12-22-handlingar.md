@@ -1,5 +1,5 @@
 ---
-title: Handlingar 
+title: Handlingar
 date: 2018-12-13 01:00:00 +02:00
 categories:
 - hackathon-3
@@ -7,6 +7,7 @@ tags:
 - Development
 - Design
 - Discussion
+chat: 'handlingar.se'
 ref: handlingar
 links:
 #- title: Chatta om projektet
@@ -25,7 +26,7 @@ Ett projekt där målet är att få upp en plattform en kan begära ut allmänna
 Projektet bygger på <a href="https://alaveteli.org">alaveteli</a> som använts för liknande plattformar i andra länder.
 
 ## Kompetenser som önskas
-### Grafiskt 
+### Grafiskt
 Färger, logga, tema och liknande
 ### Tekniskt
 Hjälp med hemsidans funktioner, ännu inte specificerat i detalj vad som behövs men för den som kan lite om webbutveckling finns möjlighet att bidra

@@ -6,14 +6,11 @@ layout: start
 principles:
   - title: Power to the people
     text: Demokrati, deltagande och transparens.
+    image: /assets/images/power.png
   - title: Sharing is caring
     text: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
+    image: /assets/images/sharing.png
   - title: I like to move it
     text: Hållbara transporter, resande och rörlighet.
-news-flash:
-- text: CivicTechSweden samlar utvecklare, designers, aktivister och öppen data-entusiaster
-    som skapar tekniska lösningar för samhällsnytta. Läs om våra kommande hackathon
-    och kontakta oss om du vill bli en del av vårt nätverk!
-  link-title: Så funkar våra hackathon
-  link: "/about"
+    image: /assets/images/moveit.png
 ---

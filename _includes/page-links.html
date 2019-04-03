@@ -1,16 +1,7 @@
-<div class="row nav">
+<div class="columns multiline">
   {% for link in include.links %}
-    <div class="col-sm col-lg-12">
-      <div class="nav-item pl-lg-2 {% unless forloop.last %}mb-2b mb-sm-3b{% endunless %}">
-        <a class="{% if link.style == 'button' %}mb-1 btn btn-primary btn-block{% else %}nav-link p-0{% endif %}
-          {% unless link.style %}icon-arrow pl-4 pl-lg-3{% endunless %}" href="{{link.url}}">
-          {% if link.style and link.style != 'button' %}
-            <i class="fa fa-{{link.style}} fa-fw" aria-hidden="true"></i>{{link.title}}
-          {% else %}
-            {{link.title}}
-          {% endif %}
-        </a>
-      </div>
+    <div class="column">
+      <a class="button is-fullwidth" href="{{link.url}}">{{link.title}}</a>
     </div>
   {% endfor %}
 </div>
