@@ -76,7 +76,7 @@ layout: default
       {% for item in page.principles %}
         <div class="column has-text-centered">
           <figure class="mission-image image is-128x128">
-            <img src="{{item.image}}" alt="">
+            <img src="{{site.baseurl}}{{item.image}}" alt="">
           </figure>
           <h3 class="title">{{item.title}}</h3>
           <p>{{item.text}}</p>

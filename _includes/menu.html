@@ -1,7 +1,7 @@
 <div id="navbarMenuHeroA" class="navbar-menu">
 	<div class="navbar-end">
 		{% include menu-lang.html %}
-		<a class="navbar-item" href="{{site.data.menu[page.lang][0].url}}">{{site.data.menu[page.lang][0].title}}</a>
+		<a class="navbar-item" href="{{site.baseurl}}{{site.data.menu[page.lang][0].url}}">{{site.data.menu[page.lang][0].title}}</a>
 
 		<div class="navbar-item has-dropdown is-hoverable">
       <a class="navbar-link">
@@ -10,7 +10,7 @@
       <div class="navbar-dropdown">
 				{% assign groups=site.groups | where:"lang", page.lang %}
 				{% for item in groups %}
-					<a href="{{item.url}}" class="navbar-item">{{item.title}}</a>
+					<a href="{{site.baseurl}}{{item.url}}" class="navbar-item">{{item.title}}</a>
 				{% endfor %}
 				<a class="navbar-item">Starta i din stad!</a>
       </div>

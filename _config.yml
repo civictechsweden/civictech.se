@@ -1,6 +1,7 @@
 ---
 title: CivicTechSweden
 timezone: Europe/Stockholm
+baseurl: '/civictech.dev'
 collections:
   events:
     title: Events

@@ -62,7 +62,7 @@ body {
 // Hero
 
 .hero-image {
-  background-image: url('/assets/images/hero.jpg');
+  background-image: url('../images/hero.jpg');
   background-size: cover;
   background-position: top center;
 }
@@ -105,12 +105,12 @@ body {
 
 .arrow {
   display: inline-block;
-  background: url('/assets/images/pil-thin.svg') $primary 0 0 no-repeat;
+  background: url('../images/pil-thin.svg') $primary 0 0 no-repeat;
   padding-left: 30px;
 }
 
 .arrow-line {
-  background: url('/assets/images/pil-line.svg') 0 11px repeat-x;
+  background: url('../images/pil-line.svg') 0 11px repeat-x;
 }
 
 // Mission
