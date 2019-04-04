@@ -4,12 +4,12 @@
 			<h2 class="title is-1">
 				<a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
 			</h2>
-			<div>
+			<p class="">{{item.ingress-text}}</p>
+			<p>
 				<strong>{{item.event-date-desc}} /
 					{{item.place}}
 				</strong>
-			</div>
-			<p class="title is-5">{{item.ingress-text}}</p>
+			</p>
 			{% if item.links > 0 %}
 				{% for link in item.links %}
 					<div class="has-text-right arrow-line">

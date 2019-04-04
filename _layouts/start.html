@@ -8,7 +8,7 @@ layout: default
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item">
-            <img src="{{site.baseurl}}/assets/images/cts-logo.svg" alt="Logo">
+            <img src="{{site.baseurl}}/assets/images/cts-logo.svg" alt="Logo" width="232px" height="178px">
           </a>
           <span class="navbar-burger burger" data-target="navbarMenuHeroA">
             <span></span>
@@ -34,11 +34,11 @@ layout: default
               <a href="{{site.baseurl}}{{events[0].url}}">{{events[0].title}}</a>
             </h1>
             <p>{{events[0].ingress-text}}</p>
-            <div>
+            <p>
               <strong>{{events[0].event-date-desc}} /
                 {{events[0].place}}
               </strong>
-            </div>
+            </p>
             {% for link in events[0].links %}
               <div class="has-text-right arrow-line">
                 <a href="{{link.url}}" class="title is-6 arrow">{{link.title}}</a>
@@ -70,47 +70,48 @@ layout: default
   </div>
 </section>
 
-<section class="section is-medium">
+<section id="principles" class="section is-medium">
   <div class="container">
     <div class="columns">
       {% for item in page.principles %}
         <div class="column has-text-centered">
-          <figure class="mission-image image is-128x128">
+          <figure class="principle-image image is-128x128">
             <img src="{{site.baseurl}}{{item.image}}" alt="">
           </figure>
-          <h3 class="title">{{item.title}}</h3>
-          <p>{{item.text}}</p>
+          <h3 class="title is-4">{{item.title}}</h3>
+          <p class="principle-text">{{item.text}}</p>
         </div>
       {% endfor %}
     </div>
   </div>
 </section>
 
-<section class="section is-medium">
+<section id="mission" class="section is-medium">
   <div class="container mission has-text-centered has-background-info">
-    <p class="title has-text-white">{{site.mission[page.lang]}}</p>
+    <p class="title is-size-3-desktop is-size-4-tablet is-size-5-mobile has-text-white">{{site.mission[page.lang]}}</p>
   </div>
 </section>
 
-<section class="section is-medium has-background-light">
+<section id="projects" class="section is-medium has-background-light">
   <div class="container">
-    <h2 class="title has-text-centered">{{site.projects[page.lang]}}</h2>
+    <h2 class="title section-title has-text-centered">{{site.projects[page.lang]}}</h2>
     <div class="columns">
       {% assign projects=site.posts | where:"lang", page.lang %}
       {% for post in projects limit:3 %}
         {% include projects.html %}
       {% endfor %}
     </div>
-    <div class="has-text-centered">
-      <a class="button is-black is-outlined" href="projects">{{site.projects[page.lang]}}</a>
-    </div>
+    <div class="columns is-centered">
+      <div class="column is-one-third">
+        <a class="button is-black is-outlined is-fullwidth read-more" href="projects">{{site.projects[page.lang]}}</a>
+      </div>
   </div>
 </section>
 
 <section id="partners" class="section has-background-light">
   <div class="container">
-    <h2 class="title has-text-centered">{{site.partner[page.lang].partnership}}</h2>
-    <div class="columns partners is-vcentered is-multiline">
+    <h2 class="title section-title has-text-centered">{{site.partner[page.lang].partnership}}</h2>
+    <div class="columns partners is-mobile is-vcentered is-multiline">
       {% for item in site.partners %}
         {% include partner.html %}
       {% endfor %}

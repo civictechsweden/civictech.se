@@ -7,6 +7,13 @@
 
 body {
   font-size: 0.875rem;
+  line-height: 1.6428571429;
+}
+
+.footer a,
+.contact a,
+.content a {
+  text-decoration: underline;
 }
 
 .title {
@@ -14,7 +21,44 @@ body {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-weight: normal;
-  line-height: 1.5;
+  line-height: 1.4;
+  color: $link;
+  font-size: 1.625rem;
+
+  @include from($tablet) {
+    font-size: 1.875rem;
+  }
+
+  &.is-4 {
+    font-size: 1.625rem;
+  }
+}
+.title.is-1 {
+  font-size: 1.875rem;
+  margin-bottom: 1rem;
+
+  @include from($tablet) {
+    font-size: 3rem;
+  }
+
+  @include from($desktop) {
+    font-size: 3.75rem;
+  }
+}
+.title.is-5 {
+  font-size: 1.25rem;
+
+  @include from($tablet) {
+    font-size: 1.375rem;
+  }
+}
+
+.title a,
+a.title {
+  &:hover,
+  &:active {
+    text-decoration: underline !important;
+  }
 }
 
 .button.is-text {
@@ -28,6 +72,7 @@ body {
 .button {
   font-weight: bold;
   font-size: 1rem !important;
+  border-radius: 0 !important;
 }
 
 .card .image {
@@ -43,11 +88,21 @@ body {
     flex-direction: column;
     height: 100%;
 }
+
+.card .title {
+  margin-bottom: 1rem;
+}
+
+.card-content {
+  padding: 2rem 2rem 0;
+}
+
 .card-footer {
     margin-top: auto;
 }
 
 .card-footer-item {
+  padding: 1.5rem 2rem;
 
   &.left {
     justify-content: left;
@@ -58,8 +113,37 @@ body {
   }
 }
 
+.is-medium .section-title {
+  @include from($desktop) {
+    margin: -2.5rem 0 4rem !important;
+  }
+}
+
+.section-title {
+  margin-bottom: 2.5rem !important;
+}
+
+#projects .columns:first-of-type {
+  @include from($tablet) {
+    margin-bottom: 4rem;
+  }
+}
+
+.box {
+  @include until($tablet) {
+    padding: 1.5rem;
+  }
+}
+
 
 // Hero
+
+
+.hero-head {
+  @include from($desktop) {
+    margin-top: 2.3rem;
+  }
+}
 
 .hero-image {
   background-image: url('../images/hero.jpg');
@@ -67,8 +151,12 @@ body {
   background-position: top center;
 }
 
+.hero .title {
+  color: $black !important;
+}
+
 .navbar-menu:not(.is-active) {
-  max-height: 3rem;
+  max-height: 1.5rem;
 }
 
 .select:not(.is-multiple):not(.is-loading)::after, .navbar-link:not(.is-arrowless)::after {
@@ -76,9 +164,10 @@ body {
   border-radius: 0;
 }
 
-.hero .navbar-item,
-.hero .navbar-link {
+.hero a.navbar-item,
+.hero a.navbar-link {
   color: $navbar-item-color !important;
+  font-weight: bold;
 
   &:hover,
   &.is-active {
@@ -88,7 +177,7 @@ body {
 }
 
 .navbar-brand .navbar-item {
-  max-width: 80%;
+  flex-shrink: 1;
 }
 
 .navbar-item img {
@@ -97,49 +186,107 @@ body {
 
 .is-front .hero-body {
   padding-top: 0 !important;
+
+  @include until($desktop) {
+    padding-bottom: 2rem !important;
+  }
+
+  @include from($tablet) {
+    margin-top: -3rem;
+  }
 }
 
 .hero-foot {
-  padding: 0 1.5rem 3rem;
+  padding: 0 0 2rem;
+
+  @include from($desktop) {
+    padding: 1.5rem 0 3rem;
+  }
 }
 
 .arrow {
   display: inline-block;
   background: url('../images/pil-thin.svg') $primary 0 0 no-repeat;
-  padding-left: 30px;
+  padding-left: 2rem;
 }
 
 .arrow-line {
-  background: url('../images/pil-line.svg') 0 11px repeat-x;
+  background: url('../images/pil-line.svg') 0 10px repeat-x;
+  margin-top: 1em;
+
+  @include from($desktop) {
+    &:first-of-type {
+      margin-top: 3rem;
+    }
+  }
+}
+
+
+// Principles
+
+#principles {
+  padding-bottom: 0;
+}
+
+.principle-image {
+  margin: 0 auto 1.5rem;
+}
+
+.principle-text {
+  padding: 0 2rem;
 }
 
 // Mission
 
-.mission-image {
-  margin: 0 auto;
+.mission {
+  padding: 1rem 1.5rem 1.5rem;
+
+  p:before {
+    content: '”';
+    display: block;
+  }
+
+  @include from($tablet) {
+    padding: 2rem 3rem 3rem;
+  }
+
+  @include from($desktop) {
+    padding: 3rem 7.5rem 7rem;
+
+    p:before {
+      margin-bottom: 2rem;
+    }
+  }
 }
 
-.mission > p:before {
-  content: '”';
-  display: block;
-  margin-bottom: 2rem;
-}
-
-.container.mission {
-  padding: 4rem 7.5rem 7rem;
-}
 
 // Partners
 
 .columns.partners {
   border: 3px solid $grey-lighter;
   border-width: 3px 0;
+  padding: 2rem 0;
 }
 
 .partner-image {
   max-width: 128px;
   margin: 2rem auto;
 }
+
+// Contact
+
+.columns.contact {
+  margin-top: 2rem;
+
+  @include until($tablet) {
+    font-size: 0.75rem;
+  }
+
+  @include from($desktop) {
+    margin-top: 4rem;
+  }
+}
+
 
 // Footer
 .icon.is-large {
@@ -149,11 +296,14 @@ body {
 // Content
 
 .content {
-  font-size: 1rem;
   line-height: 1.75;
+
+  @include from($tablet) {
+    font-size: 1rem;
+  }
 }
 
-.content p {
+.content p:not(:last-child), .content dl:not(:last-child), .content ol:not(:last-child), .content ul:not(:last-child), .content blockquote:not(:last-child), .content pre:not(:last-child), .content table:not(:last-child) {
   margin-bottom: 1.75em;
 }
 
@@ -180,15 +330,44 @@ body {
 
 /** ---------------- **/
 
-// Project
-
-.contact {
-  margin-top: 5rem;
-}
-
 
 // Event
 
 .is-overlapping {
-  margin-top: -25rem;
+  margin-top: -7rem;
+
+  @include from($tablet) {
+    margin-top: -19rem;
+  }
+
+  @include from($desktop) {
+    margin-top: -24rem;
+  }
+}
+
+.box.event {
+  @include from($desktop) {
+    padding: 4rem 6rem;
+  }
+}
+
+.box p {
+  margin-bottom: 1.5rem;
+}
+
+.event-links {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem !important;
+}
+
+// Page
+
+#page.section {
+  @include from($desktop) {
+    padding-top: 5rem;
+  }
+}
+
+.ingress {
+  margin: 2.5rem 0 1.5rem;
 }

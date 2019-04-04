@@ -1,19 +1,17 @@
-<div class="column is-one-third">
+<div class="column is-half-tablet is-one-third-desktop">
   <div class="card">
     <div class="card-image">
-      <figure class="image is-4by3">
+      <figure class="image is-4by3 is-primary">
         <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}{{post.image}}" alt=""></a>
       </figure>
     </div>
     <div class="card-content">
-      <div class="content">
-        <h3 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-        {{post.excerpt}}
-      </div>
+      <h3 class="title has-text-centered"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
+      {{post.excerpt}}
     </div>
     <div class="card-footer">
       {% if post.chat %}
-        <a class="card-footer-item left" href="https://chat.civictech.se/{{post.chat}}"><span class="icon is-medium"><i class="fab fa-rocketchat fa-lg"></i></span></a>
+        <a class="card-footer-item left" href="https://chat.civictech.se/{{post.chat}}"><span class="icon is-medium"><i class="fab fa-rocketchat fa-2x"></i></span></a>
       {% endif %}
       <a class="card-footer-item right" href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/assets/images/pil.svg" alt="Läs mer"></a>
     </div>
