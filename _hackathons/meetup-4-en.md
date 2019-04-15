@@ -1,5 +1,5 @@
 ---
-title: 'Action plan for Open Government' 
+title: 'Have a say on the openness of Sweden!' 
 ref: meetup-4
 image: ""
 lang: en 
@@ -26,9 +26,11 @@ Bring your proposals!
 ## Program
 * 18.00 What is OGP?
 * 18.15 Experiences from another country
-* 18.40 The cabinet office presents their draft
+* 18.40 The cabinet office presents their draft (to be confirmed)
 * 19.15 Proposals for improvement
 * 20.15 Possibility of continuing the conversation at a bar
+
+(The place for the event might change during week 16 so stay updated!)
 
  Hope to see you there!
 

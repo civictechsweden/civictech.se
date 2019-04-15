@@ -1,5 +1,5 @@
 ---
-title: 'Handlingsplan för Open Government' 
+title: 'Tyck till om Sveriges öppenhet!' 
 ref: meetup-4
 image: "" 
 excerpt: 'Meetup för Civic Tech-communitiet i Stockholm'
@@ -25,8 +25,10 @@ Kom med dina förslag!
 ## Program
 * 18.00 Vad är OGP?
 * 18.15 Erfarenheter från ett annat land
-* 18.40 Regeringskansliet presenterar utkast till den kommande planen
+* 18.40 Regeringskansliet presenterar utkast till den kommande planen (inväntar bekräftelse)
 * 19.15 Förslag till förbättring 
 * 20.15 De som vill fortsätter samtalet på en bar
+
+(Platsen kan eventuellt komma att ändras till Regeringskansliets lokaler!)
 
 Hoppas vi ses där!
