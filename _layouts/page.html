@@ -9,7 +9,7 @@ layout: global
         <h1 class="title is-1">{{page.title}}</h1>
         <h2 class="title is-6">
           <!-- Events -->
-          {% assign events=site.events | where:"lang", page.lang %}
+          {% assign events=site.events | where:"lang", page.lang | sort:'event-date' | reverse %}
           {% for item in events %}
             {% if page.categories contains item.ref %}
               {% assign partof=true %}
