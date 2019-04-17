@@ -7,6 +7,7 @@ categories:
 tags:
 - opendata
 - democracy
+- stockholm
 lang: en
 ref: Dinriksdag
 excerpt: Visualise the governments documents and take Swedens work with open data

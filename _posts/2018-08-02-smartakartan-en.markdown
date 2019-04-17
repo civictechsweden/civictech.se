@@ -5,6 +5,7 @@ permalink: "/en/projects/smartakartan/"
 categories:
 - Sharing is caring
 - hackathon-2
+- goteborg
 tags:
 - Sharingeconomy
 - Discussion

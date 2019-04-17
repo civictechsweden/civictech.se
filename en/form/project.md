@@ -2,7 +2,6 @@
 title: Apply with project
 excerpt: Apply with your project for CivicTechSweden
 ref: project-presentation
-layout: form
 ingress-text: Apply or your project to be part of CivicTechSweden's hackathons.
 links:
 - title: Guidelines for projects
@@ -32,13 +31,13 @@ form:
 #  type: checkbox
 #  required: required
 #  options:
-#  - option: 
+#  - option:
 #    name: Sharing is caring
 #    id: sharing-is-caring
-#  - option: 
+#  - option:
 #    name: Power to the people
 #    id: power-to-the-people
-#  - option: 
+#  - option:
 #    name: I like to move it
 #    id: i-like-to-move-it
 - id: projectDesc
@@ -75,4 +74,3 @@ form:
   type: submit
   title: Send
 ---
-

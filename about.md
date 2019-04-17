@@ -5,7 +5,6 @@ description: Hackathons för Sveriges Civic Tech-community.
 ref: about
 contact:
 - name: Vill du veta mer, få hjälp att ordna ett event eller dra igång en grupp?
-  image: /uploads/agnese.jpg
   text: Kontakta Viktoria Bull, projektledare
   mail: hello@civictech.se
 
@@ -48,7 +47,7 @@ Koordineringsgruppen är ansvarig för att uppförandekoden följs på nationell
 
 ### Starta en grupp
 
-Den som vill starta en lokalgrupp eller intressegrupp kan göra det genom att kontakta CTS på admin@digidemlab.org. Koordineringsgruppen diskuterar med den intresserade parten om det är lämpligt att inleda ett samarbete. Om ett samarbete inleds kommer CTS koordineringsgrupp och nationella samarbetspartners att vara till hjälp i organiseringen av meetups och hackathon.
+Den som vill starta en lokalgrupp eller intressegrupp kan göra det genom att kontakta CTS på <hello@civictech.se>. Koordineringsgruppen diskuterar med den intresserade parten om det är lämpligt att inleda ett samarbete. Om ett samarbete inleds kommer CTS koordineringsgrupp och nationella samarbetspartners att vara till hjälp i organiseringen av meetups och hackathon.
 
 
 ### Partners

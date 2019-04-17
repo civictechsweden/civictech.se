@@ -2,9 +2,11 @@
 title: CivicTech Stockholm
 ref: stockholm
 excerpt: CivicTech Stockholm
-ingress-text: Hackathons och meetups för Stockholms CivicTech community!
+lang: en
+permalink: "/en/stockholm/"
+ingress-text: Hackathons and meetups for Stockholm's CivicTech community!
 contact:
-- name: Vill du veta mer eller ordna ett event?
+- name: Want to know more or organise an event? Get in touch!
   text: Victoria Bull, CivicTech Stockholm
   mail: hello@civictech.se
 partners:

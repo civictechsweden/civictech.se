@@ -2,7 +2,6 @@
 title: Register for meetup
 excerpt: Registration for meetup in Uppsala
 ref: code-with-us-register
-layout: form
 ingress-text: Code with us in Uppsala 21/3
 form:
 - id: namn
@@ -19,7 +18,7 @@ form:
   required: required
   description: Only used to contact you if the event is cancelled in last minute
 - id: interest
-  title: What are you interested in doing at the meetup? 
+  title: What are you interested in doing at the meetup?
   type: textarea
   description: You can always show up to see whats going on without a plan.
 - id: _subject
@@ -38,4 +37,3 @@ form:
   type: submit
   title: Send
 ---
-

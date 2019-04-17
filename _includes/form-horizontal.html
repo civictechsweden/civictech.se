@@ -1,0 +1,124 @@
+<form action="https://getsimpleform.com/messages?form_api_token=664c93d75c29481adefb93fcedf0be86" method="POST" encType="multipart/form-data">
+   {% for item in page.form %}
+    <div class="field is-horizontal">
+    {% case item.type %}
+      {% when 'markup' %}
+        <div class="field-label"></div>
+        <div class="field-body">
+          <div class="field">
+            <hr>
+            <h4>{{item.title}}</h4>
+
+      {% when 'radio' %}
+        <div class="field-label">
+          <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+        </div>
+        <div class="field-body">
+          <div class="field is-narrow">
+            <div class="control">
+              {% for option in item.options %}
+                <label class="{{ item.type }}">
+                  <input type="{{ item.type }}" name="{{ item.id }}" id="{{ option.id }}" value="{{ option.id }}"> {{ option.name }}
+                </label>
+              {% endfor %}
+            </div>
+
+      {% when 'select' %}
+        <div class="field-label is-normal">
+          <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+        </div>
+
+        <div class="field-body">
+          <div class="field is-narrow">
+            <div class="control">
+              <div class="{{ item.type }} is-fullwidth">
+                <select>
+                  {% for option in item.options %}
+                    <option>{{option.name}}</option>
+                  {% endfor %}
+                </select>
+              </div>
+            </div>
+
+      {% when 'checkbox' %}
+        <div class="field-label">
+          <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+        </div>
+        <div class="field-body">
+          <div class="field">
+            <div class="control">
+              {% for option in item.options %}
+                <label class="{{ item.type }}" for="{{option.id}}">
+                  <input type="{{ item.type }}" value="{{option.name}}" name="{{option.id}}" id="{{option.id}}">
+                  {{option.name}}
+                </label>
+              {% endfor %}
+            </div>
+
+      {% when 'textarea' %}
+        <div class="field-label">
+          <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+        </div>
+        <div class="field-body">
+          <div class="field">
+            <div class="control">
+              <textarea class="{{ item.type }}" name="{{ item.id }}" id="{{ item.id }}" rows="3" {{ item.required }}></textarea>
+            </div>
+
+      {% when 'submit' %}
+        <div class="field-label">
+        </div>
+        <div class="field-body">
+          <div class="field">
+            <div class="control">
+              <button type="{{ item.type }}" class="button is-primary">
+                {{ item.title }}
+              </button>
+            </div>
+
+      {% when 'hidden' %}
+        <div>
+          <div>
+            <input type="{{ item.type }}" name="{{ item.id }}" value="{{ item.value }}">
+      {% when 'file' %}
+        <div class="field-label">
+          <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+        </div>
+        <div class="field-body">
+          <div class="field">
+            <div class="control">
+              <div class="file">
+                <label class="file-label">
+                  <input class="file-input" type="{{ item.type }}" name="{{ item.id }}" id="{{ item.id }}" placeholder="" {{ item.required }}>
+                  <span class="file-cta">
+                    <span class="file-icon">
+                      <i class="fas fa-upload"></i>
+                    </span>
+                    <span class="file-label">
+                      Choose a file…
+                    </span>
+                  </span>
+                </label>
+              </div>
+            </div>
+
+      {% else %}
+        <div class="field-label">
+          <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+        </div>
+        <div class="field-body">
+          <div class="field">
+            <div class="control">
+              <input type="{{ item.type }}" name="{{ item.id }}" class="input" id="{{ item.id }}" placeholder="" {{ item.required }}>
+            </div>
+
+      {% endcase %}
+      {% if item.description %}
+        <p class="help">{{item.description}}</p>
+      {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</form>

@@ -1,13 +1,13 @@
 ---
 title: CivicTech Göteborg
 ref: goteborg
-excerpt: Etiam porta sem malesuada magna mollis euismod.
-ingress-text: Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla.
+excerpt: CivicTech Göteborg
+ingress-text: Hackathons för Göteborgs CivicTech Community!
 contact:
 - name: Vill du veta mer eller ordna ett event?
-  image: /uploads/agnese.jpg
+  image: /uploads/sanna.jpg
   text: Sanna Ghotbi, CivicTech Göteborg
-  mail: hello@civictech.se
+  mail: sanna@digidemlab.org
 partners:
 - title: Digidem Lab
   link: http://digidemlab.org

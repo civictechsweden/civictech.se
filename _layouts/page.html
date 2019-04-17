@@ -61,7 +61,7 @@ layout: global
 {% if partof %}
   <section class="section is-medium has-background-light">
     <div class="container">
-      <h2 class="section-title title has-text-centered">{{site.project-title[page.lang]}}</h2>
+      <h2 class="section-title title has-text-centered">{{site.t[page.lang].project-events}}</h2>
       {% for item in events %}
         {% if page.categories contains item.ref %}
           {% include events.html %}
@@ -76,7 +76,7 @@ layout: global
 {% if groupevents[0].title %}
   <section class="section is-medium has-background-light">
     <div class="container">
-      <h2 class="section-title title has-text-centered">{{site.project-title[page.lang]}}</h2>
+      <h2 class="section-title title has-text-centered">{{site.t[page.lang].event-title}}</h2>
       {% for item in groupevents %}
         {% include events.html %}
       {% endfor %}

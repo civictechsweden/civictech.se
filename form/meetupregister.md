@@ -2,7 +2,6 @@
 title: Anmäl dig till meetup
 excerpt: Anmälan till Open Data Day i Uppsala
 ref: meetupregister
-layout: form
 ingress-text: Anmälan sker via formuläret nedan.
 form:
 - id: namn
@@ -45,4 +44,3 @@ form:
   type: submit
   title: Skicka
 ---
-

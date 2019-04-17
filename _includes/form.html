@@ -1,88 +1,78 @@
-{% assign col1 = 'col-md-3' %}
-{% assign col2 = 'col-md-9' %}
-
-<form action="https://getsimpleform.com/messages?form_api_token=664c93d75c29481adefb93fcedf0be86" method="POST" encType="multipart/form-data">	
+<form action="https://getsimpleform.com/messages?form_api_token=664c93d75c29481adefb93fcedf0be86" method="POST" encType="multipart/form-data">
    {% for item in page.form %}
-    <div class="form-group row">
+    <div class="field">
     {% case item.type %}
       {% when 'markup' %}
-        <div class="col-sm-12">
-          <hr>
-          <h4>{{item.title}}</h4>
-        </div>
-      {% when 'label' %}
-        <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}</label>
-        <div class="{{col2}}">
-          <div class="row">
+        <h4>{{item.title}}</h4>
+
+      {% when 'radio' %}
+        <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+          <div class="control">
             {% for option in item.options %}
-              <div class="col-sm-6">
-                <label for="{{ option.id }}">{{ option.title }}</label>
-                <input type="{{ option.type }}" class="form-control" id="{{ option.id }}" placeholder="">
-              </div>
+              <label class="{{ item.type }}">
+                <input type="{{ item.type }}" name="{{ item.id }}" id="{{ option.id }}" value="{{ option.id }}"> {{ option.name }}
+              </label>
             {% endfor %}
           </div>
-        </div>
-      {% when 'radio' %}
-        <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}</label>
-        <div class="{{col2}}">
-          {% for option in item.options %}
-            <label class="radio-inline">
-              <input type="{{ item.type }}" name="{{ item.id }}" id="{{ option.id }}" value="{{ option.id }}"> {{ option.name }}
-            </label>
-          {% endfor %}
-        </div>
+
       {% when 'select' %}
-        <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}</label>
-        <div class="{{col2}}">
-          <select class="form-control">
-            {% for option in item.options %}
-              <option>{{option.name}}</option>
-            {% endfor %}
-          </select>
+        <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+        <div class="control">
+          <div class="{{ item.type }} is-fullwidth">
+            <select>
+              {% for option in item.options %}
+                <option>{{option.name}}</option>
+              {% endfor %}
+            </select>
+          </div>
         </div>
+
       {% when 'checkbox' %}
-        <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}{% if item.required %}*{% endif %}</label>
-        <div class="{{col2}}">
+        <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+        <div class="control">
           {% for option in item.options %}
-            <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="{{option.name}}"  name="{{option.id}}" id="{{option.id}}">
-              <label class="form-check-label" for="{{option.id}}">
-                {{option.name}}
-              </label>
-            </div>
+            <label class="{{ item.type }}" for="{{option.id}}">
+              <input type="{{ item.type }}" value="{{option.name}}" name="{{option.id}}" id="{{option.id}}">
+              {{option.name}}
+            </label>
           {% endfor %}
         </div>
 
       {% when 'textarea' %}
-        <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}{% if item.required %}*{% endif %}</label>
-        <div class="{{col2}}">
-          <textarea class="form-control" name="{{ item.id }}" id="{{ item.id }}" rows="3" {{ item.required }}></textarea>
-        </div>
+        <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+          <div class="control">
+            <textarea class="{{ item.type }}" name="{{ item.id }}" id="{{ item.id }}" rows="3" {{ item.required }}></textarea>
+          </div>
+
       {% when 'submit' %}
-        <div class="{{col1}}">
+        <div class="control">
+          <button type="{{ item.type }}" class="button is-warning">
+            {{ item.title }}
+          </button>
         </div>
-        <div class="{{col2}}">
-          <button type="{{ item.type }}" class="btn btn-primary">{{ item.title }}</button>
-        </div>
+
       {% when 'hidden' %}
         <input type="{{ item.type }}" name="{{ item.id }}" value="{{ item.value }}">
+
       {% when 'file' %}
-        <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}{% if item.required %}*{% endif %}</label>
-        <div class="{{col2}}">
-          <input type="{{ item.type }}" name="{{ item.id }}" class="form-control-file" id="{{ item.id }}" placeholder="" {{ item.required }}>
+        <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+
+        <div class="file has-name">
+          <label class="file-label">
+            <input class="file-upload" type="{{ item.type }}" name="{{ item.id }}" id="{{ item.id }}">
+          </label>
         </div>
+
+
       {% else %}
-        <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}{% if item.required %}*{% endif %}</label>
-        <div class="{{col2}}">
-          <input type="{{ item.type }}" name="{{ item.id }}" class="form-control" id="{{ item.id }}" placeholder="" {{ item.required }}>
+        <label for="{{ item.id }}" class="label">{{ item.title }}</label>
+        <div class="control">
+          <input type="{{ item.type }}" name="{{ item.id }}" class="input" id="{{ item.id }}" placeholder="" {{ item.required }}>
         </div>
+
       {% endcase %}
       {% if item.description %}
-        <div class="{{col1}}">
-        </div>
-        <div class="{{col2}}">
-          <small id="{{item.id}}" class="form-text text-muted">{{item.description}}</small>
-        </div>
+        <p class="help">{{item.description}}</p>
       {% endif %}
     </div>
   {% endfor %}

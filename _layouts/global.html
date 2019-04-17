@@ -11,7 +11,13 @@ layout: default
 {% if projects[0].title %}
   <section class="section is-medium has-background-light">
     <div class="container">
-      <h2 class="section-title title has-text-centered">{{site.projects[page.lang]}}</h2>
+      <h2 class="section-title title has-text-centered">
+        {% if page.collection == 'groups' %}
+          {{site.t[page.lang].project-title}}
+        {% else %}
+          {{site.t[page.lang].participating-projects}}
+        {% endif %}
+      </h2>
       <div class="columns is-multiline">
         {% assign projects=site.categories[page.ref] | where:"lang", page.lang %}
         {% for post in projects %}
@@ -26,7 +32,13 @@ layout: default
 {% if page.partners %}
   <section id="partners" class="section has-background-light">
     <div class="container">
-      <h2 class="section-title title has-text-centered">{{site.partner[page.lang].partnership}}</h2>
+      <h2 class="section-title title has-text-centered">
+        {% if page.collection == 'groups' %}
+          {{site.t[page.lang].local-partners}}
+        {% else %}
+          {{site.t[page.lang].participating-partners}}
+        {% endif %}
+      </h2>
       <div class="columns partners is-mobile is-vcentered is-multiline">
         {% for item in page.partners %}
           {% include partner.html %}

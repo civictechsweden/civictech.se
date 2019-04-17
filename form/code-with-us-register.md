@@ -2,7 +2,6 @@
 title: Anmäl dig till meetup
 excerpt: Koda med Civic Tech i Uppsala
 ref: code-with-us-register
-layout: form
 ingress-text: Koda med oss i Uppsala den 21/3
 form:
 - id: namn
@@ -38,4 +37,3 @@ form:
   type: submit
   title: Skicka
 ---
-

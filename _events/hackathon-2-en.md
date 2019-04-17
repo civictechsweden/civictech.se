@@ -8,6 +8,7 @@ excerpt: 'Hackathon #2 for the civic tech community of Gothenburg'
 ingress-text: Welcome to take part in Civic Tech Swedens second hackathon September
   2nd! It will be a full day of exciting projects, good food and fika in a friendly
   atmosphere.
+group: goteborg
 event-date: 2018-09-02 01:00:00 +02:00
 event-date-desc: 2 September 2018, 10 am - 7 pm
 place: Viktoriahuset, Gothenburg, Sweden

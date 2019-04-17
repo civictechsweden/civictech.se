@@ -8,11 +8,13 @@ layout: global
     <div class="column is-three-quarters">
       <div class="box event">
         <h1 class="title is-1">{{page.title}}</h1>
-        <p>
-  				<strong>{{page.event-date-desc}} /
-  					{{page.place}}
-  				</strong>
-  			</p>
+        {% if page.event-date-desc %}
+          <p>
+    				<strong>{{page.event-date-desc}} /
+    					{{page.place}}
+    				</strong>
+    			</p>
+        {% endif %}
         <p class="title is-5">{{page.ingress-text}}</p>
 
         {% if page.links[0].title %}
@@ -23,6 +25,8 @@ layout: global
           <div class="column is-three-quarters-desktop">
             <div class="content">
               {{content}}
+
+              {% include form.html %}
             </div>
           </div>
         </div>

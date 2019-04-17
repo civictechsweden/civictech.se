@@ -1,8 +1,9 @@
 ---
-title: Documents 
+title: Documents
 date: 2018-12-13 01:00:00 +02:00
 categories:
 - hackathon-3
+- stockholm
 tags:
 - Development
 - Design
@@ -31,4 +32,4 @@ Colors, logo, theme and so on
 ### Technical
 Help with the functionality of the site, not yet specified detailed what's needed at the time of the hackathon, but if you have some knowledge on webb development you can contribute.
 
-More detailed information will be mailed to registered participants later on 
+More detailed information will be mailed to registered participants later on

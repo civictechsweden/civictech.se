@@ -4,6 +4,7 @@ date: 2018-08-16 11:23:00 +02:00
 categories:
 - I like to move it
 - hackathon-2
+- goteborg
 tags:
 - Samåkning
 - hållbaratransporter
@@ -24,7 +25,7 @@ contact:
   organisation-link: https://skjutsgruppen.nu/
 ---
 
-Nu föds Åke - en Open Source samåknings- och kollektivtrafik-bot! 
+Nu föds Åke - en Open Source samåknings- och kollektivtrafik-bot!
 
 Vi måste göra mer. Efter sommarens bränder måste vi hjälpa människor att åka tillsammans istället för att sitta i varsitt fordon. Till Civic Tech Sweden presenterar vi därför "Åke"  - en Open Source samåknings- och kollektivtrafik-bot!
 

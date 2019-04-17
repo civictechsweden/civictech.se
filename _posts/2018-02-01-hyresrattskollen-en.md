@@ -5,6 +5,7 @@ permalink: "/en/projects/hyresrattskollen/"
 categories:
 - Power to the people
 - hackathon-1
+- goteborg
 tags:
 - Development
 - Design
@@ -37,4 +38,4 @@ The website has been active for a long time, and now we want to change focus fro
 We want to create a comprehensive picture of the situation for tenants in relation to their landlords by collecting stories of for example evictions and publish those stories on the website.
 
 ## Technical specs
-The current map is built on Leaflet/JavaScript but we are planing to redo the concept a bit. Our hope is to get help with design and development. 
+The current map is built on Leaflet/JavaScript but we are planing to redo the concept a bit. Our hope is to get help with design and development.

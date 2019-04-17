@@ -5,6 +5,7 @@ permalink: "/en/projects/getaborg/"
 categories:
 - Sharing is caring
 - hackathon-1
+- goteborg
 tags:
 - Development
 - Design
@@ -16,10 +17,10 @@ excerpt: Start designing an open-source sharing/gifting platform to be first imp
 ingress-text: Start designing an open-source sharing/gifting platform to be first
   implemented in Gothenburg!
 links:
-- title: 
-  url: 
-- title: 
-  url: 
+- title:
+  url:
+- title:
+  url:
 contact:
 - name: Bruno Chies
   image: "/uploads/bruno_medialabprado.jpg"
@@ -45,8 +46,8 @@ contact:
     methods and tools and work on social projects that bring value to society.
   image: "/uploads/amina.jpg"
   mail: amina.kz@gmail.com
-  organisation: 
-  organisation-link: 
+  organisation:
+  organisation-link:
 ---
 
 Gothenburg needs an open-source gifting/sharing platform! Thousands of people are already sharing and gifting at give-away groups on Facebook or other smaller websites that are based on closed systems of classified ads, such as bortskankes.se. However, none of these tools have a nice user experience nor the features for sharing both within closed groups (say, among friends or within an organization) and sharing openly with the public. There is no open-source alternative out there for this type of sharing economy to reach its potential.

@@ -61,8 +61,8 @@ layout: default
           </div>
         {% endfor %}
         <div class="column">
-          <a class="button is-outlined is-warning">
-            Starta i din stad!
+          <a href="{{site.t[page.lang].start-group-url}}" class="button is-outlined is-warning">
+            {{site.t[page.lang].start-group}}
           </a>
         </div>
       </div>
@@ -70,6 +70,20 @@ layout: default
   </div>
 </section>
 
+<!-- More events -->
+{% assign today='now' | date: '%Y%m%d' %}
+{% for item in events offset:1 %}
+  {% assign event-date=item.event-date | date: '%Y%m%d' %}
+  {% if event-date >= today %}
+    <section class="section is-tight">
+      <div class="container">
+        {% include events.html %}
+      </div>
+    </section>
+  {% endif %}
+{% endfor %}
+
+<!-- Principles -->
 <section id="principles" class="section is-medium">
   <div class="container">
     <div class="columns">
@@ -86,15 +100,16 @@ layout: default
   </div>
 </section>
 
+<!-- Mission statement -->
 <section id="mission" class="section is-medium">
   <div class="container mission has-text-centered has-background-info">
-    <p class="title is-size-3-desktop is-size-4-tablet is-size-5-mobile has-text-white">{{site.mission[page.lang]}}</p>
+    <p class="title is-size-3-desktop is-size-4-tablet is-size-5-mobile has-text-white">{{site.t[page.lang].mission}}</p>
   </div>
 </section>
 
 <section id="projects" class="section is-medium has-background-light">
   <div class="container">
-    <h2 class="title section-title has-text-centered">{{site.projects[page.lang]}}</h2>
+    <h2 class="title section-title has-text-centered">{{site.t[page.lang].project-title}}</h2>
     <div class="columns">
       {% assign projects=site.posts | where:"lang", page.lang %}
       {% for post in projects limit:3 %}
@@ -103,16 +118,16 @@ layout: default
     </div>
     <div class="columns is-centered">
       <div class="column is-one-third">
-        <a class="button is-black is-outlined is-fullwidth read-more" href="projects">{{site.projects[page.lang]}}</a>
+        <a class="button is-black is-outlined is-fullwidth read-more" href="projects">{{site.t[page.lang].more-projects}}</a>
       </div>
   </div>
 </section>
 
 <section id="partners" class="section has-background-light">
   <div class="container">
-    <h2 class="title section-title has-text-centered">{{site.partner[page.lang].partnership}}</h2>
+    <h2 class="title section-title has-text-centered">{{site.t[page.lang].partner-title}}</h2>
     <div class="columns partners is-mobile is-vcentered is-multiline">
-      {% for item in site.partners %}
+      {% for item in page.partners %}
         {% include partner.html %}
       {% endfor %}
     </div>

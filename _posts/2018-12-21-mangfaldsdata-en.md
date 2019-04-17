@@ -1,8 +1,9 @@
 ---
-title: Open diveristy data 
+title: Open diveristy data
 date: 2018-12-21 01:00:00 +02:00
 categories:
 - hackathon-3
+- stockholm
 tags:
 - Development
 - Design
@@ -30,4 +31,3 @@ People who know:
 - Graphic designer who can help create a visual profile for the project
 - Someone who knows about social media platforms and maybe API:s and wants to help add sharing-functionality
 - Strategist for communication and social media
-

@@ -7,6 +7,7 @@ categories:
 tags:
 - Öppendata
 - demokrati
+- stockholm
 ref: Dinriksdag
 excerpt: Visualisera regeringens arbete och ta Sveriges arbete med öppen data till
   nästa nivå

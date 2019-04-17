@@ -1,12 +1,12 @@
-Copyright (C) 2017 Datto Inc. https://www.datto.com/fonts/d-din,
-with Reserved Font Names "D-DIN".
+This Font Software is licensed under the SIL Open Font License, Version 1.1
+This license is also available with a FAQ at: http://scripts.sil.org/OFL
 
-Copyright (C) 2017 Datto Inc. https://www.datto.com/fonts/d-din,
-with Reserved Font Names "D-DIN Condensed".
+Reserved font name: "Office Code Pro"
 
-Copyright (C) 2017 Datto Inc. https://www.datto.com/fonts/d-din,
-with Reserved Font Names "D-DIN Expanded".
+Copyright © 2015 Nathan Rutzky ( www.nath.co )
+Copyright © 2015 Adobe Systems ( www.adobe.com )  
 
+All Rights Reserved.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL

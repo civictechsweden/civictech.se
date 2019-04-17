@@ -4,6 +4,7 @@ date: 2018-02-01 00:00:00 +01:00
 categories:
 - Power to the people
 - hackathon-1
+- goteborg
 tags:
 - Development
 - Design
@@ -38,5 +39,4 @@ Vi vill ge en samlad bild av hyresgästers situation gentemot hyresvärdar genom
 Vi jobbar redan med att uppdatera hemsidan för detta, men inser att vi kommer behöva tänka om vissa delar av sidan för att det ska bli bra. Vi hoppas att civic tech kan bli en möjlighet till detta!
 
 ## Teknisk specifikation
-Nuvarande karta bygger på Leaflet/JavaScript men vi tänkte lägga om konceptet lite. Vår förhoppning är att få hjälp med lite konkret design och utveckling. 
-
+Nuvarande karta bygger på Leaflet/JavaScript men vi tänkte lägga om konceptet lite. Vår förhoppning är att få hjälp med lite konkret design och utveckling.

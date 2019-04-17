@@ -3,6 +3,7 @@ title: Handlingar
 date: 2018-12-13 01:00:00 +02:00
 categories:
 - hackathon-3
+- stockholm
 tags:
 - Development
 - Design

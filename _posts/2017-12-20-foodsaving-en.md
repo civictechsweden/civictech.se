@@ -5,11 +5,12 @@ permalink: "/en/projects/foodsharing/"
 categories:
 - Sharing is caring
 - hackathon-1
+- goteborg
 tags:
 - Development
 - Design
 lang: en
-ref: foodsaving
+ref: foodsharing
 excerpt: Karrot is a sleek and user-friendly open source tool where people can coordinate
   pickups to save food from being wasted and to share it freely.
 ingress-text: Karrot is a sleek and user-friendly open source tool where people can
@@ -22,16 +23,16 @@ links:
   url: https://github.com/yunity/karrot-backend
 contact:
 - name: Nicolas Sahlqvist
-  image: 
-  text: 
+  image:
+  text:
   mail: nicolas@solikyl.se
   organisation: Solidariskt Kylskåp
   organisation-link: http://solikyl.se/
 - name: Karrot core-developers
-  image: 
+  image:
   text: Nick, Janina and Tillman are the core developers of Karrot and are coming
     all the from Germany by bus to attend the event!
-  mail: 
+  mail:
   organisation: Foodsaving World
   organisation-link: https://foodsaving.world/en/team
 ---

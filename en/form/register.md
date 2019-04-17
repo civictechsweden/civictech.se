@@ -2,7 +2,6 @@
 title: Register for hackathon
 excerpt: Registration for hackathon
 ref: participant
-layout: form
 ingress-text: We have filled all the spots for the hackathon, but please register anyway and we will mail you if someone drops off. Register by the form below.
 form:
 - id: namn
@@ -22,10 +21,10 @@ form:
   type: radio
   required: required
   options:
-  - option: 
+  - option:
     name: Yes
     id: ja
-  - option: 
+  - option:
     name: No
     id: nej
 - id: desc
@@ -33,35 +32,35 @@ form:
   type: textarea
   description: For example your areas of interest, what you can contribute with during the hack, your education or your work. If you have any specific skill or competence it's perfect to put here!
 - id: mat
-  title: Do you have any allergies or food preferences? 
+  title: Do you have any allergies or food preferences?
   type: text
 - id: project
   title: Which project/s are you interested in?
   type: checkbox
   required: required
-  description: Information about <a href="/projects/mdgh-en"> Who owns the city? </a>, <a href="/projects/handlingar-en"> Documents </a>, <a href="/projects/mangfaldsdata-en"> Open diversity data </a> or <a href="/projects/civilkurage-en"> Family dinner and courage</a>! 
+  description: Information about <a href="/projects/mdgh-en"> Who owns the city? </a>, <a href="/projects/handlingar-en"> Documents </a>, <a href="/projects/mangfaldsdata-en"> Open diversity data </a> or <a href="/projects/civilkurage-en"> Family dinner and courage</a>!
   options:
-  - option: 
+  - option:
     name: Who owns the city?
     id: vem-ager-staden
-  - option: 
+  - option:
     name: Documents
     id: handlingar
-  - option: 
+  - option:
     name: Open diveristy data
     id: oppnamangfaldsdata
   - option:
     name: Family dinner and courage
     id: kurage
 - id: pre-meetup
-  title: Do you want to participate in a pre-meetup? 
+  title: Do you want to participate in a pre-meetup?
   type: radio
   description: To install software, set up projects locally etc
   options:
-  - option: 
+  - option:
     name: Yes
     id: ja
-  - option: 
+  - option:
     name: No
     id: nej
 - id: needs
@@ -95,4 +94,3 @@ form:
   type: submit
   title: Send
 ---
-

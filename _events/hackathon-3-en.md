@@ -5,7 +5,8 @@ lang: en
 ref: hackathon-3
 image: "/uploads/hackathon3proj.jpg"
 excerpt: 'Hackathon #3 for the civic tech community of Stockholm'
-ingress-text: CivicTechSweden’s third hackathon "Reclaim the room!" is now open for participants to register for! The hack is exclusive for women and non-binary people and takes place the 26th of January in Goto10’s space in Stockholm, 10am-6pm. We will provide food and fika, interesting projects and a chill atmosphere. 
+ingress-text: CivicTechSweden’s third hackathon "Reclaim the room!" is now open for participants to register for! The hack is exclusive for women and non-binary people and takes place the 26th of January in Goto10’s space in Stockholm, 10am-6pm. We will provide food and fika, interesting projects and a chill atmosphere.
+group: stockholm
 event-date: 2019-01-26 00:00:00 +02:00
 event-date-desc: 26 January 2019, 10 am - 6 pm
 place: Goto10, Stockholm, Sweden
@@ -34,14 +35,14 @@ No prior knowledge is needed to participate. Some projects are in need of specif
 ## During the day
 Among the projects of the day, we have “Documents”, a platform for making it easier to request public information and make it available to everyone. We also have the project “Open diversity data”, which is a site gathering data on the diversity of different organizations. The last project, “Who owns the city?” is about visualizing who owns the public spaces that many of us move through every day.
 
-The projects together aim to the citizens rights to information, influence and representation. In a time like ours, where populism grows globally and people are put against each other, the need of raising awareness  about the state of our democracy grows as well. We hope to contribute to this through our projects. Read more details on each project below. 
+The projects together aim to the citizens rights to information, influence and representation. In a time like ours, where populism grows globally and people are put against each other, the need of raising awareness  about the state of our democracy grows as well. We hope to contribute to this through our projects. Read more details on each project below.
 
 ### Other activities during the day
 Apart from the main projects, we have two more things that you can participate in during the day. Neither of them require any specific prior knowledge to participate in!
 
-One of them is contributing to CivicTechSweden, which needs input from you with experiences living as a woman or non-binary person. During the hack we will gather thoughts and ideas on how we can create an inclusive community. We will also talk about how we want to proceed with CivicTech in Stockholm, for example which types of events we are interested in and what themes or questions to focus on. 
+One of them is contributing to CivicTechSweden, which needs input from you with experiences living as a woman or non-binary person. During the hack we will gather thoughts and ideas on how we can create an inclusive community. We will also talk about how we want to proceed with CivicTech in Stockholm, for example which types of events we are interested in and what themes or questions to focus on.
 
-The other one is contributing to a citizen science-project called Luftdata (Air data). There will be the opportunity to build Luftdata-stations at the event, used in a citizen science-network to measure the air quality in Sweden. We will provide instructions on how to do it and an instructor to ask for help if needed. 
+The other one is contributing to a citizen science-project called Luftdata (Air data). There will be the opportunity to build Luftdata-stations at the event, used in a citizen science-network to measure the air quality in Sweden. We will provide instructions on how to do it and an instructor to ask for help if needed.
 
 
 ## What happens after registration?
@@ -49,7 +50,7 @@ After registering we will send out more information about the project/s that are
 
 For those interested, there is an opportunity to come to a pre-meetup the 22/1 to prepare, by for example installing software or setting up a project locally. This is to give us as much time as possible to be productive and avoid problems with installations during the day of the event.
 
-If you want to be part of the planning of the event, there is a chat-channel on chat.civictech.se. The channel is private to ensure it consists of only women and non-binary people, so if you are interested to join you can provide your username for the chat when registering and you will be invited to the channel. 
+If you want to be part of the planning of the event, there is a chat-channel on chat.civictech.se. The channel is private to ensure it consists of only women and non-binary people, so if you are interested to join you can provide your username for the chat when registering and you will be invited to the channel.
 
 We encourage you to reach out to us with any questions you have. The hackathon is for you and we therefore gladly take input and keep a dialogue on what the day should look like!
 

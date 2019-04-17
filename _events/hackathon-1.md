@@ -8,8 +8,7 @@ ingress-text: Välkommen till Göteborgs nya mötesplats för civic tech-communi
   häng.
 event-date: 2018-03-10 00:00:00 +01:00
 event-date-desc: 10 mars 2018, kl 10 - 19
-group:
-- goteborg
+group: goteborg
 place: Viktoriahuset, Göteborg
 links:
 - title: Ladda ner flyer

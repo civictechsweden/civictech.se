@@ -8,6 +8,7 @@ excerpt: 'Hackathon #1 for the civic tech community of Gothenburg'
 ingress-text: Welcome to Gothenburg's new meeting point for the civic tech community!
   The first hackathon will be a full day of exciting projects, good food and fika
   in a friendly atmosphere.
+group: goteborg
 event-date: 2018-03-10 00:00:00 +01:00
 event-date-desc: 10 March 2018, 10 am - 7 pm
 place: Viktoriahuset, Gothenburg, Sweden

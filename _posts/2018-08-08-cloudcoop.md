@@ -5,6 +5,7 @@ categories:
 - Power to the people
 - Sharing is caring
 - hackathon-2
+- goteborg
 tags:
 - Development
 - Design

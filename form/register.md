@@ -2,7 +2,6 @@
 title: Anmäl dig till hackathonet
 excerpt: Anmälan till hackathon
 ref: participant
-layout: form
 ingress-text: Vi har nu fyllt antal deltagare för hacket! Anmäl dig gärna ändå så skriver vi upp dig på reserv-lista och hör av oss om något avhopp sker. Anmälan sker via formuläret nedan.
 form:
 - id: namn
@@ -18,13 +17,13 @@ form:
   type: text
   required: required
 - id: sep
-  title: Identifierar du dig som kvinna eller icke-binär? 
+  title: Identifierar du dig som kvinna eller icke-binär?
   type: radio
   options:
-  - option: 
+  - option:
     name: Ja
     id: ja
-  - option: 
+  - option:
     name: Nej
     id: nej
 - id: desc
@@ -38,15 +37,15 @@ form:
   title: Vilket/vilka projekt är du intresserad av?
   type: checkbox
   required: required
-  description: Läs mer om <a href="/projects/mdgh"> Vem äger staden </a>, <a href="/projects/handlingar"> Handlingar </a>, <a href="/projects/mangfaldsdata"> Öppna mångfaldsdata </a> eller <a href="/projects/civilkurage">Släktmiddag och civilkurage</a>! 
+  description: Läs mer om <a href="/projects/mdgh"> Vem äger staden </a>, <a href="/projects/handlingar"> Handlingar </a>, <a href="/projects/mangfaldsdata"> Öppna mångfaldsdata </a> eller <a href="/projects/civilkurage">Släktmiddag och civilkurage</a>!
   options:
-  - option: 
+  - option:
     name: Vem äger staden?
     id: vem-ager-staden
-  - option: 
+  - option:
     name: Handlingar
     id: handlingar
-  - option: 
+  - option:
     name: Öppna mångfaldsdata
     id: oppnamangfaldsdata
   - option:
@@ -58,23 +57,23 @@ form:
   required: required
   description: För att installera mjukvara, sätta upp projekt lokalt etc. Datum är den 22/1!
   options:
-  - option: 
+  - option:
     name: Ja
     id: ja
-  - option: 
+  - option:
     name: Nej
     id: nej
 - id: needs
   title: Har du några önskemål inför eller under eventet, eller några frågor?  
   type: textarea
 - id: fragar
-  title: Är det något du gärna vill höra presentatörerna, Vanessa eller Rebecca, prata extra om? 
+  title: Är det något du gärna vill höra presentatörerna, Vanessa eller Rebecca, prata extra om?
   type: textarea
 - id: anvandare
   title: Vad är ditt användarnamn på civictech-chatten?
   description: Om du har ett och vill vara med i chatten
 - id: lat
-  title: Skriv en låt du tycker är bra just nu! 
+  title: Skriv en låt du tycker är bra just nu!
   type: text
 - id: var
   title: Hur fick du höra om hacket?
@@ -95,4 +94,3 @@ form:
   type: submit
   title: Skicka
 ---
-

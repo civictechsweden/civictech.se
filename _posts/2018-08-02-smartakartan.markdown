@@ -4,6 +4,7 @@ date: 2018-08-02 09:54:00 +02:00
 categories:
 - Sharing is caring
 - hackathon-2
+- goteborg
 tags:
 - Sharingeconomy
 - Discussion

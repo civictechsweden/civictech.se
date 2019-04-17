@@ -4,6 +4,7 @@ date: 2018-08-16 11:38:00 +02:00
 categories:
 - I like to move it
 - hackathon-2
+- goteborg
 tags:
 - carpooling
 - sustainabletransport

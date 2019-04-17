@@ -16,11 +16,24 @@ body {
   text-decoration: underline;
 }
 
+label {
+  font-size: 1rem !important;
+}
+
+form {
+  margin: 2rem 0;
+}
+
+.file-upload {
+  font-size: 1rem !important;
+  padding: $control-padding-vertical 0;
+}
+
 .title {
   font-family: $family-headlines;
   text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: normal;
+  // letter-spacing: 1px;
+  //  font-weight: normal;
   line-height: 1.4;
   color: $link;
   font-size: 1.625rem;
@@ -117,6 +130,10 @@ a.title {
   @include from($desktop) {
     margin: -2.5rem 0 4rem !important;
   }
+}
+
+.section.is-tight {
+  padding-bottom: 0 !important;
 }
 
 .section-title {

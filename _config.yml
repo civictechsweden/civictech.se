@@ -16,6 +16,7 @@ collections:
   groups:
     title: Groups
     output: true
+    permalink: "/:title/"
 defaults:
 - scope:
     path: ''
@@ -28,6 +29,18 @@ defaults:
     type: pages
   values:
     layout: page
+    lang: en
+- scope:
+    path: form
+    type: pages
+  values:
+    layout: event
+    lang: sv
+- scope:
+    path: en/form
+    type: pages
+  values:
+    layout: event
     lang: en
 - scope:
     path: ''
@@ -77,76 +90,32 @@ description: Hackathons för Sveriges Civic Tech-community
 theme: jekyll-theme-cayman
 plugins:
 - jemoji
-project-title:
-  sv: Hackathon
-  en: Hackathons
-projects:
-  sv: Projekt
-  en: Projects
-join:
-  sv: Kom med i diskussionen
-  en: Join the discussion
-register:
-  sv: Anmälan för deltagare
-  en: Register participation
-register_desc:
-  sv: Anmäl dig här för att vara med på hackathonet
-  en: Register here to participate in the hackathon
-mission:
-  sv: CivicTechSweden är ett nätverk av personer, organisationer och offentliga aktörer som verkar för att möjligheterna med öppen och fri digitalisering ska komma så många som möjligt till del.
-  en: CivicTechSweden är ett nätverk av personer, organisationer och offentliga aktörer som verkar för att möjligheterna med öppen och fri digitalisering ska komma så många som möjligt till del.
-contact:
+t:
   sv:
-    title: Vill du vara med?
-    text: CivicTechSweden är ett samarbete mellan organisationer, nätverk och offentliga
-      aktörer. Kontakta gärna oss om din organisation vill vara med som arrangör!
+    event-title: Event
+    more-events: Fler event
+    project-title: Projekt
+    more-projects: Fler projekt
+    project-events: Deltar i
+    participating-projects: Deltagande projekt
+    partner-title: Partners
+    participating-partners: Deltagande grupper
+    local-partners: Lokala partners
+    start-group: Starta i din stad!
+    start-group-url: "/about/#starta-en-grupp"
+    mission: CivicTech Sweden är ett nätverk av personer, organisationer och offentliga aktörer som verkar för att möjligheterna med öppen och fri digitalisering ska komma så många som möjligt till del.
+    language: Svenska
   en:
-    title: Join us!
-    text: CivicTechSweden is a cooperation between organisations, networks and the
-      public sector. Please get in touch if you want to be a part of the network!
-partner:
-  sv:
-    initiative: Ett initiativ från
-    partnership: Partners
-    support: Med stöd av
-  en:
-    initiative: An initiative from
-    partnership: Partners
-    support: Supported by
-projectmanager:
-  sv: Projektledare
-  en: Project manager
-projectpartner:
-  sv: Projektpartner
-  en: Project partner
-language:
-  sv: Svenska
-  en: English
-partners:
-- title: Digidem Lab
-  link: http://digidemlab.org
-  logo: "/uploads/logo-digidemlab.png"
-- title: Allmänna Arvsfonden
-  link: http://arvsfonden.se
-  logo: "/uploads/logo-arvsfonden.png"
-- title: Göteborgs Stad - Förvaltningen för konsument- och medborgarservice
-  logo: "/uploads/logo-goteborg.png"
-  link: http://goteborg.se/wps/portal/start/kommun-o-politik/kommunens-organisation/forvaltningar/forvaltningar/forvaltningen-for-konsument--och-medborgarservice-/!ut/p/z1/hU7NCoMwGHsar_1q_Wm7WxlD0P3ALrpehrpOZauVWjfY00-Pg40FcghJSEBCAbIvH11Tus705X3WJxmfQ5JgPw39LNkIikW0JtFufwiyI4H8X0DONv4BgSEF2VUaPWuNMCIkoowwzhkNGY85XfZFXwWsAWnVVVll0WTnW61zw7jysIcvU31b2BhUG-3hb5XWjA6KzyQMunhtVS7e-Y0waA!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/
-- title: Solidariskt Kylskåp
-  logo: "/uploads/logo-solikyl.jpg"
-  link: http://solikyl.se/
-- title: Gothenburg Hackerspace
-  logo: "/uploads/logo-gbghackerspace.jpg"
-  link: https://www.facebook.com/gbghackerspace
-- title: Göteborgsregionens Kommunalförbund
-  logo: "/uploads/gr_color_ny_stor.png"
-  link: http://www.grkom.se/toppmenyn/dettajobbargrmed/miljoochsamhallsbyggnad/miljoochkretslopp.4.4fea3bce111092982468000586.html
-- title: 'ABF '
-  logo: "/uploads/ABF_logo_w.svg.png"
-  link: http://www.abf.se
-- title: Sharing cities Sweden
-  logo: "/uploads/LOGO%20SCS_horizontal%20w%20text%20(1500%20px).png"
-  link: https://www.sharingcities.se/
-- title: Skjutsgruppen
-  logo: "/uploads/Sjutsgruppen_JPG.jpg"
-  link: https://skjutsgruppen.nu/
+    event-title: Events
+    more-events: More events
+    project-title: Projects
+    more-projects: More projects
+    project-events: Participating in
+    participating-projects: Participating projects
+    partner-title: Partners
+    participating-partners: Participating groups
+    local-partners: Local partners
+    start-group: Start a group!
+    start-group-url: "/en/about/#start-a-group"
+    mission: CivicTechSweden is a network of individuals, organisations and the public sector working to make the possibilities that comes with digital technology benefit as many as possible.
+    language: English

@@ -1,24 +1,24 @@
 {% assign events=site.events | where:"ref", page.ref | sort: 'lang' %}
 {% for item in events %}
   {% if item.lang != page.lang %}
-    <a class="navbar-item" href="{{ site.baseurl }}{{ item.url }}">{{ site.language[item.lang] }}</a>
+    <a class="navbar-item" href="{{ site.baseurl }}{{ item.url }}">{{ site.t[item.lang].language }}</a>
   {% endif %}
 {% endfor %}
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for item in pages %}
   {% if item.lang != page.lang %}
-    <a class="navbar-item" href="{{ site.baseurl }}{{ item.url }}">{{ site.language[item.lang] }}</a>
+    <a class="navbar-item" href="{{ site.baseurl }}{{ item.url }}">{{ site.t[item.lang].language }}</a>
   {% endif %}
 {% endfor %}
 {% assign groups=site.groups | where:"ref", page.ref | sort: 'lang' %}
 {% for item in groups %}
   {% if item.lang != page.lang %}
-    <a class="navbar-item" href="{{ site.baseurl }}{{ item.url }}">{{ site.language[item.lang] }}</a>
+    <a class="navbar-item" href="{{ site.baseurl }}{{ item.url }}">{{ site.t[item.lang].language }}</a>
   {% endif %}
 {% endfor %}
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for item in posts %}
   {% if item.lang != page.lang %}
-    <a class="navbar-item" href="{{ site.baseurl }}{{ item.url }}">{{ site.language[item.lang] }}</a>
+    <a class="navbar-item" href="{{ site.baseurl }}{{ item.url }}">{{ site.t[item.lang].language }}</a>
   {% endif %}
 {% endfor %}
