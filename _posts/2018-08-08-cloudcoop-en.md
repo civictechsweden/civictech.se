@@ -13,6 +13,7 @@ tags:
 - Discussion
 lang: en
 ref: cloudcoop
+chat: cloudcoop
 excerpt: Free cloud services for social movements.
 ingress-text: Free cloud services for social movements.
 image: "/uploads/cloud.jpg"

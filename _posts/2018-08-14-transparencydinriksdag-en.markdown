@@ -10,6 +10,7 @@ tags:
 - stockholm
 lang: en
 ref: Dinriksdag
+chat: dinriksdag
 excerpt: Visualise the governments documents and take Swedens work with open data
   to the next level
 ingress-text: Visualise the governments documents and take Swedens work with open

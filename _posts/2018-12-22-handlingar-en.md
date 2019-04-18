@@ -9,6 +9,7 @@ tags:
 - Design
 - Discussion
 ref: handlingar
+chat: 'handlingar.se'
 lang: en
 links:
 #- title: Chat about the project

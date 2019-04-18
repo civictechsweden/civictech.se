@@ -10,7 +10,7 @@ event-date-desc: 24 mars 2019, kl 13-16
 place: Blivande, Södra Hamnvägen 9, Stockholm
 links:
 - title: Gå med i chatten
-  url: "https://chat.civictech.se/channel/general"
+  url: "https://chat.civictech.se/"
 - title: Anmäl dig här!
   url: "/form/integrity-register"
   style: button

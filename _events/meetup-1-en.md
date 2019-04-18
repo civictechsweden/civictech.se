@@ -11,7 +11,7 @@ event-date-desc: March 2nd 2019, 13-16
 place: Kollaboratoriet, Östra Ågatan 19, Uppsala
 links:
 - title: Join the chat
-  url: "https://chat.civictech.se/channel/general"
+  url: "https://chat.civictech.se/"
 #- title: Register here!
 #  url: "/en/form/meetupregister/"
 #  style: button

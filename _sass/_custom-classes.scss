@@ -10,11 +10,31 @@ body {
   line-height: 1.6428571429;
 }
 
+
+// Links
+
 .footer a,
 .contact a,
 .content a {
   text-decoration: underline;
 }
+
+.button.is-text {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.button {
+  font-weight: bold;
+  font-size: 1rem !important;
+  border-radius: 0 !important;
+}
+
+
+// Form
 
 label {
   font-size: 1rem !important;
@@ -28,6 +48,9 @@ form {
   font-size: 1rem !important;
   padding: $control-padding-vertical 0;
 }
+
+
+// Title
 
 .title {
   font-family: $family-headlines;
@@ -74,19 +97,8 @@ a.title {
   }
 }
 
-.button.is-text {
-  text-decoration: none;
 
-  &:hover {
-    text-decoration: underline;
-  }
-}
-
-.button {
-  font-weight: bold;
-  font-size: 1rem !important;
-  border-radius: 0 !important;
-}
+// Card
 
 .card .image {
   overflow: hidden;
@@ -126,6 +138,9 @@ a.title {
   }
 }
 
+
+// Spacing: section, box
+
 .is-medium .section-title {
   @include from($desktop) {
     margin: -2.5rem 0 4rem !important;
@@ -155,22 +170,89 @@ a.title {
 
 // Hero
 
-
 .hero-head {
   @include from($desktop) {
     margin-top: 2.3rem;
   }
 }
 
+@mixin set-colored-bg-image($bgcolor, $bggradient, $bgimage) {
+	background: linear-gradient(
+      rgba($bgcolor, $bggradient),
+      rgba($bgcolor, $bggradient)
+    ), url($bgimage);
+}
+
+@mixin set-dark-bg-image($bgimage) {
+	@include set-colored-bg-image($black, 0.2, $bgimage);
+}
+
 .hero-image {
-  background-image: url('../images/hero.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.hero-image {
+  // background-image: url('../images/hero.jpg');
+  @include set-dark-bg-image('../images/hero.jpg');
   background-size: cover;
   background-position: top center;
+}
+
+.hero-project .hero-body {
+  @include from($desktop) {
+    min-height: 18.75rem;
+  }
+
+  img {
+    max-height: 18.75rem;
+  }
+}
+
+.is-front .hero-body {
+  padding-top: 0 !important;
+
+  @include until($desktop) {
+    padding-bottom: 2rem !important;
+  }
+
+  @include from($tablet) {
+    margin-top: -3rem;
+  }
 }
 
 .hero .title {
   color: $black !important;
 }
+
+.hero-foot {
+  padding: 0 0 2rem;
+
+  @include from($desktop) {
+    padding: 1.5rem 0 3rem;
+  }
+}
+
+.arrow {
+  display: inline-block;
+  background: url('../images/pil-thin.svg') $primary 0 0 no-repeat;
+  padding-left: 2rem;
+}
+
+.arrow-line {
+  background: url('../images/pil-line.svg') 0 10px repeat-x;
+  margin-top: 1em;
+
+  @include from($desktop) {
+    &:first-of-type {
+      margin-top: 3rem;
+    }
+  }
+}
+
+
+// Navbar
 
 .navbar-menu:not(.is-active) {
   max-height: 1.5rem;
@@ -199,43 +281,6 @@ a.title {
 
 .navbar-item img {
   max-height: inherit;
-}
-
-.is-front .hero-body {
-  padding-top: 0 !important;
-
-  @include until($desktop) {
-    padding-bottom: 2rem !important;
-  }
-
-  @include from($tablet) {
-    margin-top: -3rem;
-  }
-}
-
-.hero-foot {
-  padding: 0 0 2rem;
-
-  @include from($desktop) {
-    padding: 1.5rem 0 3rem;
-  }
-}
-
-.arrow {
-  display: inline-block;
-  background: url('../images/pil-thin.svg') $primary 0 0 no-repeat;
-  padding-left: 2rem;
-}
-
-.arrow-line {
-  background: url('../images/pil-line.svg') 0 10px repeat-x;
-  margin-top: 1em;
-
-  @include from($desktop) {
-    &:first-of-type {
-      margin-top: 3rem;
-    }
-  }
 }
 
 
@@ -306,9 +351,11 @@ a.title {
 
 
 // Footer
+
 .icon.is-large {
   margin-left: 2rem;
 }
+
 
 // Content
 
@@ -345,6 +392,7 @@ a.title {
 
 
 
+
 /** ---------------- **/
 
 
@@ -376,6 +424,7 @@ a.title {
   margin-top: 2.5rem;
   margin-bottom: 2.5rem !important;
 }
+
 
 // Page
 

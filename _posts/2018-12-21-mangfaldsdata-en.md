@@ -10,6 +10,7 @@ tags:
 - Discussion
 ref: mangfaldsdata
 lang: en
+chat: mangfaldsdata
 links:
 #- title: Chat about the project
 #  url: https://chat.civictech.se/channel/mangfaldsdata

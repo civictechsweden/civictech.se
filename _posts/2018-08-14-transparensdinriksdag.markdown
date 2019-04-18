@@ -9,6 +9,7 @@ tags:
 - demokrati
 - stockholm
 ref: Dinriksdag
+chat: dinriksdag
 excerpt: Visualisera regeringens arbete och ta Sveriges arbete med öppen data till
   nästa nivå
 ingress-text: Visualisera regeringens arbete och ta Sveriges arbete med öppen data

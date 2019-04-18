@@ -2,7 +2,11 @@
 layout: default
 ---
 
-{% include header.html %}
+{% if page.is_post %}
+  {% include header-project.html %}
+{% else %}
+  {% include header.html %}
+{% endif %}
 
 {{content}}
 

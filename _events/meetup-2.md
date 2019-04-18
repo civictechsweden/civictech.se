@@ -10,7 +10,7 @@ event-date-desc: 21 mars 2019, kl 18-20
 place: Capsule Coworking, Smedsgränd 4, Uppsala
 links:
 - title: Gå med i chatten
-  url: "https://chat.civictech.se/channel/general"
+  url: "https://chat.civictech.se/"
 - title: Anmäl dig här!
   url: "/form/code-with-us-register"
   style: button

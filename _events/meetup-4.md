@@ -10,7 +10,7 @@ place: Goto10, Hammarby Kaj 10D, Stockholm
 group: stockholm
 links:
 - title: Gå med i chatten
-  url: "https://chat.civictech.se/channel/general"
+  url: "https://chat.civictech.se/"
 #- title: Anmäl dig här!
 #  url: "/form/integrity-register"
 #  style: button

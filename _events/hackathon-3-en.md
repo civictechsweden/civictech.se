@@ -15,7 +15,7 @@ place: Goto10, Stockholm, Sweden
 #  url: "/en/form/register/"
 #  style: button
 #- title: Join the chat!
-#  url: "https://chat.civictech.se/channel/general"
+#  url: "https://chat.civictech.se/"
 ---
 ## CivicTechSweden's hackathons
 Civic tech is about creating technical solutions for the good of society. All around the world there are civic tech communities taking on challenges in society and offering their time and knowledge to solve them. We want a community like that to be strong in Sweden as well! We want to gather coders, designers, activists and anyone who thinks civic tech sounds exciting and important in this hackathon and our future hackathons.

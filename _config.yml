@@ -52,6 +52,7 @@ defaults:
     path: ''
     type: posts
   values:
+    is_post: true
     layout: page
     lang: sv
     ref:
@@ -75,6 +76,7 @@ defaults:
     layout: event
     lang: sv
     ref:
+    group:
     image:
     excerpt:
     ingress-text:
@@ -95,6 +97,7 @@ t:
     event-title: Event
     more-events: Fler event
     project-title: Projekt
+    project-chat: Chatta om projektet
     more-projects: Fler projekt
     project-events: Deltar i
     participating-projects: Deltagande projekt
@@ -109,6 +112,7 @@ t:
     event-title: Events
     more-events: More events
     project-title: Projects
+    project-chat: Chat about the project
     more-projects: More projects
     project-events: Participating in
     participating-projects: Participating projects

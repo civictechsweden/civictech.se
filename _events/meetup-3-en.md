@@ -11,7 +11,7 @@ event-date-desc: March 24th 2019, 13-16
 place: House Blivande, Södra Hamnvägen 9, Stockholm
 links:
 - title: Join the chat
-  url: "https://chat.civictech.se/channel/general"
+  url: "https://chat.civictech.se/"
 - title: Register here!
   url: "/en/form/integrity-register/"
   style: button

@@ -9,6 +9,7 @@ tags:
 - Design
 - Discussion
 ref: mangfaldsdata
+chat: mangfaldsdata
 links:
 #- title: Chatta om projektet!
 #  url: https://chat.civictech.se/channel/mangfaldsdata

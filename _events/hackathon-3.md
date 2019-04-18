@@ -16,7 +16,7 @@ place: Goto10, Stockholm
 #  url: "/form/register/"
 #  style: button
 #- title: Gå med i chatten
-#  url: "https://chat.civictech.se/channel/general"
+#  url: "https://chat.civictech.se/"
 ---
 
 ## CivicTechSweden's hackathon

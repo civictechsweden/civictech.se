@@ -11,7 +11,9 @@
     </div>
     <div class="card-footer">
       {% if post.chat %}
-        <a class="card-footer-item left" href="https://chat.civictech.se/{{post.chat}}"><span class="icon is-medium"><i class="fab fa-rocketchat fa-2x"></i></span></a>
+        <a class="card-footer-item left has-text-weight-bold" href="https://chat.civictech.se/">
+          <span class="icon is-medium"><i class="fab fa-rocketchat fa-lg"></i></span>#{{post.chat}}
+        </a>
       {% endif %}
       <a class="card-footer-item right" href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/assets/images/pil.svg" alt="Läs mer"></a>
     </div>
