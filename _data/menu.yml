@@ -1,10 +1,24 @@
 sv:
 - title: Om oss
   url: /about
+- title: Projekt
+  url: /projects
+- title: Event
+  url: /events
 - title: Grupper
+  type: groups
 - title: Joina chatten
+  url: https://chat.civictech.se
+  type: chat
 en:
 - title: About
   url: /en/about
+- title: Projects
+  url: /en/projects
+- title: Events
+  url: /en/events
 - title: Groups
+  type: groups
 - title: Join the chat room
+  url: https://chat.civictech.se
+  type: chat
