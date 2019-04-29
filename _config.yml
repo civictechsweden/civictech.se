@@ -88,7 +88,7 @@ defaults:
       url:
       style:
 permalink: "/projects/:title/"
-description: Hackathons för Sveriges Civic Tech-community
+description: Hackathons och Meetups för Sveriges Civic Tech-community
 theme: jekyll-theme-cayman
 plugins:
 - jemoji

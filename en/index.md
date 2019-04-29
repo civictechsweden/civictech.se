@@ -1,8 +1,9 @@
 ---
 title: CivicTechSweden
 ref: start
-description: Hackathons for the Civic Tech community of Sweden
+description: Hackathons and Meetups for the Civic Tech community of Sweden
 layout: start
+image: /assets/images/civictech-banner.jpg
 principles:
 - title: Power to the people
   text: Democracy, participation and transparency.
