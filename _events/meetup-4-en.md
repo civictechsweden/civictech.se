@@ -4,7 +4,7 @@ ref: meetup-4
 image: ""
 lang: en
 excerpt: 'A meetup for the Civic Tech-community in Stockholm'
-ingress-text: How would you like Sweden to work with transpacency in the future? Join the discussion and give your opinion on the action plan!
+ingress-text: How would you like Sweden to work with transparency in the future? Join the discussion and give your opinion on the action plan!
 event-date: 2019-05-20 18:00:00 +02:00
 event-date-desc: May 20th 2019, 18-20:30
 place: Goto10, Hammarby Kaj 10D, Stockholm
