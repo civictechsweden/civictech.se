@@ -9,17 +9,17 @@ tags:
 -
 -
 ref: changecourse
-chat: ''
+chat: 'changecourse'
 lang: en
 links:
 #- title: Chat about the project
 #  url: https://chat.civictech.se/channel/changecourse
 ingress-text:
 excerpt:
-image: "/uploads/"
+image: "/uploads/changecourse.png"
 contact:
 - name:
-  image: "/uploads/"
+  image: "/uploads/changecourse.png"
   text:
   mail:
 ---
