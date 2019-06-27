@@ -17,19 +17,29 @@ ingress-text: Plattform för att begära ut allmänna handlingar.
 excerpt: Plattform för att begära ut allmänna handlingar.
 image: "/uploads/handlingar.png"
 contact:
-- name: Elle Lingh
+- name: Elenor Weijmar
   image: "/uploads/elle.jpg"
-  text: Studerar på Hyper Island i Karlskrona och jobbar med projektet Handlingar med stöd från Digidem Lab.  
-  mail: ellelingh@hotmail.se
+  text: Studerar på Hyper Island i Karlskrona och jobbar med projektet Handlingar.se med stöd från Digidem Lab.  
+  mail: elenor@undervaka.se
 ---
-Ett projekt där målet är att få upp en plattform en kan begära ut allmänna handlingar från, där handlingarna också blir kvar att söka efter senare. Plattformen kan öppna upp Sveriges offentliga sektor mer!
+Projektet består av en plattform där medborgare kan begära ut allmänna handlingar från offentlig sektor. På plattformen blir handlingarna också tillgängliga att söka efter senare och sparar på så sätt tid och pengar för myndigheter, medborgare, forskare, företag och civilsamhälle. Plattformen hjälper till att öppna upp Sveriges offentliga sektor!
 
-Projektet bygger på <a href="https://alaveteli.org">alaveteli</a> som använts för liknande plattformar i andra länder.
+Projektet bygger på <a href="https://alaveteli.org">Alaveteli</a> som använts för liknande plattformar i andra länder.
 
 ## Kompetenser som önskas
 ### Grafiskt
-Färger, logga, tema och liknande
+CSS-färdigheter för att förbättra plattformens design och tillgänglighet (WCAG 2.0 AA/AAA)
 ### Tekniskt
-Hjälp med hemsidans funktioner, ännu inte specificerat i detalj vad som behövs men för den som kan lite om webbutveckling finns möjlighet att bidra
+Hjälp med plattformens funktioner, för den som kan lite om webbutveckling finns möjlighet att bidra.
 
-Mer detaljerad info mailas ut till anmälda deltagare närmre hacket
+- Ruby (Ruby on Rails)
+- Systemadministration
+- Moderation av plattformen
+
+### Projekt
+
+Projektet söker projektmedlemmar som vill bidra till:
+- sociala medier
+- blogginlägg
+- moderation av plattformen
+- klassificering av förfrågningar
