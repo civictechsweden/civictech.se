@@ -14,14 +14,14 @@ ref: skjutsgruppen
 links:
 #- title: Chatta om projektet
 #  url: https://chat.civictech.se/channel/skjutsgruppen
-ingress-text: Plattform för att begära ut allmänna handlingar.
-excerpt: Plattform för att begära ut allmänna handlingar.
-image: "/uploads/handlingar.png"
+ingress-text: En icke vinstdrivande samåkningsrörelse A non-profit ridesharing movement
+excerpt: En icke vinstdrivande samåkningsrörels
+image: "/uploads/skjutsgruppen.jpg"
 contact:
-- name: Elenor Weijmar
-  image: "/uploads/elle.jpg"
-  text: Studerar på Hyper Island i Karlskrona och jobbar med projektet Handlingar.se med stöd från Digidem Lab.  
-  mail: elenor@undervaka.se
+- name: Skjutsgruppen
+  image: "/uploads/skjutsgruppen.jpg"
+  text: General e-mail address to reach the board of Skjutsgruppen.
+  mail: hej@skjutsgruppen.nu
 ---
 Vi är vänner och vänners vänner. Vi kommer närmare varandra. När vi åker åt samma håll erbjuder vi våra tomma säten till varandra i bussar, båtar, bilar, cyklar och varmluftsballonger. Vi delar lika på kostnaderna för våra åkturer eller erbjuder skjuts gratis, för kompisar tjänar inte pengar på kompisar. Läs mer om rörelsen i appen! Öppen Källkod, Gratis, Deltagardrivet.
 
