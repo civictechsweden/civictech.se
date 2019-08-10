@@ -13,8 +13,10 @@ ref: skjutsgruppen
 chat: 'skjutsgruppen'
 lang: en
 links:
-#- title: Chat about the project
-#  url: https://chat.civictech.se/channel/skjutsgruppen
+- title: Chat about the project
+  url: https://chat.civictech.se/channel/skjutsgruppen
+- title:
+  url:
 ingress-text: A non-profit ridesharing movement
 excerpt: A non-profit ridesharing movement
 image: "/uploads/skjutsgruppen.jpg"
@@ -30,7 +32,7 @@ The project <a href="https://skjutsgruppen.nu/">Skjutsgruppen</a> is from Sweden
 
 You can join the movement too and download the app to your phone:
 Android: <a href="https://play.google.com/store/apps/details?id=nu.skjutsgruppen.skjutsgruppen">Google Play</a>
-iOS: <a href="https://itunes.apple.com/us/app/ideella-r%C3%B6relsen-skjutsgruppen/id1370886185?mt=8">AppStore</a>
+iOS: <a href="https://itunes.apple.com/us/app/ideella-r%C3%B6relsen-skjutsgruppen/id1370886185?mt=8">App Store</a>
 
 View the source code at <a href="https://github.com/skjutsgruppen">Github</a>.
 

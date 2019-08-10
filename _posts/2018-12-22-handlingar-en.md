@@ -13,8 +13,10 @@ ref: handlingar
 chat: 'handlingar.se'
 lang: en
 links:
-#- title: Chat about the project
-#  url: https://chat.civictech.se/channel/handlingar
+- title: Chat about the project
+  url: https://chat.civictech.se/channel/handlingar
+- title: Website
+  url: https://handlingar.se/en
 ingress-text: Platform used to request public information.
 excerpt: Platform used to request public information.
 image: "/uploads/handlingar.png"
@@ -23,6 +25,8 @@ contact:
   image: "/uploads/elle.jpg"
   text: Studerar på Hyper Island i Karlskrona och jobbar med projektet Handlingar.se med stöd från Digidem Lab.  
   mail: elenor@undervaka.se
+  organisation: Civic Tech Sweden
+  organisation-link: https://civictech.se/en
 ---
 A platform where one can request public information from authorities, where the information is also stored and open for anyone to take part of in the future. The platform is meant to open up the public sector of Sweden!
 

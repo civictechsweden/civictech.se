@@ -12,8 +12,10 @@ ref: linuxkompis
 chat: ''
 lang: en
 links:
-#- title: Chat about the project
-#  url: https://chat.civictech.se/channel/linuxkompis
+- title: Chat about the project
+  url: https://chat.civictech.se/channel/linuxkompis
+- title:
+  url: 
 ingress-text:
 excerpt:
 image: "/uploads/"
@@ -22,6 +24,8 @@ contact:
   image: "/uploads/"
   text:
   mail:
+  organisation:
+  organisation-link:
 ---
 
 

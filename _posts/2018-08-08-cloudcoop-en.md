@@ -25,7 +25,7 @@ contact:
   image: "/uploads/petter.png"
   text: I am a digital strategist and activist. Now a coordinator and co-founder of
     Digidem Lab, earlier I started and ran a cooperative web agency for eight years
-    and before that I was a proffessional demonstrator ;)
+    and before that I was a professional demonstrator ;)
   mail: petter@digidemlab.org
   organisation: Digidem Lab
   organisation-link: http://digidemlab.org

@@ -12,15 +12,17 @@ tags:
 chat: 'skjutsgruppen'
 ref: skjutsgruppen
 links:
-#- title: Chatta om projektet
-#  url: https://chat.civictech.se/channel/skjutsgruppen
+- title: Chatta om projektet
+  url: https://chat.civictech.se/channel/skjutsgruppen
+- title:
+  url:
 ingress-text: En icke vinstdrivande samåkningsrörelse A non-profit ridesharing movement
-excerpt: En icke vinstdrivande samåkningsrörels
-image: "/uploads/skjutsgruppen.jpg"
+excerpt: En icke vinstdrivande samåkningsrörelse
+image: "/uploads/Skjutsgruppen_square_logo.png"
 contact:
 - name: Skjutsgruppen
-  image: "/uploads/skjutsgruppen.jpg"
-  text: General e-mail address to reach the board of Skjutsgruppen.
+  image: "/uploads/Skjutsgruppen.jpg"
+  text: Generell e-postadress till Skjutsgruppens styrelse.
   mail: hej@skjutsgruppen.nu
 ---
 Vi är vänner och vänners vänner. Vi kommer närmare varandra. När vi åker åt samma håll erbjuder vi våra tomma säten till varandra i bussar, båtar, bilar, cyklar och varmluftsballonger. Vi delar lika på kostnaderna för våra åkturer eller erbjuder skjuts gratis, för kompisar tjänar inte pengar på kompisar. Läs mer om rörelsen i appen! Öppen Källkod, Gratis, Deltagardrivet.
@@ -29,7 +31,7 @@ Projektet <a href="https://skjutsgruppen.nu/">Skjutsgruppen</a> är från Sverig
 
 Du kan också gå med i rörelsen och ladda ned appen till din telefon:
 Android: <a href="https://play.google.com/store/apps/details?id=nu.skjutsgruppen.skjutsgruppen">Google Play</a>
-iOS: <a href="https://itunes.apple.com/us/app/ideella-r%C3%B6relsen-skjutsgruppen/id1370886185?mt=8">AppStore</a>
+iOS: <a href="https://itunes.apple.com/us/app/ideella-r%C3%B6relsen-skjutsgruppen/id1370886185?mt=8">App Store</a>
 
 Se källkoden på <a href="https://github.com/skjutsgruppen">Github</a>.
 

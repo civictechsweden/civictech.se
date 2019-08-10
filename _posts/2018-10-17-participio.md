@@ -12,16 +12,30 @@ tags:
 chat: 'participio'
 ref: participio
 links:
-#- title: Chatta om projektet
-#  url: https://chat.civictech.se/channel/participio
-ingress-text:
-excerpt:
-image: "/uploads/"
+- title: Chatta om projektet
+  url: https://chat.civictech.se/channel/participio
+- title: Participio Forum
+  url: https://edgeryders.eu/c/participio
+ingress-text: En mjukvara för deltagande och samskapad kultur.
+excerpt: En mjukvara för samskapande kultur.
+image: "/uploads/participio-logo.png"
 contact:
-- name:
-  image: "/uploads/"
-  text:
-  mail:
+- name: Edgeryders
+  image: "/uploads/participio-logo.png"
+  text: Participio Forum
+  mail: https://edgeryders.eu/c/participio
+  organisation: Edgeryders
+  organisation-link: http://particip.io
 ---
-http://particip.io
-https://edgeryders.eu/c/participio
+
+## Behövda färdigheter
+
+More info coming.
+
+### Grafiskt
+
+More info coming.
+
+### Tekniskt
+
+More info coming.

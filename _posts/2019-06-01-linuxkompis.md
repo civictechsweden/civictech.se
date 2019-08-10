@@ -12,8 +12,10 @@ tags:
 chat: 'linuxkompis'
 ref: linuxkompis
 links:
-#- title: Chatta om projektet
-#  url: https://chat.civictech.se/channel/linuxkompis
+- title: Chatta om projektet
+  url: https://chat.civictech.se/channel/linuxkompis
+- title:
+  url: 
 ingress-text: En vänlig Linux-gemenskap för alla
 excerpt: En vänlig Linux-gemenskap för alla
 image: "/uploads/linuxkompis.svg"
@@ -22,6 +24,8 @@ contact:
   image: "/uploads/linuxkompis.svg"
   text: Vi gör det här för att det är roligt och för att vi brinner för Linux och öppen källkod.
   mail: hej@linuxkompis.se
+  organisation:
+  organisation-link:
 ---
 Vi är ett ideellt projekt som har som mål att tillhandahålla en trivsam och givande gemenskap för alla Linux-entusiaster. För oss är det viktigt att alla—oavsett kunskapsnivå—ska känna sig precis lika välkommen som vem som helst!
 

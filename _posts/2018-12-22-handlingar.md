@@ -11,8 +11,10 @@ tags:
 chat: 'handlingar.se'
 ref: handlingar
 links:
-#- title: Chatta om projektet
-#  url: https://chat.civictech.se/channel/handlingar
+- title: Chatta om projektet
+  url: https://chat.civictech.se/channel/handlingar
+- title: Hemsida
+  url: https://handlingar.se/
 ingress-text: Plattform för att begära ut allmänna handlingar.
 excerpt: Plattform för att begära ut allmänna handlingar.
 image: "/uploads/handlingar.png"
@@ -21,6 +23,8 @@ contact:
   image: "/uploads/elle.jpg"
   text: Studerar på Hyper Island i Karlskrona och jobbar med projektet Handlingar.se med stöd från Digidem Lab.  
   mail: elenor@undervaka.se
+  organisation: Civic Tech Sweden
+  organisation-link: https://civictech.se
 ---
 Projektet består av en plattform där medborgare kan begära ut allmänna handlingar från offentlig sektor. På plattformen blir handlingarna också tillgängliga att söka efter senare och sparar på så sätt tid och pengar för myndigheter, medborgare, forskare, företag och civilsamhälle. Plattformen hjälper till att öppna upp Sveriges offentliga sektor!
 

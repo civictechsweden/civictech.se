@@ -20,10 +20,10 @@ links:
 - title: Karrot på Github
   url: https://github.com/yunity/karrot-backend
 contact:
-- name: Nicolas Sahlqvist
+- name: Solidariskt Kylskåp
   image:
   text:
-  mail: nicolas@solikyl.se
+  mail: kontakt@solikyl.se
   organisation: Solidariskt Kylskåp
   organisation-link: http://solikyl.se/
 - name: Karrots kärnutvecklarna
