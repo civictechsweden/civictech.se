@@ -20,12 +20,12 @@ links:
   url: https://fixamingata.se/
 ingress-text: With FixMyStreet Platform you can easily launch a website that helps people to report street problems like potholes and broken street lights. Problem reports are then sent to authorities for fixing.
 excerpt: With FixMyStreet Platform you can easily launch a website that helps people to report street problems.
-image: "/uploads/fixamingata_logo.svg"
+image: "/uploads/fixamingata_logo-400x200.png"
 contact:
 - name: Göran Westerlund
   image: "/uploads/Sambruk_logo.svg"
   text: E-post
-  mail: goran.westerlund(at)alingsas.se
+  mail: goran(dot)westerlund(at)alingsas.se
   organisation: Föreningen Sambruk
   organisation-link: https://sambruk.se/portfolio/fixa-min-gata/
 ---

@@ -23,10 +23,10 @@ links:
   url: https://github.com/ro31337/libretaxi/
 ingress-text: Fritt och öppet alternativ till Uber/Lyft som kopplar samman passagerare, privata förare och taxioperatörer.
 excerpt: Fritt och öppet alternativ till Uber/Lyft.
-image: "/uploads/libretaxi-text-logo.svg"
+image: "/uploads/libretaxi-logo.jpg"
 contact:
 - name: LibreTaxi
-  image: "/uploads/libretaxi-text-logo.svg"
+  image: "/uploads/libretaxi-logo.jpg"
   text: Telegram chatt
   url: https://t.me/libretaxi_se
   organisation: LibreTaxi Sverige

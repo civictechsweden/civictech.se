@@ -19,10 +19,10 @@ links:
   url: https://ubuntustudio.org/
 ingress-text: Ubuntu Studio is a free and open source operative system with focus on creating with multimedia.
 excerpt: Ubuntu Studio is a free multimedia operating system.
-image: "/uploads/ubuntustudio-logo.png"
+image: "/uploads/ubuntustudio-logo-square.png"
 contact:
 - name: Ubuntu Studio Gemenskapssupport
-  image: "/uploads/ubuntustudio-logo.png"
+  image: "/uploads/ubuntustudio-logo-square.png"
   text: AskUbuntu / IRC / Telegram
   mail: https://ubuntustudio.org/support/
   organisation: Ubuntu Studio

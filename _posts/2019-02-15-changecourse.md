@@ -17,8 +17,8 @@ links:
   url: http://changecourse.se
 - title: change course källkod
   url: https://github.com/bnaucler/changecourse/
-ingress-text: change course är en entreprenörsutbildning för samhällsförändrare; människor som anser att världen står inför utmaningar som kräver omedelbara åtgärder. Människor som är redo att agera för en positiv förändring.
-excerpt: change course är en entreprenörsutbildning för samhällsförändrare
+ingress-text: change course är en utbildning för samhällsförändrare; människor som anser att världen står inför utmaningar som kräver omedelbara åtgärder. Människor som är redo att agera för en positiv förändring.
+excerpt: change course är en utbildning för samhällsförändrare
 image: "/uploads/changecourse.png"
 contact:
 - name: Change Course
@@ -30,7 +30,7 @@ contact:
 ---
 ### Är du en av våra 18 samhällsförändrare, galen nog att tro du kan förändra världen? (Det kan du.)
 
-change course är en entreprenörsutbildning för samhällsförändrare; människor som anser att världen står inför utmaningar som kräver omedelbara åtgärder. Människor som är redo att agera för en positiv förändring.
+change course är en utbildning för samhällsförändrare; människor som anser att världen står inför utmaningar som kräver omedelbara åtgärder. Människor som är redo att agera för en positiv förändring.
 
 Utbildningens syfte är att ge dagens visionärer verktygen de behöver för att lösa morgondagens problem. Somliga säger att det inte lönar sig att ha visioner och att de stora upptäckterna redan har gjorts. Vi säger att dagens visionärer har ett ansvar och att visioner aldrig har varit viktigare. Världen och samhället har problem framför sig, några så överväldigande att många väljer att ignorera dem men för de som vågar hitta nya lösningar är allting möjligt.
 

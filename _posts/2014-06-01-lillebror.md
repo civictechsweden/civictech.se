@@ -26,7 +26,7 @@ links:
   url: https://www.transifex.com/dfri/lillebror/
 ingress-text: DFRI organiserar en översättning av Cory Doctorows bok Little Brother.
 excerpt: En översättning av Cory Doctorows bok Little Brother.
-image: "/uploads/dfri_logotype_swedish_transparent_256.png"
+image: "/uploads/little-brother-logo.jpg"
 contact:
 - name: :DFRI - Föreningen för digitala fri- och rättigheter
   image: "/uploads/dfri_logotype_swedish_transparent_256.png"

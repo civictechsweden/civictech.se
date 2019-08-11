@@ -20,12 +20,12 @@ links:
 ingress-text: Rapportera, visa, eller diskutera lokala problem
 till exempel klotter, skräp, trasiga gatustenar eller gatubelysning. Felrapporteringar skickas sen till myndigheter för åtgärder.
 excerpt: Rapportera, visa, eller diskutera lokala problem
-image: "/uploads/fixamingata_logo.png"
+image: "/uploads/fixamingata_logo-400x200.png"
 contact:
 - name: Göran Westerlund
   image: "/uploads/Sambruk_logo.svg"
   text: E-post
-  mail: goran.westerlund(at)alingsas.se
+  mail: goran(dot)westerlund(at)alingsas.se
   organisation: Föreningen Sambruk
   organisation-link: https://sambruk.se/portfolio/fixa-min-gata/
 ---

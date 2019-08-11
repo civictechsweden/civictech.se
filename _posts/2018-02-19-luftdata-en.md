@@ -18,10 +18,10 @@ links:
   url: https://luftdata.se/
 ingress-text: Build your own measuring station for air particles and become part of a global citizen science network
 excerpt: Build your own measuing station for air particles
-image: "/uploads/"
+image: "/uploads/luftdaten-footer-logo.png"
 contact:
 - name: Ideella föreningen Luftdata
-  image: "/uploads/"
+  image: "/uploads/luftdaten-footer-logo.png"
   text: E-post
   mail: info@luftdata.se
   organisation: Ideella föreningen Luftdata

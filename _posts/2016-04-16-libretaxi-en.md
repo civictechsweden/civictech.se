@@ -24,10 +24,10 @@ links:
   url: https://github.com/ro31337/libretaxi/
 ingress-text: Free and open source alternative to Uber/Lyft connecting passengers and drivers.
 excerpt: Free and open source alternative to Uber/Lyft.
-image: "/uploads/libretaxi-text-logo.svg"
+image: "/uploads/libretaxi-logo.jpg"
 contact:
 - name: LibreTaxi
-  image: "/uploads/libretaxi-text-logo.svg"
+  image: "/uploads/libretaxi-logo.jpg"
   text: Telegram chat
   url: https://t.me/libretaxi
   organisation: LibreTaxi Community

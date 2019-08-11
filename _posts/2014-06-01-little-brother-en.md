@@ -23,7 +23,7 @@ links:
   url: lillebror+subscribe@lists.dfri.se
 ingress-text: DFRI are working on a crowdsourced translation of Cory Doctorow’s Little Brother.
 excerpt: DFRI are currently working on a crowdsourced translation of Cory Doctorow’s Little Brother into Swedish.
-image: "/uploads/dfri_logotype_swedish_transparent_256.png"
+image: "/uploads/little-brother-logo.jpg"
 contact:
 - name: :DFRI - The digital freedom and rights association
   image: "/uploads/dfri_logotype_swedish_transparent_256.png"
