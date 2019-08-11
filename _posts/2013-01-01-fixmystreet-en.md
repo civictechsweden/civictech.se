@@ -31,6 +31,7 @@ contact:
 ---
 "Gör det enkelt för invånare och besökare i er kommun att rapportera problem i gatumiljön, till exempel ett hål i gatan, trasig belysning eller nedskräpning. Med hjälp av tjänsten FixaMinGata kan vem som helst rapportera ett problem i stadsmiljön utan att behöva ta reda på vem som ansvarar för underhåll och service. Systemet skickar rapporten till rätt mottagare. Det gör det smidigare att rapportera problem.
 Verktyget och gränssnittet är detsamma för samtliga kommuner. Det blir då lätt att använda tjänsten oavsett var man befinner sig och oavsett om man bor, arbetar eller bara är på tillfälligt besök i er kommun.
+
 Filtrera, databehandla och skapa dialog
 
 Rapporten har alltid samma struktur och form. Därmed är det enkelt för er verksamhet att databehandla eller filtrera ärenden som kommer in via tjänsten. Den bidrar också till att skapa en dialog med invånarna och eftersom rapportören lämnar sin e-postadress går ärendet att följa upp om det skulle behövas. När felet är åtgärdat markerar ni det i tjänsten. Det innebär att alla användare nås av samma information och att antalet rapporter om samma problem minskar.
