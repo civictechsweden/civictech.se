@@ -21,7 +21,7 @@ excerpt: En mjukvara för samskapande kultur.
 image: "/uploads/participio-logo.png"
 contact:
 - name: Edgeryders
-  image: "/uploads/participio-logo.png"
+  image: "/uploads/edgeryders-logo.png"
   text: Participio Forum
   mail: https://edgeryders.eu/c/participio
   organisation: Edgeryders
