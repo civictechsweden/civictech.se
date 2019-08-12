@@ -20,6 +20,10 @@ Linux distribution Debian, which is the older sibling of Ubuntu Linux, turns 26 
 
 We meet and celebrate at Goto 10 between 16.00-17.00 and thereafter we continue on to go for pizza and beverages.
 
+### RSVP
+
+Please RSVP at <a href="https://www.goto10.se/evenemang/debian-day-2019-linux-firar-26-ar/">Goto 10</a>.
+
 Read more about Debian Day 2019: <a href="https://wiki.debian.org/DebianDay/2019">https://wiki.debian.org/DebianDay/2019</a>.
 
 ## Program
