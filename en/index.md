@@ -40,6 +40,6 @@ partners:
   logo: "/uploads/LOGO%20SCS_horizontal%20w%20text%20(1500%20px).png"
   link: https://www.sharingcities.se/
 - title: Skjutsgruppen
-  logo: "/uploads/Sjutsgruppen_JPG.png"
+  logo: "/uploads/skjutsgruppen.png"
   link: https://skjutsgruppen.nu/
 ---

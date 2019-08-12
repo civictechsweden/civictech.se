@@ -17,8 +17,8 @@ links:
   url: https://chat.civictech.se/channel/fixamingata
 - title: Fixa Min Gata hemsida
   url: https://fixamingata.se/
-ingress-text: Rapportera, visa, eller diskutera lokala problem
-till exempel klotter, skräp, trasiga gatustenar eller gatubelysning. Felrapporteringar skickas sen till myndigheter för åtgärder.
+ingress-text: "Rapportera, visa, eller diskutera lokala problem
+till exempel klotter, skräp, trasiga gatustenar eller gatubelysning. Felrapporteringar skickas sen till myndigheter för åtgärder."
 excerpt: Rapportera, visa, eller diskutera lokala problem
 image: "/uploads/fixamingata_logo-400x200.png"
 contact:
