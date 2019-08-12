@@ -17,9 +17,11 @@ links:
 ---
 Linux distributionen/versionen Debian, som är storebror till Ubuntu Linux, fyller 26år! Debian Linux Usergroups världen över firar denna dag, så kom och fira Debian Day med oss på Goto 10!
 
-Vi träffas och firar på Goto 10 mellan 16.00-17.00 och går därefter tillsammans vidare för pizza och öl.
+### OSA
 
 Vänligen OSA hos <a href="https://www.goto10.se/evenemang/debian-day-2019-linux-firar-26-ar/">Goto 10</a>.
+
+Vi träffas och firar på Goto 10 mellan 16.00-17.00 och går därefter tillsammans vidare för pizza och öl.
 
 Läs mer om Debian Day 2019: <a href="https://wiki.debian.org/DebianDay/2019">https://wiki.debian.org/DebianDay/2019</a>.
 
