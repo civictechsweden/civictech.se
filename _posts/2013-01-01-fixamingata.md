@@ -29,6 +29,7 @@ contact:
   organisation: Föreningen Sambruk
   organisation-link: https://sambruk.se/portfolio/fixa-min-gata/
 ---
+
 "Gör det enkelt för invånare och besökare i er kommun att rapportera problem i gatumiljön, till exempel ett hål i gatan, trasig belysning eller nedskräpning. Med hjälp av tjänsten FixaMinGata kan vem som helst rapportera ett problem i stadsmiljön utan att behöva ta reda på vem som ansvarar för underhåll och service. Systemet skickar rapporten till rätt mottagare. Det gör det smidigare att rapportera problem.
 Verktyget och gränssnittet är detsamma för samtliga kommuner. Det blir då lätt att använda tjänsten oavsett var man befinner sig och oavsett om man bor, arbetar eller bara är på tillfälligt besök i er kommun.
 Filtrera, databehandla och skapa dialog
