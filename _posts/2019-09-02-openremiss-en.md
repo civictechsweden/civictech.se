@@ -37,7 +37,7 @@ Until recently, the government has been storing these documents on paper in its 
 Part of these documents are now available on its website, [regeringen.se](regeringen.se/remisser), but the lack of a working search engine, of a proper structure and of any kind of API or open data, still makes it hard to use them.
 Our work consisted in writing a Python script that downloads all the documents and sorts them. The output, although imperfect, allows anyone to browse through the document in an easier way, and to see some statistics around the process.
 
-You can read more about the project on its [Github page](github.com/DinRiksdag/OpenRemiss).
+You can read more about the project on its [Github page](https://github.com/DinRiksdag/OpenRemiss).
 
 Right now, a few examples of what could still be done:
 *	improve the sorting and the name cleaning algorithm

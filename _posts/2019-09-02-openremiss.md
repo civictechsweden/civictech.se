@@ -38,7 +38,7 @@ Historiskt har regeringen sparat dessa dokument på papper i sina arkivsalar (tr
 Nyligen började regeringen att publicera en del av dessa dokument på sin webbplats, [regeringen.se](regeringen.se/remisser), men utan en fungerande sökmotor, utan struktur och utan API eller öppna data, vilket gör det fortfarande svårt att använda dem.
 Vårt arbete var att skapa ett Python skript som laddar ner alla dessa dokument och att sortera dem. Resultatet är fortfarande långt ifran perfekt men alla kan bläddra igenom dokumenten på ett enklare sätt och se statistik kring processen.
 
-Man kan läsa mer om projektet på sitt [Githubs sida](github.com/DinRiksdag/OpenRemiss).
+Man kan läsa mer om projektet på sitt [Githubs sida](https://github.com/DinRiksdag/OpenRemiss).
 
 Just nu finns det fortfarande mycket att göra, t.ex.:
 *	förbättra sorteringsalgoritmen och namnrensingsalgoritmen

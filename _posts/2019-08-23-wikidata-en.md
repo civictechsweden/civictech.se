@@ -43,7 +43,7 @@ Data partially imported/cleaned:
 * all the branch organisations and employer's organisation
 * all the private companies and lobby groups which performed lobbying in the Swedish legislation process (see OpenRemiss for a first attempt at listing them)
 
-This project is inspired of others from various countries such as [EveryPolitician](https://everypolitician.org) from mySociety or [Mettons nos élu‧e‧s sur Wikidata !](https://codefor.fr/assemblies/everypolitician) from Code For France.
+This project is inspired of others from various countries such as [EveryPolitician](https://everypolitician.org) from mySociety or [Mettons nos élu‧e‧s sur Wikidata !](https://pad.codefor.fr/s/HkFnkGp5X#) from Code For France.
 
 Wikidata offers great possibilities to explore political data all across the world because of the numbers of volunteers who carefully import and clean it. By doing our part and importing what's missing, we can quickly get insights into things like profesionalisation of politicians, lobbying and much more.
 

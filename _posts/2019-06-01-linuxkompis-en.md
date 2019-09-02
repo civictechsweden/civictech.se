@@ -15,13 +15,13 @@ links:
 - title: Chat about the project
   url: https://chat.civictech.se/channel/linuxkompis
 - title:
-  url: 
+  url:
 ingress-text:
 excerpt:
 image: "/uploads/"
 contact:
 - name: Linuxkompis
-  image: "/uploads/"
+  image: "/uploads/linuxkompis.svg"
   text:
   mail:
   organisation:
