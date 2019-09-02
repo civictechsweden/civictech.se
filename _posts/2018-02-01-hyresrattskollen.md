@@ -20,7 +20,7 @@ links:
   url: http://hyresrattskollen.se/
 contact:
 - name: Fredrik Ekelund
-  image: "/uploads/Fredrik-4c331e"
+  image: "/uploads/Fredrik.jpg"
   text: Jobbar till vardags som webbutvecklare med ganska mycket fokus på design.
     Utanför jobbet är han sedan ett par år tillbaka engagerad i olika aktivistsammanhang,
     i det här fallet har han jobbat med Hyresrättskollen sedan 2015. Olika frågor
