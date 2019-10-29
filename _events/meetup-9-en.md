@@ -31,7 +31,7 @@ This event is open to all but we hope to see as many women as possible! Please s
 
 ## Program
 * 18:00 Mingle
-* 18:30 Presentations (speakers to be announced)
+* 18:30 Presentations (speakers to be announced!)
 * 19:30 Discussion about Civic Tech in Sweden
 * 20:00 Mingle
 * 20:30 Possibility of continuing in a bar
