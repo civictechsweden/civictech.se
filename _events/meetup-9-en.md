@@ -11,10 +11,10 @@ place: Goto 10, Hammarby Kaj 10D, 120 07 Stockholm
 group: stockholm
 links:
 - title: Join the chat
-url: "https://chat.civictech.se/home"
+  url: "https://chat.civictech.se/home"
 - title: Register here!
-url: "https://framaforms.org/civic-tech-sweden-x-openheroines-meetup-1572446254"
- style: button
+  url: "https://framaforms.org/civic-tech-sweden-x-openheroines-meetup-1572446254"
+  style: button
 ---
 
 On the 19th of November, we're organising our first meetup in partnership with OpenHeroines!
@@ -33,7 +33,7 @@ This event is open to all but we want to see as many women as possible! There is
 * 18:00 Mingle
 * 18:30 Presentations (speakers to be announced!)
 * 19:30 Discussion about Civic Tech in Sweden
-* 20:00 Mingle over light snacks! 
+* 20:00 Mingle over light snacks!
 * 20:30 Possibility of continuing in a bar
 
 Hope to see you there!

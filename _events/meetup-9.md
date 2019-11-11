@@ -11,9 +11,9 @@ group: stockholm
 links:
 - title: Gå med i chatten
   url: "https://chat.civictech.se/"
-#- title: Anmäl dig här!
-#  url: "/form/integrity-register"
-#  style: button
+- title: Register here!
+  url: "https://framaforms.org/civic-tech-sweden-x-openheroines-meetup-1572446254"
+  style: button
 ---
 
 Den 19 november organiserar vi vårt första civic tech meetup i samarbete med OpenHeroines!
@@ -26,7 +26,7 @@ Vi kommer även ha en diskussion om vad begreppet civic tech innebär, vilka sp�
 
 Om du har nyligen blivit intresserad av Civic Tech efter du läste om [Vinnovas utlysning](https://www.vinnova.se/e/civic-tech/digitala-tjanster-for-2019-04507/), du är varmt välkommen! Vi kommer även ha en av de utlysningsansvariga med oss så de kan svara på dina frågor!
 
-Detta event är öppen till alla men vi hoppas på att få så många kvinnor som möjligt! Vänligen sprid den om du har vänner som du tror kan vara intresserade!
+Detta event är öppen till alla men vi hoppas på att få så många kvinnor som möjligt! Det finns även en möjlighet att använda eventet för att försöka skapa ett feminist sällskap inom civic tech och open gov i Sverige. Vänligen sprid den om du har vänner som du tror kan vara intresserade!
 
 ## Program
 * 18:00 Mingel
