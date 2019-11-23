@@ -24,7 +24,7 @@ Civic Tech Sverige samlar alla aktörer i Sveriges växande civic tech ekosystem
 **Program**
 * 18:00 Mingel + alla som vill presentera anmäler sig för att få prata
 * 18:15 Annie Lindmark från Vinnova presenterar Civic Tech-utlysningen
-* 18:30 Internationella exempel på Civic Tech projekt som inspiration (Pierre Mesure + med gäst)
+* 18:30 Adriana Groh presenterar den tyska [Prototype Fund](https://prototypefund.de/en/), som finansierar många civic tech projekt sedan 2016.
 * 18:50 Korta presentationer av deltagarna på meetupen (ca 5 min vardera beroende på hur många som kommer)
 Har du redan en idé men söker samarbetspartners?
 Vill du eller ditt företag/din organisation hjälpa någon i ett Civic Tech-projekt?
