@@ -25,7 +25,7 @@ Civic Tech Sweden gathers the actors of the young civic tech ecosystem since its
 **Program**
 * 18:00 Mingle and registration (for those who want to pitch)
 * 18:15 Annie Lindmark from Vinnova presents the Civic Tech funding
-* 18:30 International example of Civic Tech (to be announced shortly!)
+* 18:30 Adriana Groh will present the work of the German [Prototype Fund](https://prototypefund.de/en/) which supports many civic tech projects since 2016.
 * 18:50 Short presentations of the participants (around 5 minutes). Do you already have an idea and are looking for partners, or represent a company looking to team up, or a government agency with citizen needs?
 * 19:30 Mingle (hopefully with the perfect new partners that you just found)
 * 20:30 Possibility of continuing in a bar
