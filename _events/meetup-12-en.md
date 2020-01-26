@@ -1,6 +1,6 @@
 ---
 title: 'Hands-on Cryptoparty in Uppsala!'
-ref: meetup-11
+ref: meetup-12
 image: "/uploads/cryptoparty-logo.png"
 lang: en
 excerpt: 'Hands-on with digital privacy and security!'

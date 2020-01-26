@@ -1,6 +1,6 @@
 ---
 title: 'Praktiskt Cryptoparty i Uppsala!'
-ref: meetup-11
+ref: meetup-12
 image: "/uploads/cryptoparty-logo.png"
 excerpt: 'Hands-on med digital integritet och säkerhet!'
 ingress-text: Hjälp varandra med att installera, konfigurera och lär känna verktyg för ökad digital integritet, anonymitet och säkerhet.
