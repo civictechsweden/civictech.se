@@ -1,15 +1,14 @@
 ---
 title: Om CivicTechSweden
-position: 1
+position: "1"
 description: Hackathons för Sveriges Civic Tech-community.
 ref: about
 contact:
 - name: Vill du veta mer, få hjälp att ordna ett event eller dra igång en grupp?
-  text: Kontakta Viktoria Bull, projektledare
+  text: Kontakta oss
   mail: hello@civictech.se
 
 ---
-
 ## Bakgrund
 CivicTechSweden är ett nätverk av personer, organisationer och offentliga aktörer som verkar för att möjligheterna med öppen och fri digitalisering ska komma så många som möjligt till del. De som är aktiva i nätverket utvecklar digitala tjänster för transparens, öppen data och ökat deltagande i politiska processer och sociala rörelser.
 
