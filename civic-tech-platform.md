@@ -3,7 +3,6 @@ title: Civic Tech Platform
 position: 
 description: Civic Tech Platform stöder civic tech-ekosystemet i Sverige.
 ref: civictechplatform
-published: false
 
 ---
 Digidem Lab har fått förtroendet av Vinnova att samordna och utveckla ett nationellt civic tech-ekosystem i Sverige.
