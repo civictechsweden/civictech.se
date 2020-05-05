@@ -4,13 +4,15 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: number
   name: position
-  label: position
+  label: Menu position
+  description: Menu position
 - type: text
   name: description
-  label: description
+  label: Short description
 - type: text
   name: ref
-  label: ref
+  label: ID
+  description: For translated pages
