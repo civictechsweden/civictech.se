@@ -16,3 +16,5 @@ fields:
   name: ref
   label: ID
   description: For translated pages
+pages:
+- civic-tech-platform.md
