@@ -1,0 +1,16 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: number
+  name: position
+  label: position
+- type: text
+  name: description
+  label: description
+- type: text
+  name: ref
+  label: ref
