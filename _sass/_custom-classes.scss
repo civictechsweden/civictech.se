@@ -437,3 +437,9 @@ a.title {
 .ingress {
   margin: 2.5rem 0 1.5rem;
 }
+
+iframe {
+  height: auto !important;
+  min-height: 600px;
+  max-width: 100%;
+}

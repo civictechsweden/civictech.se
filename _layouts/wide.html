@@ -1,0 +1,94 @@
+---
+layout: global
+---
+
+<article id="page" class="section is-medium">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-three-quarters-tablet is-two-thirds-desktop has-text-centered">
+        <h1 class="title is-1">{{page.title}}</h1>
+        <h2 class="title is-6">
+          <!-- Events -->
+          {% assign events=site.events | where:"lang", page.lang | sort:'event-date' | reverse %}
+          {% for item in events %}
+            {% if page.categories contains item.ref %}
+              {% assign partof=true %}
+              <a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
+            {% endif %}
+          {% endfor %}
+        </h2>
+        <p class="title is-5 ingress">{{page.ingress-text}}</p>
+      </div>
+    </div>
+
+    <div class="columns is-centered">
+      <div class="column">
+        <div class="content">
+          {{content}}
+
+          {% if page.chat %}
+            <h3>{{site.t[page.lang].project-chat}}</h3>
+            <a href="https://chat.civictech.se/">
+              <span class="icon is-medium"><i class="fab fa-rocketchat fa-lg"></i></span>#{{page.chat}}
+            </a>
+          {% endif %}
+        </div>
+
+
+
+        <!-- Contact -->
+        {% if page.contact %}
+          {% for item in page.contact %}
+            <div class="columns is-mobile contact">
+              {% if item.image %}
+                <div class="column is-narrow">
+                  <figure class="image is-96x96">
+                    <img class="is-rounded" src="{{site.baseurl}}{{item.image}}">
+                  </figure>
+                </div>
+              {% endif %}
+              <div class="column">
+                <h3 class="has-text-weight-bold">{{item.name}}</h3>
+                {% if item.organisation %}
+                  <h4 class="has-text-weight-bold"><a href="{{item.organisation-link}}">{{item.organisation}}</a></h4>
+                {% endif %}
+                <p>
+                  {{item.text}}<br>
+                  {% if item.phone %}{{item.phone}}<br>{% endif %}
+                  <a href="mailto:{{item.mail}}">{{item.mail}}</a>
+                </p>
+              </div>
+            </div>
+          {% endfor %}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</article>
+
+<!-- Part of Event -->
+{% if partof %}
+  <section class="section is-medium has-background-light">
+    <div class="container">
+      <h2 class="section-title title has-text-centered">{{site.t[page.lang].project-events}}</h2>
+      {% for item in events %}
+        {% if page.categories contains item.ref %}
+          {% include events.html %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+{% endif %}
+
+<!-- Group events -->
+{% assign groupevents=events | where:"group", page.ref %}
+{% if groupevents[0].title %}
+  <section class="section is-medium has-background-light">
+    <div class="container">
+      <h2 class="section-title title has-text-centered">{{site.t[page.lang].event-title}}</h2>
+      {% for item in groupevents %}
+        {% include events.html %}
+      {% endfor %}
+    </div>
+  </section>
+{% endif %}
