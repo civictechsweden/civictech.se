@@ -58,12 +58,6 @@ Erbjudande riktar sig i första hand till de Vinnova-finansierade projekten inom
 
 Erbjudandet riktar sig till Civic Tech Swedens bredare community, men är också öppet för de Vinnova-finansierade projekten inom utlysningen.
 
-### Mer information
-
-Kontakta gärna projektledare Petter Joelson för mer information, [petter@digidemlab.org](mailto:petter@digidemlab.org).
-
-Mer information om Civic Tech Sweden, och vår chatt för samordning och uppdateringar finns på [civictech.se](https://civictech.se).
-
 ### Projektparter
 
 **Digidem Lab** är ett demokratilabb som arbetar för medborgardeltagande med ny teknik.
