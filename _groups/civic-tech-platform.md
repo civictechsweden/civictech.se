@@ -10,6 +10,9 @@ contact:
   text: Kontakta Pernilla om du har frågor om projektet.
   mail: pernilla@civictech.se
 partners:
+- title: Digidem Lab
+  link: https://digidemlab.org/
+  logo: "/uploads/digidemlab-logo.svg"
 - title: Coompanion Sverige
   link: https://coompanion.se/
   logo: "/uploads/coompanion.jpg"
