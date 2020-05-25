@@ -4,28 +4,20 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: datetime
-  name: date
-  label: date
-- type: list
-  name: categories
-  label: categories
-- type: list
-  name: tags
-  label: tags
+  label: Title
 - type: text
-  name: ref
-  label: ref
+  name: ingress-text
+  label: Ingress
 - type: text
-  name: chat
-  label: chat
-- type: text
-  name: lang
-  label: lang
+  name: excerpt
+  label: Excerpt
+  description: Short description
+- type: file
+  name: image
+  label: Image
 - type: field_group_list
   name: links
-  label: links
+  label: Links
   fields:
   - type: text
     name: title
@@ -33,18 +25,9 @@ fields:
   - type: text
     name: url
     label: url
-- type: text
-  name: ingress-text
-  label: ingress-text
-- type: text
-  name: excerpt
-  label: excerpt
-- type: file
-  name: image
-  label: image
 - type: field_group_list
   name: contact
-  label: contact
+  label: Contact information
   fields:
   - type: text
     name: name
@@ -67,3 +50,38 @@ fields:
   - type: text
     name: organisation-link
     label: organisation-link
+- type: text
+  name: chat
+  label: Chat channel
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+- name: lang
+  type: select
+  default: sv
+  config:
+    required: true
+    options:
+    - sv
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language
+- type: text
+  name: ref
+  label: Translation reference
+- type: datetime
+  name: date
+  label: Date
+  hidden: true
+  config:
+    required: true
+  default: now
