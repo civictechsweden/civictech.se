@@ -1,0 +1,69 @@
+---
+label: Project
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: ref
+  label: ref
+- type: text
+  name: chat
+  label: chat
+- type: text
+  name: lang
+  label: lang
+- type: field_group_list
+  name: links
+  label: links
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: url
+    label: url
+- type: text
+  name: ingress-text
+  label: ingress-text
+- type: text
+  name: excerpt
+  label: excerpt
+- type: file
+  name: image
+  label: image
+- type: field_group_list
+  name: contact
+  label: contact
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: text
+    label: text
+  - type: text
+    name: mail
+    label: mail
+  - type: text
+    name: url
+    label: url
+  - type: text
+    name: organisation
+    label: organisation
+  - type: text
+    name: organisation-link
+    label: organisation-link
