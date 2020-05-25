@@ -4,34 +4,47 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: ref
-  label: ref
+  label: Title
+  config:
+    required: true
 - type: text
   name: image
-  label: image
+  label: Image
+  description: Top image
 - type: text
   name: excerpt
-  label: excerpt
+  label: Excerpt
+  description: Short summary
 - type: textarea
   name: ingress-text
-  label: ingress-text
+  label: Ingress
 - type: datetime
   name: event-date
-  label: event-date
+  label: Event date
+  description: Event date in date format.
 - type: text
   name: event-date-desc
-  label: event-date-desc
+  label: Event date, descriptive
+  description: Event date for display.
 - type: text
   name: place
-  label: place
-- type: text
-  name: group
-  label: group
+  label: Place
+- name: group
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: groups
+      file: 
+      path: 
+  label: Group
+  description: Organising group
 - type: field_group_list
   name: links
-  label: links
+  label: Links
   fields:
   - type: text
     name: title
@@ -39,3 +52,22 @@ fields:
   - type: text
     name: url
     label: url
+- type: text
+  name: ref
+  label: Translation reference
+  description: Reference for translation, needs to be the same ID for the translations
+    of the same text.
+- name: lang
+  type: select
+  default: sv
+  config:
+    required: true
+    options:
+    - sv
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language
