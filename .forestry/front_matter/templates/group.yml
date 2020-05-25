@@ -1,0 +1,51 @@
+---
+label: Group
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: lang
+  label: lang
+- type: text
+  name: ref
+  label: ref
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: ingress-text
+  label: ingress-text
+- type: field_group_list
+  name: contact
+  label: contact
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: text
+    label: text
+  - type: text
+    name: mail
+    label: mail
+- type: field_group_list
+  name: partners
+  label: partners
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: logo
+    label: logo
