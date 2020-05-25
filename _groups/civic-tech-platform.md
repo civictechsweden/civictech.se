@@ -28,7 +28,6 @@ partners:
 - title: Bron Innovation
   link: https://www.broninnovation.se/
   logo: "/uploads/bron_svart-png.png"
-published: false
 
 ---
 Digidem Lab har fått förtroendet av Vinnova att samordna och utveckla ett nationellt civic tech-ekosystem i Sverige.
