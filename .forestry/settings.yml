@@ -20,6 +20,10 @@ sections:
   label: Groups
   create: all
   match: "**/*"
+- type: document
+  path: _data/menu.yml
+  label: Menu
+  match: "**/*"
 upload_dir: _uploads
 public_path: "/uploads"
 front_matter_path: ''
