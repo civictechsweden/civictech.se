@@ -1,11 +1,11 @@
 ---
-title: CivicTech Uppsala
+title: Civic Tech Uppsala
 ref: uppsala
-excerpt: CivicTech Uppsala
-ingress-text: Meetups för Uppsalas CivicTech community!
+excerpt: Civic Tech Uppsala
+ingress-text: Meetups för Uppsalas Civic Tech community!
 contact:
 - name: Vill du veta mer eller ordna ett event?
-  text: Victoria Bull, CivicTech Uppsala
+  text: Victoria Bull, Civic Tech Uppsala
   mail: hello@civictech.se
 partners:
 - title: Digidem Lab

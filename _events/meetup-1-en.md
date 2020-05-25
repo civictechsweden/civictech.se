@@ -3,7 +3,7 @@ title: 'Open Data Day for the environment!'
 ref: meetup-1
 image:
 lang: en
-excerpt: 'CivicTech-event in Uppsala on Open Data Day'
+excerpt: 'Civic Tech-event in Uppsala on Open Data Day'
 ingress-text: A meetup in Uppsala to explore how open data can be used and created to help us reach sustainability in practice.
 group: stockholm
 event-date: 2019-02-03 13:00:00 +02:00

@@ -40,7 +40,7 @@ The projects together aim to the citizens rights to information, influence and r
 ### Other activities during the day
 Apart from the main projects, we have two more things that you can participate in during the day. Neither of them require any specific prior knowledge to participate in!
 
-One of them is contributing to Civic Tech Sweden, which needs input from you with experiences living as a woman or non-binary person. During the hack we will gather thoughts and ideas on how we can create an inclusive community. We will also talk about how we want to proceed with CivicTech in Stockholm, for example which types of events we are interested in and what themes or questions to focus on.
+One of them is contributing to Civic Tech Sweden, which needs input from you with experiences living as a woman or non-binary person. During the hack we will gather thoughts and ideas on how we can create an inclusive community. We will also talk about how we want to proceed with Civic Tech in Stockholm, for example which types of events we are interested in and what themes or questions to focus on.
 
 The other one is contributing to a citizen science-project called Luftdata (Air data). There will be the opportunity to build Luftdata-stations at the event, used in a citizen science-network to measure the air quality in Sweden. We will provide instructions on how to do it and an instructor to ask for help if needed.
 

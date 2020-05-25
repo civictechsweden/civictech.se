@@ -1,14 +1,14 @@
 ---
-title: CivicTech Göteborg
+title: Civic Tech Göteborg
 permalink: "/en/goteborg/"
 lang: en
 ref: goteborg
-excerpt: CivicTech Göteborg
-ingress-text: Hackathons for Gothenburg's CivicTech Community!
+excerpt: Civic Tech Göteborg
+ingress-text: Hackathons for Gothenburg's Civic Tech Community!
 contact:
 - name: Want to know more or organise an event? Get in touch!
   image: /uploads/sanna.jpg
-  text: Sanna Ghotbi, CivicTech Göteborg
+  text: Sanna Ghotbi, Civic Tech Göteborg
   mail: sanna@digidemlab.org
 partners:
 - title: Digidem Lab

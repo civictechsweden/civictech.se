@@ -2,7 +2,7 @@
 title: 'Open Data Day för klimatomställning!'
 ref: meetup-1
 image:
-excerpt: 'CivicTech-eventet i Uppsala på Open Data Day'
+excerpt: 'Civic Tech-eventet i Uppsala på Open Data Day'
 ingress-text: En meetup i Uppsala för dig som vill undersöka hur öppna data kan användas och skapas för att hjälpa oss praktiskt ställa om till en hållbar framtid.
 group: stockholm
 event-date: 2019-02-03 13:00:00 +02:00

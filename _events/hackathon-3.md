@@ -42,7 +42,7 @@ Gemensamt syftar projekten till folkets rätt till information, inflytande och r
 ### Andra aktiviteter under dagen
 Utöver huvudprojekten har vi två till moment under dagen som man kan delta i. Ingen av dessa kräver några specifika förkunskaper!
 
-Det ena handlar om att bidra till Civic Tech Sweden, som behöver input från dig med erfarenhet av att leva som kvinna eller icke-binär. Under hacket samlar vi in tankar och idéer kring hur vi kan skapa en inkluderande community. Vi kommer också prata om hur vi vill fortsätta med CivicTech i Stockholm, till exempel vilka typer av event vi är intresserade av och vilka teman eller frågor vi vill jobba kring.
+Det ena handlar om att bidra till Civic Tech Sweden, som behöver input från dig med erfarenhet av att leva som kvinna eller icke-binär. Under hacket samlar vi in tankar och idéer kring hur vi kan skapa en inkluderande community. Vi kommer också prata om hur vi vill fortsätta med Civic Tech i Stockholm, till exempel vilka typer av event vi är intresserade av och vilka teman eller frågor vi vill jobba kring.
 
 Det andra handlar om att bidra till ett citizen science-projekt som heter Luftdata. På hacket kommer det finnas möjligheten att sätta ihop en luftdata-mätstation, som används i ett citizen science-nätverk av mätstationer för att kartlägga luftkvaliteten runtom i världen. Instruktioner och en handledare som kan hjälpa till finns på plats.
 
