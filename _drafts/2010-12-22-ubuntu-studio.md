@@ -1,6 +1,6 @@
 ---
 title: Ubuntu Studio
-date: 2010-12-22 01:00:00 +02:00
+date: 2010-12-21T23:00:00.000+00:00
 categories:
 - linux
 - global
@@ -9,14 +9,15 @@ tags:
 - Music
 - Creativity
 - Operating System
-chat: 'ubuntustudio'
+chat: ubuntustudio
 ref: ubuntustudio
 links:
 - title: Chatta om projektet
   url: https://chat.civictech.se/channel/ubuntustudio
 - title: Ubuntu Studio Hemsida
   url: https://ubuntustudio.org/
-ingress-text: Ubuntu Studio är ett operativsystem med öppen och fri källkod med fokus på skapande med multimedia.
+ingress-text: Ubuntu Studio är ett operativsystem med öppen och fri källkod med fokus
+  på skapande med multimedia.
 excerpt: Ubuntu Studio är ett fritt operativsystem för multimedia.
 image: "/uploads/ubuntustudio-logo-square.png"
 contact:
@@ -26,6 +27,7 @@ contact:
   mail: https://ubuntustudio.org/support/
   organisation: Ubuntu Studio
   organisation-link: https://ubuntustudio.org/
+
 ---
 https://ubuntustudio.org/
 Ubuntu Studio är ett operativsystem med öppen och fri källkod med fokus på skapande med multimedia. Ubuntu Studio är den mest använda multimediaorienterade GNU/Linux-distributionen i världen. Det levereras förinstallerat med ett urval av de vanligaste tillgängliga gratis multimediaapplikationerna och är konfigurerad för bästa prestanda för Ubuntu Studio-definierade arbetsflöden: Ljud, grafik, video, fotografering och publicering. Ubuntu Studio är en officiell smak av Ubuntu.
