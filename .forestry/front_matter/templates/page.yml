@@ -1,0 +1,29 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: position
+  label: position
+- type: text
+  name: description
+  label: description
+- type: text
+  name: ref
+  label: ref
+- type: field_group_list
+  name: contact
+  label: contact
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: text
+    label: text
+  - type: text
+    name: mail
+    label: mail
