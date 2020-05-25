@@ -5,13 +5,51 @@ layout: global
 ref: events
 ---
 
+
 {% assign events=site.events | where:"lang", page.lang | sort:'event-date' | reverse %}
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 
 <section class="section is-medium">
   <div class="container">
     <h1 class="title is-1 section-title has-text-centered">{{page.title}}</h1>
+
     {% for item in events %}
-      {% include events.html %}
+      {% capture posttime %}{{item.event-date | date: '%s'}}{% endcapture %}
+      {% if posttime > nowunix %}
+
+        {% include events.html %}
+      {% endif %}
     {% endfor %}
+
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+
+    <h2 class="title is-2 has-text-centered">{{site.t[page.lang].event-external}}</h2>
+
+    <div class="columns is-centered">
+      <div class="column is-four-fifths">
+        <div class="embed-responsive embed-responsive-1by1">
+          <iframe width="1200" height="800" src="https://office.civictech.se/apps/calendar/embed/35Bk5PwDcgoprmW4"></iframe>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+<section class="section is-medium">
+  <div class="container">
+
+    <h2 class="title is-2 has-text-centered">{{site.t[page.lang].event-previous}}</h2>
+
+    {% for item in events %}
+      {% capture posttime %}{{item.event-date | date: '%s'}}{% endcapture %}
+      {% if posttime < nowunix %}
+
+        {% include events.html %}
+      {% endif %}
+    {% endfor %}
+
   </div>
 </section>

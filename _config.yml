@@ -95,6 +95,8 @@ plugins:
 t:
   sv:
     event-title: Event
+    event-external: Övriga event
+    event-previous: Tidigare event
     more-events: Fler event
     blog-title: Blogg
     more-blog: Till bloggen
@@ -112,6 +114,8 @@ t:
     language: Svenska
   en:
     event-title: Events
+    event-external: External events
+    event-previous: Previous events
     more-events: More events
     blog-title: Blog
     more-blog: More blog posts
