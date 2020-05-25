@@ -1,12 +1,12 @@
 ---
-title: About CivicTechSweden
+title: About Civic Tech Sweden
 position: 1
 description: Hackathons for Sweden's Civic Tech community
 ref: about
 ---
 
 ## Background
-CivicTechSweden is a network of individuals, organisations and the public sector working to make the possibilities that comes with digital technology benefit as many as possible. The participants of the network develop digital tools for transparency, open data and promoting participation in political processes and social movements.
+Civic Tech Sweden is a network of individuals, organisations and the public sector working to make the possibilities that comes with digital technology benefit as many as possible. The participants of the network develop digital tools for transparency, open data and promoting participation in political processes and social movements.
 
 ## Areas of interest 
 We work with three themes:

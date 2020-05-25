@@ -1,5 +1,5 @@
 ---
-title: CivicTechSweden
+title: Civic Tech Sweden
 ref: start
 description: Hackathons och Meetups för Sveriges Civic Tech-community
 layout: start

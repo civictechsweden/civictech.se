@@ -1,4 +1,4 @@
-{% if page.ref %}
+{% if page.ref and page.ref != '' %}
   {% assign events=site.events | where:"ref", page.ref | sort: 'lang' %}
   {% for item in events %}
     {% if item.lang != page.lang %}

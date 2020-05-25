@@ -443,3 +443,41 @@ iframe {
   min-height: 600px;
   max-width: 100%;
 }
+
+
+// Blog section
+
+.medium-widget-article__row {
+  display: block !important;
+
+  @include from($tablet) {
+    display: flex !important;
+    margin-bottom: 4rem;
+  }
+}
+
+.medium-widget-article__column {
+  @extend .card;
+}
+
+.medium-widget-article__image {
+  @extend .card-image;
+}
+
+.medium-widget-article__content {
+  @extend .card-content;
+  padding-bottom: 2rem;
+}
+
+.medium-widget-article__title {
+  @extend .title;
+  font-weight: normal !important;
+  font-size: 1.875rem !important;
+  text-align: center;
+}
+
+.medium-widget-article__description {
+  color: inherit !important;
+  line-height: inherit !important;
+  padding-bottom: 1rem;
+}

@@ -3,7 +3,7 @@ title: 'Ta tillbaka rummet!'
 ref: hackathon-3
 image: "/uploads/hackathon3proj.jpg"
 excerpt: 'Hackathon #3 för Civic Tech-communitiet i Stockholm'
-ingress-text: CivicTechSweden's tredje hackathon "Ta tillbaka rummet!" är nu öppet för deltagare att anmäla sig till! Hacket är separatistiskt för kvinnor och icke-binära och äger rum den 26e Januari i Stockholm. Vi bjuder på mat och fika, intressanta projekt och skönt häng!
+ingress-text: Civic Tech Sweden's tredje hackathon "Ta tillbaka rummet!" är nu öppet för deltagare att anmäla sig till! Hacket är separatistiskt för kvinnor och icke-binära och äger rum den 26e Januari i Stockholm. Vi bjuder på mat och fika, intressanta projekt och skönt häng!
 group: stockholm
 event-date: 2019-01-26 00:00:00 +02:00
 event-date-desc: 26 januari 2019, kl 10 - 18
@@ -19,7 +19,7 @@ place: Goto10, Stockholm
 #  url: "https://chat.civictech.se/"
 ---
 
-## CivicTechSweden's hackathon
+## Civic Tech Sweden's hackathon
 Civic tech handlar om att skapa tekniska lösningar för samhällsnytta. Runtom i hela världen finns civic tech-communities som tar sig an utmaningar i samhället och bidrar med sin tid och kunskap för att lösa dem. Vi vill att det ska finnas en stark sådan rörelse även i Sverige! Vi vill samla programmerare, designers, aktivister, samhällsintresserade och andra som tycker att civic tech låter som en spännande eller viktigt grej till det här och kommande hackathon.
 
 Civic Tech Sweden gör inte vilka hackathon som helst. Vårt syfte är inte marknadsföring eller att bedöma deltagarnas prestationer genom tävlingar eller liknande. Därför är hacket ett kravlöst häng där vi lär känna varandra och skapar saker tillsammans.
@@ -42,7 +42,7 @@ Gemensamt syftar projekten till folkets rätt till information, inflytande och r
 ### Andra aktiviteter under dagen
 Utöver huvudprojekten har vi två till moment under dagen som man kan delta i. Ingen av dessa kräver några specifika förkunskaper!
 
-Det ena handlar om att bidra till CivicTechSweden, som behöver input från dig med erfarenhet av att leva som kvinna eller icke-binär. Under hacket samlar vi in tankar och idéer kring hur vi kan skapa en inkluderande community. Vi kommer också prata om hur vi vill fortsätta med CivicTech i Stockholm, till exempel vilka typer av event vi är intresserade av och vilka teman eller frågor vi vill jobba kring.
+Det ena handlar om att bidra till Civic Tech Sweden, som behöver input från dig med erfarenhet av att leva som kvinna eller icke-binär. Under hacket samlar vi in tankar och idéer kring hur vi kan skapa en inkluderande community. Vi kommer också prata om hur vi vill fortsätta med CivicTech i Stockholm, till exempel vilka typer av event vi är intresserade av och vilka teman eller frågor vi vill jobba kring.
 
 Det andra handlar om att bidra till ett citizen science-projekt som heter Luftdata. På hacket kommer det finnas möjligheten att sätta ihop en luftdata-mätstation, som används i ett citizen science-nätverk av mätstationer för att kartlägga luftkvaliteten runtom i världen. Instruktioner och en handledare som kan hjälpa till finns på plats.
 

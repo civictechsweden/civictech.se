@@ -1,8 +1,8 @@
 ---
 title: Ansök med projekt
-excerpt: Ansök med projekt till CivicTechSweden
+excerpt: Ansök med projekt till Civic Tech Sweden
 ref: project-presentation
-ingress-text: Ansök för att få ditt projekt antaget till CivicTechSwedens hackathon.
+ingress-text: Ansök för att få ditt projekt antaget till Civic Tech Swedens hackathon.
 links:
 - title: Riktlinjer för projekt
   url: "/about/#riktlinjer"

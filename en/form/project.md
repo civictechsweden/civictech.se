@@ -1,8 +1,8 @@
 ---
 title: Apply with project
-excerpt: Apply with your project for CivicTechSweden
+excerpt: Apply with your project for Civic Tech Sweden
 ref: project-presentation
-ingress-text: Apply or your project to be part of CivicTechSweden's hackathons.
+ingress-text: Apply or your project to be part of Civic Tech Sweden's hackathons.
 links:
 - title: Guidelines for projects
   url: "/en/about/#guidelines"

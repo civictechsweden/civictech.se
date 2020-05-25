@@ -1,5 +1,5 @@
 ---
-title: CivicTechSweden
+title: Civic Tech Sweden
 timezone: Europe/Stockholm
 baseurl: ''
 collections:
@@ -96,6 +96,8 @@ t:
   sv:
     event-title: Event
     more-events: Fler event
+    blog-title: Blogg
+    more-blog: Till bloggen
     project-title: Projekt
     project-chat: Chatta om projektet
     more-projects: Fler projekt
@@ -111,6 +113,8 @@ t:
   en:
     event-title: Events
     more-events: More events
+    blog-title: Blog
+    more-blog: More blog posts
     project-title: Projects
     project-chat: Chat about the project
     more-projects: More projects
@@ -121,5 +125,5 @@ t:
     local-partners: Local partners
     start-group: Start a group!
     start-group-url: "/en/about/#start-a-group"
-    mission: CivicTechSweden is a network of individuals, organisations and the public sector working to make the possibilities that comes with digital technology benefit as many as possible.
+    mission: Civic Tech Sweden is a network of individuals, organisations and the public sector working to make the possibilities that comes with digital technology benefit as many as possible.
     language: English
