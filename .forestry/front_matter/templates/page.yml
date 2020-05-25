@@ -4,19 +4,22 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: position
-  label: position
+  label: Title
 - type: text
   name: description
-  label: description
+  label: Description
+  description: Short description
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
 - type: text
   name: ref
-  label: ref
+  label: Translation reference
 - type: field_group_list
   name: contact
-  label: contact
+  label: Contact information
   fields:
   - type: text
     name: name
