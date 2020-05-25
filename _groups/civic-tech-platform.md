@@ -10,6 +10,9 @@ contact:
   text: Kontakta Pernilla om du har frågor om projektet.
   mail: pernilla@civictech.se
 partners:
+- title: Digidem Lab
+  link: https://digidemlab.org/
+  logo: "/uploads/digidemlab-logo.svg"
 - title: Coompanion Sverige
   link: https://coompanion.se/
   logo: "/uploads/coompanion.jpg"
@@ -54,12 +57,6 @@ Erbjudande riktar sig i första hand till de Vinnova-finansierade projekten inom
 * Temaföreläsningar med nationella och internationella experter inom bland annat öppen data, digitalt deltagande och medborgardriven innovation.
 
 Erbjudandet riktar sig till Civic Tech Swedens bredare community, men är också öppet för de Vinnova-finansierade projekten inom utlysningen.
-
-### Mer information
-
-Kontakta gärna projektledare Petter Joelson för mer information, [petter@digidemlab.org](mailto:petter@digidemlab.org).
-
-Mer information om Civic Tech Sweden, och vår chatt för samordning och uppdateringar finns på [civictech.se](https://civictech.se).
 
 ### Projektparter
 
