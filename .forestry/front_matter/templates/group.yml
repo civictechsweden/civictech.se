@@ -63,3 +63,5 @@ fields:
   - type: file
     name: logo
     label: logo
+pages:
+- _groups/civic-tech-platform.md
