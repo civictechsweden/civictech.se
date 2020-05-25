@@ -4,25 +4,39 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: permalink
-  label: permalink
-- type: text
-  name: lang
-  label: lang
+  label: Title
+- name: lang
+  type: select
+  default: sv
+  config:
+    required: true
+    options:
+    - sv
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language
 - type: text
   name: ref
-  label: ref
+  label: Translation reference
+- type: text
+  name: permalink
+  label: Link to group
+  description: Use for example "/goteborg/" for Swedish version and "/en/goteborg/"
+    for English version
 - type: text
   name: excerpt
-  label: excerpt
+  label: Excerpt
+  description: Short description
 - type: text
   name: ingress-text
-  label: ingress-text
+  label: Ingress
 - type: field_group_list
   name: contact
-  label: contact
+  label: Contact information
   fields:
   - type: text
     name: name
@@ -38,7 +52,7 @@ fields:
     label: mail
 - type: field_group_list
   name: partners
-  label: partners
+  label: Partners
   fields:
   - type: text
     name: title
