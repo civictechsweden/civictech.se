@@ -8,8 +8,10 @@ sections:
   label: Pages
   create: all
 - type: jekyll-posts
-  label: Posts
+  label: Projects
   create: all
+  templates:
+  - project
 - type: directory
   path: _events
   label: Events
