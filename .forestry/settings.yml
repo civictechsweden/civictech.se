@@ -15,11 +15,15 @@ sections:
   label: Events
   create: all
   match: "**/*"
+  templates:
+  - event
 - type: directory
   path: _groups
   label: Groups
   create: all
   match: "**/*"
+  templates:
+  - group
 - type: document
   path: _data/menu.yml
   label: Menu
