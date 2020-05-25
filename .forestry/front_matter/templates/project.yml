@@ -61,6 +61,8 @@ fields:
   type: tag_list
   default: []
   label: Categories
+  description: Add references to groups and events here (use the value of the translation
+    reference field)
 - name: lang
   type: select
   default: sv
