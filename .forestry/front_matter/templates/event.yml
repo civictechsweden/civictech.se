@@ -1,0 +1,41 @@
+---
+label: Event
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: ref
+  label: ref
+- type: text
+  name: image
+  label: image
+- type: text
+  name: excerpt
+  label: excerpt
+- type: textarea
+  name: ingress-text
+  label: ingress-text
+- type: datetime
+  name: event-date
+  label: event-date
+- type: text
+  name: event-date-desc
+  label: event-date-desc
+- type: text
+  name: place
+  label: place
+- type: text
+  name: group
+  label: group
+- type: field_group_list
+  name: links
+  label: links
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: url
+    label: url
