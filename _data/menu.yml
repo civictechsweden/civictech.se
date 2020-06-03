@@ -6,10 +6,10 @@ sv:
   url: "/projects"
 - title: Event
   url: "/events"
-- title: Grupper
-  type: groups
 - title: Blogg
   url: https://medium.com/civictechsweden
+- title: Grupper
+  type: groups
 - title: Gå med i chatten
   url: https://chat.civictech.se
   type: chat
@@ -20,6 +20,8 @@ en:
   url: "/en/projects"
 - title: Events
   url: "/en/events"
+- title: Blog
+  url: https://medium.com/civictechsweden
 - title: Groups
   type: groups
 - title: Join the chat room
