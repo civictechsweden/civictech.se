@@ -1,22 +1,25 @@
+---
 sv:
 - title: Om oss
-  url: /about
+  url: "/about"
 - title: Projekt
-  url: /projects
+  url: "/projects"
 - title: Event
-  url: /events
+  url: "/events"
 - title: Grupper
   type: groups
+- title: Blogg
+  url: https://medium.com/civictechsweden
 - title: Gå med i chatten
   url: https://chat.civictech.se
   type: chat
 en:
 - title: About
-  url: /en/about
+  url: "/en/about"
 - title: Projects
-  url: /en/projects
+  url: "/en/projects"
 - title: Events
-  url: /en/events
+  url: "/en/events"
 - title: Groups
   type: groups
 - title: Join the chat room
