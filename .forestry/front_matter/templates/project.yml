@@ -87,3 +87,5 @@ fields:
   config:
     required: true
   default: now
+pages:
+- _posts/digifysiska-vardkontakter.md
