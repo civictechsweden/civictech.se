@@ -1,5 +1,5 @@
 ---
-title: Öppen Upphandling
+title: Open Up! Open Procurement
 date: 2019-09-02T01:00:00.000+02:00
 categories:
 - open data
@@ -31,11 +31,12 @@ contact:
 group: 
 
 ---
-In Sweden, public procurement was estimated to be worth a staggering 683 billion crowns in 2017([statistics from Konkurrensverket](http://www.konkurrensverket.se/globalassets/publikationer/rapporter/rapport_2018-9_statistikrapport_2018_webb.pdf)). Over 18000 tenders are launched each year by public institutions.
+In Sweden, public procurement was estimated to be worth a staggering 683 billion crowns in 2017 ([statistics from Konkurrensverket](http://www.konkurrensverket.se/globalassets/publikationer/rapporter/rapport_2018-9_statistikrapport_2018_webb.pdf)). Over 18 000 tenders are launched each year by public institutions.
 
 Currently, almost all of the related data is closed and unexploited.
 
-Öppen Upphandling is a project aiming at opening public procurement data in Sweden. We do this by:
+Open Procurement is a project aiming at opening public procurement data in Sweden. We do this by:
+
 * raising awareness!
 * assessing what the possibilities are for opening this data and what some of the blocking points could be;
 * writing guides and setting standards to help the public actors to release the data in a painless and effective way;
