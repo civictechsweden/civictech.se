@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Civic Tech Platform
+title: Vinnovaprojekt
 ref: civictechplatform
 excerpt: Civic Tech Platform stöder civic tech-ekosystemet i Sverige.
 ingress-text: ''
@@ -35,7 +35,7 @@ partners:
 ---
 Digidem Lab har fått förtroendet av Vinnova att samordna och utveckla ett nationellt civic tech-ekosystem i Sverige.
 
-Tillsammans med RISE och Coompanion och i partnerskap med Mötesplats Social Innovation, Bron Innovation, Code for All och Centrum för Tjänsteforskning kommer vi att ge stöd till civic tech-projekt och utveckla samarbetet inom nätverket [Civic Tech Sweden](https://civictech.se).
+Tillsammans med RISE och Coompanion och i partnerskap med Mötesplats Social Innovation, Bron Innovation, Code for All och Centrum för Tjänsteforskning kommer vi att inom projektet _Civic Tech Platform_ ge stöd till civic tech-projekt och utveckla samarbetet inom nätverket [Civic Tech Sweden](https://civictech.se).
 
 Målet är att skapa ett inkluderande, medborgardrivet och tvärvetenskapligt civic tech-nätverk, med en bred geografisk förankring, som tillsammans löser samhällsutmaningar.
 
