@@ -1,6 +1,6 @@
 ---
 title: Öppen Upphandling
-date: 2019-09-02 01:00:00 +02:00
+date: 2019-09-02T01:00:00.000+02:00
 categories:
 - open data
 - democracy
@@ -10,23 +10,27 @@ tags:
 - opendata
 - datascience
 ref: oppenupphandling
-chat: 'oppenupphandling'
+chat: oppenupphandling
 lang: en
 links:
+- title: Open Up! Open Procurement
+  url: https://openup.open-knowledge.se/
 - title: Chat about the project
   url: https://chat.civictech.se/channel/oppenupphandling
-ingress-text: This project aims at obtaining data related to public procurement and find interesting reuse for it.
+ingress-text: This project aims at obtaining data related to public procurement and
+  find interesting reuse for it.
 excerpt: Shed light on your government spendings!
 image: "/uploads/oppenupphandling.jpg"
 contact:
 - name: Pierre
   image: "/uploads/pierre.jpg"
-  text:
+  text: 
   mail: pierre@digidemlab.org
-  organisation:
-  organisation-link:
----
+  organisation: 
+  organisation-link: 
+group: 
 
+---
 In Sweden, public procurement was estimated to be worth a staggering 683 billion crowns in 2017([statistics from Konkurrensverket](http://www.konkurrensverket.se/globalassets/publikationer/rapporter/rapport_2018-9_statistikrapport_2018_webb.pdf)). Over 18000 tenders are launched each year by public institutions.
 
 Currently, almost all of the related data is closed and unexploited.
