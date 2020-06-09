@@ -2,9 +2,10 @@
 tags:
 - vård
 - Vinnovaprojekt
-categories: []
+categories:
+- civictechplatform
 lang: sv
-date: 2020-06-08 10:25:33 +0200
+date: 2020-06-08T10:25:33.000+02:00
 title: Digifysiska vårdkontakter
 ingress-text: Projektet Digifysiska vårdkontakter ska skapa trygghet för medborgare
   som bor i särskilda boenden och deras anhöriga i Region Västerbottens närsjukvårdsområde
