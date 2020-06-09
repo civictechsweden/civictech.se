@@ -15,6 +15,18 @@ fields:
 - type: file
   name: image
   label: Image
+- name: group
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: groups
+      file: 
+      path: 
+  label: Group
 - type: field_group_list
   name: links
   label: Links
@@ -87,17 +99,5 @@ fields:
   config:
     required: true
   default: now
-- name: group
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: groups
-      file: 
-      path: 
-  label: Group
 pages:
 - _posts/2020-06-08-digifysiska-vardkontakter.md
