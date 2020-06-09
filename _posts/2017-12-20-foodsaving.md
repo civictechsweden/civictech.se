@@ -33,6 +33,8 @@ contact:
   mail:
   organisation: Foodsaving World
   organisation-link: https://foodsaving.world/en/team
+group: _groups/goteborg.md
+
 ---
 
 ## Sammanfattning

@@ -31,7 +31,7 @@ ref: ''
 group: _groups/civic-tech-platform.md
 
 ---
-Sveriges hälso- och sjukvård står inför stora utmaningar. En demografi med åldrande befolkning, svårigheter med kompetensförsörjning och omställning till digitala system ger möjligheter men ställer också stora krav på hantering, rutiner och samverkan. 
+Sveriges hälso- och sjukvård står inför stora utmaningar. En demografi med åldrande befolkning, svårigheter med kompetensförsörjning och omställning till digitala system ger möjligheter men ställer också stora krav på hantering, rutiner och samverkan.
 
 Personer som bor på särskilda boenden är oftast äldre och multisjuka med stora fysiska eller kognitiva svårigheter att klara ett eget boende och behov av kontinuerlig hjälp och stöd. För dessa personer är läkarkontinuitet en viktig del av behandlingen, något som tyvärr saknas i många av glesbygdskommuner.
 

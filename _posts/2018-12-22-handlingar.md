@@ -25,6 +25,8 @@ contact:
   mail: elenor@undervaka.se
   organisation: Civic Tech Sweden
   organisation-link: https://civictech.se
+group: _groups/stockholm.md 
+
 ---
 Projektet består av en plattform där medborgare kan begära ut allmänna handlingar från offentlig sektor. På plattformen blir handlingarna också tillgängliga att söka efter senare och sparar på så sätt tid och pengar för myndigheter, medborgare, forskare, företag och civilsamhälle. Plattformen hjälper till att öppna upp Sveriges offentliga sektor!
 

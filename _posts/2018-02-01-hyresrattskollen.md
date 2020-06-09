@@ -28,6 +28,8 @@ contact:
   mail: " info@hyresrattskollen.se"
   organisation: Allt åt alla Göteborg
   organisation-link: https://alltatalla.se/goteborg
+group: _groups/goteborg.md 
+
 ---
 
 Hyresrättskollen är en hemsida som Allt åt alla Göteborg byggt för att besökare ska kunna jämföra hyresnivåer på olika platser samt för att synliggöra hyreskonflikter.

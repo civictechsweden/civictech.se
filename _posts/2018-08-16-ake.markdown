@@ -23,6 +23,8 @@ contact:
   mail: hej@skjutsgruppen.nu
   organisation: Skjutsgruppen
   organisation-link: https://skjutsgruppen.nu/
+group: _groups/goteborg.md 
+
 ---
 
 Nu föds Åke - en Open Source samåknings- och kollektivtrafik-bot!

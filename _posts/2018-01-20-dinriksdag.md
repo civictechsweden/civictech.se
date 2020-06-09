@@ -26,6 +26,8 @@ contact:
   image: "/uploads/pierre.jpg"
   text:
   mail: " info@dinriksdag.se"
+group: _groups/stockholm.md 
+
 ---
 
 Din Riksdag är ett försök att svara på följande frågan: hur skapar man lagar i 2000-talet?

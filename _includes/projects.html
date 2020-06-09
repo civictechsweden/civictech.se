@@ -10,7 +10,7 @@
       {{post.excerpt}}
     </div>
     <div class="card-footer">
-      {% if post.chat %}
+      {% if post.chat and post.chat != '' %}
         <a class="card-footer-item left has-text-weight-bold" href="https://chat.civictech.se/">
           <span class="icon is-medium"><i class="fab fa-rocketchat fa-lg"></i></span>#{{post.chat}}
         </a>

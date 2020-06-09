@@ -31,6 +31,8 @@ contact:
   mail: jmp@kollekogbg.se
   organisation: Kollaborativ Ekonomi Göteborg
   organisation-link: http://www.kollekogbg.se/
+group: _groups/goteborg-en.md 
+
 ---
 
 The Smart Map is a platform that promotes access rather than ownership and makes it easier for people in Gothenburg to live sustainably. The website collects sharing initiatives such as Gothenburgs bike kitchen, exchange groups, clothing exchange days, leisure equipment banks and give-away shops. It creates new meetings between people and lessens the impact on the climate at the same time.

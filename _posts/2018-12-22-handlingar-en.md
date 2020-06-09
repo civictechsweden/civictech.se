@@ -27,6 +27,8 @@ contact:
   mail: elenor@undervaka.se
   organisation: Civic Tech Sweden
   organisation-link: https://civictech.se/en
+group: _groups/stockholm-en.md 
+
 ---
 A platform where one can request public information from authorities, where the information is also stored and open for anyone to take part of in the future. The platform is meant to open up the public sector of Sweden!
 

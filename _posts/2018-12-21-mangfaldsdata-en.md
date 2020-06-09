@@ -25,6 +25,8 @@ contact:
   mail: hello@civictech.se
   organisation: Civic Tech Sweden
   organisation-link: https://civictech.se
+group: _groups/stockholm-en.md 
+
 ---
 People have always migrated around the world and the population of Sweden consists of people with diverse backgrounds - but do everyone find themselves welcomed in the organisations of Sweden? We often hear stories about segregation, sexism, inequality and discrimination, so how is the inclusion of people really going? Companies and other organisations already gather demographic data about their board members and sometimes employees. We want to push them to publish this data in a way that makes it more accessible to everyone! Open diversity data makes it easier to understand the levels of diversity in Sweden today. More information: http://oppnamangfaldsdata.se - it’s also the current version of the project to continue working on during the hackathon!
 

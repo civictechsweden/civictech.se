@@ -26,6 +26,8 @@ contact:
   mail: hej@skjutsgruppen.nu
   organisation: Skjutsgruppen
   organisation-link: https://skjutsgruppen.nu/
+group: _groups/goteborg-en.md 
+
 ---
 
 Åke is beeing born - an open source ridesharing and public transport bot!

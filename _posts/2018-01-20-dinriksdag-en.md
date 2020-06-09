@@ -27,6 +27,8 @@ contact:
   image: "/uploads/pierre.jpg"
   text:
   mail: info@dinriksdag.se
+group: _groups/stockholm-en.md 
+
 ---
 
 Din Riksdag is an attempt at answering the following question: how do we create laws in the 21st century?

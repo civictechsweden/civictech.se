@@ -11,7 +11,7 @@ layout: default
 {{content}}
 
 <!-- Projects in Event -->
-{% assign projects=site.categories[page.ref] | where:"lang", page.lang %}
+{% assign projects=site.posts | where:"group", page.path %}
 {% if projects[0].title %}
   <section class="section is-medium has-background-light">
     <div class="container">
@@ -23,7 +23,6 @@ layout: default
         {% endif %}
       </h2>
       <div class="columns is-multiline">
-        {% assign projects=site.categories[page.ref] | where:"lang", page.lang %}
         {% for post in projects %}
           {% include projects.html %}
         {% endfor %}

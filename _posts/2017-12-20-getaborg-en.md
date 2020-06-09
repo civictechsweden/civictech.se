@@ -48,6 +48,8 @@ contact:
   mail: amina.kz@gmail.com
   organisation:
   organisation-link:
+group: _groups/goteborg-en.md 
+
 ---
 
 Gothenburg needs an open-source gifting/sharing platform! Thousands of people are already sharing and gifting at give-away groups on Facebook or other smaller websites that are based on closed systems of classified ads, such as bortskankes.se. However, none of these tools have a nice user experience nor the features for sharing both within closed groups (say, among friends or within an organization) and sharing openly with the public. There is no open-source alternative out there for this type of sharing economy to reach its potential.

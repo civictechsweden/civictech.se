@@ -29,6 +29,8 @@ contact:
   mail: " info@hyresrattskollen.se"
   organisation: Allt åt alla Göteborg
   organisation-link: https://alltatalla.se/goteborg
+group: _groups/goteborg-en.md 
+
 ---
 
 A website by Allt åt alla Göteborg to keep track of tenancy prices and acknowledge conflicts.

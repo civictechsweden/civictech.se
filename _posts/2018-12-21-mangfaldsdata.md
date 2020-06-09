@@ -24,6 +24,8 @@ contact:
   mail: hello@civictech.se
   organisation: Civic Tech Sweden
   organisation-link: https://civictech.se
+group: _groups/stockholm.md 
+
 ---
 Människor har i alla tider migrerat världen över. En mångfald av människor finner en framtid i Sverige - men finner alla en framtid i Sveriges organisationer? Det delas ofta berättelser om segregation, sexism, ojämlikhet och diskriminering - så hur är mångfalden i Sveriges organisationer? Och hur går arbetet med att inkludera mångfalden av människor? Företag och andra organisationer samlar redan demografiska uppgifter och data om sina styrelser (och ibland anställda). Vi kan driva på dem för att publicera denna data på sätt som är mer tillgängliga för alla! Öppna mångfaldsdata gör det lättare för alla att förstå landskapet av mångfald och hur läget ser ut i Sverige. Mer information: http://oppnamangfaldsdata.se - detta är också den aktuella versionen av projektet som vi ska arbeta vidare på under hacket!
 

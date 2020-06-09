@@ -29,6 +29,8 @@ contact:
   mail: petter@digidemlab.org
   organisation: Digidem Lab
   organisation-link: http://digidemlab.org
+group: _groups/goteborg-en.md 
+
 ---
 
 The goal of the project is to find technical solutions to offer free and secure cloud services to social movements. The inspiration partly comes from Spanish [CommonsCloud](https://www.commonscloud.coop/). They offer mutual log in to services for documents and calenders (Nextcloud), project management (Phabricator) and discussion (Discourse) for groups and movements. The groups that join also become part owners in the cloud coop. Here is a [technical description](https://open.coop/2018/04/03/making-of-the-coop-cloud/).

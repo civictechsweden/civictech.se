@@ -27,6 +27,8 @@ contact:
   mail: jmp@kollekogbg.se
   organisation: Kollaborativ Ekonomi Göteborg
   organisation-link: http://www.kollekogbg.se/
+group: _groups/goteborg.md 
+
 ---
 
 Smarta Kartan är en plattform som möjliggör tillgång framför ägande och vill underlätta för göteborgare och besökare att leva hållbart. Webbplatsen samlar delningsinitiativ som  Göteborgs cykelkök, bytesgrupper, fritidsbanker, klädbytardagar, leksaksbibliotek och gratisbutiker och skapar på så sätt nya möten ihop med ett minskat klimatavtryck.
