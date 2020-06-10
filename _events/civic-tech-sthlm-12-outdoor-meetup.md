@@ -11,7 +11,7 @@ event-date: 2020-06-16 17:00:00 +0200
 event-date-desc: 16 juni 2020 kl 17:00
 place: Humlegården, behind Kungliga Biblioteket
 links: []
-ref: ''
+ref: outdoor-meetup-12
 published: false
 
 ---
