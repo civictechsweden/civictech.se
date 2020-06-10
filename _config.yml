@@ -92,6 +92,7 @@ description: Hackathons och Meetups för Sveriges Civic Tech-community
 theme: jekyll-theme-cayman
 plugins:
 - jemoji
+- jekyll-redirect-from
 t:
   sv:
     event-title: Event

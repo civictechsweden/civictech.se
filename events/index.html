@@ -3,6 +3,8 @@ title: Event
 description: Hackathons och Meetups
 layout: global
 ref: events
+redirect_from:
+  - /calendar/
 ---
 
 {% assign events=site.events | where:"lang", page.lang | sort:'event-date' | reverse %}
@@ -15,7 +17,6 @@ ref: events
     {% for item in events %}
       {% capture posttime %}{{item.event-date | date: '%s'}}{% endcapture %}
       {% if posttime > nowunix %}
-
         {% include events.html %}
       {% endif %}
     {% endfor %}
