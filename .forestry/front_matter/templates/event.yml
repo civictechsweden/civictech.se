@@ -71,3 +71,5 @@ fields:
       file: 
       path: 
   label: Language
+pages:
+- _events/civic-tech-sthlm-12-outdoor-meetup.md
