@@ -1,7 +1,7 @@
 ---
 group: _groups/stockholm-en.md
 lang: sv
-title: 'Civic Tech Sthlm #12 Outdoor Meetup'
+title: 'Civic Tech Sthlm #12: Utomhuspicknick'
 image: ''
 excerpt: Picknick för folk som jobbar med digital teknik för samhällsnytta i Stockholm
 ingress-text: Kom på picknick för folk som arbetar med digital teknik för samhällsnytta
