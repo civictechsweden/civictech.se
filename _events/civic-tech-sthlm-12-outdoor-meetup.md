@@ -9,7 +9,7 @@ ingress-text: 'Come to our virtual meetup for people working with digital techno
   for the common good in Stockholm! '
 event-date: 2020-06-16 17:00:00 +0200
 event-date-desc: 16 June 2020 17:00
-place: Humlegården, behind Kungliga Biblioteket
+place: https://public-meet2.glesys.com/CivicTechSthlm
 links: []
 ref: outdoor-meetup-12
 
