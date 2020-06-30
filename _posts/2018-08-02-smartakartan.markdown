@@ -1,6 +1,6 @@
 ---
 title: Smarta Kartan 2.0
-date: 2018-08-02 09:54:00 +02:00
+date: 2018-08-02T09:54:00.000+02:00
 categories:
 - Sharing is caring
 - hackathon-2
@@ -27,10 +27,12 @@ contact:
   mail: jmp@kollekogbg.se
   organisation: Kollaborativ Ekonomi Göteborg
   organisation-link: http://www.kollekogbg.se/
-group: _groups/goteborg.md 
+group: _groups/goteborg.md
+lang: sv
+events:
+- event: _events/hackathon-2-en.md
 
 ---
-
 Smarta Kartan är en plattform som möjliggör tillgång framför ägande och vill underlätta för göteborgare och besökare att leva hållbart. Webbplatsen samlar delningsinitiativ som  Göteborgs cykelkök, bytesgrupper, fritidsbanker, klädbytardagar, leksaksbibliotek och gratisbutiker och skapar på så sätt nya möten ihop med ett minskat klimatavtryck.
 
 ## Kompetenser som önskas
