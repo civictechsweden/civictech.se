@@ -72,5 +72,6 @@ fields:
       path: 
   label: Language
 pages:
+- _events/civic-tech-lab-community-engagement.md
 - _events/civic-tech-sthlm-12-outdoor-meetup-1.md
 - _events/civic-tech-sthlm-12-outdoor-meetup.md
