@@ -3,8 +3,9 @@ group: _groups/civic-tech-platform.md
 lang: sv
 title: 'Civic Tech Lab: Community Engagement'
 image: "/uploads/civic-tech-lab-community-engagement.jpg"
-excerpt: Workshop med fokus på hur civictech-projekt kan att bygga community och engagera
-  deltagare i sina projekt. Leds av Magnus Eriksson från forskningsinstitutet RISE.
+excerpt: Workshop med fokus på hur civic tech-projekt kan att bygga community och
+  engagera deltagare i sina projekt. Leds av Magnus Eriksson från forskningsinstitutet
+  RISE.
 ingress-text: 'Hur kan civic tech-projekt engagera allmänheten och användare i sina
   projekt? Vad ska man tänka på när utomstående engageras i ett projekt? Hur kan man
   skapa incitament för att skapa engagemang? '
