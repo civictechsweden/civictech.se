@@ -13,7 +13,7 @@ event-date: 2020-10-01 13:00:00 +0200
 event-date-desc: 1 October 2020 1-4 pm
 place: Online
 links:
-- title: Register
+- title: Register for the lab
   url: https://pretix.eu/civictechse/lab1okt/
 - title: LinkedIn event
   url: https://www.linkedin.com/events/civictechlab-communityengagement/
