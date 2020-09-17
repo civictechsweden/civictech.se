@@ -15,7 +15,7 @@ place: Online
 links:
 - title: Register for the lab
   url: https://pretix.eu/civictechse/lab1okt/
-- title: LinkedIn event
+- title: LinkedIn Event
   url: https://www.linkedin.com/events/civictechlab-communityengagement/
 - title: Facebook Event
   url: https://fb.me/e/cpsYth1nN
