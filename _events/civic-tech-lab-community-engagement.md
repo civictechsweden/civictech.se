@@ -15,7 +15,6 @@ links:
 - title: Anmäl dig till workshopen
   url: https://pretix.eu/civictechse/lab1okt/
 ref: lab1okt
-published: false
 
 ---
 ![](/uploads/civic-tech-lab-community-engagement.jpg)
