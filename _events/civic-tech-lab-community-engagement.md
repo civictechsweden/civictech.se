@@ -17,6 +17,8 @@ links:
   url: https://pretix.eu/civictechse/lab1okt/
 - title: Facebook-event
   url: https://fb.me/e/cpsYth1nN
+- title: LinkedIn-event
+  url: https://www.linkedin.com/events/civictechlab-communityengagement/
 ref: communityengagement
 
 ---
