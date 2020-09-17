@@ -13,8 +13,12 @@ event-date: 2020-10-01 13:00:00 +0200
 event-date-desc: 1 October 2020 1-4 pm
 place: Online
 links:
+- title: LinkedIn event
+  url: https://www.linkedin.com/events/civictechlab-communityengagement/
 - title: Register for the workshop
   url: https://pretix.eu/civictechse/lab1okt/
+- title: Facebook Event
+  url: https://fb.me/e/cpsYth1nN
 ref: communityengagement
 
 ---
