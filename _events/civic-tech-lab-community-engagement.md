@@ -25,3 +25,7 @@ Den här workshopen syftar till att utveckla de sätt som era civic tech-projekt
 En kombination av Zoom och ett interaktivt verktyg för whiteboards kommer att användas för att genomföra en gruppworkshop som har era projekt i fokus.
 
 Workshopen leds av Magnus Eriksson från RISE men kommer också att ge en utrymme för civic tech-projekten att diskutera sina erfarenheter sinsemellan och utbyta kunskap och tips.
+
+Anmäl er på [https://pretix.eu/civictechse/lab1okt/](https://pretix.eu/civictechse/lab1okt/ "https://pretix.eu/civictechse/lab1okt/") så kommer en länk till Zoom skickas ut innan workshopen börjar!  
+  
+PS. We plan to hold this workshop in Swedish, but if you want to participate in English, email hello@civictech.se as soon as possible and we will be able to change our plans!
