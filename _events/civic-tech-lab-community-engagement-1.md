@@ -1,19 +1,19 @@
 ---
 group: _groups/civic-tech-platform.md
-lang: sv
+lang: en
 title: 'Civic Tech Lab: Community Engagement'
 image: "/uploads/community-engagement-bara-bild.jpg"
-excerpt: Workshop med fokus på hur civic tech-projekt kan att bygga community och
-  engagera deltagare i sina projekt. Leds av Magnus Eriksson från forskningsinstitutet
+excerpt: Workshop focusing on how civic tech projects can build community and engage
+  participants in their projects. Led by Magnus Eriksson from the research institute
   RISE.
-ingress-text: 'Hur kan civic tech-projekt engagera allmänheten och användare i sina
-  projekt? Vad ska man tänka på när utomstående engageras i ett projekt? Hur kan man
-  skapa incitament för att skapa engagemang? '
+ingress-text: How can civic tech projects engage the public and users in their projects?
+  What should you keep in mind when outsiders are involved in a project? How can we
+  create incentives for creating engagement?
 event-date: 2020-10-01 13:00:00 +0200
-event-date-desc: 1 oktober 2020 kl 13-16
+event-date-desc: 1 October 2020 1-4 pm
 place: Online
 links:
-- title: Anmäl dig till workshopen
+- title: Register for the workshop
   url: https://pretix.eu/civictechse/lab1okt/
 ref: communityengagement
 published: false
@@ -21,8 +21,10 @@ published: false
 ---
 ![](/uploads/civic-tech-lab-community-engagement.jpg)
 
-Den här workshopen syftar till att utveckla de sätt som era civic tech-projekt kan bygga community och engagera slutanvändare eller få deltagare att bidra till era projekt på olika sätt. Vi kommer också att titta på vilka incitament och värden vi kan skapa för användare att bidra.
+This workshop aims to develop the ways in which your civic tech projects can build community and engage end users or get participants to contribute to your projects in different ways. We will also look at what incentives and values we can create for users to contribute.
 
-En kombination av Zoom och det interaktiva verktyget Mural kommer att användas för att genomföra en gruppworkshop som har era projekt i fokus.
+A combination of Zoom and the interactive tool Mural will be used to conduct a group workshop that has your projects in focus.
 
-Workshopen leds av Magnus Eriksson från RISE men kommer också att ge en utrymme för civic tech-projekten att diskutera sina erfarenheter sinsemellan och utbyta kunskap och tips.
+The workshop is led by Magnus Eriksson from RISE but will also provide a space for civic tech projects to discuss their experiences with each other and exchange knowledge and tips.
+
+We plan to hold this workshop in Swedish, but if you want to participate in English, email hello@civictech.se as soon as possible and we will be able to change our plans!
