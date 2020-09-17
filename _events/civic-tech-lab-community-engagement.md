@@ -15,6 +15,8 @@ place: Online
 links:
 - title: Anmäl dig till workshopen
   url: https://pretix.eu/civictechse/lab1okt/
+- title: Facebook-event
+  url: https://fb.me/e/cpsYth1nN
 ref: communityengagement
 
 ---
