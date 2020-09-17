@@ -22,6 +22,6 @@ ref: communityengagement
 
 Den här workshopen syftar till att utveckla de sätt som era civic tech-projekt kan bygga community och engagera slutanvändare eller få deltagare att bidra till era projekt på olika sätt. Vi kommer också att titta på vilka incitament och värden vi kan skapa för användare att bidra.
 
-En kombination av Zoom och det interaktiva verktyget Mural kommer att användas för att genomföra en gruppworkshop som har era projekt i fokus.
+En kombination av Zoom och ett interaktivt verktyg för whiteboards kommer att användas för att genomföra en gruppworkshop som har era projekt i fokus.
 
 Workshopen leds av Magnus Eriksson från RISE men kommer också att ge en utrymme för civic tech-projekten att diskutera sina erfarenheter sinsemellan och utbyta kunskap och tips.
