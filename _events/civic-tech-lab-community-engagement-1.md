@@ -16,7 +16,6 @@ links:
 - title: Register for the workshop
   url: https://pretix.eu/civictechse/lab1okt/
 ref: communityengagement
-published: false
 
 ---
 ![](/uploads/civic-tech-lab-community-engagement.jpg)
