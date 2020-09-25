@@ -14,7 +14,6 @@ event-date-desc: 13 oktober 2020 kl 10-12
 place: Online
 links: []
 ref: utfragning
-published: false
 
 ---
 Den nya lagen som föreslås träda i kraft den 17 juli 2021 är tänkt att ersätta den gamla PSI-lagen. Den är betydligt mer omfattande och specifik kring hur användning och tillgången till öppna data från offentlig verksamhet i Sverige ska tillgängliggöras. Lyssna på utredningssekreterare Alexander Warnolfs presentation av det som utredningen föreslår och ställ sedan dina frågor om hur utredningen resonerat och vilka övervägande som har gjorts.
