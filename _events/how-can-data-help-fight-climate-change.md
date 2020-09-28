@@ -12,7 +12,6 @@ event-date-desc: 20 October 2020 15-16:30
 place: Online
 links: []
 ref: climatedata
-published: false
 
 ---
 The science of climate is clear. Our planet is warming up due to human activity and the release of greenhouse gases in the atmosphere. To reduce these emissions requires a deep and rapid change in the way we live as individuals and as societies. At the same time, our world is becoming more digital and we now have huge amounts of data to describe our impact on the planet. Can this data be exploited to take smarter and greener decisions?
