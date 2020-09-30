@@ -2,7 +2,7 @@
 group: _groups/civic-tech-platform.md
 lang: en
 title: How can data help fight climate change?
-image: ''
+image: "/uploads/climate_data_background.png"
 excerpt: Can data help us to adapt our behaviour and our societies to prevent climate
   change? Civic Tech Sweden invites you to an exciting discussion with some of the
   people trying to do just that in different ways!
