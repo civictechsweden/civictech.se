@@ -2,7 +2,7 @@
 group: []
 lang: sv
 title: Utfrågning kring Öppna data-utredningen
-image: "/uploads/markus-spiske-xekxe_vr0ec-unsplash.jpg"
+image: "/uploads/marcos-luiz-photograph-r6xx6fnvpt8-unsplash-large.jpg"
 excerpt: Lyssna på hur utredarna resonerat kring deras förslag på ny lagstiftning
   kring öppna data och ställ dina frågor till utredningssekreteraren Alexander Warnolf.
 ingress-text: 'Den 15 september presenterades den nya Öppna data-utredningen som ger
@@ -16,7 +16,7 @@ links: []
 ref: utfragning
 
 ---
-![](/uploads/utfragning-om-oppna-data-utredningen-eventbild.jpg)
+![](/uploads/marcos-luiz-photograph-r6xx6fnvpt8-unsplash-large.jpg)
 
 Den nya lagen som föreslås träda i kraft den 17 juli 2021 är tänkt att ersätta den gamla PSI-lagen. Den är betydligt mer omfattande och specifik kring hur användning och tillgången till öppna data från offentlig verksamhet i Sverige ska tillgängliggöras. Lyssna på utredningssekreterare Alexander Warnolfs presentation av det som utredningen föreslår och ställ sedan dina frågor om hur utredningen resonerat och vilka övervägande som har gjorts.
 
