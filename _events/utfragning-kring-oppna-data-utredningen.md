@@ -2,7 +2,7 @@
 group: []
 lang: sv
 title: Utfrågning kring Öppna data-utredningen
-image: ''
+image: "/uploads/markus-spiske-xekxe_vr0ec-unsplash.jpg"
 excerpt: Lyssna på hur utredarna resonerat kring deras förslag på ny lagstiftning
   kring öppna data och ställ dina frågor till utredningssekreteraren Alexander Warnolf.
 ingress-text: 'Den 15 september presenterades den nya Öppna data-utredningen som ger
