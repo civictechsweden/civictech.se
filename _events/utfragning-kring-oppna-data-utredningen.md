@@ -13,6 +13,8 @@ event-date: 2020-10-13 10:00:00 +0200
 event-date-desc: 13 oktober 2020 kl 10-12
 place: Online
 links:
+- title: Facebook-event
+  url: https://www.facebook.com/events/396254608435657
 - title: Anmälan
   url: 'https://www.goto10.se/evenemang/utfragning-kring-oppna-data-utredningen/ '
 ref: utfragning
