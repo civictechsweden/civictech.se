@@ -9,7 +9,7 @@ excerpt: Can data help us to adapt our behaviour and our societies to prevent cl
 ingress-text: Can data help us to adapt our behaviour and our societies to prevent
   climate change?
 event-date: 2020-10-20 14:00:00 +0200
-event-date-desc: 20 October 2020 14:00-15:30 CET
+event-date-desc: 20 October 2020 14:00-15:30 CEST
 place: Online
 links: []
 ref: climatedata
