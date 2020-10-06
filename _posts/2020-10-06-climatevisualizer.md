@@ -26,7 +26,7 @@ contact:
   organisation: Klimatsekretariatet
   organisation-link: https://www.klimatsekretariatet.se/
 events:
-- event: _events/hur-kan-data-hjalpa-oss-att-radda-klimatet.md
+- event: _events/how-can-data-help-fight-climate-change.md
 chat: ''
 ref: climatevisualizer
 
