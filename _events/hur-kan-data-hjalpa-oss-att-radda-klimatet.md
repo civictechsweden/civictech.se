@@ -13,7 +13,6 @@ event-date-desc: 20 oktober 2020 14:00-15:30 CEST
 place: Online
 links: []
 ref: climatedata
-published: false
 
 ---
 ![](/uploads/civic-tech-sweden-how-can-data-help-fight-climate-change_-liggande.jpg)
