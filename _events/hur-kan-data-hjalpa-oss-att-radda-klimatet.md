@@ -1,15 +1,15 @@
 ---
 group: _groups/civic-tech-platform.md
-lang: en
-title: Hur kan data hjälpa oss att rädda klimatet?
+lang: sv
+title: How can data help fight climate change?
 image: "/uploads/climate_data_background.png"
-excerpt: Can data help us to adapt our behaviour and our societies to prevent climate
+excerpt: 'Can data help us to adapt our behaviour and our societies to prevent climate
   change? Civic Tech Sweden invites you to an exciting discussion with some of the
-  people trying to do just that in different ways!
+  people trying to do just that in different ways! '
 ingress-text: Can data help us to adapt our behaviour and our societies to prevent
-  climate change?
+  climate change? (OBS! Eventet hålls på engelska!)
 event-date: 2020-10-20 14:00:00 +0200
-event-date-desc: 20 October 2020 14:00-15:30 CEST
+event-date-desc: 20 oktober 2020 14:00-15:30 CEST
 place: Online
 links: []
 ref: climatedata
