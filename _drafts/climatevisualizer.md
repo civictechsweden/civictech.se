@@ -17,7 +17,7 @@ links:
   url: https://climate-visualizer.netlify.app/
 contact:
 - name: 'Anders Heggestad '
-  image: ''
+  image: "/uploads/bild-anders-heggestad-liggande.jpg"
   text: ''
   mail: anders@klimatsekretariatet.se
   url: ''
