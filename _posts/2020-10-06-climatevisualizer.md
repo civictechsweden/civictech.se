@@ -8,9 +8,7 @@ lang: sv
 date: 2020-10-06 15:29:04 +0200
 title: ClimateVisualizer
 ingress-text: Klimatstatistik + koldioxidbudgetar = sanning
-excerpt: ClimateVisualizer samlar in öppen data från våra statistikproducerande myndigheter
-  och vecklar upp detta data i ett lokalt och därmed målgruppsanpassat gränssnitt.
-  Klimatstatistik + koldioxidbudgetar = sanning
+excerpt: Klimatstatistik + koldioxidbudgetar = sanning
 image: "/uploads/climatevisualizer-skarmdump-liten.png"
 links:
 - title: Klimatsekretariatet
