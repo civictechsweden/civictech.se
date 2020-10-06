@@ -1,13 +1,15 @@
 ---
 group: _groups/civic-tech-platform.md
-tags: []
+tags:
+- öppna data
+- klimat
 categories: []
 lang: sv
 date: 2020-10-06 15:29:04 +0200
 title: ClimateVisualizer
 ingress-text: Klimatstatistik + koldioxidbudgetar = sanning
 excerpt: Klimatstatistik + koldioxidbudgetar = sanning
-image: ''
+image: "/uploads/climatevisualizer-skarmdump-liten.png"
 links:
 - title: Klimatsekretariatet
   url: https://www.klimatsekretariatet.se
@@ -21,9 +23,10 @@ contact:
   url: ''
   organisation: Klimatsekretariatet
   organisation-link: https://www.klimatsekretariatet.se/
-events: []
+events:
+- event: _events/hur-kan-data-hjalpa-oss-att-radda-klimatet.md
 chat: ''
-ref: ''
+ref: climatevisualizer
 
 ---
 ClimateVisualizer samlar in öppen data från våra statistikproducerande myndigheter och vecklar upp detta data i ett lokalt och därmed målgruppsanpassat gränssnitt. Denna statistik integreras sedan med, eller ”läggs på” en lika lokal koldioxidbudget. Därmed kan vi ge en lokal (kommunal) och aktuell bild av hur utsläppen rör sig över tid, samt hur fort de behöver minska om vi vill leva upp till Parisavtalet och de globala temperaturmålen.
