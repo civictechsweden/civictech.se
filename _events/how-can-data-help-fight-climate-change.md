@@ -14,6 +14,10 @@ place: Online
 links:
 - title: Registration
   url: https://www.eventbrite.se/e/webinar-how-can-data-help-fight-climate-change-tickets-124542966365
+- title: Facebook Event
+  url: https://fb.me/e/4LdPbCUix
+- title: LinkedIn Event
+  url: https://www.linkedin.com/events/webinar-howcandatahelpfightclim6719976979057147905
 ref: climatedata
 
 ---
