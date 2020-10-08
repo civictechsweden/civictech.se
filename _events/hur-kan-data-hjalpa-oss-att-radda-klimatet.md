@@ -12,10 +12,12 @@ event-date: 2020-10-20 14:00:00 +0200
 event-date-desc: 20 oktober 2020 14:00-15:30 CEST
 place: Online
 links:
-- title: Facebook-event
-  url: https://www.facebook.com/events/799856600778077/
 - title: Registration
   url: https://www.eventbrite.se/e/webinar-how-can-data-help-fight-climate-change-tickets-124542966365
+- title: Facebook Event
+  url: https://www.facebook.com/events/799856600778077/
+- title: LinkedIn Event
+  url: https://www.linkedin.com/events/webinar-howcandatahelpfightclim6719976979057147905
 ref: climatedata
 
 ---
