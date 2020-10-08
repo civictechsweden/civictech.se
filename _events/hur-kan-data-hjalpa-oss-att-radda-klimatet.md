@@ -11,7 +11,9 @@ ingress-text: Can data help us to adapt our behaviour and our societies to preve
 event-date: 2020-10-20 14:00:00 +0200
 event-date-desc: 20 oktober 2020 14:00-15:30 CEST
 place: Online
-links: []
+links:
+- title: Registration
+  url: https://www.eventbrite.se/e/webinar-how-can-data-help-fight-climate-change-tickets-124542966365
 ref: climatedata
 
 ---
