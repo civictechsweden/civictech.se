@@ -37,6 +37,10 @@ In addition to a presentation of their work and a panel discussion, this event w
 
 The event will be moderated by **Malin Crona** and **Pierre Mesure**.
 
-The event will be virtual via Zoom and rewatchable on YouTube.
+The event will be virtual via Zoom and rewatchable on [YouTube](https://www.youtube.com/channel/UCK5k7hsVwA_QZiSbRrQlW6Q "Goto 10 YouTube channel").
 
-Registration is done through [Eventbrite](https://www.eventbrite.se/e/webinar-how-can-data-help-fight-climate-change-tickets-124542966365). 
+Registration is done through [Eventbrite](https://www.eventbrite.se/e/webinar-how-can-data-help-fight-climate-change-tickets-124542966365).
+
+You're welcome to join the Zoom webinar from 13:45 CEST to chat with the other participants, and to stay up to 30 minutes afterwards.
+
+You are also welcome to join the [#climate](https://chat.civictech.se/channel/climate) channel on [https://chat.civictech.se/channel/climate](https://chat.civictech.se/channel/climate "https://chat.civictech.se/channel/climate") both before and after the webinar to chat with others about climate related civic tech!
