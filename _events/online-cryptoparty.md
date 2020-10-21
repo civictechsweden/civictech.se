@@ -1,6 +1,6 @@
 ---
 group: _groups/uppsala-en.md
-lang: sv
+lang: en
 title: Online CryptoParty
 image: ''
 excerpt: 'Privacy vs Profiling: a relevancy overview of search engines'
