@@ -1,26 +1,25 @@
 ---
-group: _groups/uppsala.md
-lang: en
+group: _groups/uppsala-en.md
+lang: sv
 title: CryptoParty Online
 image: ''
-excerpt: 'Privacy vs Profiling: a relevancy overview of search engines'
-ingress-text: 'Privacy vs Profiling: a relevancy overview of search engines'
+excerpt: Privacy vs Profiling i samband med sökmotorer
+ingress-text: Privacy vs Profiling i samband med sökmotorer
 event-date: 2020-10-23 17:00:00 +0200
-event-date-desc: 23 October 2020 17:00–19:00
+event-date-desc: 23 oktober 2020 17:00–19:00
 place: Online
 links:
 - title: Uppsala CryptoParty
   url: www.cryptoparty.se/uppsala/
 ref: online-cryptoparty
-published: false
 
 ---
-[Uppsala University CryptoParty](www.cryptoparty.se/uppsala/) invites you to an Online CryptoParty on Friday 23 October, 17:00-19:00.
+[Uppsala University CryptoParty](www.cryptoparty.se/uppsala/) välkomnar dig till ett CryptoParty Online på fredag 23 oktober kl 17:00-19:00.
 
-Nowadays search engines (web and not) have a quite clear business case: they are either totally into privacy or not. Such case often boils down to better results vs privacy. But what does this mean from a relevancy perspective? Can privacy play a role in the search engine market? What about the often mentioned concepts "pure web" and "democratic search"?
+Dagens sökmotorer respekterar antingen användarens integritet helt och hållet, eller använder all data som en användare genererar. Oftast betyder det dataskydd VS bra sökresultat. Vi ska titta på vad det betyder i detalj. Vilken roll kan dataskydd spela för sökmotorer? Bland annat kommer koncepten "pure web" och "democratic search" diskuteras.
 
-A link to participate in the online session will be posted on [www.cryptoparty.se/uppsala/](www.cryptoparty.se/uppsala/) in advance and on the [Uppsala University CryptoParty mailinglist](https://lists.uu.se/sympa/subscribe/it-cryptoparty). 
+Länken för att delta kommer att postas i förväg på [www.cryptoparty.se/uppsala/](www.cryptoparty.se/uppsala/) och på [Uppsala University CryptoPartys mailinglista](https://lists.uu.se/sympa/subscribe/it-cryptoparty).
 
-Everyone is welcome! No prior knowledge required. 
+Alla är välkomna! Ingen förkunskap krävs.
 
-[Uppsala University CryptoParty](www.cryptoparty.se/uppsala/) offers a learning space for all to introduce ourselves to the basic tools for self-protection in the digital space.
+[Uppsala University CryptoParty](www.cryptoparty.se/uppsala/) skapar en plats för att tillsammans lära oss om grunderna till självförsvar i den digitala världen.
