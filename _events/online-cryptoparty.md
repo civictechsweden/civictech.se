@@ -10,7 +10,7 @@ event-date-desc: 23 October 2020 17:00–19:00
 place: Online
 links:
 - title: Uppsala CryptoParty
-  url: www.cryptoparty.se/uppsala/
+  url: https://www.cryptoparty.se/uppsala/
 ref: online-cryptoparty
 
 ---
