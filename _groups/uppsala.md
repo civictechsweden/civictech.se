@@ -11,12 +11,6 @@ partners:
 - title: Digidem Lab
   link: http://digidemlab.org
   logo: "/uploads/logo-digidemlab.png"
-- title: Allmänna Arvsfonden
-  link: http://arvsfonden.se
-  logo: "/uploads/logo-arvsfonden.png"
-- title: 'ABF '
-  logo: "/uploads/ABF_logo_w.svg.png"
-  link: http://www.abf.se
 lang: sv
 
 ---
