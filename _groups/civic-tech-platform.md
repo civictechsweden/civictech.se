@@ -10,6 +10,9 @@ contact:
   text: Kontakta Pernilla om du har frågor om projektet.
   mail: pernilla@civictech.se
 partners:
+- title: Vinnova
+  link: https://www.vinnova.se/e/civic-tech/digitala-tjanster-for-2019-04507/
+  logo: "/uploads/vinnova_green_payoff_rgb.png"
 - title: Digidem Lab
   link: https://digidemlab.org/
   logo: "/uploads/digidemlab-logo.svg"
