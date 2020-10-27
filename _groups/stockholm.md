@@ -2,19 +2,15 @@
 title: Civic Tech Stockholm
 ref: stockholm
 excerpt: Civic Tech Stockholm
-ingress-text: Hackathons och meetups för Stockholms Civic Tech community!
+ingress-text: Evenemang och meetups för Stockholms Civic Tech community!
 contact:
-- name: Vill du veta mer eller ordna ett event?
-  text: Victoria Bull, Civic Tech Stockholm
+- name: Vill du veta mer eller ordna ett event? Kontakta oss!
+  text: Civic Tech Stockholm
   mail: hello@civictech.se
 partners:
 - title: Digidem Lab
   link: http://digidemlab.org
   logo: "/uploads/logo-digidemlab.png"
-- title: Allmänna Arvsfonden
-  link: http://arvsfonden.se
-  logo: "/uploads/logo-arvsfonden.png"
-- title: 'ABF '
-  logo: "/uploads/ABF_logo_w.svg.png"
-  link: http://www.abf.se
+lang: sv
+
 ---
