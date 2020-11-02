@@ -1,7 +1,7 @@
 ---
 group: []
 lang: sv
-title: GovTech Day 2021
+title: GovTech Day 2020
 image: ''
 excerpt: 'GovTech Day 2020 samlar offentliga och privata aktörer för att sätta fokus
   på att mobilisera ett framgångsrikt ekosystem för GovTech i Sverige. '
@@ -16,7 +16,6 @@ links:
 - title: Program & anmälan
   url: https://www.govtechday.se
 ref: govtechday2020
-published: false
 
 ---
 GovTech innebär nya välfärdstjänster för medarbetare och medborgare som skapas i samverkan mellan innovativa företag och offentlig sektor. Innovation inom GovTech kan effektivisera användandet av skattepengar och förbättra livet för medborgare. Till exempel genom satsningar på innovativ teknik inom hälso- och sjukvård eller digitalisering av offentliga tjänster. Globalt sker en snabb utveckling inom området.
@@ -30,3 +29,5 @@ Eventet sänds från [Sveateatern i Sundsvall](https://sundsvall.se/uppleva-och-
 ### Var med och skapa lösningar för samhällets största utmaningar
 
 Att delta under GovTech Day och vara med i utvecklingen av GovTech i Sverige är relevant för dig som arbetar strategiskt och operativt med innovation och digitalisering inom privat och offentlig sektor. Samt för tjänste- och produktutvecklande företag och startups som vill vara med och skapa nya tjänster för allmänheten.
+
+[Program](https://www.govtechday.se/program-2020) och [anmälan](https://www.govtechday.se/anmalan) hittar du på [www.govtechday.se](https://www.govtechday.se/ "https://www.govtechday.se/").
