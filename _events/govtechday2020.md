@@ -1,7 +1,7 @@
 ---
 group: []
 lang: sv
-title: GovTechDay2020
+title: GovTech Day 2020
 image: ''
 excerpt: 'GovTech innebär nya digitala välfärdstjänster för medarbetare och medborgare
   som skapas i samverkan mellan innovativa företag och offentlig sektor. På GovTech
