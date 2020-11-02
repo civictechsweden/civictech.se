@@ -3,8 +3,10 @@ group: []
 lang: sv
 title: GovTechDay2020
 image: ''
-excerpt: 'GovTech Day 2020 samlar offentliga och privata aktörer för att sätta fokus
-  på att mobilisera ett framgångsrikt ekosystem för GovTech i Sverige. '
+excerpt: 'GovTech innebär nya digitala välfärdstjänster för medarbetare och medborgare
+  som skapas i samverkan mellan innovativa företag och offentlig sektor. På GovTech
+  Day 2020 samlas olika aktörer för att sätta fokus på att mobilisera ett framgångsrikt
+  ekosystem för GovTech i Sverige. '
 ingress-text: GovTech Day 2020 samlar offentliga och privata aktörer för att sätta
   fokus på att mobilisera ett framgångsrikt ekosystem för GovTech i Sverige. Den 1
   december kan du delta i en digital heldag där vi konkretiserar det växande ekosystemet,
@@ -16,7 +18,6 @@ links:
 - title: Program & anmälan
   url: https://www.govtechday.se
 ref: govtechday2020
-published: false
 
 ---
 GovTech innebär nya välfärdstjänster för medarbetare och medborgare som skapas i samverkan mellan innovativa företag och offentlig sektor. Innovation inom GovTech kan effektivisera användandet av skattepengar och förbättra livet för medborgare. Till exempel genom satsningar på innovativ teknik inom hälso- och sjukvård eller digitalisering av offentliga tjänster. Globalt sker en snabb utveckling inom området.
