@@ -2,7 +2,7 @@
 group: []
 lang: sv
 title: GovTech Day 2020
-image: ''
+image: "/uploads/govtechday_facebook_linkedin_2.jpg"
 excerpt: 'GovTech innebär nya digitala välfärdstjänster för medarbetare och medborgare
   som skapas i samverkan mellan innovativa företag och offentlig sektor. På GovTech
   Day 2020 samlas olika aktörer för att sätta fokus på att mobilisera ett framgångsrikt
@@ -20,6 +20,8 @@ links:
 ref: govtechday2020
 
 ---
+![](/uploads/govtechday_facebook_linkedin_2.jpg)
+
 GovTech innebär nya välfärdstjänster för medarbetare och medborgare som skapas i samverkan mellan innovativa företag och offentlig sektor. Innovation inom GovTech kan effektivisera användandet av skattepengar och förbättra livet för medborgare. Till exempel genom satsningar på innovativ teknik inom hälso- och sjukvård eller digitalisering av offentliga tjänster. Globalt sker en snabb utveckling inom området.
 
 ### Digital heldag med fokus på potential
