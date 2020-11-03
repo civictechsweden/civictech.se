@@ -1,27 +1,29 @@
 ---
 group: []
-lang: sv
+lang: en
 title: GovTech Day 2020
 image: "/uploads/govtechday_facebook_linkedin_2.jpg"
-excerpt: 'GovTech innebär nya digitala välfärdstjänster för medarbetare och medborgare
-  som skapas i samverkan mellan innovativa företag och offentlig sektor. På GovTech
-  Day 2020 samlas olika aktörer för att sätta fokus på att mobilisera ett framgångsrikt
-  ekosystem för GovTech i Sverige. '
-ingress-text: GovTech Day 2020 samlar offentliga och privata aktörer för att sätta
-  fokus på att mobilisera ett framgångsrikt ekosystem för GovTech i Sverige. Den 1
-  december kan du delta i en digital heldag där vi konkretiserar det växande ekosystemet,
-  belyser tillväxtmöjligheterna och agerar utifrån potentialen.
+excerpt: GovTech means new digital welfare services for employees and citizens that
+  are created in collaboration between innovative companies and the public sector.
+  At GovTech Day 2020, various actors gather to focus on mobilizing a successful ecosystem
+  for GovTech in Sweden. Note! The event is mainly held in Swedish.
+ingress-text: GovTech Day 2020 brings together public and private actors to focus
+  on mobilizing a successful ecosystem for GovTech in Sweden. On December 1, you can
+  participate in a digital full day where we concretize the growing ecosystem, highlight
+  growth opportunities and act on the basis of potential.
 event-date: 2020-12-01 10:00:40 +0100
-event-date-desc: 1 december kl 10-15
-place: Sundsvall & online
+event-date-desc: 1 December 10:00-15:00
+place: Sundsvall & Online
 links:
-- title: Program & anmälan
+- title: Program & Registration
   url: https://www.govtechday.se
 ref: govtechday2020
 published: false
 
 ---
 ![](/uploads/govtechday_facebook_linkedin_2.jpg)
+
+**Note! The event is held mainly in Swedish, hence the description below in Swedish.**
 
 GovTech innebär nya välfärdstjänster för medarbetare och medborgare som skapas i samverkan mellan innovativa företag och offentlig sektor. Innovation inom GovTech kan effektivisera användandet av skattepengar och förbättra livet för medborgare. Till exempel genom satsningar på innovativ teknik inom hälso- och sjukvård eller digitalisering av offentliga tjänster. Globalt sker en snabb utveckling inom området.
 
