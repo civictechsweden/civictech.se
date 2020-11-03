@@ -17,7 +17,6 @@ event-date-desc: 27 november 2020 kl 10-12
 place: Online
 links: []
 ref: workshop-remissvar
-published: false
 
 ---
 Öppna data-utredningens huvudbetänkande [Innovation genom information, SOU 2020:55](https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2020/09/sou-202055/) ger förslag på hur EU:s öppna data-direktiv ska anpassas till svensk lag. Betänkandet har skickats ut på remiss med sista svarsdag den 17 december 2020 och går att ladda ner i sin helhet från [Regeringens webbplats](https://www.regeringen.se/4a63bd/contentassets/9b6505e3b3964b4a9a7de4557c08e78d/sou-2020_55_webb.pdf).
