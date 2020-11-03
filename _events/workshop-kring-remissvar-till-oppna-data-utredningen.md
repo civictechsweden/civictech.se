@@ -16,10 +16,12 @@ event-date: 2020-11-27 10:00:00 +0100
 event-date-desc: 27 november 2020 kl 10-12
 place: Online
 links:
-- title: Facebook-event
-  url: https://www.facebook.com/events/1095747704218072/
 - title: Registrering
   url: https://pretix.eu/civictechse/remissvar/
+- title: Facebook-event
+  url: https://www.facebook.com/events/1095747704218072/
+- title: LinkedIn-event
+  url: 'https://www.linkedin.com/events/6729357955197632512/ '
 ref: workshop-remissvar
 
 ---
