@@ -41,6 +41,6 @@ Anmälan till utfrågningen som sker digitalt via Zoom görs på [Pretix](https:
 
 _Notera:_ Ett mejl med en anslutningslänk till Zoom kommer att skickas till dig som deltagare någon dag före eventet.
 
-_Arrangörer:_ [Civic Tech Sweden](https://civictech.se/), [Nätverket för Kunskapsdelning kring Öppna Data](https://nosad.se/), [Open Knowledge Sweden](https://okfn.org/network/sweden/), [Föreningen Grävande Journalister](http://www.fgj.se/), [Allmanhandling.se](https://www.allmanhandling.se/), [Hagström Consulting](http://www.hagstrom.nu/), [Internetstiftelsen](https://internetstiftelsen.se/), [Nationell Skalning Öppna Data](https://www.linkedin.com/company/ns%C3%B6d/)
+_Arrangörer:_ [Civic Tech Sweden](https://civictech.se/), [Nätverket för Kunskapsdelning kring Öppna Data](https://nosad.se/), [Open Knowledge Sweden](https://okfn.org/network/sweden/), [Föreningen Grävande Journalister](http://www.fgj.se/), [Allmanhandling.se](https://www.allmanhandling.se/), [Hagström Consulting](http://www.hagstrom.nu/), [Internetstiftelsen](https://internetstiftelsen.se/), [Nationell Skalning Öppna Data](https://www.linkedin.com/company/ns%C3%B6d/), [Wikimedia Sverige](https://wikimedia.se/)
 
 _Foto:_ [Jonathan Borba](https://unsplash.com/@jonathanborba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText), [Unsplash](https://unsplash.com/@civictechsweden/likes?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
