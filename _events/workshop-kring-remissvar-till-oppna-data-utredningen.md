@@ -35,11 +35,11 @@ Den nya lagen som föreslås träda i kraft den 17 juli 2021 är tänkt att ers�
 
 Under workshopen öppnar vi upp för samtal och diskussion kring de synpunkter som hittills kommit in i det gemensamma dokumentet för remissvar. Välkommen att vara med och bidra!
 
-Passa även på att ställa dina frågor och diskutera i [forumet för Network Open Source and Data (NOSAD)](https://forum.jobtechdev.se/t/remissvar-till-oppna-data-utredningen/262) inför utfrågningen!
+Passa även på att ställa dina frågor och diskutera i [forumet för Network Open Source and Data (NOSAD)](https://forum.jobtechdev.se/t/remissvar-till-oppna-data-utredningen/262) eller i [Civic Tech Swedens chat](https://chat.civictech.se) inför utfrågningen!
 
 Anmälan till utfrågningen som sker digitalt via Zoom görs på [Pretix](https://pretix.eu/civictechse/remissvar/).
 
-_Notera:_ Ett mejl med en anslutningslänk till Zoom kommer att skickas till dig som deltagare någon dag före eventet.
+_Notera:_ Ett mejl med en anslutningslänk till Zoom kommer att skickas till dig som deltagare innan eventet.
 
 _Arrangörer:_ [Civic Tech Sweden](https://civictech.se/), [Network Open Source and Data (NOSAD)](https://nosad.se/), [Open Knowledge Sweden](https://okfn.org/network/sweden/), [Föreningen Grävande Journalister](http://www.fgj.se/), [Allmanhandling.se](https://www.allmanhandling.se/), [Hagström Consulting](http://www.hagstrom.nu/), [Internetstiftelsen](https://internetstiftelsen.se/), [Nationell Skalning Öppna Data](https://www.linkedin.com/company/ns%C3%B6d/), [Wikimedia Sverige](https://wikimedia.se/)
 
