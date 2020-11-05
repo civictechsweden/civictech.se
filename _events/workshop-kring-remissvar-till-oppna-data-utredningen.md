@@ -12,8 +12,8 @@ ingress-text: 'Vad finns det för saker som behöver ses över i förslaget till
   på lagförslaget som kommit in i ett gemensamt dokument för remissvar till Öppna
   data-utredningen som ett antal organisationer gått ihop för att skriva tillsammans
   på initiativ av bl.a. Civic Tech Sweden. '
-event-date: 2020-11-27 10:00:00 +0100
-event-date-desc: 27 november 2020 kl 10-12
+event-date: 2020-11-27 09:00:00 +0100
+event-date-desc: 27 november 2020 kl 9-12:15
 place: Online
 links:
 - title: Registrering
