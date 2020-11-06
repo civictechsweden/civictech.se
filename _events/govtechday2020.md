@@ -1,5 +1,5 @@
 ---
-group: []
+group: _groups/civic-tech-platform.md
 lang: sv
 title: GovTech Day 2020
 image: "/uploads/govtechday_facebook_linkedin_2.jpg"
