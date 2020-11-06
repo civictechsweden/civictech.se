@@ -51,7 +51,7 @@ _Notera:_ Ett mejl med en anslutningslänk till Zoom kommer att skickas till dig
 
 09:30 Återsamling och intro till Kapitel 2: Tillgängliggörande av information – Kristofer Sjöholm, Civic Tech Sweden. Gruppsamtal 10-15 min.
 
-10:00 Återsamling och intro till Kapitel 3: Handläggning av begäran om vidareutnyttjande och beslut om vidareutnyttjande – Per Hagström, Allmanhandling.se. Gruppsamtal 10-15 min.
+10:00 Återsamling och intro till Kapitel 3: Handläggning av begäran om vidareutnyttjande och beslut om vidareutnyttjande. Gruppsamtal 10-15 min.
 
 10:30 Återsamling och intro till Kapitel 4: Krav på format – Björn Hagström, NSÖD. Gruppsamtal 10-15 min.
 
