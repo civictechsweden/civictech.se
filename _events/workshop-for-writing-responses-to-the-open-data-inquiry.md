@@ -20,7 +20,6 @@ links:
 - title: LinkedIn Event
   url: 'https://www.linkedin.com/events/6729357955197632512/ '
 ref: workshop-remissvar
-published: false
 
 ---
 ![](/uploads/jonathan-borba-fnmutzqwerm-unsplash.jpg)
