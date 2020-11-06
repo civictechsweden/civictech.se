@@ -13,7 +13,7 @@ ingress-text: GovTech Day 2020 brings together public and private actors to focu
   growth opportunities and act on the basis of potential.
 event-date: 2020-12-01 10:00:40 +0100
 event-date-desc: 1 December 10:00-15:00
-place: Sundsvall & Online
+place: Online
 links:
 - title: Program & Registration
   url: https://www.govtechday.se
