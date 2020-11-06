@@ -17,6 +17,8 @@ place: Online
 links:
 - title: Program & anmälan
   url: https://www.govtechday.se
+- title: LinkedIn-event
+  url: https://www.linkedin.com/events/govtechday6725009621355937792/
 ref: govtechday2020
 
 ---
