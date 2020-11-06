@@ -18,7 +18,6 @@ links:
 - title: Program & Registration
   url: https://www.govtechday.se
 ref: govtechday2020
-published: false
 
 ---
 ![](/uploads/govtechday_facebook_linkedin_2.jpg)
@@ -38,3 +37,7 @@ Eventet sänds från [Sveateatern i Sundsvall](https://sundsvall.se/uppleva-och-
 Att delta under GovTech Day och vara med i utvecklingen av GovTech i Sverige är relevant för dig som arbetar strategiskt och operativt med innovation och digitalisering inom privat och offentlig sektor. Samt för tjänste- och produktutvecklande företag och startups som vill vara med och skapa nya tjänster för allmänheten.
 
 [Program](https://www.govtechday.se/program-2020) och [anmälan](https://www.govtechday.se/anmalan) hittar du på [www.govtechday.se](https://www.govtechday.se/ "https://www.govtechday.se/").
+
+### Civic Tech möter GovTech
+
+Missa inte Breakout Session nr 5 kl 13:30-14:20: Civic Tech möter GovTech där Civic Tech Sweden visar en rad exempel på projekt och digitala verktyg för demokrati, delaktighet och transparens, bland annat [Öppen upphandling](https://civictech.se/projects/oppenupphandling/).
