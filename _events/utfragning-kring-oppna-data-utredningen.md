@@ -37,3 +37,5 @@ Anmälan till utfrågningen som sker digitalt via Zoom görs hos [Goto 10](https
 _Notera:_ Ett mejl med en anslutningslänk till Zoom kommer att skickas till dig som deltagare någon dag före eventet. Utfrågningen kommer även att sparas på [Goto 10:s YouTube-kanal](https://www.youtube.com/watch?v=63l3-_WC7jc).
 
 _Arrangörer:_ [Civic Tech Sweden](https://civictech.se/), [Nätverket för Kunskapsdelning kring Öppna Data](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/home), [Open Knowledge Sweden](https://okfn.org/network/sweden/), [Internetstiftelsen](https://internetstiftelsen.se/), Riksdagens digitaliseringsnätverk
+
+_Anteckningar:_ Anteckningar från denna utfrågning finns publicerade på [Civic Tech Swedens blogg](https://medium.com/civictechsweden/utfr%C3%A5gning-kring-%C3%B6ppna-data-utredningen-f860b3d271b1).
