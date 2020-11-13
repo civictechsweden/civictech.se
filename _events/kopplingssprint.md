@@ -13,6 +13,8 @@ place: Online
 links:
 - title: Info och anmälan
   url: https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint
+- title: Facebook-event
+  url: https://www.facebook.com/events/577014806431495/
 ref: kopplingssprint
 
 ---
