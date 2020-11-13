@@ -2,7 +2,7 @@
 group: []
 lang: sv
 title: Kopplingssprint
-image: "/uploads/kopplingssprint_linkedin.png"
+image: "/uploads/kopplingssprint_fb.jpg"
 excerpt: Koppla ihop riksdagsdokument med varandra och andra koncept i Wikidata
 ingress-text: Koppla ihop riksdagsdokument med varandra och andra koncept i Wikidata
   under denna kopplingssprint online, på Wikimedias Jitsi. Det är drop-in så delta
