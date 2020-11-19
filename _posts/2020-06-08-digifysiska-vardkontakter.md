@@ -19,6 +19,13 @@ links:
 - title: Digifysiska vårdkontakter | RISE
   url: https://www.ri.se/sv/vad-vi-gor/projekt/digifysiska-vardkontakter-okar-tryggheten-personer-pa-sarskilda-boenden
 contact:
+- name: Mona Jonsson
+  image: "/uploads/mona-jonsson-rise.png"
+  text: Senior strateg inom digital hälsa
+  mail: mona.jonsson@ri.se
+  url: https://www.ri.se/sv/mona-jonsson
+  organisation: RISE Research Institutes of Sweden
+  organisation-link: https://www.ri.se/
 - name: Joakim Börjesson
   image: ''
   text: Projektledare
@@ -29,6 +36,7 @@ contact:
 chat: ''
 ref: ''
 group: _groups/civic-tech-platform.md
+events: []
 
 ---
 Sveriges hälso- och sjukvård står inför stora utmaningar. En demografi med åldrande befolkning, svårigheter med kompetensförsörjning och omställning till digitala system ger möjligheter men ställer också stora krav på hantering, rutiner och samverkan.
