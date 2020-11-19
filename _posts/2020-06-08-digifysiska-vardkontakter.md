@@ -31,7 +31,7 @@ contact:
   text: Projektledare
   mail: joakim.borjesson@ri.se
   url: https://www.ri.se/sv/joakim-borjesson
-  organisation: RISE
+  organisation: RISE Research Institutes of Sweden
   organisation-link: https://www.ri.se
 chat: ''
 ref: ''
