@@ -36,7 +36,8 @@ contact:
 chat: ''
 ref: ''
 group: _groups/civic-tech-platform.md
-events: []
+events:
+- event: _events/govtech-day-2020.md
 
 ---
 Sveriges hälso- och sjukvård står inför stora utmaningar. En demografi med åldrande befolkning, svårigheter med kompetensförsörjning och omställning till digitala system ger möjligheter men ställer också stora krav på hantering, rutiner och samverkan.
