@@ -2,14 +2,14 @@
 sv:
 - title: Om oss
   url: "/about"
-- title: Projekt
-  url: "/projects"
 - title: Event
   url: "/events"
-- title: Blogg
-  url: https://medium.com/civictechsweden
+- title: Projekt
+  url: "/projects"
 - title: Grupper
   type: groups
+- title: Blogg
+  url: https://medium.com/civictechsweden
 - title: Forum
   url: https://forum.civictech.se
 - title: Chat
@@ -18,14 +18,14 @@ sv:
 en:
 - title: About
   url: "/en/about"
-- title: Projects
-  url: "/en/projects"
 - title: Events
   url: "/en/events"
-- title: Blog
-  url: https://medium.com/civictechsweden
+- title: Projects
+  url: "/en/projects"
 - title: Groups
   type: groups
+- title: Blog
+  url: https://medium.com/civictechsweden
 - title: Forum
   url: https://forum.civictech.se
 - title: Chat
