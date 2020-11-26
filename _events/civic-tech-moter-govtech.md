@@ -16,7 +16,6 @@ links:
 - title: Registration
   url: https://pretix.eu/civictechse/govtechday2020/
 ref: civictechgovtech2020
-published: false
 
 ---
 ![](/uploads/civic-tech-moter-govtech-fb.jpg)
