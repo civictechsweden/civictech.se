@@ -10,7 +10,9 @@ sv:
   url: https://medium.com/civictechsweden
 - title: Grupper
   type: groups
-- title: Gå med i chatten
+- title: Forum
+  url: https://forum.civictech.se
+- title: Chat
   url: https://chat.civictech.se
   type: chat
 en:
