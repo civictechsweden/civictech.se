@@ -4,9 +4,9 @@ lang: sv
 title: Fredagsfika
 image: "/uploads/fredagsfika.jpg"
 excerpt: 'Var med på digitalt fika för folk i Civic Tech Sweden-communityn varje fredag
-  kl 15! '
+  klockan 15! '
 ingress-text: 'Var med på digitalt fika för folk i Civic Tech Sweden-communityn varje
-  fredag kl 15! '
+  fredag klockan 15! '
 event-date: 2020-11-27 15:00:00 +0100
 event-date-desc: Fredagar kl 15:00
 place: Online
