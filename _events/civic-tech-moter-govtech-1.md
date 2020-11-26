@@ -1,29 +1,24 @@
 ---
 group: []
-lang: en
+lang: sv
 title: Civic Tech möter GovTech
 image: "/uploads/civic-tech-moter-govtech-fb.jpg"
-excerpt: Civic Tech Sweden shows a number of projects and digital tools for democracy,
-  participation and transparency during this session, which is an independent part
-  of GovTech Day 2020.
-ingress-text: Civic Tech Sweden shows a number of projects and digital tools for democracy,
-  participation and transparency during this session, which is an independent part
-  of GovTech Day 2020.
+excerpt: Civic Tech Sweden visar en rad exempel på projekt och digitala verktyg för
+  demokrati, delaktighet och transparens under denna session som är en fristående
+  del av GovTech Day 2020.
+ingress-text: Civic Tech Sweden visar en rad exempel på projekt och digitala verktyg
+  för demokrati, delaktighet och transparens under denna session som är en fristående
+  del av GovTech Day 2020.
 event-date: 2020-12-01 13:00:40 +0100
-event-date-desc: 1 December 13:30-14:20
+event-date-desc: 1 december kl 13:30-14:20
 place: Online
 links:
-- title: Registration
+- title: Registrering
   url: https://pretix.eu/civictechse/govtechday2020/
 ref: civictechgovtech2020
-published: false
 
 ---
 ![](/uploads/civic-tech-moter-govtech-fb.jpg)
-
-**Note! The event is held in Swedish, hence the description below in Swedish.**
-
-Civic Tech Sweden visar en rad exempel på projekt och digitala verktyg för demokrati, delaktighet och transparens under denna session som är en fristående del av [GovTech Day 2020](https://www.govtechday.se/). 
 
 Du behöver inte ha biljett till hela konferensen för att delta i denna breakout session utan här är deltagande gratis! En länk för deltagande via Zoom kommer att skickas ut till dig som anmält dig på [https://pretix.eu/civictechse/govtechday2020/](https://pretix.eu/civictechse/govtechday2020/ "https://pretix.eu/civictechse/govtechday2020/"). Hela innehållet i sessionen hittar du här nedan.
 
@@ -31,8 +26,8 @@ Du behöver inte ha biljett till hela konferensen för att delta i denna breakou
 
 ### **Civic Tech möter GovTech**
 
-[Civic Tech Sweden](https://civictech.se/) är ett nätverk av personer och organisationer som arbetar med teknik för samhällsnytta och digitala verktyg för demokrati, delaktighet och transparens. Både Civic Tech och GovTech används ofta som begrepp för att beskriva innovationer som kopplar medborgare med offentlig sektor. Skillnaderna ligger i tjänsternas mål och målgrupp.   
-  
+[Civic Tech Sweden](https://civictech.se/) är ett nätverk av personer och organisationer som arbetar med teknik för samhällsnytta och digitala verktyg för demokrati, delaktighet och transparens. Både Civic Tech och GovTech används ofta som begrepp för att beskriva innovationer som kopplar medborgare med offentlig sektor. Skillnaderna ligger i tjänsternas mål och målgrupp.
+
 Medan GovTech fokuserar på ett brett utbud av myndighetstjänster för att öka effektiviteten i deras interna verksamhet, fokuserar Civic Tech på att informera medborgarna, koppla dem till varandra och få dem att vara delaktiga i det offentliga och samarbeta för allas bästa.
 
 Vi ser en stor potential för samverkan mellan medborgare, civilsamhälle, offentlig och privat sektor inom områdena GovTech och Civic Tech. Under denna breakout session kommer nedanstående projekt i gränslandet mellan dessa områden att presentera sig kort. Vi kommer sedan att samtala med alla deltagare i sessionen kring dessa begrepp och communities nationellt och internationellt.
