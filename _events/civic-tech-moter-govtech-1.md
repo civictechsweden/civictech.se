@@ -15,6 +15,8 @@ place: Online
 links:
 - title: Registrering
   url: https://pretix.eu/civictechse/govtechday2020/
+- title: GovTech Day
+  url: https://www.govtechday.se
 ref: civictechgovtech2020
 
 ---
