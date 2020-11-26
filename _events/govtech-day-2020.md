@@ -40,4 +40,6 @@ Att delta under GovTech Day och vara med i utvecklingen av GovTech i Sverige är
 
 ### Civic Tech möter GovTech
 
-Missa inte Breakout Session nr 5 kl 13:30-14:20: Civic Tech möter GovTech där Civic Tech Sweden visar en rad exempel på projekt och digitala verktyg för demokrati, delaktighet och transparens, bland annat [Öppen upphandling](https://civictech.se/projects/oppenupphandling/).
+Missa inte Breakout Session nr 5 kl 13:30-14:20: Civic Tech möter GovTech där Civic Tech Sweden visar en rad exempel på projekt och digitala verktyg för demokrati, delaktighet och transparens, bland annat [Öppen upphandling](https://civictech.se/projects/oppenupphandling/). 
+
+Sessionen är en del av GovTech Day 2020, men du behöver inte ha biljett till hela konferensen för att delta i denna breakout session utan här är deltagande gratis! En länk för deltagande via Zoom kommer att skickas ut till dig som anmält dig på [https://pretix.eu/civictechse/govtechday2020/](https://pretix.eu/civictechse/govtechday2020/ "https://pretix.eu/civictechse/govtechday2020/"). Hela programmet för sessionen hittar du här. 
