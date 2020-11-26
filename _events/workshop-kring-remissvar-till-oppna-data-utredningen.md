@@ -51,7 +51,7 @@ _Notera:_ Ett mejl med en anslutningslänk till Zoom kommer att skickas till dig
 
 09:30 Återsamling och intro till Kapitel 2: Tillgängliggörande av information – Kristofer Sjöholm, Civic Tech Sweden. Gruppsamtal 10-15 min.
 
-10:00 Återsamling och intro till Kapitel 3: Handläggning av begäran om vidareutnyttjande och beslut om vidareutnyttjande. Gruppsamtal 10-15 min.
+10:00 Återsamling och intro till Kapitel 3: Handläggning av begäran om vidareutnyttjande och beslut om vidareutnyttjande – Kristofer Sjöholm, Civic Tech Sweden. Gruppsamtal 10-15 min.
 
 10:30 Återsamling och intro till Kapitel 4: Krav på format – Björn Hagström, NSÖD. Gruppsamtal 10-15 min.
 
@@ -63,6 +63,6 @@ _Notera:_ Ett mejl med en anslutningslänk till Zoom kommer att skickas till dig
 
 12:15 Mötet avslutas.
 
-_Arrangörer:_ [Civic Tech Sweden](https://civictech.se/), [Network Open Source and Data (NOSAD)](https://nosad.se/), [Open Knowledge Sweden](https://okfn.org/network/sweden/), [Föreningen Grävande Journalister](http://www.fgj.se/), [Hagström Consulting](http://www.hagstrom.nu/), [Internetstiftelsen](https://internetstiftelsen.se/), [Nationell Skalning Öppna Data](https://www.linkedin.com/company/ns%C3%B6d/), [Wikimedia Sverige](https://wikimedia.se/)
+_Arrangörer:_ [Civic Tech Sweden](https://civictech.se/), [Network Open Source and Data (NOSAD)](https://nosad.se/), [Open Knowledge Sweden](https://okfn.org/network/sweden/), [Föreningen Grävande Journalister](http://www.fgj.se/), [Hagström Consulting](http://www.hagstrom.nu/), [Internetstiftelsen](https://internetstiftelsen.se/), [Nationell Skalning Öppna Data (NSÖD)](https://www.linkedin.com/company/ns%C3%B6d/), [Wikimedia Sverige](https://wikimedia.se/)
 
 _Foto:_ [Jonathan Borba](https://unsplash.com/@jonathanborba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/@civictechsweden/likes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
