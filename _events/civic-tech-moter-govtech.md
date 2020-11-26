@@ -13,6 +13,8 @@ event-date: 2020-12-01 13:00:40 +0100
 event-date-desc: 1 december kl 13:30-14:20
 place: Online
 links:
+- title: FB-evenemang
+  url: https://www.facebook.com/events/175104454266218/
 - title: Registrering
   url: https://pretix.eu/civictechse/govtechday2020/
 - title: GovTech Day
