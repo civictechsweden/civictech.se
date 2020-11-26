@@ -21,6 +21,8 @@ links:
   url: https://www.linkedin.com/events/6737755923260964865/
 - title: GovTech Day
   url: https://www.govtechday.se
+- title: Forum
+  url: https://forum.civictech.se/t/civic-tech-moter-govtech-1-december-kl-1320/17
 ref: civictechgovtech2020
 
 ---
@@ -42,24 +44,26 @@ Detta är de projekt som kommer att presenteras kort:
 
 #### Digifysiska vårdkontakter – Mona Jonsson
 
-Projektet Digifysiska vårdkontakter ska skapa trygghet för medborgare som bor i särskilda boenden och deras anhöriga i Region Västerbottens närsjukvårdsområde södra Lappland. Projektet vill hantera utmaningen och öka dessa medborgares förtroende för vård och omsorg genom kombinationen av digitala och fysiska vårdtjänster. Projektet leds av RISE Forskningsinstitut. Med i projektet är Region Västerbotten, kommunerna Malå och Vilhelmina/Saxnäs samt KRY.
+Projektet [Digifysiska vårdkontakter](https://civictech.se/projects/digifysiska-vardkontakter/) ska skapa trygghet för medborgare som bor i särskilda boenden och deras anhöriga i Region Västerbottens närsjukvårdsområde södra Lappland. Projektet vill hantera utmaningen och öka dessa medborgares förtroende för vård och omsorg genom kombinationen av digitala och fysiska vårdtjänster. Projektet leds av RISE Forskningsinstitut. Med i projektet är Region Västerbotten, kommunerna Malå och Vilhelmina/Saxnäs samt KRY.
 
 #### Medborgarnavet – Britta Sandblom
 
-Den grundläggande idén med Medborgarnavet är att den ska ge den enskilde individen enkel tillgång till information som finns i myndigheters register men även till annan registerinformation som medborgaren har rätt att få tillgång till, exempelvis från banker. Bakom projektet står Uppsala Universitet institutionen för Informatik och Media, Föreningen Sambruk och Definitivus AB.
+Den grundläggande idén med [Medborgarnavet](https://sambruk.se/vinnova-beviljar-medel-medborgarnavet/) är att den ska ge den enskilde individen enkel tillgång till information som finns i myndigheters register men även till annan registerinformation som medborgaren har rätt att få tillgång till, exempelvis från banker. Bakom projektet står Uppsala Universitet institutionen för Informatik och Media, Föreningen Sambruk och Definitivus AB.
 
 #### Handlingar.se – Elenor Weijmar
 
-Hur kan vi i offentlig sektor spara tid och pengar kring återkommande förfrågningar om allmänna handlingar - och samtidigt digitalisera verksamheter och processer? Projektet Handlingar.se visar upp hur plattformen hjälper offentlig sektor att bespara sig på kostnader, huvudvärk och dubbelarbete som uppstår vid dagens handläggningar.
+Hur kan vi i offentlig sektor spara tid och pengar kring återkommande förfrågningar om allmänna handlingar - och samtidigt digitalisera verksamheter och processer? Projektet [Handlingar.se](https://handlingar.se/) visar upp hur plattformen hjälper offentlig sektor att bespara sig på kostnader, huvudvärk och dubbelarbete som uppstår vid dagens handläggningar.
 
 #### ClimateVisualizer – Jan Lindblad
 
-Med lanseringen av ClimateVisualizer går konceptet med lokala koldioxidbudgetar från att vara något som politiker och experter – i bästa fall – tar del av i rapportform, till att bli en pedagogisk molntjänst som alla kan förstå. Vad de då förstår är den vetenskapliga vägen mot Parisavtalet och de globala temperaturmålen. Verktyget lutar sig dels på vår officiella klimatstatistik, dels på ledande forskning från Uppsala universitet.
+Med lanseringen av [ClimateVisualizer](https://climate-visualizer.netlify.app) går konceptet med lokala koldioxidbudgetar från att vara något som politiker och experter – i bästa fall – tar del av i rapportform, till att bli en pedagogisk molntjänst som alla kan förstå. Vad de då förstår är den vetenskapliga vägen mot Parisavtalet och de globala temperaturmålen. Verktyget lutar sig dels på vår officiella klimatstatistik, dels på ledande forskning från Uppsala universitet.
 
 #### Open Up! – Öppen upphandling – Pierre Mesure
 
-Offentlig upphandling står för 700 miljarder kr, en sjättedel av Sveriges BNP och är en del av allas liv, genom välfärden eller offentliga infrastrukturer och tjänster. Dock finns det väldigt lite transparens över processen och även offentliga aktörer själva har ofta dålig koll på vad de köper och hur. Projektet Open Up! syftar till att skapa en gemenskap mellan offentliga aktörer som vill publicera öppna data om upphandlingskedjan och användare (journalister, företag, forskare, medborgare) som vill återanvända data för att skapa innovativa tjänster eller granska institutioner. Vi utvecklar också resurser för att stödja ett sådant gemenskap, bl.a. en portal för att visualisera och leka med data och en guide för att publicera.
+Offentlig upphandling står för 700 miljarder kr, en sjättedel av Sveriges BNP och är en del av allas liv, genom välfärden eller offentliga infrastrukturer och tjänster. Dock finns det väldigt lite transparens över processen och även offentliga aktörer själva har ofta dålig koll på vad de köper och hur. Projektet [Open Up!](https://openup.open-knowledge.se/) syftar till att skapa en gemenskap mellan offentliga aktörer som vill publicera öppna data om upphandlingskedjan och användare (journalister, företag, forskare, medborgare) som vill återanvända data för att skapa innovativa tjänster eller granska institutioner. De utvecklar också resurser för att stödja en sådan gemenskap, bl.a. en portal för att visualisera och leka med data och en guide för att publicera.
 
 #### Digidem Lab – Pierre Mesure
 
-Digidem Lab är ett oberoende demokratilabb som stöttar kommuner, stadsdelar och offentliga institutioner att utföra deltagande processer. De studerar, testar och erbjuder internationellt beprövade verktyg och metoder för medborgardeltagande. De jobbar med många kommuner i Sverige (Stockholm, Göteborg, Uppsala…) men också internationellt (Madrid, New York, Chicago).
+[Digidem Lab](https://digidemlab.org/) är ett oberoende demokratilabb som stöttar kommuner, stadsdelar och offentliga institutioner att utföra deltagande processer. De studerar, testar och erbjuder internationellt beprövade verktyg och metoder för medborgardeltagande. De jobbar med många kommuner i Sverige (Stockholm, Göteborg, Uppsala…) men också internationellt (Madrid, New York, Chicago).
+
+Om ni vill fortsätta samtalet efter sessionen så kan ni göra det i vårt [forum](https://forum.civictech.se/t/civic-tech-moter-govtech-1-december-kl-1320/17). 
