@@ -26,9 +26,9 @@ ref: civictechgovtech2020
 ---
 ![](/uploads/civic-tech-moter-govtech-fb.jpg)
 
-Du behöver inte ha biljett till hela konferensen för att delta i denna breakout session utan här är deltagande gratis! En länk för deltagande via Zoom kommer att skickas ut till dig som anmält dig på [https://pretix.eu/civictechse/govtechday2020/](https://pretix.eu/civictechse/govtechday2020/ "https://pretix.eu/civictechse/govtechday2020/"). Hela innehållet i sessionen hittar du här nedan.
-
-[Program](https://www.govtechday.se/program-2020) och [anmälan](https://www.govtechday.se/anmalan) för hela GovTech Day hittar du på [www.govtechday.se](https://www.govtechday.se/ "https://www.govtechday.se/").
+Du behöver inte ha biljett till hela konferensen för att delta i denna breakout session utan här är deltagande gratis! En länk för deltagande via Zoom kommer att skickas ut till dig som anmält dig på [https://pretix.eu/civictechse/govtechday2020/](https://pretix.eu/civictechse/govtechday2020/ "https://pretix.eu/civictechse/govtechday2020/") eller som anmält dig till hela GovTech Day.   
+  
+Hela innehållet i sessionen hittar du här nedan. [Program](https://www.govtechday.se/program-2020) och [anmälan](https://www.govtechday.se/anmalan) för hela GovTech Day hittar du på [www.govtechday.se](https://www.govtechday.se/ "https://www.govtechday.se/").
 
 ### **Civic Tech möter GovTech**
 
@@ -60,6 +60,6 @@ Med lanseringen av ClimateVisualizer går konceptet med lokala koldioxidbudgetar
 
 Offentlig upphandling står för 700 miljarder kr, en sjättedel av Sveriges BNP och är en del av allas liv, genom välfärden eller offentliga infrastrukturer och tjänster. Dock finns det väldigt lite transparens över processen och även offentliga aktörer själva har ofta dålig koll på vad de köper och hur. Projektet Open Up! syftar till att skapa en gemenskap mellan offentliga aktörer som vill publicera öppna data om upphandlingskedjan och användare (journalister, företag, forskare, medborgare) som vill återanvända data för att skapa innovativa tjänster eller granska institutioner. Vi utvecklar också resurser för att stödja ett sådant gemenskap, bl.a. en portal för att visualisera och leka med data och en guide för att publicera.
 
-#### Digidem Lab – Pierre Mesure  
+#### Digidem Lab – Pierre Mesure
 
 Digidem Lab är ett oberoende demokratilabb som stöttar kommuner, stadsdelar och offentliga institutioner att utföra deltagande processer. De studerar, testar och erbjuder internationellt beprövade verktyg och metoder för medborgardeltagande. De jobbar med många kommuner i Sverige (Stockholm, Göteborg, Uppsala…) men också internationellt (Madrid, New York, Chicago).
