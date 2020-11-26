@@ -26,6 +26,8 @@ en:
   url: https://medium.com/civictechsweden
 - title: Groups
   type: groups
-- title: Join the chat room
+- title: Forum
+  url: https://forum.civictech.se
+- title: Chat
   url: https://chat.civictech.se
   type: chat
