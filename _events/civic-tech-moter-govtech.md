@@ -28,8 +28,8 @@ ref: civictechgovtech2020
 ---
 ![](/uploads/civic-tech-moter-govtech-fb.jpg)
 
-Du behöver inte ha biljett till hela konferensen för att delta i denna breakout session utan här är deltagande gratis! En länk för deltagande via Zoom kommer att skickas ut till dig som anmält dig på [https://pretix.eu/civictechse/govtechday2020/](https://pretix.eu/civictechse/govtechday2020/ "https://pretix.eu/civictechse/govtechday2020/") eller som anmält dig till hela GovTech Day.   
-  
+Du behöver inte ha biljett till hela konferensen för att delta i denna breakout session utan här är deltagande gratis! En länk för deltagande via Zoom kommer att skickas ut till dig som anmält dig på [https://pretix.eu/civictechse/govtechday2020/](https://pretix.eu/civictechse/govtechday2020/ "https://pretix.eu/civictechse/govtechday2020/") eller som anmält dig till hela GovTech Day.
+
 Hela innehållet i sessionen hittar du här nedan. [Program](https://www.govtechday.se/program-2020) och [anmälan](https://www.govtechday.se/anmalan) för hela GovTech Day hittar du på [www.govtechday.se](https://www.govtechday.se/ "https://www.govtechday.se/").
 
 ### **Civic Tech möter GovTech**
@@ -46,7 +46,7 @@ Detta är de projekt som kommer att presenteras kort:
 
 Projektet [Digifysiska vårdkontakter](https://civictech.se/projects/digifysiska-vardkontakter/) ska skapa trygghet för medborgare som bor i särskilda boenden och deras anhöriga i Region Västerbottens närsjukvårdsområde södra Lappland. Projektet vill hantera utmaningen och öka dessa medborgares förtroende för vård och omsorg genom kombinationen av digitala och fysiska vårdtjänster. Projektet leds av RISE Forskningsinstitut. Med i projektet är Region Västerbotten, kommunerna Malå och Vilhelmina/Saxnäs samt KRY.
 
-#### Medborgarnavet – Britta Sandblom
+#### Medborgarnavet – Sven-Håkan Olsson
 
 Den grundläggande idén med [Medborgarnavet](https://sambruk.se/vinnova-beviljar-medel-medborgarnavet/) är att den ska ge den enskilde individen enkel tillgång till information som finns i myndigheters register men även till annan registerinformation som medborgaren har rätt att få tillgång till, exempelvis från banker. Bakom projektet står Uppsala Universitet institutionen för Informatik och Media, Föreningen Sambruk och Definitivus AB.
 
@@ -66,4 +66,4 @@ Offentlig upphandling står för 700 miljarder kr, en sjättedel av Sveriges BNP
 
 [Digidem Lab](https://digidemlab.org/) är ett oberoende demokratilabb som stöttar kommuner, stadsdelar och offentliga institutioner att utföra deltagande processer. De studerar, testar och erbjuder internationellt beprövade verktyg och metoder för medborgardeltagande. De jobbar med många kommuner i Sverige (Stockholm, Göteborg, Uppsala…) men också internationellt (Madrid, New York, Chicago).
 
-Om ni vill fortsätta samtalet efter sessionen så kan ni göra det i vårt [forum](https://forum.civictech.se/t/civic-tech-moter-govtech-1-december-kl-1320/17). 
+Om ni vill fortsätta samtalet efter sessionen så kan ni göra det i vårt [forum](https://forum.civictech.se/t/civic-tech-moter-govtech-1-december-kl-1320/17).
