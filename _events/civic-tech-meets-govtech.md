@@ -42,7 +42,7 @@ Detta är de projekt som kommer att presenteras kort:
 
 Projektet Digifysiska vårdkontakter ska skapa trygghet för medborgare som bor i särskilda boenden och deras anhöriga i Region Västerbottens närsjukvårdsområde södra Lappland. Projektet vill hantera utmaningen och öka dessa medborgares förtroende för vård och omsorg genom kombinationen av digitala och fysiska vårdtjänster. Projektet leds av RISE Forskningsinstitut. Med i projektet är Region Västerbotten, kommunerna Malå och Vilhelmina/Saxnäs samt KRY.
 
-#### Medborgarnavet – Britta Sandblom
+#### Medborgarnavet – Sven-Håkan Olsson
 
 Den grundläggande idén med Medborgarnavet är att den ska ge den enskilde individen enkel tillgång till information som finns i myndigheters register men även till annan registerinformation som medborgaren har rätt att få tillgång till, exempelvis från banker. Bakom projektet står Uppsala Universitet institutionen för Informatik och Media, Föreningen Sambruk och Definitivus AB.
 
