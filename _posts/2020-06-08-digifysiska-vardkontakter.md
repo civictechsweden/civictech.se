@@ -11,9 +11,7 @@ ingress-text: Projektet Digifysiska vårdkontakter ska skapa trygghet för medb
   som bor i särskilda boenden och deras anhöriga i Region Västerbottens närsjukvårdsområde
   södra Lappland. Projektet vill hantera utmaningen och öka dessa medborgares förtroende
   för vård och omsorg genom kombinationen av digitala och fysiska vårdtjänster.
-excerpt: 'Projektet Digifysiska vårdkontakter ska skapa trygghet för medborgare som
-  bor i särskilda boenden och deras anhöriga i Region Västerbottens närsjukvårdsområde
-  södra Lappland. '
+excerpt: Skapar trygghet för medborgare i särskilda boenden och deras anhöriga.
 image: "/uploads/kliniker_7_web.jpg"
 links:
 - title: Digifysiska vårdkontakter | RISE
