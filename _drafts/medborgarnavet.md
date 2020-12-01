@@ -28,7 +28,7 @@ contact:
   organisation-link: ''
 events: []
 chat: ''
-ref: ''
+ref: medborgarnavet
 
 ---
 Den grundläggande idén med Medborgarnavet är att för första gången ge medborgaren/individen enkel tillgång till den information som finns i myndigheters register men även till helt annan registerinformation (institutionella fakta) som medborgaren har rätt att få tillgång till, t.ex. från banker. Medborgarnavet skall sätta medborgaren i centrum och ge medborgaren digitalt direktförmedlad information från flera informationskällor. Tanken med Medborgarnavet är att vända på perspektivet och ge medborgaren direkt tillgång myndighetsinformation vilket är problematiskt idag. Medborgaren har i många falla rätt att få registerutdrag på papper men inte direkt digitalt förmedlad information. Otidsenlig och motstridig lagstiftning samt tolkning av lagen hindrar i flera fall att medborgaren kan få tillgång till sin egen information digitalt.
