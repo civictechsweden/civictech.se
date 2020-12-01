@@ -9,7 +9,7 @@ tags:
 - transparency
 - opendata
 - datascience
-chat: https://chat.civictech.se/channel/oppenupphandling
+chat: ''
 ref: oppenupphandling
 links:
 - title: Chatta om projektet
