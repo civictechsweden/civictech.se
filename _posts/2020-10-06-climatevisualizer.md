@@ -15,8 +15,8 @@ image: "/uploads/climatevisualizer-skarmdump-liten.png"
 links:
 - title: Klimatsekretariatet
   url: https://www.klimatsekretariatet.se
-- title: ClimateVisualizer at Nyköping municipality
-  url: https://climate-visualizer.netlify.app/
+- title: ClimateVisualizer
+  url: https://www.climatevisualizer.com/
 contact:
 - name: 'Anders Heggestad '
   image: "/uploads/bild-anders-heggestad-square.jpg"
