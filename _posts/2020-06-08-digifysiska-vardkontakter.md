@@ -7,10 +7,7 @@ categories:
 lang: sv
 date: 2020-06-08T10:25:33.000+02:00
 title: Digifysiska vårdkontakter
-ingress-text: Projektet Digifysiska vårdkontakter ska skapa trygghet för medborgare
-  som bor i särskilda boenden och deras anhöriga i Region Västerbottens närsjukvårdsområde
-  södra Lappland. Projektet vill hantera utmaningen och öka dessa medborgares förtroende
-  för vård och omsorg genom kombinationen av digitala och fysiska vårdtjänster.
+ingress-text: Skapar trygghet för medborgare i särskilda boenden och deras anhöriga.
 excerpt: Skapar trygghet för medborgare i särskilda boenden och deras anhöriga.
 image: "/uploads/kliniker_7_web.jpg"
 links:
