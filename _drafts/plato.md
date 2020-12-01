@@ -1,5 +1,5 @@
 ---
-group: []
+group: _groups/civic-tech-platform.md
 tags: []
 categories: []
 lang: sv
@@ -11,10 +11,17 @@ image: "/uploads/frihamnstorget.jpeg"
 links:
 - title: Plato Project
   url: https://www.platoproject.org/
-contact: []
+contact:
+- name: Hugi Asgeírsson
+  image: "/uploads/hugi.jpeg"
+  text: Projektledare och utvecklare
+  mail: info@platoproject.org
+  url: ''
+  organisation: ''
+  organisation-link: ''
 events: []
 chat: ''
-ref: ''
+ref: plato
 
 ---
 Vi vill göra livet lättare för deltagardrivna och decentraliserade processer. Platoverktygen hjälper er att samla in och ta beslut om ideer, kartlägga behov, budget och ansvarsområden, samt erbjuder en socialt fokuserad digital mötesplats för projektet.
