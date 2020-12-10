@@ -19,7 +19,7 @@ ref: fredagsfika
 
 ---
 ![](/uploads/fredagsfika.jpg)  
-If you're new - you're even more welcome! We'll start every fika with a round of introductions and then we'll have a question to discuss or listen to a lightning talk. You're welcome to stay just a while, a full hour or more!
+If you're new - you're even more welcome! We'll start every "[fika](https://sweden.se/culture-traditions/fika/)" (untranslatable Swedish word) with with a round of introductions and then we'll have a question to discuss or listen to a lightning talk. You're welcome to stay just a while, a full hour or more!
 
 We meet on [Zoom](https://us02web.zoom.us/j/87834088118?pwd=THAwK21CSGhTVWtSMWZJVzB3RG9MUT09) with Meeting ID: 878 3408 8118 and password 424242.
 
