@@ -7,10 +7,14 @@ excerpt: 'Var med på digitalt fika för folk i Civic Tech Sweden-communityn var
   klockan 15! '
 ingress-text: 'Var med på digitalt fika för folk i Civic Tech Sweden-communityn varje
   fredag klockan 15! '
-event-date: 2020-12-04 15:00:00 +0100
+event-date: 2020-12-11 15:00:00 +0100
 event-date-desc: Fredagar kl 15:00
 place: Online
-links: []
+links:
+- title: Forum
+  url: https://forum.civictech.se/t/fredagsfika-kl-15-varje-vecka-fika-3-pm-every-friday/18/
+- title: Zoom
+  url: https://us02web.zoom.us/j/87834088118?pwd=THAwK21CSGhTVWtSMWZJVzB3RG9MUT09
 ref: fredagsfika
 
 ---
@@ -20,6 +24,8 @@ Om du är ny är du särskilt välkommen! Vi börjar varje fika med en introdukt
 
 Vi möts på [Zoom](https://us02web.zoom.us/j/87834088118?pwd=THAwK21CSGhTVWtSMWZJVzB3RG9MUT09) med Mötes-ID: 878 3408 8118 och lösenord 424242.
 
-Välkommen! 
+Kolla gärna in [forumtråden om Fredagsfikat](/fredagsfika-kl-15-varje-vecka-fika-3/fredagsfika-kl-15-varje-vecka-fika-3-pm-every-friday/18/-pm-every-friday/18/) också för ev. extrainfo om tema för veckans fika! 
+
+Välkommen!
 
 (Foto av [Chris Montgomery](https://unsplash.com/@cwmonty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) på [Unsplash](https://unsplash.com/s/photos/coffee-computer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
