@@ -14,7 +14,6 @@ links:
 - url: https://www.goodtechhack.se/
   title: Anmälan & info
 ref: goodtechhack2021
-published: false
 
 ---
 ![](/uploads/good-tech-hack.jpg)
