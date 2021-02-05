@@ -22,7 +22,6 @@ links:
 - title: LinkedIn-event
   url: https://www.linkedin.com/events/6763485688173211648
 ref: community-tools
-published: false
 
 ---
 ![](/uploads/bild_lab_community_tools.jpg)
