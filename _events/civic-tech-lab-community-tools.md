@@ -2,7 +2,7 @@
 group: []
 lang: en
 title: 'Civic Tech Lab: Community Tools'
-image: ''
+image: "/uploads/bild_lab_community_tools.jpg"
 excerpt: Do you want to grow a community with the help of digital tools? This lab
   is for you! We will both see examples, talk about best practices and try out tools
   during the lab.
@@ -22,7 +22,6 @@ links:
 - title: LinkedIn Event
   url: https://www.linkedin.com/events/6763485688173211648
 ref: community-tools
-published: false
 
 ---
 ![](/uploads/bild_lab_community_tools.jpg)
