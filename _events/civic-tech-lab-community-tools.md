@@ -1,6 +1,6 @@
 ---
 group: []
-lang: en
+lang: sv
 title: 'Civic Tech Lab: Community Tools'
 image: "/uploads/bild_lab_community_tools.jpg"
 excerpt: Do you want to grow a community with the help of digital tools? This lab
@@ -10,16 +10,16 @@ ingress-text: Do you want to grow a community with the help of digital tools? Th
   lab is for you! We will both see examples, talk about best practices and try out
   tools during the lab.
 event-date: 2021-02-23 09:00:00 +0100
-event-date-desc: 23 February 2021 9-12 am CET
+event-date-desc: 23 februari 2021 9-12:00
 place: Online
 links:
-- title: Registration
+- title: Registrering
   url: https://www.eventbrite.com/e/civic-tech-lab-community-tools-tickets-140276682333
 - title: Forum
   url: https://forum.civictech.se/t/civic-tech-lab-community-tools/81
-- title: Facebook Event
+- title: Facebook-event
   url: https://www.facebook.com/events/515804356079422
-- title: LinkedIn Event
+- title: LinkedIn-event
   url: https://www.linkedin.com/events/6763485688173211648
 ref: community-tools
 published: false
