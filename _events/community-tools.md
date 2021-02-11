@@ -38,9 +38,14 @@ People already talk about your organisation or your subjects in one way or anoth
 
 Pernilla Näsfors Östmar and Mattias Jägerskog who both have decades of experience with community building in Sweden.
 
-**Special guest**
+**Special guests**
 
-Hugi Ásgeirsson is an instigator of participatory places, events, and communities who likes to make decentralized communities tick and tock. He's a co-founder at [Blivande](https://forum.blivande.com/t/civic-tech-lab-community-tools-23-february-2021-9-12-am-cet/1936), co-director of [Edgeryders](https://edgeryders.eu/t/civic-tech-lab-community-tools-23-february-2021-9-12-am-cet/15360) and project manager for the civic tech project [Plato](https://www.platoproject.org/).
+_Francesca Pick_  
+Francesca is an ecosystem builder that helps people and organisations all over the world work with participatory governance, network building, collaborative decision-making and budgeting. She has been key in building up communities such as [Enspiral](https://www.enspiral.com/) and [Ouishare](https://www.ouishare.net/) and uses that knowledge to help others shift to participatory and transparent practices. Read more about Francesca and see videos from her talks on [https://www.francescapick.com](https://www.francescapick.com "https://www.francescapick.com").
+
+_Hugi Ásgeirsson_ 
+
+Hugi is an instigator of participatory places, events, and communities who likes to make decentralized communities tick and tock. He's a co-founder at [Blivande](https://forum.blivande.com/t/civic-tech-lab-community-tools-23-february-2021-9-12-am-cet/1936), co-director of [Edgeryders](https://edgeryders.eu/t/civic-tech-lab-community-tools-23-february-2021-9-12-am-cet/15360) and project manager for the civic tech project [Plato](https://www.platoproject.org/).
 
 **Who can participate?**
 
