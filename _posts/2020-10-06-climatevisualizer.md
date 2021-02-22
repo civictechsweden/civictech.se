@@ -1,14 +1,16 @@
 ---
 group: _groups/civic-tech-platform.md
 tags:
-- öppna data
-- klimat
+- open data
+- climate
 categories: []
-lang: sv
+lang: en
 date: 2020-10-06 15:29:04 +0200
 title: ClimateVisualizer
-ingress-text: Klimatstatistik + koldioxidbudgetar = sanning
-excerpt: Klimatstatistik + koldioxidbudgetar = sanning
+ingress-text: Digital and local carbon budgets as a cloud service to municipalities,
+  regions and their inhabitants
+excerpt: Digital and local carbon budgets as a cloud service to municipalities, regions
+  and their inhabitants
 image: "/uploads/climatevisualizer-skarmdump-liten.png"
 links:
 - title: Klimatsekretariatet
@@ -27,14 +29,11 @@ events:
 - event: _events/how-can-data-help-fight-climate-change.md
 chat: ''
 ref: climatevisualizer
+permalink: "/en/projects/climatevisualizer/"
 
 ---
-ClimateVisualizer samlar in öppen data från våra statistikproducerande myndigheter och vecklar upp detta data i ett lokalt och därmed målgruppsanpassat gränssnitt. Denna statistik integreras sedan med, eller ”läggs på” en lika lokal koldioxidbudget. Därmed kan vi ge en lokal (kommunal) och aktuell bild av hur utsläppen rör sig över tid, samt hur fort de behöver minska om vi vill leva upp till Parisavtalet och de globala temperaturmålen.
+ClimateVisualizer (CV) is a research-based tool that establishes digital and local carbon budgets as a cloud service to municipalities, regions and their inhabitants. With the launch of CV the carbon budget concept is transformed from a scientific model intended for decision-makers, to an interactive information service that citizens and civil society can follow and understand on the Internet. What they then follow is the scientific path towards the Paris Agreement and the global temperature goals.
 
-Vår molntjänst gör det för första gången är möjligt för lekmannen att se och utforska den väg som den egna kommunen behöver följa för att nå de globala klimatmålen. Genom visualisering och en hög grad av interaktivitet försöker vi göra den vägen så begriplig och urskiljbar som möjligt.
+A local carbon budget gains from being considered in a local statistical context that, for instance, highlights emission trends, allows them to be extrapolated into the future, and educationally shows various greenhouse gases and emissions sectors. CV also offers this context, by repackaging our world-leading Swedish climate statistics in a new way. This is done by taking advantage of many of the possibilities of digitalisation to create interactive interfaces and visualize data, but also by a novel focus on the local user's information needs.
 
-Vi samverkar nära Uppsala universitet, som bedriver ledande forskning om hur man beräknar lokala koldioxidbudgetar. Nyligen lanserade vi en första version – en MVP – av ClimateVisualizer hos vår referenskund Nyköpings kommun. Här kan du titta på den: [https://climate-visualizer.netlify.app/](https://climate-visualizer.netlify.app/ "https://climate-visualizer.netlify.app/")
-
-Framöver anar vi en lång och spännande resa. Vi ska integrera en rad nya funktioner (kartvyer, större möjligheter för användaren att skapa egna framtidsscenarion och att därmed utforska gränserna för den egna koldioxidbudgeten och mycket annat). Vi sneglar på England, Holland och Tyskland och för dialoger med en rad institut och andra aktörer som vi hoppas ska hjälpa oss att ta steget ut i världen.
-
-Bakom projektet står en handfull entreprenörer och mjukvaruingenjörer men också en teoretisk filosof. Vi arbetar platt och distribuerat. Vår virtuella dörr står vidöppen för alla som vill bidra till att ge klimatvetenskapen en starkare röst i ett offentligt samtal som ofta är politiserat och sällan säger som det är. Vi är ett icke vinstdrivande företag (ett så kallat svb-bolag) med en genuint altruistisk agenda.
+Today there are two frameworks that give us different climate goals: a supranational where the Paris Agreement gives us global temperature targets and a national/local that produces emissions reduction targets. By applying official Swedish climate statistics to a more scientific framework (the local carbon budget), and visualizing the statistics both cumulatively and non- cumulatively, CV allows the user to evaluate to what extent local emissions and targets are compatible with the Paris agreement. Hereby the project strengthens confidence in climate statistics and associated authorities, while at the same time creating transparency relative to the various climate targets.
