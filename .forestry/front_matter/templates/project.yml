@@ -121,6 +121,16 @@ fields:
   config:
     required: true
   default: now
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: URL
+  description: Add a url to posts in English if they have the same title as the Swedish
+    post, otherwise there will be a conflict.
+  showOnly:
+    field: lang
+    value: en
 pages:
 - _posts/2020-06-08-digifysiska-vardkontakter.md
 - _posts/2020-10-06-climatevisualizer.md
