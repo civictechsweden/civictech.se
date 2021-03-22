@@ -1,7 +1,8 @@
 ---
 title: Civic Tech Sweden
 ref: start
-description: Ett nätverk för dig som arbetar med teknik för samhällsnytta
+description: Ett nätverk av personer och organisationer som arbetar med teknik för
+  samhällsnytta och digitala verktyg för demokrati, delaktighet och transparens.
 layout: start
 image: "/assets/images/civictech-banner.jpg"
 principles:

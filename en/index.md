@@ -1,19 +1,20 @@
 ---
 title: Civic Tech Sweden
 ref: start
-description: Hackathons and Meetups for the Civic Tech community of Sweden
+description: Network of people working with technology for the common good and digital
+  tools for community, democracy, and transparency.
 layout: start
-image: /assets/images/civictech-banner.jpg
+image: "/assets/images/civictech-banner.jpg"
 principles:
 - title: Power to the people
   text: Democracy, participation and transparency.
-  image: /assets/images/power.png
+  image: "/assets/images/power.png"
 - title: Sharing is caring
   text: Collaborative economy, the commons and sustainable consumption.
-  image: /assets/images/sharing.png
+  image: "/assets/images/sharing.png"
 - title: I like to move it
   text: Sustainable transportation, travel and mobility.
-  image: /assets/images/moveit.png
+  image: "/assets/images/moveit.png"
 partners:
 - title: Digidem Lab
   link: http://digidemlab.org
@@ -42,4 +43,5 @@ partners:
 - title: Skjutsgruppen
   logo: "/uploads/skjutsgruppen.png"
   link: https://skjutsgruppen.nu/
+
 ---
