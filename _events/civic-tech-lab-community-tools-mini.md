@@ -17,7 +17,9 @@ place: Online
 links:
 - url: https://www.eventbrite.se/e/civic-tech-lab-community-tools-mini-biljetter-147972025311
   title: Registrering
-ref: ''
+- title: Facebook-event
+  url: https://www.facebook.com/events/276963587228697/
+ref: community-tools-mini
 
 ---
 ![](/uploads/mini_community_tools.jpg)
