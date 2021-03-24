@@ -17,6 +17,8 @@ place: Online
 links:
 - url: https://www.eventbrite.se/e/civic-tech-lab-community-tools-mini-biljetter-147972025311
   title: Registrering
+- title: Forum-tråd
+  url: https://forum.civictech.se/t/civic-tech-lab-community-tools-23-february-2021-9-12-am-cet/81
 - title: Facebook-event
   url: https://www.facebook.com/events/276963587228697/
 ref: community-tools-mini
