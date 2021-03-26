@@ -6,9 +6,9 @@ image: "/uploads/fredagsfika.jpg"
 excerpt: 'Var med på digitalt fika för folk i Civic Tech Sweden-communityn varje fredag
   klockan 10! '
 ingress-text: 'Var med på digitalt fika för folk i Civic Tech Sweden-communityn varje
-  fredag klockan 10! '
-event-date: 2021-03-26 10:00:00 +0100
-event-date-desc: Fredagar kl 10:00
+  fredag klockan 15! '
+event-date: 2021-03-26 15:00:00 +0100
+event-date-desc: Fredagar kl 15:00
 place: Online
 links:
 - title: Zoom
