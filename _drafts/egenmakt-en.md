@@ -31,16 +31,16 @@ chat: ''
 ref: egenmakt
 
 ---
-### Syfte och mål
+### Purpose and goal
 
-Projektet ska bidra till ökad egenmakt för personer som varit utan arbete under en lång tid. Vi utvecklar ett digitalt stöd som motiverar att göra stegförflyttningar och ger kontroll över den egna rehabiliteringsprocessen. Det digitala stödet ska även ge jobbcoachen, anhöriga och arbetsgivare möjlighet att följa och stödja personens stegförflyttningar. 
+This project will contribute to increase the autonomy for people who have been without work for a long time. We are developing a digital support system that motivates people to make step-by-step, bite-sized actions while simultaneously giving them control over their own rehabilitation process. The digital support offered will also give the job coach, relatives, and employers the opportunity to follow and support the person's work rehabilitation journey.
 
-### Förväntade effekter och resultat
+### Expected effects and results
 
-Projektet ska resultera i en mobilapp (prototyp) som är anpassad till personens behov och förutsättningar för att komma närmare arbetsmarknaden. Personen är medskapare av det individanpassade stödet och kan involvera anhöriga och andra för att få stöd i sin process mot egenförsörjning. Det digitala stödet ska även ge jobbcoacherna möjlighet och inspiration då de får ett verktyg i en webbapp för att utveckla, stödja och följa personens stegförflyttningar. Förväntad effekt är att personen upplever ökat förtroende för den egna förmågan och för offentlig sektor – och därmed ökar möjligheten att nå egen försörjning.  
+The project will result in a mobile app (prototype) that is adapted to the person's needs and conditions for getting closer to the labor market. The person is a co-creator of the individualized support system which can involve relatives and others to help support them in their process towards self-sufficiency. The digital support will also give the job coaches the opportunity and inspiration to help as they get a tool in a web app to develop, support, and follow the person's work rehabilitation process. The expected effect is that the person experiences increased confidence in their own ability and in the public sector - thus increasing the possibility of them taking control of their own livelihood. 
 
-### Upplägg och genomförande
+### Layout and implementation
 
-Projektet finansieras av Vinnova och inleddes i november 2020 och avslutas i december 2021. Vi som driver projektet representerar offentlig sektor, näringslivet, forskningen och civilsamhället: Samordningsförbundet Stockholms stad, teknikföretaget Myindicators, forskningsinstitutet RISE, Stockholms Stadsmission och Attention Stockholm. Vi använder metoden tjänstedesign och undersöker vilka behov personerna inom förbundets insatser, jobbcoacher, anhöriga och arbetsgivare har för att öka motivationen att göra stegförflyttningar. 
+The project is funded by Vinnova and began in November 2020 and ends in December 2021. We who run the project represent the public sector, business, research, and civil society: Samordningsförbundet Stockholms stad, the technology company MyIndicators, the research institute RISE, Stockholms Stadsmission, and Attention Stockholm. We are using the service design method to examine the needs of the participants in Samordningsförbundet, job coaches, relatives, and employers to increase the motivation to take steps towards the labor market. 
 
-Vi är i full gång med att genomföra digitala stormöten där personerna och jobbcoacherna tillsammans bidrar genom att diskutera olika teman och frågor som gör att vi kommer vidare i den digitala utvecklingen. Det är engagerade diskussioner om mål, delmål, aktiviteter och vad som behövs för att göra stegförflyttningar. Till hösten är en prototyp klar som ska testas av personerna och jobbcoacherna.
+We are in full swing with conducting digital meetings where the participants and the job coaches come together to contribute by discussing various themes and issues that make us move forward in the digital development. There are engaging discussions about goals, sub-goals, activities, and what is needed to take steps in the right direction. By autumn this year, a prototype will be ready to be tested by the participant and the job coaches.
