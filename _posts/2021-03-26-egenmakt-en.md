@@ -4,7 +4,7 @@ tags: []
 categories: []
 lang: en
 date: 2021-03-26 11:08:03 +0100
-title: Egenmakt-en
+title: Egenmakt
 ingress-text: Digital support for work rehabilitation
 excerpt: Digital support for work rehabilitation
 image: "/uploads/egenmakt-digitalt_stod-1024x584.jpg"
