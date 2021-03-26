@@ -2,11 +2,11 @@
 group: _groups/civic-tech-platform.md
 tags: []
 categories: []
-lang: sv
+lang: en
 date: 2021-03-26 11:08:03 +0100
 title: Egenmakt-en
-ingress-text: Digitalt stöd för arbetsrehabilitering
-excerpt: Digitalt stöd för arbetsrehabilitering
+ingress-text: Digital support for work rehabilitation
+excerpt: Digital support for work rehabilitation
 image: "/uploads/egenmakt-digitalt_stod-1024x584.jpg"
 links:
 - title: Webbplats
@@ -18,10 +18,10 @@ contact:
   url: ''
   organisation: Samordningsförbundet Stockholm
   organisation-link: https://samordningstockholm.se
-  text: Verksamhetsutvecklare & Projektledare
+  text: Project Manager
 - name: Malene Schmidt
   image: ''
-  text: Medgrundare
+  text: Co-Founder
   mail: malene.schmidt@myindicators.se
   url: ''
   organisation: MyIndicators
