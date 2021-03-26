@@ -6,7 +6,7 @@ image: "/uploads/fredagsfika.jpg"
 excerpt: 'Join our informal digital "fika" for people in the Civic Tech Sweden community
   every Friday at 3 pm! '
 ingress-text: Join our informal digital "fika" for people in the Civic Tech Sweden
-  community every Friday at 3 pm! Note! No fika on Easter Friday 2 April!)
+  community every Friday at 3 pm! (Note! No fika on Easter Friday 2 April!)
 event-date: 2021-04-09 15:00:00 +0200
 event-date-desc: Fridays 15:00 CET
 place: Online
