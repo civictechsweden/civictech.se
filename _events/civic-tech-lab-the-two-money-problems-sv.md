@@ -1,7 +1,7 @@
 ---
 group: []
-lang: en
-title: 'Civic Tech Lab: The Two Money Problems-(copy)'
+lang: sv
+title: 'Civic Tech Lab: The Two Money Problems'
 image: "/uploads/bg_hemsidan.jpg"
 excerpt: Are you running a Civic Tech project anywhere in the world, or planning to
   do so? Welcome to our lab about money problems on May 5th!
@@ -20,7 +20,6 @@ links:
 - title: LinkedIn event
   url: https://www.linkedin.com/events/civictechlab-thetwomoneyproblem6790558140036378624/
 ref: money-problems
-published: false
 
 ---
 ![](/uploads/02money.jpg)
