@@ -1,6 +1,6 @@
 ---
 group: []
-lang: sv
+lang: en
 title: 'Civic Tech Lab: The Two Money Problems'
 image: ''
 excerpt: Short summary
@@ -11,7 +11,7 @@ place: Online
 links:
 - title: Forum
   url: https://forum.civictech.se/t/civic-tech-lab-the-two-money-problems-5-may-2021-16-00-to-17-30-cest-utc-2/233
-ref: ''
+ref: money-problems
 published: false
 
 ---
