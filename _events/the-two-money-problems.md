@@ -20,7 +20,6 @@ links:
 - title: LinkedIn event
   url: https://www.linkedin.com/events/civictechlab-thetwomoneyproblem6790558140036378624/
 ref: money-problems
-published: false
 
 ---
 ![](/uploads/02money.jpg)
