@@ -17,6 +17,10 @@ links:
   url: https://www.eventbrite.se/e/civic-tech-lab-the-two-money-problems-biljetter-151644178821
 - title: Forum
   url: https://forum.civictech.se/t/civic-tech-lab-the-two-money-problems-5-may-2021-16-00-to-17-30-cest-utc-2/233
+- title: Facebook event
+  url: https://www.facebook.com/events/1179686699117740/
+- title: LinkedIn event
+  url: https://www.linkedin.com/events/civictechlab-thetwomoneyproblem6790558140036378624/
 ref: money-problems
 published: false
 
