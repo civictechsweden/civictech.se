@@ -5,9 +5,8 @@ title: 'Civic Tech Lab: The Two Money Problems'
 image: "/uploads/bg_hemsidan.jpg"
 excerpt: Are you running a Civic Tech project anywhere in the world, or planning to
   do so? Welcome to our lab about money problems on May 5th!
-ingress-text: Are you running a project within the civic tech field? Then you recognise
-  “The Two Money Problems”, where the first problem is about getting started and the
-  second is about sustaining and scaling your solution over time.
+ingress-text: Are you running a Civic Tech project anywhere in the world, or planning
+  to do so? Welcome to our lab about money problems on May 5th!
 event-date: 2021-05-05 16:00:17 +0200
 event-date-desc: 5 May 2021 16:00-17:30 CEST [UTC+2]
 place: Online
