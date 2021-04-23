@@ -39,7 +39,7 @@ Digital, wherever you are, on Zoom (you get a Zoom-link after you register)
 
 The lab is free to join and all you have to do is sign up. 
 
-Sign up here: [Civic Tech Lab: The Two Money Problems| Eventbrite 6](https://www.eventbrite.se/e/civic-tech-lab-the-two-money-problems-biljetter-151644178821)
+[Sign up here.](https://www.eventbrite.se/e/civic-tech-lab-the-two-money-problems-biljetter-151644178821)
 
 ## The entry point for this lab
 
