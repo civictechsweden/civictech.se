@@ -21,6 +21,8 @@ ref: money-problems
 published: false
 
 ---
+![](/uploads/02money.jpg)
+
 **Are you running a project within the civic tech field?** Then you recognise “The Two Money Problems”, where the first problem is about getting started and the second is about sustaining and scaling your solution over time.
 
 How can we deal with money, funding and finances in such a way that it supports the business model over time? How does it matter if we use venture capital, crowdfunding or public grants to power our organizations?
@@ -35,7 +37,9 @@ Where our funding comes from surely affects our goals and behavior, which we bel
 
 Digital, wherever you are, on Zoom (you get a Zoom-link after you register)
 
-The lab is free to join and all you have to do is sign up. Sign up here: [Civic Tech Lab: The Two Money Problems| Eventbrite 6](https://www.eventbrite.se/e/civic-tech-lab-the-two-money-problems-biljetter-151644178821)
+The lab is free to join and all you have to do is sign up. 
+
+Sign up here: [Civic Tech Lab: The Two Money Problems| Eventbrite 6](https://www.eventbrite.se/e/civic-tech-lab-the-two-money-problems-biljetter-151644178821)
 
 ## The entry point for this lab
 
