@@ -24,7 +24,6 @@ links:
 - title: Facebook event
   url: https://www.facebook.com/events/838600613681540
 ref: sv
-published: false
 
 ---
 ### **Welcome to our 2-part lab about climate assemblies!**
