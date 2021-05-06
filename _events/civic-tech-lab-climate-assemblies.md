@@ -79,8 +79,8 @@ On the **18th of May**, we are inviting the **Danish Board of Technology**, whic
 * Conclusion
 
 ##### **Part 2.** 20 May 2021 09:00-12:00 CEST \[UTC+2\]  
-**  
-How do we create a climate assembly? (with Digidem Lab, in Swedish)**
+  
+**How do we create a climate assembly? (with Digidem Lab, in Swedish)**
 
 On the **20th of May**, we roll our sleeves up and put you behind the wheel. What **questions** would your climate assembly answer? What would be its **mandate**? How would you recruit the **participants**? How would it be **facilitated**?
 
