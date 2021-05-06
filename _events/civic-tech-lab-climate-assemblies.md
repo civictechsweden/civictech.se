@@ -110,10 +110,10 @@ In our forum we will post more information about citizens assemblies, so make su
 
 **More questions?**
 
-Write your question below or send us an e-mail!
+Write your question in the forum or send us an e-mail!
 
 Sanna Ghotbi - sanna@digidemlab.org
 
-Pierre Mesure - \[pierre.mesure@gmail.com
+Pierre Mesure - pierre.mesure@gmail.com
 
-\](mailto:pierre.mesure@gmail.com)The pictures used in this post are taken from the [wonderful documentary](https://www.allhandsondoc.com/when-citizens-assemble) made by our friends at [All Hands On Docs](https://www.allhandsondoc.com) ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)). Go and check it out!
+The pictures used in this post are taken from the [wonderful documentary](https://www.allhandsondoc.com/when-citizens-assemble) made by our friends at [All Hands On Docs](https://www.allhandsondoc.com) ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)). Go and check it out!
