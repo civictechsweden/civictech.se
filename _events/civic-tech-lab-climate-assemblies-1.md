@@ -110,7 +110,7 @@ In our forum we will post more information about citizens assemblies, so make su
 
 **More questions?**
 
-Write your question below or send us an e-mail!
+Write your question in the forum or send us an e-mail!
 
 Sanna Ghotbi - sanna@digidemlab.org
 
