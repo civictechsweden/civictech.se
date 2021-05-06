@@ -1,6 +1,6 @@
 ---
 group: []
-lang: en
+lang: sv
 title: 'Civic Tech Lab: Climate Assemblies'
 image: "/uploads/assemblies.jpg"
 excerpt: 'Welcome to our 2-part lab about climate assemblies!  Climate assemblies
@@ -23,7 +23,7 @@ links:
   url: https://www.linkedin.com/events/6795324227797999616/
 - title: Facebook event
   url: https://www.facebook.com/events/838600613681540
-ref: en
+ref: sv
 published: false
 
 ---
