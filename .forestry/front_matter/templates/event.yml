@@ -72,6 +72,7 @@ fields:
       path: 
   label: Language
 pages:
+- _events/civic-tech-lab-climate-assemblies.md
 - _events/civic-tech-lab-community-engagement-1.md
 - _events/civic-tech-lab-community-engagement.md
 - _events/civic-tech-lab-community-tools-mini.md
