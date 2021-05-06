@@ -15,14 +15,14 @@ event-date-desc: 18 May 2021 09:00-12:00 CEST [UTC+2] and 20 May 2021 09:00-12:0
   CEST [UTC+2]
 place: Online
 links:
-- title: LinkedIn Event
-  url: https://www.linkedin.com/events/6795324227797999616/
-- title: Facebook event
-  url: https://www.facebook.com/events/838600613681540
 - title: Tickets
   url: https://www.eventbrite.se/e/civic-tech-lab-climate-assemblies-biljetter-153446343143
 - title: Forum
   url: https://forum.civictech.se/t/civic-tech-lab-climate-assemblies-can-they-help-sweden-to-tackle-climate-change-18-20-may-2021/241
+- title: LinkedIn Event
+  url: https://www.linkedin.com/events/6795324227797999616/
+- title: Facebook event
+  url: https://www.facebook.com/events/838600613681540
 ref: en
 published: false
 
@@ -63,8 +63,8 @@ In Sweden, thousands participated in **Klimatriksdagen's** process in 2018 where
 
 Our aim for this lab is to gather climate and government experts to explore the potential benefits of climate assemblies in Sweden.
 
-##### **Part 1.** 18 May 2021 09:00-12:00 CEST \[UTC+2\]**  
-  
+##### **Part 1.** 18 May 2021 09:00-12:00 CEST \[UTC+2\]  
+**  
 What are climate assemblies, why are they important and how can they help our democracy? (with Klimatriksdagen and organisers of the Danish Climate Assembly, in English)**
 
 On the **18th of May**, we are inviting the **Danish Board of Technology**, which led the facilitation of the Danish climate assembly, and **Klimatriksdagen** to present their work. In a panel discussion they will discuss the citizen-led processes they organised. What did they achieve, what are their limits? Could Sweden benefit from more citizen participation to tackle climate change? What can citizens assemblies bring to the picture?
