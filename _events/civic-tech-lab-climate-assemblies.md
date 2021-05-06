@@ -1,18 +1,29 @@
 ---
 group: []
-lang: sv
+lang: en
 title: 'Civic Tech Lab: Climate Assemblies'
 image: "/uploads/assemblies.jpg"
 excerpt: 'Welcome to our 2-part lab about climate assemblies!  Climate assemblies
   is a method where randomly selected citizens deliberate, meet experts and develop
   concrete recommendations for governments. '
-ingress-text: ''
+ingress-text: |-
+  Welcome to our 2-part lab about climate assemblies!
+
+  Climate assemblies is a method where randomly selected citizens deliberate, meet experts and develop concrete recommendations for governments. They do not replace elected officials, but because they are composed of citizens from all walks of life, research shows that they can come up with new solutions and manage to reach a wider consensus.
 event-date: 2021-05-18 00:00:00 +0200
 event-date-desc: 18 May 2021 09:00-12:00 CEST [UTC+2] and 20 May 2021 09:00-12:00
   CEST [UTC+2]
 place: Online
-links: []
-ref: ''
+links:
+- title: LinkedIn Event
+  url: https://www.linkedin.com/events/6795324227797999616/
+- title: Facebook event
+  url: https://www.facebook.com/events/838600613681540
+- title: Tickets
+  url: https://www.eventbrite.se/e/civic-tech-lab-climate-assemblies-biljetter-153446343143
+- title: Forum
+  url: https://forum.civictech.se/t/civic-tech-lab-climate-assemblies-can-they-help-sweden-to-tackle-climate-change-18-20-may-2021/241
+ref: en
 published: false
 
 ---
