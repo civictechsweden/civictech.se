@@ -11,7 +11,7 @@ ingress-text: |-
 
   Climate assemblies is a method where randomly selected citizens deliberate, meet experts and develop concrete recommendations for governments. They do not replace elected officials, but because they are composed of citizens from all walks of life, research shows that they can come up with new solutions and manage to reach a wider consensus.
 event-date: 2021-05-18 00:00:00 +0200
-event-date-desc: 18 May 2021 09:00-12:00 CEST [UTC+2] and 20 May 2021 09:00-12:00
+event-date-desc: 18 May 2021 09:00-10:30 CEST [UTC+2] and 20 May 2021 09:00-11:00
   CEST [UTC+2]
 place: Online
 links:
