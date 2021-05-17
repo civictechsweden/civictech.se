@@ -11,7 +11,7 @@ ingress-text: |-
 
   Climate assemblies is a method where randomly selected citizens deliberate, meet experts and develop concrete recommendations for governments. They do not replace elected officials, but because they are composed of citizens from all walks of life, research shows that they can come up with new solutions and manage to reach a wider consensus.
 event-date: 2021-05-18 00:00:00 +0200
-event-date-desc: 18 May 2021 09:00-12:00 CEST [UTC+2] and 20 May 2021 09:00-12:00
+event-date-desc: 18 May 2021 09:00-10:30 CEST [UTC+2] and 20 May 2021 09:00-11:00
   CEST [UTC+2]
 place: Online
 links:
@@ -32,11 +32,11 @@ We start on Tuesday with everything you need to know about climate assemblies an
 
 18 and 20 May 2021.
 
-**Part 1.** 18 May 2021 09:00-12:00 CEST \[UTC+2\]
+**Part 1.** 18 May 2021 09:00-10:30 CEST \[UTC+2\]
 
 What are citizens assemblies, why are they important and how can they help our democracy? Background and panel discussion. Part 1 is in English, read more below.
 
-**Part 2.** 20 May 2021 09:00-12:00 CEST \[UTC+2\]
+**Part 2.** 20 May 2021 09:00-11:00 CEST \[UTC+2\]
 
 How do we create a climate assembly? Hands-on workshop based on the kind of assemblies you want. Part 2 is in Swedish, read more below.
 
@@ -44,7 +44,7 @@ How do we create a climate assembly? Hands-on workshop based on the kind of asse
 
 This lab is part of Open Gov Week which this year is digital, wherever you are.
 
-The lab is free to join and you will get a Zoom-link after you sign up. Sign up here: länk till eventbrite
+The lab is free to join and you will get a Zoom-link after you sign up. [Sign up here](https://www.eventbrite.se/e/civic-tech-lab-climate-assemblies-biljetter-153446343143).
 
 #### **The entry point for this lab**
 
@@ -58,10 +58,9 @@ In Sweden, thousands participated in **Klimatriksdagen's** process in 2018 where
 
 Our aim for this lab is to gather climate and government experts to explore the potential benefits of climate assemblies in Sweden.
 
-##### **Part 1.** 18 May 2021 09:00-12:00 CEST \[UTC+2\]
+##### **Part 1.** 18 May 2021 09:00-10:30 CEST \[UTC+2\]
 
-\**  
-What are climate assemblies, why are they important and how can they help our democracy? (with Klimatriksdagen and organisers of the Danish Climate Assembly, in English)**
+**What are climate assemblies, why are they important and how can they help our democracy? (with Klimatriksdagen and organisers of the Danish Climate Assembly, in English)**
 
 On the **18th of May**, we are inviting the **Danish Board of Technology**, which led the facilitation of the Danish climate assembly, and **Klimatriksdagen** to present their work. In a panel discussion they will discuss the citizen-led processes they organised. What did they achieve, what are their limits? Could Sweden benefit from more citizen participation to tackle climate change? What can citizens assemblies bring to the picture?
 
@@ -74,7 +73,7 @@ On the **18th of May**, we are inviting the **Danish Board of Technology**, whic
 * Panel discussion with questions from the public (40 min)
 * Conclusion
 
-##### **Part 2.** 20 May 2021 09:00-12:00 CEST \[UTC+2\]
+##### **Part 2.** 20 May 2021 09:00-11:00 CEST \[UTC+2\]
 
 **How do we create a climate assembly? (with Digidem Lab, in Swedish)**
 
@@ -112,8 +111,8 @@ In our forum we will post more information about citizens assemblies, so make su
 
 Write your question in the forum or send us an e-mail!
 
-Sanna Ghotbi - sanna@digidemlab.org
+Sanna Ghotbi - [sanna@digidemlab.org](mailto:sanna@digidemlab.org)
 
-Pierre Mesure - pierre.mesure@gmail.com
+Pierre Mesure - [pierre@digidemlab.org](mailto:pierre@digidemlab.org)
 
 The pictures used in this post are taken from the [wonderful documentary](https://www.allhandsondoc.com/when-citizens-assemble) made by our friends at [All Hands On Docs](https://www.allhandsondoc.com) ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)). Go and check it out!
