@@ -1,7 +1,7 @@
 ---
 group: []
 lang: en
-title: Gemensamt remissvar kring nya EU-regler för AI (eng)
+title: Gemensamt remissvar kring nya EU-regler för AI
 image: "/uploads/clean_till_hemsidan.jpg"
 excerpt: 'Nu skriver vi tillsammans igen - i ett öppet gemensamt dokument!  Den 21
   maj skickades Europeiska kommissionens förslag till "Förordning om harmoniserade
