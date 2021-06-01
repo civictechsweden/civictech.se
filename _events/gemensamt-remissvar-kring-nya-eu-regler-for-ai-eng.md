@@ -1,6 +1,6 @@
 ---
 group: []
-lang: sv
+lang: en
 title: Gemensamt remissvar kring nya EU-regler för AI (eng)
 image: "/uploads/clean_till_hemsidan.jpg"
 excerpt: 'Nu skriver vi tillsammans igen - i ett öppet gemensamt dokument!  Den 21
@@ -21,8 +21,7 @@ links:
   url: https://forum.civictech.se/t/259
 - title: Dokumentet
   url: https://docs.google.com/document/d/1fwn4jkBC52Asm2j9JwLlQZN8to5S4pa3QAkbj1WCwVQ/edit?usp=sharing
-ref: sv
-published: false
+ref: en
 
 ---
 Pernilla har startat en tråd i forumet med alla dokument vi behöver och du kan öppna dokumentet direkt från det här inlägget och börja skriva.  
