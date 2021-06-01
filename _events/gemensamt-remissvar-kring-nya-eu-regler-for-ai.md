@@ -22,7 +22,6 @@ links:
 - title: Dokumentet
   url: https://docs.google.com/document/d/1fwn4jkBC52Asm2j9JwLlQZN8to5S4pa3QAkbj1WCwVQ/edit?usp=sharing
 ref: sv
-published: false
 
 ---
 Pernilla har startat en tråd i forumet med alla dokument vi behöver och du kan öppna dokumentet direkt från det här inlägget och börja skriva.  
