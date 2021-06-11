@@ -5,8 +5,8 @@ categories: []
 lang: sv
 date: 2021-06-10 19:12:54 +0200
 title: Place-to-plan
-ingress-text: Digital plattform för plats- och plandialog
-excerpt: Digital plattform för plats- och plandialog
+ingress-text: A digital platform for place- and plan dialogue
+excerpt: A digital platform for place- and plan dialogue
 image: "/uploads/placetoplan_illustration_ny-web.jpg"
 links:
 - title: Placetoplan.se
@@ -24,16 +24,16 @@ chat: ''
 ref: placetoplan
 
 ---
-En plattform för Planerare (kommuner, fastighetsägare, konsulter, privatpersoner) att samla in och sammanställa synpunkter på en plats eller en plan. En plattform för Allmänheten (privatpersoner, företag, föreningar) att se och ge synpunkter på en plats eller en plan.
+A platform for planners (municipalities, property owners, consultants, organizations) to collect and compile views on a site or a plan. A platform for the Public (individuals, companies, organizations) to see and provide views on a place or a plan.
 
-Stadsplanering och platsutveckling är en komplex väv av intressen och i många planprojekt kan mängden synpunkter bli överväldigande. Hållbar platsutveckling och planering bygger på tillit, transparens och effektivitet. Placetoplan kan lyfta planeringsprocessen just därför att verktyget skapar tillit till organisationer som visar att de lyssnar, och skapar transparens eftersom alla får se allas synpunkter och effektiviserar planarbetet eftersom alla synpunkter kan sammanställas och analyseras med några klick, i jämförelse med det omfattande arbete som hittills har krävts vid exempelvis samrådsredogörelser. Placetoplan är den digitala plattformen för dialog och konsultföretaget Spacescape utgör supporten med sina erfarna planerare och platsutvecklare.
+Urban planning and placemaking is a complex web of interests and in many planning projects the amount of views can be overwhelming. Sustainable urban development and planning are based on trust, transparency and efficiency. Placetoplan can elevate the planning process because the tool creates trust in organizations that show that they listen, it creates transparency because everyone can see everyone's views and it streamlines planning work because all views can be compiled and analyzed with a few clicks, compared to the extensive work so far. Placetoplan is the digital platform for dialogue and the consulting company Spacescape is the support with its experienced planners.
 
-Placetoplan kommer från tre grundläggande idéer.
+Placetoplan comes from three basic ideas:
 
-* Stadsutveckling är alltid platsbaserad och synpunkter förstår bäst om de kopplas till platser.
-* En utvecklingsprocess utgår alltid från en befintlig plats med sina kvaliteter och identiteter.
-* Placetoplan är en plats på nätet att bli delaktig i planeringen.
+* Urban development is always place-based and views are best understood if they are linked to places.
+* A development process always starts from an existing place with its qualities and identities.
+* Placetoplan is an online place to get involved in planning.
 
-Allt började på 1990-talet med en praktikanställning på Stockholms stadsbyggnadskontor. Landskapsarkitektstudenten Alexander Ståhle skulle tillsammans med översiktsplanerare och fd stadsträdgårdsmästaren Anders Sandberg ta fram en karta över hur grönområdena användes i staden. Denna fick namnet ’sociotopkartan’ och har sedan dess varit ett underlag för stadsplaneringen, inte bara i Stockholm utan även i flera andra svenska städer. Sociotopkartan, som visar grönområdenas användning, byggde på flertalet enkäter och intervjuer med stockholmarna för att ta reda på värdefulla platser och platser som behöver utvecklas. Med hjälp av sociotopkartan kunde GIS-analyser genomföras som visade att grönområdenas kvalitet hade stor påverkan hur människor upplever tillgången på grönområden i olika stadsdelar. Den amerikanska organisationen Project for Public Spaces som driver dialogprocesser för att utveckla offentliga rum över hela världen, så kallad ”placemaking”, hade bland annat utvecklat en websida som de kallade Placemap där det var möjligt att sätta markeringar på en karta på nätet för att markera värdefulla platser eller platser som kan förbättras. Det kallades ”digital placemaking” och resultatet blev en slags sociotopkarta. När Alexander 2019 beslöt att starta it-bolaget Placetoplan var det för att bygga en plattform som kunde hantera hela planprocessen och bli en dialogplattform där planerare kan analysera stora mängder synpunkter och som samtidigt är enkelt lättillgängligt för allmänheten, likt ett Instagram för stadsplaner och platsutveckling.
+It all started in the 1990s with an internship at Stockholm's city planning office. Landscape architecture student Alexander Ståhle, together with master planner and former city gardener Anders Sandberg, was to produce a map of how the green areas were used in the city. This was named the 'sociotope map' and has since been a basis for urban planning, not only in Stockholm but also in several other Swedish cities. The sociotope map, which shows the use of green areas, was based on several surveys and interviews with Stockholmers to find out valuable places and places that need to be changed. With the help of the sociotope map, GIS analyzes could be carried out which showed that the quality of the green areas had a great impact on how people experience the availability of green areas in different districts. The American organization Project for Public Spaces, which runs dialogue processes to develop public spaces around the world, so-called "placemaking", had developed a webtool called Placemap where it was possible to put markings on a map to mark valuable places or places that can be improved. It was called "digital placemaking" and the result was a kind of sociotope map. When Alexander 2019 decided to start the IT company Placetoplan, it was to build a platform that could handle the entire planning process and become a dialogue platform where planners can analyze large amounts of data and which is at the same time easily accessible to the public, like an Instagram for city plans and site development.
 
-Placetoplan har fått stöd från Vinnova inom Civic Tech samt som innovativ startup.
+Placetoplan has received funding from Vinnova within Civic Tech and as an innovative startup.
