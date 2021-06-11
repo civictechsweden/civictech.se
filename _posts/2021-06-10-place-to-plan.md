@@ -4,7 +4,7 @@ tags: []
 categories: []
 lang: en
 date: 2021-06-10 19:12:54 +0200
-title: Place-to-plan
+title: Placetoplan
 ingress-text: A digital platform for place- and plan dialogue
 excerpt: A digital platform for place- and plan dialogue
 image: "/uploads/placetoplan_illustration_ny-web.jpg"
