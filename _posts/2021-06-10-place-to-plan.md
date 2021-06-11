@@ -2,7 +2,7 @@
 group: _groups/civic-tech-platform.md
 tags: []
 categories: []
-lang: sv
+lang: en
 date: 2021-06-10 19:12:54 +0200
 title: Place-to-plan
 ingress-text: A digital platform for place- and plan dialogue
@@ -14,7 +14,7 @@ links:
 contact:
 - name: Alexander Ståhle
   image: ''
-  text: Grundare
+  text: Founder
   mail: alexander.stahle@spacescape.se
   url: ''
   organisation: Placetoplan AB
