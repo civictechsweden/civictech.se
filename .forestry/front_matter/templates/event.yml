@@ -72,6 +72,7 @@ fields:
       path: 
   label: Language
 pages:
+- _events/almedalen2021.md
 - _events/civic-tech-lab-climate-assemblies-1.md
 - _events/civic-tech-lab-climate-assemblies.md
 - _events/civic-tech-lab-community-engagement-1.md
@@ -96,7 +97,6 @@ pages:
 - _events/hur-kan-data-hjalpa-oss-att-radda-klimatet.md
 - _events/kopplingssprint.md
 - _events/online-cryptoparty.md
-- _events/samskapa-teknik-for-samhallsnytta.md
 - _events/the-two-money-problems.md
 - _events/utfragning-kring-oppna-data-utredningen.md
 - _events/workshop-for-writing-responses-to-the-open-data-inquiry.md
