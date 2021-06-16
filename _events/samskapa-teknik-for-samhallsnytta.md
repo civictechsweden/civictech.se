@@ -16,7 +16,6 @@ links:
 - title: Facebook-event
   url: https://www.facebook.com/events/547957049699577
 ref: almedalen2021
-published: false
 
 ---
 ![](/uploads/almedalen_eventbrite.jpg)
