@@ -57,25 +57,22 @@ Den 6 juli kl 13.15 till 16.15 kommer du både få lära känna projekten här o
 Så här går det till: 
 
 **Inledning**
-
 2 minuter inledande presentation av varje projekt. Därefter följer tre samtalsrundor i breakout rooms.
 
-**Omgång 1: Vad är det underliggande syftet?  
-**Med denna fråga utforskas vad syfte och drivkrafter är bakom projektet. Vilket behov har inspirerat initiativet?
+**Omgång 1: Vad är det underliggande syftet?**
+Med denna fråga utforskas vad syfte och drivkrafter är bakom projektet. Vilket behov har inspirerat initiativet?
 
-**Omgång 2: Vad saknas?  
-**Denna utforskande fråga kan bidra till klarhet i vad som kan göra projektet mer komplett och möjligt.
+**Omgång 2: Vad saknas?**  
+Denna utforskande fråga kan bidra till klarhet i vad som kan göra projektet mer komplett och möjligt.
 
 **Omgång 3: Nästa steg?**
-
 Denna runda har fyra frågor för att knyta ihop samtalen:
 
 Vad har projekten lärt sig om sig själva? Vad har de lärt sig om sina egna roller i projektet? Vilka nästa steg ska de ta? Vilken ytterligare hjälp är de i behov av?
 
 **Avslutning** då vi möts i storgrupp och de som fått hjälp med sina projekt får dela med sig av svaren på dessa två frågor: Vad tar vi med oss? Vilka är våra nästa steg?
 
-**  
-Vilka arrangerar?**
+**Vilka arrangerar?**
 
 Vi som arrangerar labbet heter Civic Tech Sweden. Vi är ett växande nätverk i Sverige för människor som arbetar med teknik för samhällsnytta samt digitala verktyg för demokrati, delaktighet och transparens. Alla som vill får delta!
 
