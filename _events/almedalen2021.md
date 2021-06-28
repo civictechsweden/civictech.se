@@ -10,11 +10,13 @@ event-date-desc: 6 juli kl 13.15 - 16.15
 place: Online
 links:
 - title: Anmälan
-  url: https://www.eventbrite.se/e/samskapa-teknik-for-samhallsnytta-civic-tech-lab-under-digitala-almedalen-biljetter-159665412547
+  url: https://www.eventbrite.se/e/samskapa-teknik-for-samhallsnytta-civic-tech-lab-under-digitala-almedalen-biljetter-159665412547?aff=ctse
 - title: Forum-tråd
   url: https://forum.civictech.se/t/273
 - title: Facebook-event
   url: https://www.facebook.com/events/547957049699577
+- title: LinkedIn-event
+  url: https://www.linkedin.com/events/samskapateknikf-rsamh-llsnytta-6813043619415568384/
 ref: almedalen2021
 
 ---
