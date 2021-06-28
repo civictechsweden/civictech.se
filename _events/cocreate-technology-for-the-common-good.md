@@ -1,24 +1,24 @@
 ---
 group: _groups/civic-tech-platform.md
-lang: sv
+lang: en
 title: Cocreate Technology for the Common Good
 image: "/uploads/almedalen_eventbrite.jpg"
-excerpt: " Civic Tech Lab under Digitala Almedalen"
-ingress-text: " Civic Tech Lab under Digitala Almedalen"
+excerpt: " Civic Tech Lab during Digital Almedalen (Note! The event is held in Swedish!)"
+ingress-text: " Civic Tech Lab during Digital Almedalen (Note! The event is held in
+  Swedish!)"
 event-date: 2021-07-06 13:15:00 +0200
-event-date-desc: 6 juli kl 13.15 - 16.15
+event-date-desc: 6 July 13:15 - 16:15
 place: Online
 links:
-- title: Anmälan
+- title: Registration
   url: https://www.eventbrite.se/e/samskapa-teknik-for-samhallsnytta-civic-tech-lab-under-digitala-almedalen-biljetter-159665412547?aff=ctse
-- title: Forum-tråd
+- title: Forum thread
   url: https://forum.civictech.se/t/273
-- title: Facebook-event
+- title: Facebook Event
   url: https://www.facebook.com/events/547957049699577
-- title: LinkedIn-event
+- title: LinkedIn Event
   url: https://www.linkedin.com/events/samskapateknikf-rsamh-llsnytta-6813043619415568384/
 ref: almedalen2021
-published: false
 
 ---
 ![](/uploads/almedalen_eventbrite.jpg)
