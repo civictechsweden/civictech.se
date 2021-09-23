@@ -1,13 +1,10 @@
 ---
 group: []
 lang: en
-title: Civic Tech Demodag-EN
+title: Civic Tech Demo Day
 image: "/uploads/folk.png"
 excerpt: Demo day for 14 civic tech projects (note, this event is held in Swedish)
-ingress-text: Vinnova har under 2020 och 2021 genomfört en satsning på civic tech
-  där 14 projekt fått stöd för att utveckla medborgarnära tjänster i samverkan med
-  idéburna organisationer, offentliga verksamheter och digital talang. Nu är det dags
-  för rapportering - och du kommer få träffa alla projekten!
+ingress-text: Demo day for 14 civic tech projects (note, this event is held in Swedish)
 event-date: 2021-10-05 09:00:00 +0200
 event-date-desc: October 5
 place: Digitalt
