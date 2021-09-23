@@ -11,8 +11,8 @@ ingress-text: Vinnova har under 2020 och 2021 genomfört en satsning på civic t
   där 14 projekt fått stöd för att utveckla medborgarnära tjänster i samverkan med
   idéburna organisationer, offentliga verksamheter och digital talang. Nu är det dags
   för rapportering - och du kommer få träffa alla projekten!
-event-date: 2021-10-05 00:00:00 +0200
-event-date-desc: 5 oktober 2021
+event-date: 2021-10-05 09:00:00 +0200
+event-date-desc: 5 oktober 2021 kl 09.00 till 12.00
 place: Digitalt
 links:
 - title: Se sändningen på YouTube
