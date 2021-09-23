@@ -19,6 +19,10 @@ links:
   url: https://www.youtube.com/watch?v=nN6h4g1RESg&ab_channel=vinnovase
 - title: Läs om alla projekten
   url: https://forum.civictech.se/t/civic-tech-demodag-5-oktober-2021-kl-09-00-till-12-00-titta-live-har/343
+- title: LinkedIn-event
+  url: https://www.linkedin.com/events/civictechdemodag-uppt-cknytekni6843533164636372992/
+- title: Facebook-event
+  url: https://www.facebook.com/events/190185966550178
 ref: sv
 
 ---
