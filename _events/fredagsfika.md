@@ -7,7 +7,7 @@ excerpt: Var med på digitalt fika för folk i Civic Tech Sweden-communityn varj
   klockan 15! (OBS! Inget fika Långfredagen 2/4!)
 ingress-text: Var med på digitalt fika för folk i Civic Tech Sweden-communityn varje
   fredag klockan 15! (OBS! Inget fika Långfredagen 2/4!)
-event-date: 2021-04-09 15:00:00 +0200
+event-date: 2021-10-15 15:00:00 +0200
 event-date-desc: Fredagar kl 15:00
 place: Online
 links:
