@@ -11,8 +11,6 @@ event-date: 2021-01-29 15:00:00 +0100
 event-date-desc: Fredagar kl 15:00
 place: Online
 links:
-- title: Zoom
-  url: https://us02web.zoom.us/j/87834088118?pwd=THAwK21CSGhTVWtSMWZJVzB3RG9MUT09
 - title: Forum
   url: https://forum.civictech.se/t/fredagsfika-kl-15-varje-vecka-fika-3-pm-every-friday/18/
 ref: fredagsfika
