@@ -7,7 +7,7 @@ excerpt: Var med på digitalt fika för folk i Civic Tech Sweden-communityn varj
   klockan 15!
 ingress-text: 'Var med på digitalt fika för folk i Civic Tech Sweden-communityn varje
   fredag klockan 15! '
-event-date: 2021-12-17 15:00:00 +0100
+event-date: 2021-01-29 15:00:00 +0100
 event-date-desc: Fredagar kl 15:00
 place: Online
 links:
