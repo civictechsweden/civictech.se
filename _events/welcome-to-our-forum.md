@@ -8,8 +8,8 @@ excerpt: Our forum is the hub for the Civic Tech Sweden network - feel free to j
 ingress-text: Our forum is the hub for the Civic Tech Sweden network - feel free to
   join, post your own entrys and respond to others!
 event-date: 2022-01-04 00:00:00 +0100
-event-date-desc: Pågående
-place: Överallt
+event-date-desc: Ongoing
+place: Where ever you are
 links:
 - title: Our forum
   url: https://forum.civictech.se/
