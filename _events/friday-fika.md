@@ -1,7 +1,7 @@
 ---
 group: []
 lang: en
-title: Friday Fika
+title: Friday Fika (not anymore)
 image: "/uploads/fredagsfika.jpg"
 excerpt: 'Join our informal digital "fika" for people in the Civic Tech Sweden community
   every Friday at 3 pm! '
@@ -17,6 +17,10 @@ ref: fredagsfika
 
 ---
 ![](/uploads/fredagsfika.jpg)  
+Updated: We don't have Friday fikas anymore.
+
+Previous text:
+
 If you're new or haven't "fikat" before - you're even more welcome! ("[Fika](https://sweden.se/culture-traditions/fika/)" is an untranslatable Swedish noun and verb.) We'll start every "fika" with with a round of introductions and then we'll have a question to discuss or listen to a lightning talk. You're welcome to stay just a while, a full hour or more!
 
 We meet on [Zoom](https://us02web.zoom.us/j/87834088118?pwd=THAwK21CSGhTVWtSMWZJVzB3RG9MUT09) with Meeting ID: 878 3408 8118 and password 424242.
