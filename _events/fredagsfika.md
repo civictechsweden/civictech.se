@@ -1,7 +1,7 @@
 ---
 group: []
 lang: sv
-title: Fredagsfika
+title: Fredagsfika (avslutat)
 image: "/uploads/fredagsfika.jpg"
 excerpt: Var med på digitalt fika för folk i Civic Tech Sweden-communityn varje fredag
   klockan 15!
@@ -17,6 +17,10 @@ ref: fredagsfika
 
 ---
 ![](/uploads/fredagsfika.jpg)
+
+Uppdaterat: vi har inte längre fredagsfika.
+
+Tidigare text:
 
 Om du är ny är du särskilt välkommen! Vi börjar varje fika med en introduktionsrunda och sedan samtalar vi om någon fråga eller lyssnar på någon kort presentation. Du är välkommen att stanna bara en stund eller en hel timme eller mer!
 
