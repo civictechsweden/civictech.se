@@ -1,12 +1,12 @@
 ---
 title: Civic Tech Sweden
 timezone: Europe/Stockholm
-baseurl: ''
+baseurl: ""
 collections:
   events:
     title: Events
     output: true
-    permalink: "/:title/"
+    permalink: /:title/
   posts:
     title: Posts
     output: true
@@ -16,88 +16,89 @@ collections:
   groups:
     title: Groups
     output: true
-    permalink: "/:title/"
+    permalink: /:title/
 defaults:
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-    lang: sv
-- scope:
-    path: en
-    type: pages
-  values:
-    layout: page
-    lang: en
-- scope:
-    path: form
-    type: pages
-  values:
-    layout: event
-    lang: sv
-- scope:
-    path: en/form
-    type: pages
-  values:
-    layout: event
-    lang: en
-- scope:
-    path: ''
-    type: groups
-  values:
-    layout: page
-    lang: sv
-- scope:
-    path: ''
-    type: posts
-  values:
-    is_post: true
-    layout: page
-    lang: sv
-    ref:
-    excerpt:
-    ingress-text:
-    image:
-    links:
-    - title:
-      url:
-    contact:
-    - name:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      lang: sv
+  - scope:
+      path: en
+      type: pages
+    values:
+      layout: page
+      lang: en
+  - scope:
+      path: form
+      type: pages
+    values:
+      layout: event
+      lang: sv
+  - scope:
+      path: en/form
+      type: pages
+    values:
+      layout: event
+      lang: en
+  - scope:
+      path: ""
+      type: groups
+    values:
+      layout: page
+      lang: sv
+  - scope:
+      path: ""
+      type: posts
+    values:
+      is_post: true
+      layout: page
+      lang: sv
+      ref:
+      excerpt:
+      ingress-text:
       image:
-      text:
-      mail:
-      organisation:
-      organisation-link:
-- scope:
-    path: ''
-    type: events
-  values:
-    layout: event
-    lang: sv
-    ref:
-    group:
-    image:
-    excerpt:
-    ingress-text:
-    event-date:
-    event-date-desc:
-    place:
-    links:
-    - title:
-      url:
-      style:
-permalink: "/projects/:title/"
+      links:
+        - title:
+          url:
+      contact:
+        - name:
+          image:
+          text:
+          mail:
+          organisation:
+          organisation-link:
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: event
+      lang: sv
+      ref:
+      group:
+      image:
+      excerpt:
+      ingress-text:
+      event-date:
+      event-date-desc:
+      place:
+      links:
+        - title:
+          url:
+          style:
+permalink: /projects/:title/
 description: Hackathons och Meetups för Sveriges Civic Tech-community
 theme: jekyll-theme-cayman
 plugins:
-- jemoji
-- jekyll-redirect-from
+  - jemoji
+  - jekyll-redirect-from
 t:
   sv:
     event-title: Event
     event-external: Övriga event
     event-previous: Tidigare event
+    event-upcoming: Kommande event
     more-events: Fler event
     blog-title: Blogg
     more-blog: Till bloggen
@@ -117,6 +118,7 @@ t:
     event-title: Events
     event-external: External events
     event-previous: Previous events
+    event-upcoming: Upcoming events
     more-events: More events
     blog-title: Blog
     more-blog: More blog posts
