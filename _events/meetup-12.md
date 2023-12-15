@@ -10,7 +10,7 @@ place: Carolina Rediviva, Uppsala
 group: uppsala
 links:
 - title: Gå med i chatten
-  url: "https://chat.civictech.se/"
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 #- title: Anmäl dig här!
 #  url: "/form/integrity-register"
 #  style: button

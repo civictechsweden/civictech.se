@@ -10,10 +10,7 @@ event-date-desc: 21 mars 2019, kl 18-20
 place: Capsule Coworking, Smedsgränd 4, Uppsala
 links:
 - title: Gå med i chatten
-  url: "https://chat.civictech.se/"
-- title: Anmäl dig här!
-  url: "/form/code-with-us-register"
-  style: button
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 ---
 
 Gör din första egna hemsida från scratch. När du har grunderna på plats är det din fantasi som sätter gränserna. Inga förkunskaper krävs för att delta. Det här eventet är separatistiskt för kvinnor och icke-binära.

@@ -10,27 +10,20 @@ tags:
 - privacy
 - book
 ref: lillebror
-chat: 'lillebror'
 lang: en
-links:
-- title: Chat about the project
-  url: https://chat.civictech.se/channel/handlingar
-- title: Little Brother Project Translation Website
-  url: https://www.dfri.se/projekt/oversattning-av-cory-doctorows-little-brother/
-- title: Little Brother Book Official Website
-  url: http://craphound.com/littlebrother/download/
-- title: Mailing list
-  url: lillebror+subscribe@lists.dfri.se
-ingress-text: DFRI are working on a crowdsourced translation of Cory Doctorow’s Little Brother.
+ingress-text: DFRI worked on a crowdsourced translation of Cory Doctorow’s Little Brother.
 excerpt: DFRI are currently working on a crowdsourced translation of Cory Doctorow’s Little Brother into Swedish.
-image: "/uploads/little-brother-logo.jpg"
+image: /uploads/little-brother-logo.jpg
 contact:
 - name: :DFRI - The digital freedom and rights association
-  image: "/uploads/dfri_logotype_swedish_transparent_256.png"
-  text: E-mail
+  image: /uploads/dfri_logotype_english_orange.svg
   mail: dfri@dfri.se
-
-  organisation: :DFRI - The digital freedom and rights association
+  organisation: dfri.se
   organisation-link: https://www.dfri.se/
 ---
-DFRI are currently working on a crowdsourced translation of Cory Doctorow’s Little Brother into Swedish.
+
+In 2014, DFRI organized a translation of Cory Doctorow's book "Little Brother." Anyone who was comfortable reading English and writing in Swedish could participate in the translation project, which was conducted through crowdsourcing.
+
+The book is about a society where the U.S. Department of Homeland Security, National Security Agency, and other agencies have been given free rein to surveil society.
+
+However, a few young people begin to defend themselves against the abuses and take matters into their own hands.

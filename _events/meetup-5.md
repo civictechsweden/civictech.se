@@ -10,16 +10,14 @@ place: Ångströmbiblioteket, Lägerhyddsvägen 1, Uppsala
 group: uppsala
 links:
 - title: Gå med i chatten
-  url: "https://chat.civictech.se/"
-#- title: Anmäl dig här!
-#  url: "/form/integrity-register"
-#  style: button
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 ---
 Ta med laptops/telefoner! I små grupper hjälper vi varandra med att installera, konfigurera och lär känna verktyg för ökad digital integritet, anonymitet och säkerhet. Möjliga ämnen: integritetsförhöjd eller anonymt surf på webben, krypterad e-post eller chatt, diskkryptering, lösenordshantering, mobilsäkerhet, fria operativsystem, och mer.
 
-Gå med i IRC-chatten på <a href="http://webchat.freenode.net/?channels=%23cryptoparty-uppsala">Freenode</a>.
+Gå med i IRC-chatten på [Freenode](http://webchat.freenode.net/?channels=%23cryptoparty-uppsala).
 
 ## Program
+
 * 16.00 Välkomnande och start
 * 18.00 Tack och slut
 

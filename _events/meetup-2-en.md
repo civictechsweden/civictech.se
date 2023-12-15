@@ -4,17 +4,14 @@ ref: meetup-2
 image: "/uploads/group-pic.jpg"
 lang: en
 excerpt: 'Make your first website!'
-ingress-text: Meetup for women and non-binary people who wants to make their first website or code on their own projects.  
+ingress-text: Meetup for women and non-binary people who wants to make their first website or code on their own projects.
 group: stockholm
 event-date: 2019-03-21 18:00:00 +02:00
 event-date-desc: March 21st 2019, 18-20
 place: Capsule Coworking, Smedsgränd 4, Uppsala
 links:
 - title: Join the chat
-  url: "https://chat.civictech.se/"
-- title: Register here!
-  url: "/en/form/code-with-us-register/"
-  style: button
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 ---
 Learn to code by making your first website! When you’ve got the foundation in place, your imagination is the only limitation. No prior knowledge is needed to participate. This event is exclusive for women and non-binary people.
 
@@ -24,4 +21,4 @@ If you can; bring a laptop. If you don’t have one; show up anyway! There are s
 
 If you already know how to how to make code you are welcome to join us as well and work on your own project or help out if needed.
 
-We will provide fika. Hope to see you there!  
+We will provide fika. Hope to see you there!

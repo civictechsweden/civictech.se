@@ -71,7 +71,7 @@ place: Viktoriahuset, Göteborg
 partners:
 - title: Digidem Lab
   link: http://digidemlab.org
-  logo: "/uploads/logo-digidemlab.png"
+  logo: "/uploads/digidemlab-logo.svg"
 - title: Allmänna Arvsfonden
   link: http://arvsfonden.se
   logo: "/uploads/logo-arvsfonden.png"
@@ -79,7 +79,7 @@ partners:
   logo: "/uploads/logo-goteborg.png"
   link: http://goteborg.se/wps/portal/start/kommun-o-politik/kommunens-organisation/forvaltningar/forvaltningar/forvaltningen-for-konsument--och-medborgarservice-/!ut/p/z1/hU7NCoMwGHsar_1q_Wm7WxlD0P3ALrpehrpOZauVWjfY00-Pg40FcghJSEBCAbIvH11Tus705X3WJxmfQ5JgPw39LNkIikW0JtFufwiyI4H8X0DONv4BgSEF2VUaPWuNMCIkoowwzhkNGY85XfZFXwWsAWnVVVll0WTnW61zw7jysIcvU31b2BhUG-3hb5XWjA6KzyQMunhtVS7e-Y0waA!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/
 - title: Solidariskt Kylskåp
-  logo: "/uploads/logo-solikyl.jpg"
+  logo: "/uploads/logo-solikyl.png"
   link: http://solikyl.se/
 - title: Gothenburg Hackerspace
   logo: "/uploads/logo-gbghackerspace.jpg"
@@ -91,21 +91,23 @@ partners:
   logo: "/uploads/ABF_logo_w.svg.png"
   link: http://www.abf.se
 - title: Sharing cities Sweden
-  logo: "/uploads/LOGO%20SCS_horizontal%20w%20text%20(1500%20px).png"
+  logo: "/uploads/sharingcities.png"
   link: https://www.sharingcities.se/
 - title: Skjutsgruppen
   logo: "/uploads/skjutsgruppen.png"
   link: https://skjutsgruppen.nu/
 ---
 
-Projekten kommer att vara inom tre olika spår:  
+Projekten kommer att vara inom tre olika spår:
+
 * Sharing is caring: Kollaborativ ekonomi, gemensamma resurser och hållbar konsumtion.
 * Power to the people: Demokrati, deltagande och transparens.
 * I like to move it: Hållbara transporter, resande och rörlighet.
 
 Nu söker vi deltagare som vill arbeta i projekten. Vi söker främst deltagare med kunskaper i programmering, kommunikation, teknologi, öppen data, design men också de med erfarenheter i att arbeta med demokratifrågor eller delningsekonomi.
 
-De grundläggande riktlinjerna för projekt är att:  
+De grundläggande riktlinjerna för projekt är att:
+
 1. Projektet ska främja ökat deltagande i sociala rörelser, föreningsliv, politiska processer eller samhället i stort med hjälp av ny teknik.
 2. Projektresultatet ska göras tillgängligt för alla.
 

@@ -11,7 +11,7 @@ place: Goto10, Hammarby Kaj 10D, Stockholm
 group: stockholm
 links:
 - title: Join the chat
-  url: "https://chat.civictech.se/"
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 - title: Register here!
   url: "https://www.goto10.se/evenemang/meetupet-om-civic-tec/"
   style: button

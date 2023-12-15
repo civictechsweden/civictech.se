@@ -10,10 +10,7 @@ place: Goto 10, Hammarby Kaj 10D, 120 07 Stockholm
 group: stockholm
 links:
 - title: Gå med i chatten
-  url: "https://chat.civictech.se/"
-#- title: Anmäl dig här!
-#  url: "/form/integrity-register"
-#  style: button
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 ---
 Linux distributionen/versionen Debian, som är storebror till Ubuntu Linux, fyller 26år! Debian Linux Usergroups världen över firar denna dag, så kom och fira Debian Day med oss på Goto 10!
 
@@ -26,6 +23,7 @@ Vi träffas och firar på Goto 10 mellan 16.00-17.00 och går därefter tillsamm
 Läs mer om Debian Day 2019: <a href="https://wiki.debian.org/DebianDay/2019">https://wiki.debian.org/DebianDay/2019</a>.
 
 ## Program
+
 * 16.00 Välkomnande och tårta
 * 16.55 Tack och slut
 * 17.00 Pizza och dricka för de som fortsätter

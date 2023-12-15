@@ -14,21 +14,18 @@ excerpt: En hemsida som Allt åt alla Göteborg byggt för att besökare ska kun
   hyresnivåer på olika platser samt för att synliggöra hyreskonflikter.
 ingress-text: En hemsida som Allt åt alla Göteborg byggt för att besökare ska kunna
   jämföra hyresnivåer på olika platser samt för att synliggöra hyreskonflikter.
-image: "/uploads/logo-hyresrattskollen.png"
-links:
-- title: Hyresrättskollen
-  url: http://hyresrattskollen.se/
+image: /uploads/logo-hyresrattskollen.png
 contact:
 - name: Fredrik Ekelund
-  image: "/uploads/Fredrik.jpg"
+  image: /uploads/Fredrik.jpg
   text: Jobbar till vardags som webbutvecklare med ganska mycket fokus på design.
     Utanför jobbet är han sedan ett par år tillbaka engagerad i olika aktivistsammanhang,
     i det här fallet har han jobbat med Hyresrättskollen sedan 2015. Olika frågor
     om stadsutveckling ligger honom varmt om hjärtat.
-  mail: " info@hyresrattskollen.se"
-  organisation: Allt åt alla Göteborg
+  mail: info@hyresrattskollen.se
+  organisation: alltatalla.se/goteborg
   organisation-link: https://alltatalla.se/goteborg
-group: _groups/goteborg.md 
+group: _groups/goteborg.md
 
 ---
 
@@ -41,4 +38,5 @@ Vi vill ge en samlad bild av hyresgästers situation gentemot hyresvärdar genom
 Vi jobbar redan med att uppdatera hemsidan för detta, men inser att vi kommer behöva tänka om vissa delar av sidan för att det ska bli bra. Vi hoppas att civic tech kan bli en möjlighet till detta!
 
 ## Teknisk specifikation
+
 Nuvarande karta bygger på Leaflet/JavaScript men vi tänkte lägga om konceptet lite. Vår förhoppning är att få hjälp med lite konkret design och utveckling.

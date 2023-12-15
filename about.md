@@ -10,9 +10,11 @@ contact:
 
 ---
 ## Bakgrund
+
 Civic Tech Sweden är ett nätverk av personer, organisationer och offentliga aktörer som verkar för att möjligheterna med öppen och fri digitalisering ska komma så många som möjligt till del. De som är aktiva i nätverket utvecklar digitala tjänster för transparens, öppen data och ökat deltagande i politiska processer och sociala rörelser.
 
 ## Arbetsområden
+
 Vi arbetar inom tre teman:
 
 * Power to the people: Demokrati, deltagande och transparens.
@@ -22,6 +24,7 @@ Vi arbetar inom tre teman:
 Deltagande organisationer hjälps åt att samla folk och sprida eventet, introducera projekten och handleda sin projektgrupp.
 
 ## Arbetssätt
+
 Det som skapas på CTS aktiviteter ska göras tillgängligt för alla. Beroende på vad det är för projekt sker det genom att:
 
 * Arbetssättet dokumenteras så att fler kan dra nytta av lärdomarna från projektet.
@@ -29,7 +32,9 @@ Det som skapas på CTS aktiviteter ska göras tillgängligt för alla. Beroende 
 * Text, bild eller video som produceras använder någon av Creative Commons licenser.
 
 ## Organisation
+
 CTS är organiserat i:
+
 * Lokalgrupper: lokala eller regionala grupper som organiserar meetups eller hackathon.
 * Intressegrupper: grupper för att ordna hackathon eller meetups för underrepresenterade grupper eller inom specifika ämnesområden.
 * Lokala och nationella partners: organisationer som stödjer nätverkets arbete. Läs mer under avsnittet Partners.
@@ -48,12 +53,12 @@ Koordineringsgruppen är ansvarig för att uppförandekoden följs på nationell
 
 Den som vill starta en lokalgrupp eller intressegrupp kan göra det genom att kontakta CTS på <hello@civictech.se>. Koordineringsgruppen diskuterar med den intresserade parten om det är lämpligt att inleda ett samarbete. Om ett samarbete inleds kommer CTS koordineringsgrupp och nationella samarbetspartners att vara till hjälp i organiseringen av meetups och hackathon.
 
-
 ### Partners
 
 Organisationer, nätverk, företag och offentliga aktörer som huvudsakligen arbetar inom CTS arbetsområden är välkomna i nätverket, som lokala eller nationella partners. Lokala partners hjälper till med hackathons eller meetups genom mobilisering, kunskapsdelning eller ekonomiskt stöd. Nationella partners behöver godkännas av koordineringsgruppen, och bidrar med resurser till mobilisering och spridning nationellt.
 
 ## Uppförandekod
+
 CTS förväntar sig att alla nätverkets aktiviteter och digitala forum:
 
 * Är säkra och respektfulla platser för alla deltagare

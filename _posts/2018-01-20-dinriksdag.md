@@ -1,6 +1,6 @@
 ---
 title: Din Riksdag
-date: 2018-01-20 00:00:00 +01:00
+date: 2020-01-20 00:00:00 +01:00
 categories:
 - Power to the people
 - hackathon-1
@@ -15,19 +15,13 @@ tags:
 ref: dinriksdag
 excerpt: Hur ska vi skapa lagar i framtiden?
 ingress-text: Hur ska vi skapa lagar i framtiden?
-image: "/uploads/dinriksdag.png"
-links:
-- title: Dinriksdag
-  url: http://www.dinriksdag.se
-- title: Dinriksdag blogg
-  url: https://blog.dinriksdag.se
+image: /uploads/dinriksdag.png
 contact:
 - name: Pierre Mesure
-  image: "/uploads/pierre.jpg"
+  image: /uploads/pierre.jpg
   text:
-  mail: " info@dinriksdag.se"
-group: _groups/stockholm.md 
-
+  mail: pierre(at)mesu.re
+group: _groups/stockholm.md
 ---
 
 Din Riksdag är ett försök att svara på följande frågan: hur skapar man lagar i 2000-talet?

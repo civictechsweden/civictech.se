@@ -1,29 +1,19 @@
 ---
-group: _groups/civic-tech-platform.md
-tags: []
-categories: []
-lang: sv
-date: 2021-06-10 19:12:54 +0200
 title: Placetoplan
+date: 2000-06-10 19:12:54 +0200
+ref: placetoplan
 ingress-text: Digital plattform för plats- och plandialog
 excerpt: Digital plattform för plats- och plandialog
-image: "/uploads/placetoplan_illustration_ny-web.jpg"
-links:
-- title: Placetoplan.se
-  url: https://www.placetoplan.se
+image: /uploads/placetoplan_illustration_ny-web.jpg
 contact:
 - name: Alexander Ståhle
-  image: ''
   text: Grundare
   mail: alexander.stahle@spacescape.se
-  url: ''
   organisation: Placetoplan AB
   organisation-link: https://www.placetoplan.se
-events: []
-chat: ''
-ref: placetoplan
-
+group: _groups/civic-tech-platform.md
 ---
+
 En plattform för Planerare (kommuner, fastighetsägare, konsulter, privatpersoner) att samla in och sammanställa synpunkter på en plats eller en plan. En plattform för Allmänheten (privatpersoner, företag, föreningar) att se och ge synpunkter på en plats eller en plan.
 
 Stadsplanering och platsutveckling är en komplex väv av intressen och i många planprojekt kan mängden synpunkter bli överväldigande. Hållbar platsutveckling och planering bygger på tillit, transparens och effektivitet. Placetoplan kan lyfta planeringsprocessen just därför att verktyget skapar tillit till organisationer som visar att de lyssnar, och skapar transparens eftersom alla får se allas synpunkter och effektiviserar planarbetet eftersom alla synpunkter kan sammanställas och analyseras med några klick, i jämförelse med det omfattande arbete som hittills har krävts vid exempelvis samrådsredogörelser. Placetoplan är den digitala plattformen för dialog och konsultföretaget Spacescape utgör supporten med sina erfarna planerare och platsutvecklare.

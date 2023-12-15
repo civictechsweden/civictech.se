@@ -11,10 +11,7 @@ event-date-desc: March 24th 2019, 13-16
 place: House Blivande, Södra Hamnvägen 9, Stockholm
 links:
 - title: Join the chat
-  url: "https://chat.civictech.se/"
-- title: Register here!
-  url: "/en/form/integrity-register/"
-  style: button
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 ---
 
 We invite you to a day of workshops on the theme integrity and anonymity. The subject is more relevant than ever considering how micro-targeting is used to affect our view of the world and our opinions, that the swedish police are going to start using face recognition in their work and big corporations keep developing their ways of gathering information about us. When areas of surveillance are expanded, we need to expand our own understanding of the surveillance algorithms, as well as use, spread and develop tools to escape the traps we risk falling into.

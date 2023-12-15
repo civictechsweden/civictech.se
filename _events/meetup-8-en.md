@@ -11,10 +11,7 @@ place: Ångströmbiblioteket, Lägerhyddsvägen 1, Uppsala
 group: uppsala
 links:
 - title: Join the chat
-  url: "https://chat.civictech.se/"
-#- title: Register here!
-#  url: "/en/form/integrity-register/"
-#  style: button
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 ---
 
 There will be a presentation explaining DNS and discussing DNS-over-HTTPS, followed by discussions, that are led by your interest.

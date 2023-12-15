@@ -10,23 +10,15 @@ tags:
 - legislation
 - opendata
 - datascience
-chat: 'dinriksdag'
 ref: openremiss
-links:
-- title: Chatta om projektet
-  url: https://chat.civictech.se/channel/dinriksdag
-- title:
-  url:
 ingress-text: Hämta och använda data från remissprocessen (lobbying i lagstiftningsprocessen).
 excerpt: Vilka lobbar mest din regering?
-image: "/uploads/openremiss.png"
+image: /uploads/openremiss.png
 contact:
 - name: Pierre
-  image: "/uploads/pierre.jpg"
+  image: /uploads/pierre.jpg
   text:
-  mail: pierre@digidemlab.org
-  organisation:
-  organisation-link:
+  mail: pierre(at)mesu.re
 ---
 
 OpenRemiss startades på ett Civic Tech hack i Göteborg i september 2018.
@@ -41,9 +33,10 @@ Vårt arbete var att skapa ett Python skript som laddar ner alla dessa dokument 
 Man kan läsa mer om projektet på sitt [Githubs sida](https://github.com/DinRiksdag/OpenRemiss).
 
 Just nu finns det fortfarande mycket att göra, t.ex.:
-*	förbättra sorteringsalgoritmen och namnrensingsalgoritmen
-*	använda OCR för att hämta innehållet av en del remissinstanser som har varit skannade
-*	hämta innehåll från alla remissvar, med OCR när det behövs
+
+* förbättra sorteringsalgoritmen och namnrensingsalgoritmen
+* använda OCR för att hämta innehållet av en del remissinstanser som har varit skannade
+* hämta innehåll från alla remissvar, med OCR när det behövs
 
 Det finns såklart mycket mer man kan göra med datan och den är helt fri att använda!
 

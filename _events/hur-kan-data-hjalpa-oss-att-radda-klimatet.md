@@ -19,8 +19,8 @@ links:
 - title: LinkedIn Event
   url: https://www.linkedin.com/events/webinar-howcandatahelpfightclim6719976979057147905
 ref: climatedata
-
 ---
+
 ![](/uploads/civic-tech-sweden-how-can-data-help-fight-climate-change_-liggande.jpg)
 
 The science of climate is clear. Our planet is warming up due to human activity and the release of greenhouse gases in the atmosphere. To reduce these emissions requires a deep and rapid change in the way we live as individuals and as societies. At the same time, our world is becoming more digital and we now have huge amounts of data to describe our impact on the planet. Can this data be exploited to take smarter and greener decisions?
@@ -41,4 +41,4 @@ The event will be virtual via Zoom and rewatchable on [YouTube](https://www.yout
 
 You're welcome to join the Zoom webinar from 13:45 CEST to chat with the other participants, and to stay up to 30 minutes afterwards.
 
-You are also welcome to join the [#climate](https://chat.civictech.se/channel/climate) channel on [https://chat.civictech.se/channel/climate](https://chat.civictech.se/channel/climate "https://chat.civictech.se/channel/climate") both before and after the webinar to chat with others about climate related civic tech!
+You are also welcome to join the [#climate](https://chat.civictech.se/channel/climate) channel on [chat.civictech.se](https://chat.civictech.se/channel/climate) both before and after the webinar to chat with others about climate related civic tech!

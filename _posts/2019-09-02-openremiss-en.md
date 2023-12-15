@@ -11,19 +11,15 @@ tags:
 - opendata
 - datascience
 ref: openremiss
-chat: 'dinriksdag'
 lang: en
-links:
-- title: Chat about the project
-  url: https://chat.civictech.se/channel/dinriksdag
 ingress-text: This project aims at obtaining data from the remissprocess (formal lobbying in the Swedish legislation process) and reusing it.
 excerpt: Which organisations lobby your government the most?
-image: "/uploads/openremiss.png"
+image: /uploads/openremiss.png
 contact:
 - name: Pierre
-  image: "/uploads/pierre.jpg"
+  image: /uploads/pierre.jpg
   text:
-  mail: pierre@digidemlab.org
+  mail: pierre(at)mesu.re
   organisation:
   organisation-link:
 ---
@@ -40,9 +36,10 @@ Our work consisted in writing a Python script that downloads all the documents a
 You can read more about the project on its [Github page](https://github.com/DinRiksdag/OpenRemiss).
 
 Right now, a few examples of what could still be done:
-*	improve the sorting and the name cleaning algorithm
-*	use OCR to extract the content of some of the remiss lists where the text can't be parsed
-*	extract the content of the remiss answers themselves, with OCR when necessary
+
+* improve the sorting and the name cleaning algorithm
+* use OCR to extract the content of some of the remiss lists where the text can't be parsed
+* extract the content of the remiss answers themselves, with OCR when necessary
 
 There is a lot more that could be done with the data, which we are making available freely.
 

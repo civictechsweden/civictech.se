@@ -34,36 +34,19 @@ layout: default
               <a href="{{site.baseurl}}{{events[0].url}}">{{events[0].title}}</a>
             </h1>
             <p>{{events[0].ingress-text}}</p>
+            {% if events[0].event_date_desc != nil and events[0].event_date_desc != '' and events[0].place != nil and events[0].place != '' %}
             <p>
               <strong>{{events[0].event-date-desc}} /
                 {{events[0].place}}
               </strong>
             </p>
+            {% endif %}
             {% for link in events[0].links %}
               <div class="has-text-right arrow-line">
                 <a href="{{link.url}}" class="title is-6 arrow">{{link.title}}</a>
               </div>
             {% endfor %}
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- Hero footer: will stick at the bottom -->
-  <div class="hero-foot">
-    <div class="container">
-      <div class="columns is-multiline is-mobile has-text-centered">
-        {% assign groups=site.groups | where:"lang", page.lang %}
-        {% for item in groups %}
-          <div class="column">
-            <a href="{{item.url}}" class="button is-text has-text-warning">{{item.title}}</a>
-          </div>
-        {% endfor %}
-        <div class="column">
-          <a href="{{site.t[page.lang].start-group-url}}" class="button is-outlined is-warning">
-            {{site.t[page.lang].start-group}}
-          </a>
         </div>
       </div>
     </div>
@@ -119,17 +102,6 @@ layout: default
     <div class="columns is-centered">
       <div class="column is-one-third">
         <a class="button is-black is-outlined is-fullwidth read-more" href="projects">{{site.t[page.lang].more-projects}}</a>
-      </div>
-  </div>
-</section>
-
-<section id="blog" class="section is-medium">
-  <div class="container">
-    <h2 class="title section-title has-text-centered">{{site.t[page.lang].blog-title}}</h2>
-    {% include medium.html %}
-    <div class="columns is-centered">
-      <div class="column is-one-third">
-        <a class="button is-black is-outlined is-fullwidth read-more" href="https://medium.com/civictechsweden">{{site.t[page.lang].more-blog}}</a>
       </div>
   </div>
 </section>

@@ -41,4 +41,4 @@ The event will be virtual via Zoom and rewatchable on [YouTube](https://www.yout
 
 You're welcome to join the Zoom webinar from 13:45 CEST to chat with the other participants, and to stay up to 30 minutes afterwards.
 
-You are also welcome to join the [#climate](https://chat.civictech.se/channel/climate) channel on [https://chat.civictech.se/channel/climate](https://chat.civictech.se/channel/climate "https://chat.civictech.se/channel/climate") both before and after the webinar to chat with others about climate related civic tech!
+You are also welcome to join the [#climate](https://chat.civictech.se/channel/climate) channel on [chat.civictech.se](https://chat.civictech.se/channel/climate) both before and after the webinar to chat with others about climate related civic tech!

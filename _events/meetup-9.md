@@ -10,7 +10,7 @@ place: Goto 10, Hammarby Kaj 10D, 120 07 Stockholm
 group: stockholm
 links:
 - title: Gå med i chatten
-  url: "https://chat.civictech.se/"
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 - title: Register here!
   url: "https://framaforms.org/civic-tech-sweden-x-openheroines-meetup-1572446254"
   style: button

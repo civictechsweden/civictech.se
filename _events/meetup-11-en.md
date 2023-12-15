@@ -11,7 +11,7 @@ place: Ångströmbiblioteket, Lägerhyddsvägen 1, Uppsala
 group: uppsala
 links:
 - title: Join the chat
-  url: "https://chat.civictech.se/"
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 #- title: Register here!
 #  url: "/en/form/integrity-register/"
 #  style: button

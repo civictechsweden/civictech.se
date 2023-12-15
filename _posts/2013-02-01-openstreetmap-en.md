@@ -1,6 +1,6 @@
 ---
-title: OpenStreetMap
-date: 2013-02-01 01:00:00 +02:00
+title: OpenStreetMap Sweden
+date: 2021-02-01 01:00:00 +02:00
 categories:
 - maps
 - geo
@@ -10,22 +10,17 @@ tags:
 - mapping
 - HOTS
 ref: openstreetmap
-chat: 'openstreetmap'
 lang: en
-links:
-- title: Chat about the project
-  url: https://chat.civictech.se/channel/openstreetmap
-- title: OpenStreetMap Website
-  url: https://openstreetmap.se
 ingress-text: OpenStreetMap creates and supplies free maps for free use.
 excerpt: OpenStreetMap creates and supplies free maps.
-image: "/uploads/osm_logo.png"
+image: /uploads/osm_logo.png
 contact:
-- name: OpenStreetMap Community
-  image: "/uploads/osm_logo.png"
-  text: Mailing list
-  mail: https://lists.openstreetmap.org/listinfo/talk-se
-  organisation: OpenStreetMap
-  organisation-link: https://openstreetmap.se/
+- name: OpenStreetMap Sweden
+  image: /uploads/osm_logo.png
+  organisation: Mailing list
+  organisation-link: https://lists.openstreetmap.org/listinfo/talk-se
+
 ---
-OpenStreetMap creates and supplies geographical information for example in the form of maps and structured databases, freely available to everyone who wants to make use of it. The project was started as most of the maps one can believe is free often has judicial or technical limits for what you can do with them. This limits private individuals or companies from using the information in a creative, productive or other unexpected way.
+OpenStreetMap Sweden is the Swedish mappers community on OpenStreetMap. Anyone is welcome to contribute or join the many projects and mapathons.
+
+A good start is to join the [mailing list](https://lists.openstreetmap.org/listinfo/talk-se), another one is to check out the [Facebook group](https://www.facebook.com/groups/osmsweden/) where hackathons are regularly advertised. The [Wiki page](https://wiki.openstreetmap.org/wiki/Sweden#Aktuella_projekt) also gives a good overview of what projects are active.

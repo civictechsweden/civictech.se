@@ -1,6 +1,6 @@
 ---
 title: FixMyStreet
-date: 2013-01-01 01:00:00 +02:00
+date: 2020-01-01 01:00:00 +02:00
 categories:
 - reporting
 - crowdsourcing
@@ -13,20 +13,15 @@ tags:
 ref: fixamingata
 chat: 'fixamingata'
 lang: en
-links:
-- title: Chat about the project
-  url: https://chat.civictech.se/channel/fixamingata
-- title: FixaMinGata Website
-  url: https://fixamingata.se/
 ingress-text: With FixMyStreet Platform you can easily launch a website that helps people to report street problems like potholes and broken street lights. Problem reports are then sent to authorities for fixing.
 excerpt: With FixMyStreet Platform you can easily launch a website that helps people to report street problems.
-image: "/uploads/fixamingata_logo-400x200.png"
+image: /uploads/fixamingata_logo-400x200.png
 contact:
 - name: Göran Westerlund
-  image: "/uploads/Sambruk_logo.svg"
+  image: /uploads/Sambruk_logo.svg
   text: E-post
   mail: goran(dot)westerlund(at)alingsas.se
-  organisation: Föreningen Sambruk
+  organisation: sambruk.se
   organisation-link: https://sambruk.se/portfolio/fixa-min-gata/
 ---
 "Gör det enkelt för invånare och besökare i er kommun att rapportera problem i gatumiljön, till exempel ett hål i gatan, trasig belysning eller nedskräpning. Med hjälp av tjänsten FixaMinGata kan vem som helst rapportera ett problem i stadsmiljön utan att behöva ta reda på vem som ansvarar för underhåll och service. Systemet skickar rapporten till rätt mottagare. Det gör det smidigare att rapportera problem.
@@ -47,4 +42,4 @@ Dessutom fungerar Infracontrol även som ett internt system för att beställa �
 
 Tjänsten är tillgänglig för samtliga kommuner i Sverige och tillhandahålls av Föreningen Sambruk. För tjänsten finns ett Förvaltningsråd som är den effektiva organisation som svarar för gemensam driftsfunktion, förvaltning och vidareutveckling av systemet."
 
-Text from: https://sambruk.se/portfolio/fixa-min-gata/
+Text from [sambruk.se](https://sambruk.se/portfolio/fixa-min-gata/)

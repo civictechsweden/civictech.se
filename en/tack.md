@@ -4,11 +4,9 @@ position: 1
 description: Thank you for registering!
 ref: tack
 ---
- 
-### You are now registered for the hackathon!
 
-We will mail you more info.
+### You are now registered
 
-<a href="https://chat.civictech.se" style="button">Go to chat!</a>
+We will e-mail you with more info.
 
-
+<a href="https://app.element.io/#/room/#civictechse:matrix.org" style="button">Reach to us on the chat!</a>

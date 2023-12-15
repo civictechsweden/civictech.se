@@ -1,28 +1,30 @@
 <div id="navbarMenuHeroA" class="navbar-menu">
-	<div class="navbar-end">
-		{% include menu-lang.html %}
-
-		{% for item in site.data.menu[page.lang] %}
-			{% case item.type %}
-				{% when 'groups' %}
-					<div class="navbar-item has-dropdown is-hoverable">
-			      <a class="navbar-link">
-			        {{item.title}}
-			      </a>
-			      <div class="navbar-dropdown">
-							{% assign groups=site.groups | where:"lang", page.lang %}
-							{% for item in groups %}
-								<a href="{{site.baseurl}}{{item.url}}" class="navbar-item">{{item.title}}</a>
-							{% endfor %}
-							<a href="{{site.t[page.lang].start-group-url}}" class="navbar-item">{{site.t[page.lang].start-group}}</a>
-			      </div>
-			    </div>
-				{% when 'chat' %}
-					<a class="navbar-item" href="{{item.url}}">{{item.title}} &nbsp;<span class="icon"><i class="fab fa-rocketchat fa-lg"></i></span></a>
-				{% else %}
-					<a class="navbar-item" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
-			{% endcase %}
-
-		{% endfor %}
-	</div>
+  <div class="navbar-end">
+    {% include menu-lang.html %} {% for item in site.data.menu[page.lang] %} {%
+    case item.type %} {% when 'groups' %}
+    <div class="navbar-item has-dropdown is-hoverable">
+      <a class="navbar-link"> {{item.title}} </a>
+      <div class="navbar-dropdown">
+        {% assign groups=site.groups | where:"lang", page.lang %} {% for item in
+        groups %}
+        <a href="{{site.baseurl}}{{item.url}}" class="navbar-item"
+          >{{item.title}}</a
+        >
+        {% endfor %}
+        <a href="{{site.t[page.lang].start-group-url}}" class="navbar-item"
+          >{{site.t[page.lang].start-group}}</a
+        >
+      </div>
+    </div>
+    {% when 'chat' %}
+    <a class="navbar-item" href="{{item.url}}"
+      >{{item.title}} &nbsp;<span class="icon"
+        ><i class="fab fa-rocketchat fa-lg"></i></span
+    ></a>
+    {% else %}
+    <a class="navbar-item" href="{{site.baseurl}}{{item.url}}"
+      >{{item.title}}</a
+    >
+    {% endcase %} {% endfor %}
+  </div>
 </div>

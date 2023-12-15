@@ -11,10 +11,7 @@ place: Ångströmbiblioteket, Lägerhyddsvägen 1, Uppsala
 group: uppsala
 links:
 - title: Join the chat
-  url: "https://chat.civictech.se/"
-#- title: Register here!
-#  url: "/en/form/integrity-register/"
-#  style: button
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 ---
 
 Bring your laptops/smartphones! In small groups we'll help each other to install, configure, and get to know tools for improved digital privacy, anonymity, and security. Possible topics: privacy-enhanced or anonymous browsing, encrypted mail or chat, disk encryption, password managers, mobile security, free operating systems, and more.

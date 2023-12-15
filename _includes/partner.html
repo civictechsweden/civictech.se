@@ -1,5 +1,8 @@
 <div class="column has-text-centered is-half-mobile is-one-quarter-tablet">
 	<a href="{{item.link}}" title="{{item.title}}">
 		<img class="partner-image" src="{{site.baseurl}}{{item.logo}}" alt="{{item.title}}">
+		{% if item.needs_text %}
+		<h6>{{item.title}}</h6>
+		{% endif %}
 	</a>
 </div>

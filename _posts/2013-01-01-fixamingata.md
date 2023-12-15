@@ -1,6 +1,6 @@
 ---
 title: FixaMinGata
-date: 2013-01-01 01:00:00 +02:00
+date: 2020-01-01 01:00:00 +02:00
 categories:
 - rapportera
 - crowdsourcing
@@ -13,14 +13,12 @@ tags:
 chat: 'fixamingata'
 ref: fixamingata
 links:
-- title: Chatta om projektet
-  url: https://chat.civictech.se/channel/fixamingata
 - title: Fixa Min Gata hemsida
   url: https://fixamingata.se/
 ingress-text: "Rapportera, visa, eller diskutera lokala problem
 till exempel klotter, skräp, trasiga gatustenar eller gatubelysning. Felrapporteringar skickas sen till myndigheter för åtgärder."
 excerpt: Rapportera, visa, eller diskutera lokala problem
-image: "/uploads/fixamingata_logo-400x200.png"
+image: "/uploads/fixamingata-logo.svg"
 contact:
 - name: Göran Westerlund
   image: "/uploads/Sambruk_logo.svg"
@@ -47,4 +45,4 @@ Dessutom fungerar Infracontrol även som ett internt system för att beställa �
 
 Tjänsten är tillgänglig för samtliga kommuner i Sverige och tillhandahålls av Föreningen Sambruk. För tjänsten finns ett Förvaltningsråd som är den effektiva organisation som svarar för gemensam driftsfunktion, förvaltning och vidareutveckling av systemet."
 
-Text från: https://sambruk.se/portfolio/fixa-min-gata/
+Text från: <https://sambruk.se/portfolio/fixa-min-gata/>

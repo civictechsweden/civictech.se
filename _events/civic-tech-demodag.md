@@ -2,7 +2,7 @@
 group: []
 lang: sv
 title: Civic Tech Demodag
-image: "/uploads/folk.png"
+image: "/uploads/folk.jpg"
 excerpt: Vinnova har under 2020 och 2021 genomfört en satsning på civic tech där 14
   projekt fått stöd för att utveckla medborgarnära tjänster i samverkan med idéburna
   organisationer, offentliga verksamheter och digital talang. Nu är det dags för rapportering

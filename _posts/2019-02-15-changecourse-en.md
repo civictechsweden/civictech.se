@@ -9,26 +9,19 @@ tags:
 - design
 - changemakers
 ref: changecourse
-chat: 'changecourse'
 lang: en
-links:
-- title: Chat about the project
-  url: https://chat.civictech.se/channel/changecourse
-- title: change course website
-  url: http://changecourse.se
-- title: change course source code
-  url: https://github.com/bnaucler/changecourse/
 ingress-text: change course is an education for changemakers; individuals who feel that there are issues in the world which require immediate attention, and are ready to take action.
 excerpt: change course is an education for changemakers;
-image: "/uploads/changecourse.png"
+image: /uploads/changecourse.png
 contact:
 - name: Change Course
-  image: "/uploads/changecourse.png"
+  image: /uploads/changecourse.png
   text: E-mail
   mail: info@changecourse.se
   organisation: Väddö Folk High School
   organisation-link: http://www.vaddo.fhsk.se/
 ---
+
 ### Are you one of our 18 aspiring changemakers, crazy enough to think you can reform the world? (You can.)
 
 change course is an education for changemakers; individuals who feel that there are issues in the world which require immediate attention, and are ready to take action.

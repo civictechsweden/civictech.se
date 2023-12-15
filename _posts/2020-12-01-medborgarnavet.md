@@ -1,36 +1,22 @@
 ---
-group: _groups/civic-tech-platform.md
-tags: []
-categories: []
-lang: sv
-date: 2020-12-01 12:27:24 +0100
 title: Medborgarnavet
+date: 2000-12-01 12:27:24 +0100
+ref: medborgarnavet
 ingress-text: En medborgar-centrerad informationsdelningstjänst för en öppen e-förvaltning.
 excerpt: En medborgar-centrerad informationsdelningstjänst för en öppen e-förvaltning.
-image: "/uploads/hub-4413618__480.jpg"
-links:
-- title: Sambruk om Medborgarnavet
-  url: https://sambruk.se/vinnova-beviljar-medel-medborgarnavet/
+image: /uploads/hub-4413618__480.jpg
 contact:
 - name: Britta Sandblom
-  image: ''
   text: Verkställande tjänsteperson
   mail: britta.sandblom(at)sambruk.se
-  url: ''
   organisation: Sambruk
   organisation-link: https://sambruk.se
 - name: Sven-Håkan Olsson
-  image: ''
   text: Koordinator för projektet
   mail: sven-hakan.olsson(at)definitivus.se
-  url: ''
-  organisation: Definitivus AB
-  organisation-link: ''
-events: []
-chat: ''
-ref: medborgarnavet
-
+group: _groups/civic-tech-platform.md
 ---
+
 Den grundläggande idén med Medborgarnavet är att för första gången ge medborgaren/individen enkel tillgång till den information som finns i myndigheters register men även till helt annan registerinformation (institutionella fakta) som medborgaren har rätt att få tillgång till, t.ex. från banker. Medborgarnavet skall sätta medborgaren i centrum och ge medborgaren digitalt direktförmedlad information från flera informationskällor. Tanken med Medborgarnavet är att vända på perspektivet och ge medborgaren direkt tillgång myndighetsinformation vilket är problematiskt idag. Medborgaren har i många falla rätt att få registerutdrag på papper men inte direkt digitalt förmedlad information. Otidsenlig och motstridig lagstiftning samt tolkning av lagen hindrar i flera fall att medborgaren kan få tillgång till sin egen information digitalt.
 
 > Information att delas **_med _**medborgaren
@@ -54,9 +40,11 @@ Viktiga mål för Medborgarnavet är att:
 * Medborgaren tjänar tid genom att denne slipper lämna in kopierade avier, kontoutdrag, kvitton etc, och slipper att registrera informationen manuellt
 * Tjänsten öppnar också upp möjligheten för att automatisera processen för medborgaren
 
-Vi kommer att utveckla en fungerande prototyp för Medborgarnavet i projektet, som innebär hämtning av medborgardata från Arbetsförmedlingen, A-kassorna, CSN, Försäkringskassan, Skatteverket, Fordonsregistret, Migrationsverket och Pensionsmyndigheten. Dessutom bankdata enligt PSD2.  
+Vi kommer att utveckla en fungerande prototyp för Medborgarnavet i projektet, som innebär hämtning av medborgardata från Arbetsförmedlingen, A-kassorna, CSN, Försäkringskassan, Skatteverket, Fordonsregistret, Migrationsverket och Pensionsmyndigheten. Dessutom bankdata enligt PSD2.
 Medborgaren kan sedan själv välja att överföra myndighetsinformation till någon ny ansökan eller redovisning.
 
 ### Deltagande parter
 
 Deltagande projektparter är Definitivus AB (Koordinator), Föreningen Sambruk, Institutionen för Informatik och Media vid Uppsala Universitet med professor Owen Eriksson, flera kommuner, samt Digidelcenter.
+
+Läs mer på [sambruk.se](https://sambruk.se/vinnova-medborgarnavet/)

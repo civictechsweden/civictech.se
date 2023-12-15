@@ -9,33 +9,15 @@ tags:
 - Development
 - Design
 - Discussion
-chat: 'participio'
 ref: participio
-links:
-- title: Chatta om projektet
-  url: https://chat.civictech.se/channel/participio
-- title: Participio Forum
-  url: https://edgeryders.eu/c/participio
 ingress-text: En mjukvara för deltagande och samskapad kultur.
 excerpt: En mjukvara för samskapande kultur.
-image: "/uploads/participio-logo.png"
+image: /uploads/participio-logo.png
 contact:
 - name: Edgeryders
-  image: "/uploads/edgeryders-logo.png"
-  text: Participio Forum
-  mail: https://edgeryders.eu/c/participio
-  organisation: Edgeryders
-  organisation-link: http://particip.io
+  image: /uploads/edgeryders-logo.png
+  organisation: edgeryders.eu
+  organisation-link: https://edgeryders.eu/t/participio-development-lab/9108/18
 ---
 
-## Behövda färdigheter
-
-More info coming.
-
-### Grafiskt
-
-More info coming.
-
-### Tekniskt
-
-More info coming.
+Participio var ett utvecklingslabb inom Edgeryders, finansierat av det svenska konstrådet Kulturbryggan. Vårt syfte var att bygga experimentell programvara och metoder för decentraliserade organisationer och samskapad kultur. Allt som byggts av Participio är öppen källkod och fritt att använda. Cobudget var ett av projekten som kom från Participio Labs.

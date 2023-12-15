@@ -1,6 +1,6 @@
 ---
 title: Luftdata
-date: 2018-02-19 01:00:00 +02:00
+date: 2021-02-19 01:00:00 +02:00
 categories:
 - citizen science
 - air quality
@@ -9,30 +9,20 @@ tags:
 - air data
 - active citizenry
 ref: luftdata
-chat: 'luftdata'
 lang: en
-links:
-- title: Chat about the project
-  url: https://chat.civictech.se/channel/luftdata
-- title: Luftdata.se website
-  url: https://luftdata.se/
 ingress-text: Build your own measuring station for air particles and become part of a global citizen science network
 excerpt: Build your own measuing station for air particles
-image: "/uploads/luftdaten-footer-logo.png"
+image: /uploads/luftdaten-footer-logo.png
 contact:
 - name: Ideella föreningen Luftdata
-  image: "/uploads/luftdaten-footer-logo.png"
-  text: E-post
+  image: /uploads/luftdaten-footer-logo.png
   mail: info@luftdata.se
-  organisation: Ideella föreningen Luftdata
+  organisation: luftdata.se
   organisation-link: https://luftdata.se/
 ---
-Om initiativet och luftdata.se
 
-Målsättningen med luftdata.se är att förmedla kunskap om hur man bygger en egen mätstation för luftburna partiklar för att kunna bidra med öppna data till Citizen Science-initiativet luftdaten.info som idén bakom luftdata.se är baserat på.
+The goal of luftdata.se is to provide knowledge on how to build your own measuring station for airborne particles in order to contribute open data to the Citizen Science initiative luftdaten.info, which is the idea behind luftdata.se.
 
-Det finns ett flertal olika projekt som mäter luftkvalitet med den engagerade medborgaren som utgångspunkt. Luftdata.se valde att bygga på plattformen (hård- och mjukvara) som luftdaten.info har tagit fram p.g.a. dess enkelhet, kostnadseffektivitet, den stora befintliga användarbasen (över 5000 aktiva mätstationer) samt flexibiliteten kring att bidra med data till andra projekt som t.ex. openSenseMap.
+There are several different projects that measure air quality with the engaged citizen as the starting point. Luftdata.se chose to build on the platform (hardware and software) developed by luftdaten.info due to its simplicity, cost-effectiveness, the large existing user base (over 5000 active measuring stations), and the flexibility to contribute data to other projects such as openSenseMap.
 
-Innehållet på luftdata.se är delvis baserat på luftdaten.info. Luftdata.se är det svenska systerprojektet för luftdaten.info.
-
-Källa: https://luftdata.se/
+The content on luftdata.se is partially based on luftdaten.info. Luftdata.se is the Swedish sister project of luftdaten.info.

@@ -11,10 +11,7 @@ place: Goto10, Hammarby Kaj 10D, Stockholm
 group: stockholm
 links:
 - title: Join the chat
-  url: "https://chat.civictech.se/"
-#- title: Register here!
-#  url: "/en/form/integrity-register/"
-#  style: button
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 ---
 Sweden is since 2011 part of the Open Government Partnership (OGP), an international collaboration bringing together government reformers and civil society to promote transparency and inclusivity.
 

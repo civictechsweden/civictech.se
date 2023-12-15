@@ -3,19 +3,16 @@ title: 'Tyck till om Sveriges öppenhet!'
 ref: meetup-4
 image: ""
 excerpt: 'Meetup för Civic Tech-communitiet i Stockholm'
-ingress-text: Hur ska Sveriges jobba med transparens i framtiden? Kom och diskutera och ge din åsikt om landets handlingsplan!  
+ingress-text: Hur ska Sveriges jobba med transparens i framtiden? Kom och diskutera och ge din åsikt om landets handlingsplan!
 event-date: 2019-05-20 18:00:00 +02:00
 event-date-desc: 20 maj 2019, 18-20:30
 place: Goto10, Hammarby Kaj 10D, Stockholm
 group: stockholm
 links:
 - title: Gå med i chatten
-  url: "https://chat.civictech.se/"
-#- title: Anmäl dig här!
-#  url: "/form/integrity-register"
-#  style: button
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 ---
-Sverige är sedan 2011 en del av Open Government Partnership (OGP) , ett internationellt samarbete som handlar om att föra samman regering och civilsamhälle för att öka transparens och delaktighet.     
+Sverige är sedan 2011 en del av Open Government Partnership (OGP) , ett internationellt samarbete som handlar om att föra samman regering och civilsamhälle för att öka transparens och delaktighet.
 
 Regeringen håller på att utveckla sin fjärde handlingsplan med åtaganden inom dessa områden som ska publiceras innan sommaren. Eftersom OGP handlar om samspel mellan civilsamhälle och regering bjuder vi in till en meetup på ämnet så att alla som vill får chansen att tycka till och föreslå nya idéer!
 

@@ -1,40 +1,35 @@
 ---
+title: Digifysiska vårdkontakter
+date: 2001-06-08T10:25:33 +02:00
 tags:
 - vård
 - Vinnovaprojekt
 categories:
 - civictechplatform
+ref: digifysiska-vardkontakter
 lang: sv
-date: 2020-06-08T10:25:33.000+02:00
-title: Digifysiska vårdkontakter
 ingress-text: Skapar trygghet för medborgare i särskilda boenden och deras anhöriga.
 excerpt: Skapar trygghet för medborgare i särskilda boenden och deras anhöriga.
-image: "/uploads/kliniker_7_web.jpg"
-links:
-- title: Digifysiska vårdkontakter | RISE
-  url: https://www.ri.se/sv/vad-vi-gor/projekt/digifysiska-vardkontakter-okar-tryggheten-personer-pa-sarskilda-boenden
+image: /uploads/kliniker_7_web.jpg
 contact:
 - name: Mona Jonsson
-  image: "/uploads/mona-jonsson-rise.png"
+  image: /uploads/mona-jonsson-rise.png
   text: Senior strateg inom digital hälsa
   mail: mona.jonsson@ri.se
   url: https://www.ri.se/sv/mona-jonsson
   organisation: RISE Research Institutes of Sweden
   organisation-link: https://www.ri.se/
 - name: Joakim Börjesson
-  image: ''
   text: Projektledare
   mail: joakim.borjesson@ri.se
   url: https://www.ri.se/sv/joakim-borjesson
   organisation: RISE Research Institutes of Sweden
   organisation-link: https://www.ri.se
-chat: ''
-ref: ''
 group: _groups/civic-tech-platform.md
 events:
 - event: _events/govtech-day-2020.md
-
 ---
+
 Sveriges hälso- och sjukvård står inför stora utmaningar. En demografi med åldrande befolkning, svårigheter med kompetensförsörjning och omställning till digitala system ger möjligheter men ställer också stora krav på hantering, rutiner och samverkan.
 
 Personer som bor på särskilda boenden är oftast äldre och multisjuka med stora fysiska eller kognitiva svårigheter att klara ett eget boende och behov av kontinuerlig hjälp och stöd. För dessa personer är läkarkontinuitet en viktig del av behandlingen, något som tyvärr saknas i många av glesbygdskommuner.
@@ -46,3 +41,5 @@ Projektet vill hantera utmaningen och öka dessa medborgares förtroende för
 Projektpartners förutom RISE är Glesbygdsmedicinskt Centrum, Region Västerbotten, Malå kommun, KRY och plattformen Civic Tech.
 
 Vinnovas program Civic tech: Digitala tjänster för stärkt förtroende mellan medborgare och offentlig sektor finansierar detta projekt.
+
+Läs mer på [ri.se](https://www.ri.se/sv/vad-vi-gor/projekt/digifysiska-vardkontakter-okar-tryggheten-for-personer-pa-sarskilda-bo).

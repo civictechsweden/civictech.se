@@ -2,7 +2,7 @@
 group: []
 lang: sv
 title: Kopplingssprint
-image: "/uploads/kopplingssprint_fb.jpg"
+image: "/uploads/1782px-kopplingssprint-se-svg.png"
 excerpt: Koppla ihop riksdagsdokument med varandra och andra koncept i Wikidata
 ingress-text: Koppla ihop riksdagsdokument med varandra och andra koncept i Wikidata
   under denna kopplingssprint online, på Wikimedias Jitsi. Det är drop-in så delta
@@ -24,6 +24,6 @@ Nyligen har metadata om mängder av dokument från riksdagen importerats till Wi
 
 Ingen föranmälan krävs, och du kan komma och gå som du vill under dagen. För att göra det enklare för arrangören att se vad som händer kan du anmäla dig till evenemanget på [eventsidan](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint) så samlas de redigeringar du gör på Wikidata under evenemangstiden tillsammans med de andra deltagarnas.
 
-Varje hel timme ges en kort introduktion till hur man kommer igång med att redigera på Wikidata. 
+Varje hel timme ges en kort introduktion till hur man kommer igång med att redigera på Wikidata.
 
 Mer information om hur du deltar finns på eventsidan på [https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint "https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint")

@@ -11,10 +11,7 @@ place: Goto 10, Hammarby Kaj 10D, 120 07 Stockholm
 group: stockholm
 links:
 - title: Join the chat
-  url: "https://chat.civictech.se/"
-#- title: Register here!
-#  url: "/en/form/integrity-register/"
-#  style: button
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 ---
 Linux distribution Debian, which is the older sibling of Ubuntu Linux, turns 26 years! Debian Linux Usergroups world wide are celebrating this day, so come and celebrate Debian Day with us at Goto 10!
 

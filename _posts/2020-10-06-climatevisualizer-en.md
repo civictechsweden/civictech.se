@@ -1,37 +1,28 @@
 ---
-group: _groups/civic-tech-platform.md
+title: ClimateVisualizer
+date: 2020-10-06 15:29:04 +0200
 tags:
 - open data
 - climate
-categories: []
 lang: en
-date: 2020-10-06 15:29:04 +0200
-title: ClimateVisualizer
+ref: climatevisualizer
 ingress-text: Digital and local carbon budgets as a cloud service to municipalities,
   regions and their inhabitants
 excerpt: Digital and local carbon budgets as a cloud service to municipalities, regions
   and their inhabitants
-image: "/uploads/climatevisualizer-skarmdump-liten.png"
-links:
-- title: Klimatsekretariatet
-  url: https://www.klimatsekretariatet.se
-- title: ClimateVisualizer
-  url: https://www.climatevisualizer.com/
+image: /uploads/climatevisualizer-skarmdump-liten.png
 contact:
-- name: 'Anders Heggestad '
-  image: "/uploads/bild-anders-heggestad-square.jpg"
-  text: ''
+- name: Anders Heggestad
+  image: /uploads/bild-anders-heggestad-square.jpg
   mail: anders@klimatsekretariatet.se
-  url: ''
-  organisation: Klimatsekretariatet
+  organisation: klimatsekretariatet.se
   organisation-link: https://www.klimatsekretariatet.se/
 events:
 - event: _events/how-can-data-help-fight-climate-change.md
-chat: ''
-ref: climatevisualizer
-permalink: "/en/projects/climatevisualizer/"
-
+permalink: /en/projects/climatevisualizer/
+group: _groups/civic-tech-platform.md
 ---
+
 ClimateVisualizer (CV) is a research-based tool that establishes digital and local carbon budgets as a cloud service to municipalities, regions and their inhabitants. With the launch of CV the carbon budget concept is transformed from a scientific model intended for decision-makers, to an interactive information service that citizens and civil society can follow and understand on the Internet. What they then follow is the scientific path towards the Paris Agreement and the global temperature goals.
 
 A local carbon budget gains from being considered in a local statistical context that, for instance, highlights emission trends, allows them to be extrapolated into the future, and educationally shows various greenhouse gases and emissions sectors. CV also offers this context, by repackaging our world-leading Swedish climate statistics in a new way. This is done by taking advantage of many of the possibilities of digitalisation to create interactive interfaces and visualize data, but also by a novel focus on the local user's information needs.

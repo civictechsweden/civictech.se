@@ -38,7 +38,7 @@ Where our funding comes from surely affects our goals and behavior, which we bel
 
 Digital, wherever you are, on Zoom (you get a Zoom-link after you register)
 
-The lab is free to join and all you have to do is sign up. 
+The lab is free to join and all you have to do is sign up.
 
 [Sign up here.](https://www.eventbrite.se/e/civic-tech-lab-the-two-money-problems-biljetter-151644178821)
 

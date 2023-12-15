@@ -2,7 +2,7 @@
 group: []
 lang: en
 title: Civic Tech Demo Day
-image: "/uploads/folk.png"
+image: "/uploads/folk.jpg"
 excerpt: Demo day for 14 civic tech projects (note, this event is held in Swedish)
 ingress-text: Demo day for 14 civic tech projects (note, this event is held in Swedish)
 event-date: 2021-10-05 09:00:00 +0200

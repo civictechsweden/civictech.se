@@ -10,11 +10,11 @@ sv:
   type: groups
 - title: Blogg
   url: https://medium.com/civictechsweden
+- title: Chat
+  url: https://app.element.io/#/room/#civictechse:matrix.org
+  type: chat
 - title: Forum
   url: https://forum.civictech.se
-- title: Chat
-  url: https://chat.civictech.se
-  type: chat
 en:
 - title: About
   url: "/en/about"
@@ -26,8 +26,8 @@ en:
   type: groups
 - title: Blog
   url: https://medium.com/civictechsweden
+- title: Chat
+  url: https://app.element.io/#/room/#civictechse:matrix.org
+  type: chat
 - title: Forum
   url: https://forum.civictech.se
-- title: Chat
-  url: https://chat.civictech.se
-  type: chat

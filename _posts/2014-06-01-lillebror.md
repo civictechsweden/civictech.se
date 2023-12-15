@@ -9,33 +9,18 @@ tags:
 - övervakning
 - integritet
 - bok
-chat: 'lillebror'
 ref: lillebror
-links:
-- title: Chatta om projektet
-  url: https://chat.civictech.se/channel/lillebror
-- title: Projektsidan för översättningsprojektet Lillebror
-  url: https://www.dfri.se/projekt/oversattning-av-cory-doctorows-little-brother/
-- title: Officiella hemsidan för boken Lillebror
-  url: http://craphound.com/littlebrother/download/
-- title: E-postlista
-  url: lillebror+subscribe@lists.dfri.se
-- title: Wiki
-  url: https://dfri.se/wiki/lillebror/
-- title: Lillebror på Transifex översättningsplattform
-  url: https://www.transifex.com/dfri/lillebror/
-ingress-text: DFRI organiserar en översättning av Cory Doctorows bok Little Brother.
+ingress-text: DFRI anordnade en volontärdriven översättning av Cory Doctorows bok Little Brother.
 excerpt: En översättning av Cory Doctorows bok Little Brother.
-image: "/uploads/little-brother-logo.jpg"
+image: /uploads/little-brother-logo.jpg
 contact:
 - name: :DFRI - Föreningen för digitala fri- och rättigheter
-  image: "/uploads/dfri_logotype_swedish_transparent_256.png"
-  text: E-post
+  image: /uploads/dfri_logotype_english_orange.svg
   mail: dfri@dfri.se
-  organisation: :DFRI - Föreningen för digitala fri- och rättigheter
+  organisation: dfri.se
   organisation-link: https://www.dfri.se/
 ---
-DFRI organiserar en översättning av Cory Doctorows bok Little Brother. Alla som är bekväma med att läsa engelska och skriva på svenska kan delta i översättningsprojektet, som sker genom crowdsourcing.
+2014 organiserade DFRI en översättning av Cory Doctorows bok Little Brother. Alla som var bekväma med att läsa engelska och skriva på svenska kunde delta i översättningsprojektet, som skedde genom crowdsourcing.
 
 Boken handlar om ett samhället där USA:s Department of Homeland Security, National Security Agency och andra myndigheter fått fria tyglar att övervaka samhället.
 

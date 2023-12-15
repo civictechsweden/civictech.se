@@ -1,17 +1,17 @@
 ---
 group: []
 lang: en
-title: Welcome to our forum!
+title: Do you wanna join?
 image: ''
-excerpt: Our forum is the hub for the Civic Tech Sweden network - feel free to join,
-  post your own entrys and respond to others!
-ingress-text: Our forum is the hub for the Civic Tech Sweden network - feel free to
-  join, post your own entrys and respond to others!
+excerpt: Whether you already have a project or want to find something to contribute to, you are welcome in our network!
+ingress-text: Whether you already have a project or want to find something to contribute to, you are welcome in our network!
 event-date: 2022-01-04 00:00:00 +0100
-event-date-desc: Ongoing
-place: Where ever you are
 links:
-- title: Our forum
+- title: Check out our upcoming meetups in Stockholm!
+  url: https://www.meetup.com/stockholm-civic-tech-meetup-group/
+- title: Chat with us on Matrix!
+  url: https://app.element.io/#/room/#civictechse:matrix.org
+- title: Write a post on our forum!
   url: https://forum.civictech.se/
 ref: en
 

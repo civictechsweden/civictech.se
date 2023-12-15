@@ -3,14 +3,14 @@ title: 'Civic Tech Sthlm #1'
 ref: meetup-0
 image: ""
 excerpt: 'Meetup för Civic Tech-communitiet i Stockholm'
-ingress-text: Vårt första meetup om Civic Tech. Kom till Goto10 om du vill prata om teknologier som gör det enklare för medborgare att organisera, att interagera med den offentliga och att bygga ett bättre samhälle tillsammans.  
+ingress-text: Vårt första meetup om Civic Tech. Kom till Goto10 om du vill prata om teknologier som gör det enklare för medborgare att organisera, att interagera med den offentliga och att bygga ett bättre samhälle tillsammans.
 event-date: 2018-06-27 18:00:00 +02:00
 event-date-desc: 27 juni 2018, kl.18-20:30
 place: Goto10, Hammarby Kaj 10D, Stockholm
 group: stockholm
 links:
 - title: Gå med i chatten
-  url: "https://chat.civictech.se/"
+  url: https://app.element.io/#/room/#civictechse:matrix.org
 - title: Anmäl dig här!
   url: "https://www.goto10.se/evenemang/meetupet-om-civic-tec/"
   style: button

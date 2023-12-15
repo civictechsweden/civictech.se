@@ -9,8 +9,6 @@ contact:
   mail: hello@civictech.se
 partners:
 - title: Digidem Lab
-  link: http://digidemlab.org
-  logo: "/uploads/logo-digidemlab.png"
-lang: sv
-
+  link: https://digidemlab.org
+  logo: /uploads/digidemlab-logo.svg
 ---
