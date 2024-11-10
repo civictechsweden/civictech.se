@@ -1,33 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+<rdf:RDF xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:odrs="http://schema.theodi.org/odrs#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:pubeu="http://publications.europa.eu/resource/authority/"
+    xmlns:geosparql="http://www.opengis.net/ont/geosparql#"
+    xmlns:prov="http://www.w3.org/ns/prov#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
     xmlns:dcterms="http://purl.org/dc/terms/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
     xmlns:dcat="http://www.w3.org/ns/dcat#"
     xmlns:foaf="http://xmlns.com/foaf/0.1/">
-    <dcat:Catalog rdf:about="https://civictech.se/dcatap.rdf">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-01</dcterms:modified>
+    <dcat:Catalog rdf:about="https://civictech.se/dcat-ap.rdf">
         <dcterms:title xml:lang="sv">Civic Tech Sweden</dcterms:title>
         <dcterms:description xml:lang="sv">Öppna data från olika svenska civic tech projekt</dcterms:description>
         <dcterms:title xml:lang="en">Civic Tech Sweden</dcterms:title>
         <dcterms:description xml:lang="en">Open data from various Swedish civic tech projects</dcterms:description>
-        <dcterms:publisher rdf:resource="https://civictech.se/about" />
-        <dcterms:hasPart rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/refs/heads/master/dcat-ap.rdf"/>
-        <dcterms:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
-        <foaf:homepage rdf:resource="https://civictech.se" />
-        <dcterms:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE" />
+        <dcterms:publisher rdf:resource="https://civictech.se/owner.rdf"/>
+        <dcterms:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
         <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-01</dcterms:issued>
-        <dcat:themeTaxonomy rdf:resource="http://publications.europa.eu/resource/authority/data-theme" />
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-10</dcterms:modified>
+        <dcterms:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+        <foaf:homepage rdf:resource="https://civictech.se"/>
+        <dcterms:spatial rdf:resource="http://sws.geonames.org/2661886"/>
+        <dcat:themeTaxonomy rdf:resource="http://publications.europa.eu/resource/authority/data-theme"/>
+        <dcterms:hasPart rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/refs/heads/master/dcat-ap.rdf"/>
     </dcat:Catalog>
     <dcat:Catalog rdf:about="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/refs/heads/master/dcat-ap.rdf"/>
-
-    <foaf:Agent rdf:about="https://civictech.se/about">
-        <foaf:name>Civic Tech Sweden</foaf:name>
-        <dcterms:type rdf:resource="http://purl.org/adms/publishertype/NonGovernmentalOrganisation"/>
-    </foaf:Agent>
     <rdf:Description rdf:about="http://sws.geonames.org/2661886">
         <rdfs:label xml:lang="se">Sverige</rdfs:label>
         <rdfs:label xml:lang="en">Sweden</rdfs:label>
     </rdf:Description>
+    <vcard:Organization rdf:about="https://civictech.se/kontakt">
+        <vcard:fn>Civic Tech Sweden</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:hello@civictech.se"/>
+    </vcard:Organization>
 </rdf:RDF>

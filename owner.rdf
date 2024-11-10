@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:schema="http://schema.org/"
+	xmlns:adms="http://www.w3.org/ns/adms#"
+	xmlns:odrs="http://schema.theodi.org/odrs#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+	xmlns:pubeu="http://publications.europa.eu/resource/authority/"
+	xmlns:es="http://entrystore.org/terms/"
+	xmlns:geosparql="http://www.opengis.net/ont/geosparql#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dcat="http://www.w3.org/ns/dcat#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<foaf:Agent rdf:about="https://civictech.se/owner.rdf">
+		<foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Civic Tech Sweden</foaf:name>
+		<dcterms:type rdf:resource="http://purl.org/adms/publishertype/NonGovernmentalOrganisation"/>
+	</foaf:Agent>
+</rdf:RDF>
