@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
-    <dcat:Catalog rdf:about="https://github.com/civictechsweden/oppna-luftfartygsregistret">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dcatap="http://data.europa.eu/r5r/" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <dcat:Catalog rdf:about="https://github.com/civictechsweden/civictech.se">
         <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-23</dcterms:modified>
         <dcterms:title xml:lang="sv">Civic Tech Swedens öppna data</dcterms:title>
         <dcterms:description xml:lang="sv">Civic Tech Sweden är ett nätverk av individer och organisationer som använder teknik för att förbättra den svenska demokratin, bland annat med öppna data</dcterms:description>
@@ -10,10 +10,17 @@
         <dcat:dataset rdf:resource="https://github.com/civictechsweden/oppna-luftfartygsregistret" />
         <foaf:homepage rdf:resource="https://civictech.se" />
         <dcterms:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE" />
+        <dcat:themeTaxonomy rdf:resource="http://publications.europa.eu/resource/authority/data-theme/" />
     </dcat:Catalog>
     <foaf:Agent rdf:about="https://civictech.se">
         <foaf:name>Civic Tech Sweden</foaf:name>
         <dcterms:type rdf:resource="http://purl.org/adms/publishertype/NonGovernmentalOrganisation" />
+        <dcterms:spatial rdf:resource="http://sws.geonames.org/2661886" />
+        <dcterms:temporal>
+            <dcterms:PeriodOfTime rdf:nodeID="node1e07u274fx1">
+                <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31</dcat:endDate>
+            </dcterms:PeriodOfTime>
+        </dcterms:temporal>
     </foaf:Agent>
     <rdf:Description rdf:about="http://sws.geonames.org/2661886">
         <rdfs:label xml:lang="se">Sverige</rdfs:label>
@@ -56,9 +63,10 @@
         <dcterms:description xml:lang="sv">Registret på CSV</dcterms:description>
         <dcterms:description xml:lang="en">The register as CSV</dcterms:description>
         <dcterms:format>text/csv</dcterms:format>
-        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.csv" />
+        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.csv"/>
         <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
-        <dcat:downloadURL rdf:resource="ttps://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.csv" />
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.csv"/>
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental"/>
     </dcat:Distribution>
     <dcat:Distribution rdf:about="https://github.com/civictechsweden/oppna-luftfartygsregistret/blob/master/register_light.json">
         <dcterms:title xml:lang="sv">Register (utan anonyma)</dcterms:title>
@@ -66,9 +74,10 @@
         <dcterms:description xml:lang="sv">Registret på JSON</dcterms:description>
         <dcterms:description xml:lang="en">The register as JSON</dcterms:description>
         <dcterms:format>application/json</dcterms:format>
-        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register_light.json" />
+        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register_light.json"/>
         <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
-        <dcat:downloadURL rdf:resource="ttps://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register_light.json" />
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register_light.json"/>
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental"/>
     </dcat:Distribution>
         <dcat:Distribution rdf:about="https://github.com/civictechsweden/oppna-luftfartygsregistret/blob/master/register.json">
         <dcterms:title xml:lang="sv">Register (innan rensning, med listan av anonymerade ägare)</dcterms:title>
@@ -76,8 +85,9 @@
         <dcterms:description xml:lang="sv">Registret på JSON</dcterms:description>
         <dcterms:description xml:lang="en">The register as JSON</dcterms:description>
         <dcterms:format>application/json</dcterms:format>
-        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.json" />
+        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.json"/>
         <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
-        <dcat:downloadURL rdf:resource="ttps://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.json" />
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.json"/>
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental"/>
     </dcat:Distribution>
 </rdf:RDF>
