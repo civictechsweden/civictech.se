@@ -94,8 +94,8 @@
     <dcat:Dataset rdf:about="https://github.com/civictechsweden/oppna-atervinningsdata">
         <dcterms:title xml:lang="sv">Öppna återvinningsdata</dcterms:title>
         <dcterms:title xml:lang="en">Open recycling data</dcterms:title>
-        <dcterms:description xml:lang="sv">Detta projekt samlar data om svenska återvinningsstationer (återvinningsstationer) med hjälp av Avfall Sveriges öppna API:er. Det exporterar data som JSON eller CSV.</dcterms:description>
-        <dcterms:description xml:lang="en">This project collects data on Swedish recycling stations using Avfall Sverige's open APIs, exporting as JSON or CSV.</dcterms:description>
+        <dcterms:description xml:lang="sv">Detta projekt samlar data om svenska återvinningsstationer (återvinningsstationer) med hjälp av Avfall Sveriges öppna API:er. Datat konverteras till CSV och JSON. OBS: Uppgifterna samlas en gång per dag och kan vara felaktiga eller ouppdaterade. Avfall Sverige är inte involverat med publiceringen.</dcterms:description>
+        <dcterms:description xml:lang="en">This project collects data on Swedish recycling stations using Avfall Sverige's open APIs, making them available as JSON and CSV.WARNING: The data is fetched daily so the information can be inaccurate or out of date. Avfall Sverige are in no way involved in the publication of the dataset.</dcterms:description>
         <dcterms:publisher rdf:resource="https://civictech.se" />
         <dcat:distribution rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations.json" />
         <dcat:distribution rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations_with_services.json" />
@@ -161,6 +161,42 @@
         <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/services.csv" />
         <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
         <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/services.csv" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Dataset rdf:about="https://github.com/civictechsweden/myndighetsdata">
+        <dcterms:title xml:lang="sv">Myndighetsdata</dcterms:title>
+        <dcterms:title xml:lang="en">Myndighetsdata</dcterms:title>
+        <dcterms:description xml:lang="sv">Detta projekt samlar data från olika myndighetsregister och tillgängliggör dem i ett standardiserat format. Det försöker också att sammanfoga registren. OBS: Projektet är oberoende och det kan förekomma ouppdaterade eller felaktiga uppgifter.</dcterms:description>
+        <dcterms:description xml:lang="en">This project collects data from the various government agency registers and makes it available in a standardised format. It also attemts to merge the registers. WARNING: This project is independent and out of date or incorrect information can be present in the data.</dcterms:description>
+        <dcterms:publisher rdf:resource="https://civictech.se" />
+        <dcat:distribution rdf:resource="https://raw.githubusercontent.com/civictechsweden/myndighetsdata/refs/heads/master/data/merged.json" />
+        <dcterms:spatial rdf:resource="http://sws.geonames.org/2661886" />
+        <dcat:keyword xml:lang="sv">Myndighet</dcat:keyword>
+        <dcat:keyword xml:lang="en">Government agency</dcat:keyword>
+        <dcat:keyword xml:lang="sv">Register</dcat:keyword>
+        <dcat:keyword xml:lang="en">Registry</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE" />
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-01</dcterms:issued>
+        <dcat:contactPoint rdf:resource="https://forum.civictech.se" />
+        <dcterms:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcterms:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG" />
+        <dcterms:temporal>
+            <dcterms:PeriodOfTime rdf:nodeID="node1e07u274fx2">
+                <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-01</dcat:startDate>
+            </dcterms:PeriodOfTime>
+        </dcterms:temporal>
+        <foaf:page rdf:resource="https://github.com/civictechsweden/myndighetsdata" />
+    </dcat:Dataset>
+    <dcat:Distribution rdf:about="https://raw.githubusercontent.com/civictechsweden/myndighetsdata/refs/heads/master/data/merged.json">
+        <dcterms:title xml:lang="sv">Sammanslaget data</dcterms:title>
+        <dcterms:title xml:lang="en">Merged dataset</dcterms:title>
+        <dcterms:description xml:lang="sv">Sammanslagning av myndighetsinformation från SCB, Statskontoret, ESV, Arbetsgivarverket, Wikidata och Handlingar.se</dcterms:description>
+        <dcterms:description xml:lang="en">Merged list of government agencies from SCB, Statskontoret, ESV, Arbetsgivarverket, Wikidata and Handlingar.se</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/myndighetsdata/refs/heads/master/data/merged.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/myndighetsdata/refs/heads/master/data/merged.json" />
         <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
     </dcat:Distribution>
 </rdf:RDF>
