@@ -199,4 +199,376 @@
         <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/myndighetsdata/refs/heads/master/data/merged.json" />
         <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
     </dcat:Distribution>
+    <dcat:Dataset rdf:about="https://github.com/civictechsweden/g0vse">
+        <dcterms:title xml:lang="sv">g0vse</dcterms:title>
+        <dcterms:title xml:lang="en">g0vse</dcterms:title>
+        <dcterms:description xml:lang="sv">Nästan alla sidor och dokument från regeringen.se som öppna data. Pressmeddelanden, remissvar, promemorior... OBS: Uppgifterna samlas tack vare så kallat data scraping en gång i månaden och kan vara felaktiga eller ouppdaterade. Regeringskansliet är inte involverat med publiceringen.</dcterms:description>
+        <dcterms:description xml:lang="en">Almost all of regeringen.se available as open data. Press releases, public enquiries, reports... WARNING: The data is fetched using so called data scraping once a month, the information can be inaccurate or out of date. Regeringskansliet are in no way involved in the publication of the dataset.</dcterms:description>
+        <dcterms:publisher rdf:resource="https://civictech.se" />
+        <dcat:distribution rdf:resource="https://g0v.se/api/items.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/api/codes.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/api/latest_updated.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/rattsliga-dokument/departementsserien-och-promemorior.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/rattsliga-dokument/forordningsmotiv.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/rattsliga-dokument/kommittedirektiv.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/rattsliga-dokument/lagradsremiss.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/rattsliga-dokument/proposition.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/rattsliga-dokument/skrivelse.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/rattsliga-dokument/statens-offentliga-utredningar.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/rattsliga-dokument/sveriges-internationella-overenskommelser.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/faktapromemoria.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/informationsmaterial.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/internationella-mr-granskningar-av-sverige.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/kommenterade-dagordningar.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/rapporter.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/remisser.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/regeringsuppdrag.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/regeringsarenden.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/sakrad.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/strategier-for-internationellt-bistand.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/overenskommelser-och-avtal.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/arendeforteckningar.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/artiklar.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/debattartiklar.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/pressmeddelanden.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/tal.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/ud-avrader.json" />
+        <dcat:distribution rdf:resource="https://g0v.se/uttalanden.json" />
+        <dcterms:spatial rdf:resource="http://sws.geonames.org/2661886" />
+        <dcat:keyword xml:lang="sv">Regeringen</dcat:keyword>
+        <dcat:keyword xml:lang="en">Government chancellery</dcat:keyword>
+        <dcat:keyword xml:lang="sv">Lagstiftning</dcat:keyword>
+        <dcat:keyword xml:lang="en">Legislation</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE" />
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-04-21</dcterms:issued>
+        <dcat:contactPoint rdf:resource="https://forum.civictech.se" />
+        <dcterms:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcterms:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY" />
+        <dcterms:temporal>
+            <dcterms:PeriodOfTime rdf:nodeID="node1e07u274fx2">
+                <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-04-21</dcat:startDate>
+            </dcterms:PeriodOfTime>
+        </dcterms:temporal>
+        <foaf:page rdf:resource="https://g0v.se" />
+    </dcat:Dataset>
+    <dcat:Distribution rdf:about="https://g0v.se/api/items.json">
+        <dcterms:title xml:lang="sv">Alla objekt</dcterms:title>
+        <dcterms:title xml:lang="en">All items</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av alla sidor på regeringen.se med tillhörande metadata</dcterms:description>
+        <dcterms:description xml:lang="en">A list of all pages on regeringen.se with metadata</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/api/items.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/api/items.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/api/codes.json">
+        <dcterms:title xml:lang="sv">Kategorikoder</dcterms:title>
+        <dcterms:title xml:lang="en">Category codes</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av kategorikoder som används för att klassificera sidorna</dcterms:description>
+        <dcterms:description xml:lang="en">A list of category codes used to classify the pages</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/api/codes.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/api/codes.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/api/latest_updated.json">
+        <dcterms:title xml:lang="sv">Hälsokoll</dcterms:title>
+        <dcterms:title xml:lang="en">Healthcheck</dcterms:title>
+        <dcterms:description xml:lang="sv">Statistik om antalet sidor som är tillgängliga på API:t samt datum för senaste uppdateringen</dcterms:description>
+        <dcterms:description xml:lang="en">Statistics on the API's content and date of the latest data update</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/api/latest_updated.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/api/latest_updated.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/rattsliga-dokument/departementsserien-och-promemorior.json">
+        <dcterms:title xml:lang="sv">Departementsserier och Promemorior</dcterms:title>
+        <dcterms:title xml:lang="en">Departementsserier och Promemorior</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av departementsserier och promemorior</dcterms:description>
+        <dcterms:description xml:lang="en">A list of departementsserier och promemorior</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/rattsliga-dokument/departementsserien-och-promemorior.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/rattsliga-dokument/departementsserien-och-promemorior.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/rattsliga-dokument/forordningsmotiv.json">
+        <dcterms:title xml:lang="sv">Förordningsmotiv</dcterms:title>
+        <dcterms:title xml:lang="en">Förordningsmotiv</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av förordningsmotiv</dcterms:description>
+        <dcterms:description xml:lang="en">A list of förordningsmotiv</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/rattsliga-dokument/forordningsmotiv.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/rattsliga-dokument/forordningsmotiv.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/rattsliga-dokument/kommittedirektiv.json">
+        <dcterms:title xml:lang="sv">Kommittédirektiv</dcterms:title>
+        <dcterms:title xml:lang="en">Kommittédirektiv</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av kommittédirektiv</dcterms:description>
+        <dcterms:description xml:lang="en">A list of kommittédirektiv</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/rattsliga-dokument/kommittedirektiv.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/rattsliga-dokument/kommittedirektiv.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/rattsliga-dokument/lagradsremiss.json">
+        <dcterms:title xml:lang="sv">Lagrådsremiss</dcterms:title>
+        <dcterms:title xml:lang="en">Lagrådsremiss</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av lagrådsremisser</dcterms:description>
+        <dcterms:description xml:lang="en">A list of lagrådsremisser</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/rattsliga-dokument/lagradsremiss.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/rattsliga-dokument/lagradsremiss.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+        <dcat:Distribution rdf:about="https://g0v.se/rattsliga-dokument/proposition.json">
+        <dcterms:title xml:lang="sv">Proposition</dcterms:title>
+        <dcterms:title xml:lang="en">Bills</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av propositioner</dcterms:description>
+        <dcterms:description xml:lang="en">A list of bills</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/rattsliga-dokument/proposition.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/rattsliga-dokument/proposition.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/rattsliga-dokument/skrivelse.json">
+        <dcterms:title xml:lang="sv">Skrivelse</dcterms:title>
+        <dcterms:title xml:lang="en">Writings</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av skrivelser</dcterms:description>
+        <dcterms:description xml:lang="en">A list of writings</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/rattsliga-dokument/skrivelse.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/rattsliga-dokument/skrivelse.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/rattsliga-dokument/statens-offentliga-utredningar.json">
+        <dcterms:title xml:lang="sv">Statens offentliga utredningar</dcterms:title>
+        <dcterms:title xml:lang="en">Swedish Government Official Reports (SOU)</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av statens offentliga utredningar</dcterms:description>
+        <dcterms:description xml:lang="en">A list of Swedish Government Official Reports (SOU)</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/rattsliga-dokument/statens-offentliga-utredningar.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/rattsliga-dokument/statens-offentliga-utredningar.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/rattsliga-dokument/sveriges-internationella-overenskommelser.json">
+        <dcterms:title xml:lang="sv">Sveriges internationella överenskommelser</dcterms:title>
+        <dcterms:title xml:lang="en">Sweden's international agreements</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av Sveriges internationella överenskommelser</dcterms:description>
+        <dcterms:description xml:lang="en">A list of Sweden's international agreements</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/rattsliga-dokument/sveriges-internationella-overenskommelser.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/rattsliga-dokument/sveriges-internationella-overenskommelser.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/faktapromemoria.json">
+        <dcterms:title xml:lang="sv">Faktapromemoria</dcterms:title>
+        <dcterms:title xml:lang="en">Faktapromemoria</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av faktapromemorior</dcterms:description>
+        <dcterms:description xml:lang="en">A list of faktapromemorior</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/faktapromemoria.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/faktapromemoria.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/informationsmaterial.json">
+        <dcterms:title xml:lang="sv">Informationsmaterial</dcterms:title>
+        <dcterms:title xml:lang="en">Information Material</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av informationsmaterial</dcterms:description>
+        <dcterms:description xml:lang="en">A list of information materials</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/informationsmaterial.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/informationsmaterial.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/internationella-mr-granskningar-av-sverige.json">
+        <dcterms:title xml:lang="sv">Internationella MR-granskningar av Sverige</dcterms:title>
+        <dcterms:title xml:lang="en">International HR Reviews of Sweden</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av internationella MR-granskningar av Sverige</dcterms:description>
+        <dcterms:description xml:lang="en">A list of International HR reviews of Sweden</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/internationella-mr-granskningar-av-sverige.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/internationella-mr-granskningar-av-sverige.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/kommenterade-dagordningar.json">
+        <dcterms:title xml:lang="sv">Kommenterade Dagordningar</dcterms:title>
+        <dcterms:title xml:lang="en">Commented Agendas</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av kommenterade dagordningar</dcterms:description>
+        <dcterms:description xml:lang="en">A list of commented agendas</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/kommenterade-dagordningar.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/kommenterade-dagordningar.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/rapporter.json">
+        <dcterms:title xml:lang="sv">Rapporter</dcterms:title>
+        <dcterms:title xml:lang="en">Reports</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av rapporter</dcterms:description>
+        <dcterms:description xml:lang="en">A list of reports</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/rapporter.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/rapporter.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/remisser.json">
+        <dcterms:title xml:lang="sv">Remisser</dcterms:title>
+        <dcterms:title xml:lang="en">Referrals</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av remisser</dcterms:description>
+        <dcterms:description xml:lang="en">A list of referrals</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/remisser.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/remisser.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/regeringsuppdrag.json">
+        <dcterms:title xml:lang="sv">Regeringsuppdrag</dcterms:title>
+        <dcterms:title xml:lang="en">Government Assignments</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av regeringsuppdrag</dcterms:description>
+        <dcterms:description xml:lang="en">A list of government assignments</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/regeringsuppdrag.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/regeringsuppdrag.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/regeringsarenden.json">
+        <dcterms:title xml:lang="sv">Regeringsärenden</dcterms:title>
+        <dcterms:title xml:lang="en">Government Matters</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av regeringsärenden</dcterms:description>
+        <dcterms:description xml:lang="en">A list of government matters</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/regeringsarenden.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/regeringsarenden.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/sakrad.json">
+        <dcterms:title xml:lang="sv">Säkrad</dcterms:title>
+        <dcterms:title xml:lang="en">Secured</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av säkra data</dcterms:description>
+        <dcterms:description xml:lang="en">A list of secured data</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/sakrad.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/sakrad.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/strategier-for-internationellt-bistand.json">
+        <dcterms:title xml:lang="sv">Strategier för Internationellt Bistånd</dcterms:title>
+        <dcterms:title xml:lang="en">Strategies for International Aid</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av strategier för internationellt bistånd</dcterms:description>
+        <dcterms:description xml:lang="en">A list of strategies for international aid</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/strategier-for-internationellt-bistand.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/strategier-for-internationellt-bistand.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/overenskommelser-och-avtal.json">
+        <dcterms:title xml:lang="sv">Överenskommelser och Avtal</dcterms:title>
+        <dcterms:title xml:lang="en">Agreements and Contracts</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av överenskommelser och avtal</dcterms:description>
+        <dcterms:description xml:lang="en">A list of agreements and contracts</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/overenskommelser-och-avtal.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/overenskommelser-och-avtal.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/arendeforteckningar.json">
+        <dcterms:title xml:lang="sv">ÄrendeFörteckningar</dcterms:title>
+        <dcterms:title xml:lang="en">ÄrendeFörteckningar</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av ärendeförteckningar</dcterms:description>
+        <dcterms:description xml:lang="en">A list of ärendeförteckningar</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/arendeforteckningar.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/arendeforteckningar.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/artiklar.json">
+        <dcterms:title xml:lang="sv">Artiklar</dcterms:title>
+        <dcterms:title xml:lang="en">Articles</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av artiklar</dcterms:description>
+        <dcterms:description xml:lang="en">A list of articles</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/artiklar.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/artiklar.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/debattartiklar.json">
+        <dcterms:title xml:lang="sv">Debattartiklar</dcterms:title>
+        <dcterms:title xml:lang="en">Opinion pieces</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av debattartiklar</dcterms:description>
+        <dcterms:description xml:lang="en">A list of opinion pieces</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/debattartiklar.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/debattartiklar.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/pressmeddelanden.json">
+        <dcterms:title xml:lang="sv">Pressmeddelanden</dcterms:title>
+        <dcterms:title xml:lang="en">Press Releases</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av pressmeddelanden</dcterms:description>
+        <dcterms:description xml:lang="en">A list of press releases</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/pressmeddelanden.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/pressmeddelanden.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/tal.json">
+        <dcterms:title xml:lang="sv">Tal</dcterms:title>
+        <dcterms:title xml:lang="en">Speeches</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av tal</dcterms:description>
+        <dcterms:description xml:lang="en">A list of speeches</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/tal.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/tal.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/ud-avrader.json">
+        <dcterms:title xml:lang="sv">UD Avråder</dcterms:title>
+        <dcterms:title xml:lang="en">Travel warnings from Foreign Affairs</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av UD-avråder</dcterms:description>
+        <dcterms:description xml:lang="en">A list of travel warnings</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/ud-avrader.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/ud-avrader.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://g0v.se/uttalanden.json">
+        <dcterms:title xml:lang="sv">Uttalanden</dcterms:title>
+        <dcterms:title xml:lang="en">Statements</dcterms:title>
+        <dcterms:description xml:lang="sv">En lista av uttalanden</dcterms:description>
+        <dcterms:description xml:lang="en">A list of statements</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://g0v.se/uttalanden.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://g0v.se/uttalanden.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
 </rdf:RDF>
