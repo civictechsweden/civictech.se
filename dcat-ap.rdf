@@ -91,4 +91,76 @@
         <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.json" />
         <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
     </dcat:Distribution>
+    <dcat:Dataset rdf:about="https://github.com/civictechsweden/oppna-atervinningsdata">
+        <dcterms:title xml:lang="sv">Öppna återvinningsdata</dcterms:title>
+        <dcterms:title xml:lang="en">Open recycling data</dcterms:title>
+        <dcterms:description xml:lang="sv">Detta projekt samlar data om svenska återvinningsstationer (återvinningsstationer) med hjälp av Avfall Sveriges öppna API:er. Det exporterar data som JSON eller CSV.</dcterms:description>
+        <dcterms:description xml:lang="en">This project collects data on Swedish recycling stations using Avfall Sverige's open APIs, exporting as JSON or CSV.</dcterms:description>
+        <dcterms:publisher rdf:resource="https://civictech.se" />
+        <dcat:distribution rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations.json" />
+        <dcat:distribution rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations_with_services.json" />
+        <dcat:distribution rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations.csv" />
+        <dcat:distribution rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/services.csv" />
+        <dcterms:spatial rdf:resource="http://sws.geonames.org/2661886" />
+        <dcat:keyword xml:lang="sv">Återvinning</dcat:keyword>
+        <dcat:keyword xml:lang="en">Recycling</dcat:keyword>
+        <dcat:keyword xml:lang="sv">Avfall</dcat:keyword>
+        <dcat:keyword xml:lang="en">Waste</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI" />
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-01</dcterms:issued>
+        <dcat:contactPoint rdf:resource="https://forum.civictech.se" />
+        <dcterms:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcterms:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/MONTHLY" />
+        <dcterms:temporal>
+            <dcterms:PeriodOfTime rdf:nodeID="node1e07u274fx2">
+                <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-01</dcat:startDate>
+            </dcterms:PeriodOfTime>
+        </dcterms:temporal>
+        <foaf:page rdf:resource="https://github.com/civictechsweden/oppna-atervinningsdata" />
+    </dcat:Dataset>
+    <dcat:Distribution rdf:about="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations.json">
+        <dcterms:title xml:lang="sv">Återvinningsstationer</dcterms:title>
+        <dcterms:title xml:lang="en">Recycling stations</dcterms:title>
+        <dcterms:description xml:lang="sv">Återvinningsstationer på JSON</dcterms:description>
+        <dcterms:description xml:lang="en">Recycling stations in JSON</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations_with_services.json">
+        <dcterms:title xml:lang="sv">Återvinningsstationer med tillhörande tjänster</dcterms:title>
+        <dcterms:title xml:lang="en">Recycling stations and services</dcterms:title>
+        <dcterms:description xml:lang="sv">Återvinningsstationer med tillhörande tjänster på JSON</dcterms:description>
+        <dcterms:description xml:lang="en">Recycling stations and services in JSON</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations_with_services.json" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations_with_services.json" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations.csv">
+        <dcterms:title xml:lang="sv">Återvinningsstationer</dcterms:title>
+        <dcterms:title xml:lang="en">Recycling stations</dcterms:title>
+        <dcterms:description xml:lang="sv">Återvinningsstationer på CSV</dcterms:description>
+        <dcterms:description xml:lang="en">Recycling stations in CSV</dcterms:description>
+        <dcterms:format>text/csv</dcterms:format>
+        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations.csv" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/stations.csv" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/services.csv">
+        <dcterms:title xml:lang="sv">Tjänster vid återvinningsstationer</dcterms:title>
+        <dcterms:title xml:lang="en">Recycling station services</dcterms:title>
+        <dcterms:description xml:lang="sv">Tjänster vid återvinningsstationer på CSV</dcterms:description>
+        <dcterms:description xml:lang="en">Recycling station services in CSV</dcterms:description>
+        <dcterms:format>text/csv</dcterms:format>
+        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/services.csv" />
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-atervinningsdata/refs/heads/master/data/services.csv" />
+        <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
+    </dcat:Distribution>
 </rdf:RDF>
