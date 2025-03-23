@@ -92,8 +92,8 @@
         <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/experimental" />
     </dcat:Distribution>
     <dcat:Dataset rdf:about="https://github.com/civictechsweden/oppna-atervinningsdata">
-        <dcterms:title xml:lang="sv">Öppna återvinningsdata</dcterms:title>
-        <dcterms:title xml:lang="en">Open recycling data</dcterms:title>
+        <dcterms:title xml:lang="sv">Sveriges återvinningsstationer</dcterms:title>
+        <dcterms:title xml:lang="en">Swedish recycling stations</dcterms:title>
         <dcterms:description xml:lang="sv">Detta projekt samlar data om svenska återvinningsstationer (återvinningsstationer) med hjälp av Avfall Sveriges öppna API:er. Datat konverteras till CSV och JSON. OBS: Uppgifterna samlas en gång per dag och kan vara felaktiga eller ouppdaterade. Avfall Sverige är inte involverat med publiceringen.</dcterms:description>
         <dcterms:description xml:lang="en">This project collects data on Swedish recycling stations using Avfall Sverige's open APIs, making them available as JSON and CSV.WARNING: The data is fetched daily so the information can be inaccurate or out of date. Avfall Sverige are in no way involved in the publication of the dataset.</dcterms:description>
         <dcterms:publisher rdf:resource="https://civictech.se" />
@@ -107,14 +107,14 @@
         <dcat:keyword xml:lang="sv">Avfall</dcat:keyword>
         <dcat:keyword xml:lang="en">Waste</dcat:keyword>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI" />
-        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-01</dcterms:issued>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-24</dcterms:issued>
         <dcat:contactPoint rdf:resource="https://forum.civictech.se" />
         <dcterms:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC" />
         <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
         <dcterms:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/MONTHLY" />
         <dcterms:temporal>
             <dcterms:PeriodOfTime rdf:nodeID="node1e07u274fx2">
-                <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-01</dcat:startDate>
+                <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-24</dcat:startDate>
             </dcterms:PeriodOfTime>
         </dcterms:temporal>
         <foaf:page rdf:resource="https://github.com/civictechsweden/oppna-atervinningsdata" />
@@ -176,14 +176,14 @@
         <dcat:keyword xml:lang="sv">Register</dcat:keyword>
         <dcat:keyword xml:lang="en">Registry</dcat:keyword>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE" />
-        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-01</dcterms:issued>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-04-22</dcterms:issued>
         <dcat:contactPoint rdf:resource="https://forum.civictech.se" />
         <dcterms:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC" />
         <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
         <dcterms:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG" />
         <dcterms:temporal>
             <dcterms:PeriodOfTime rdf:nodeID="node1e07u274fx2">
-                <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-01</dcat:startDate>
+                <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-04-22</dcat:startDate>
             </dcterms:PeriodOfTime>
         </dcterms:temporal>
         <foaf:page rdf:resource="https://github.com/civictechsweden/myndighetsdata" />
