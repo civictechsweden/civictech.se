@@ -1,8 +1,8 @@
 ---
-title: Open Knowledge Sweden Meetup #1
+title: "Open Knowledge Sweden Meetup #1"
 ref: 2025-10-open-knowledge-sweden-meetup-1
 lang: en
-image: "/uploads/opendata.jpg"
+image: "/uploads/group-pic.jpg"
 excerpt: "Come and talk open knowledge and get something to drink and eat!"
 ingress-text: "Come and talk open knowledge and get something to drink and eat"
 event-date: 2025-10-23 18:00:00 +02:00
@@ -13,7 +13,7 @@ links:
 - title: Join the chat
   url: https://app.element.io/#/room/#civictechse:matrix.org
 - title: Register here!
-  url: "mailto:contact[at]okfn.se"
+  url: "mailto:contact@okfn.se"
   style: button
 ---
 
