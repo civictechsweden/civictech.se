@@ -6,7 +6,7 @@ excerpt: "Kom och prata om öppen kunskap och till något att dricka och äta!"
 ingress-text: "Kom och prata om öppen kunskap och till något att dricka och äta"
 event-date: 2025-10-23 18:00:00 +02:00
 event-date-desc: "23 oktober 2025, kl. 18-20"
-plats: Best Western and hotel, Apelbergsgatan 40, 111 37 Stockholm, Sverige
+place: Best Western and hotel, Apelbergsgatan 40, 111 37 Stockholm, Sverige
 group: stockholm
 links:
   - title: "Delta i chatten"
