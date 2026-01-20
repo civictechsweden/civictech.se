@@ -1,12 +1,12 @@
 ---
-title: "Open Knowledge Sweden Meetup #1"
-ref: 2025-10-open-knowledge-sweden-meetup-1
+title: "Open Knowledge Sweden Meetup 2026 #1"
+ref: 2026-02-open-knowledge-sweden-meetup-1
 lang: en
 image: "/uploads/group-pic.jpg"
-excerpt: "Come and talk open knowledge and get something to drink and eat!"
-ingress-text: "Come and talk open knowledge and get something to drink and eat"
-event-date: 2025-10-23 18:00:00 +02:00
-event-date-desc: "October 23rd 2025, 18-20"
+excerpt: "Come and talk open knowledge and buy something to drink and eat!"
+ingress-text: "Come and talk open knowledge and buy something to drink and eat"
+event-date: 2026-02-03 18:00:00 +02:00
+event-date-desc: "February 3rd 2026, 18-20"
 place: Best Western and hotel, Apelbergsgatan 40, 111 37 Stockholm, Sverige
 group: stockholm
 links:
