@@ -1,6 +1,7 @@
 ---
 title: "Open Knowledge Sweden Meetup 2026 #1"
 ref: 2026-02-open-knowledge-sweden-meetup-1
+draft: true
 lang: en
 image: "/uploads/group-pic.jpg"
 excerpt: "Come and talk open knowledge and buy something to drink and eat!"

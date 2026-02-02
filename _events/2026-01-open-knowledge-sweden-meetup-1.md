@@ -1,6 +1,7 @@
 ---
 title: "Open Knowledge Sweden Meetup 2026 #1"
 ref: 2026-02-open-knowledge-sweden-meetup-1
+draft: true
 image: "/uploads/group-pic.jpg"
 excerpt: "Kom och prata om öppen kunskap och till något att dricka och äta!"
 ingress-text: "Kom och prata om öppen kunskap och till något att dricka och äta"
