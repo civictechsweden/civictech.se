@@ -1,12 +1,11 @@
 ---
 title: "Open Knowledge Sweden Meetup 2026 #1"
 ref: 2026-02-open-knowledge-sweden-meetup-1
-draft: true
 image: "/uploads/group-pic.jpg"
 excerpt: "Kom och prata om öppen kunskap och till något att dricka och äta!"
 ingress-text: "Kom och prata om öppen kunskap och till något att dricka och äta"
-event-date: 2026-02-03 18:00:00 +02:00
-event-date-desc: "3 februari 2026, kl. 18-20"
+event-date: 2026-02-26 18:00:00 +02:00
+event-date-desc: "26 februari 2026, kl. 18-20"
 place: Best Western and hotel, Apelbergsgatan 40, 111 37 Stockholm, Sverige
 group: stockholm
 links:
