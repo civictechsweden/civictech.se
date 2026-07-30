@@ -26,7 +26,7 @@ You have already activated public_suffix 6.0.2, but your Gemfile requires public
 
 Fix: `bundle exec jekyll build` instead of `jekyll build`.
 
-The site is built with **Jekyll 4** + **Bulma 1**. Production is [civictech.se](https://civictech.se) via **GitHub Pages** (custom domain in `CNAME`).
+The site is built with **Jekyll 4** + **Bulma 1**. Production is [civictech.se](https://civictech.se) via **GitHub Pages** (custom domain in `CNAME`), deployed by **GitHub Actions**.
 
 ### Verify locally
 
@@ -51,16 +51,14 @@ pkill -f 'jekyll serve'
 
 ### Branches and publishing
 
-The site is published with GitHub Pages set to **Deploy from a branch**, using the **`master`** branch (source: `/` root).
+GitHub Pages is set to **GitHub Actions** (not “Deploy from a branch”). Pushes to **`main`** run [Deploy Jekyll site to Pages](.github/workflows/deploy-pages.yml), which builds with Bundler + npm and deploys the artifact.
 
-| Branch | Role | Published by GitHub Pages |
-|--------|------|---------------------------|
+| Branch | Role | Deploy on push |
+|--------|------|----------------|
 | `develop` | Day-to-day work | No |
-| `master` | Production → [civictech.se](https://civictech.se) | Yes (Deploy from a branch) |
+| `main` | Production → [civictech.se](https://civictech.se) | Yes (GitHub Actions → Pages) |
 
-Flow: feature branch → PR → `develop` → PR → `master`.
-
-When changes land on `master`, GitHub Pages rebuilds and serves the site on **civictech.se**.
+Flow: feature branch → PR → `develop` → PR → `main` → workflow deploys.
 
 ### Publish a change
 
@@ -74,7 +72,7 @@ git commit -m "Describe your change"
 git push origin your-feature-branch
 ```
 
-Open a pull request against `develop`. When the change should go live: PR `develop` → `master` (Pages deploys from `master`).
+Open a pull request against `develop`. When the change should go live: PR `develop` → `main` (Actions deploys from `main`).
 
 ## Content
 
