@@ -1,7 +1,20 @@
 //
-// Custom styles
+// Custom styles (Bulma 1.x modules)
 //
 
+@use "bulma/sass/utilities/initial-variables" as iv;
+@use "bulma/sass/utilities/derived-variables" as dv;
+@use "bulma/sass/utilities/mixins" as mx;
+@use "bulma/sass/utilities/controls" as controls;
+
+// Site-only font stack for condensed titles
+$family-headlines: "Open Sans Condensed", BlinkMacSystemFont, -apple-system,
+  "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+  "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+
+// Brand aliases used in overrides
+$navbar-item-color: #f2e610;
+$navbar-item-hover-background-color: transparent;
 
 // General
 
@@ -9,7 +22,6 @@ body {
   font-size: 0.875rem;
   line-height: 1.6428571429;
 }
-
 
 // Links
 
@@ -33,7 +45,6 @@ body {
   border-radius: 0 !important;
 }
 
-
 // Form
 
 label {
@@ -46,22 +57,20 @@ form {
 
 .file-upload {
   font-size: 1rem !important;
-  padding: $control-padding-vertical 0;
+  padding: controls.$control-padding-vertical 0;
 }
-
 
 // Title
 
 .title {
   font-family: $family-headlines;
   text-transform: uppercase;
-  // letter-spacing: 1px;
   font-weight: normal;
   line-height: 1.4;
-  color: $link;
+  color: dv.$link;
   font-size: 1.625rem;
 
-  @include from($tablet) {
+  @include mx.tablet {
     font-size: 1.875rem;
   }
 
@@ -69,22 +78,24 @@ form {
     font-size: 1.625rem;
   }
 }
+
 .title.is-1 {
   font-size: 1.875rem;
   margin-bottom: 1rem;
 
-  @include from($tablet) {
+  @include mx.tablet {
     font-size: 3rem;
   }
 
-  @include from($desktop) {
+  @include mx.desktop {
     font-size: 3.75rem;
   }
 }
+
 .title.is-5 {
   font-size: 1.25rem;
 
-  @include from($tablet) {
+  @include mx.tablet {
     font-size: 1.375rem;
   }
 }
@@ -97,7 +108,6 @@ a.title {
   }
 }
 
-
 // Card
 
 .card .image {
@@ -109,9 +119,9 @@ a.title {
 }
 
 .card {
-    display:flex;
-    flex-direction: column;
-    height: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .card .title {
@@ -123,7 +133,7 @@ a.title {
 }
 
 .card-footer {
-    margin-top: auto;
+  margin-top: auto;
 }
 
 .card-footer-item {
@@ -138,11 +148,10 @@ a.title {
   }
 }
 
-
 // Spacing: section, box
 
 .is-medium .section-title {
-  @include from($desktop) {
+  @include mx.desktop {
     margin: -2.5rem 0 4rem !important;
   }
 }
@@ -156,35 +165,41 @@ a.title {
 }
 
 #projects .columns:first-of-type {
-  @include from($tablet) {
+  @include mx.tablet {
     margin-bottom: 4rem;
   }
 }
 
+// Restore Bulma 0.7 brand: boxes used $box-background-color: $primary (#50E3C2)
 .box {
-  @include until($tablet) {
+  --bulma-box-background-color: #{dv.$primary};
+  --bulma-box-shadow: none;
+  background-color: dv.$primary;
+  box-shadow: none;
+
+  @include mx.mobile {
     padding: 1.5rem;
   }
 }
 
-
 // Hero
 
 .hero-head {
-  @include from($desktop) {
+  @include mx.desktop {
     margin-top: 2.3rem;
   }
 }
 
 @mixin set-colored-bg-image($bgcolor, $bggradient, $bgimage) {
-	background: linear-gradient(
+  background: linear-gradient(
       rgba($bgcolor, $bggradient),
       rgba($bgcolor, $bggradient)
-    ), url($bgimage);
+    ),
+    url($bgimage);
 }
 
 @mixin set-dark-bg-image($bgimage) {
-	@include set-colored-bg-image($black, 0.2, $bgimage);
+  @include set-colored-bg-image(iv.$black, 0.2, $bgimage);
 }
 
 .hero-image {
@@ -194,14 +209,13 @@ a.title {
 }
 
 .hero-image {
-  // background-image: url('../images/hero.jpg');
-  @include set-dark-bg-image('../images/hero.jpg');
+  @include set-dark-bg-image("../images/hero.jpg");
   background-size: cover;
   background-position: top center;
 }
 
 .hero-project .hero-body {
-  @include from($desktop) {
+  @include mx.desktop {
     min-height: 18.75rem;
   }
 
@@ -213,44 +227,43 @@ a.title {
 .is-front .hero-body {
   padding-top: 0 !important;
 
-  @include until($desktop) {
+  @include mx.touch {
     padding-bottom: 2rem !important;
   }
 
-  @include from($tablet) {
+  @include mx.tablet {
     margin-top: -3rem;
   }
 }
 
 .hero .title {
-  color: $black !important;
+  color: iv.$black !important;
 }
 
 .hero-foot {
   padding: 0 0 2rem;
 
-  @include from($desktop) {
+  @include mx.desktop {
     padding: 1.5rem 0 3rem;
   }
 }
 
 .arrow {
   display: inline-block;
-  background: url('../images/pil-thin.svg') $primary 0 0 no-repeat;
+  background: url("../images/pil-thin.svg") dv.$primary 0 0 no-repeat;
   padding-left: 2rem;
 }
 
 .arrow-line {
-  background: url('../images/pil-line.svg') 0 10px repeat-x;
+  background: url("../images/pil-line.svg") 0 10px repeat-x;
   margin-top: 1em;
 
-  @include from($desktop) {
+  @include mx.desktop {
     &:first-of-type {
       margin-top: 3rem;
     }
   }
 }
-
 
 // Navbar
 
@@ -258,7 +271,8 @@ a.title {
   max-height: 1.5rem;
 }
 
-.select:not(.is-multiple):not(.is-loading)::after, .navbar-link:not(.is-arrowless)::after {
+.select:not(.is-multiple):not(.is-loading)::after,
+.navbar-link:not(.is-arrowless)::after {
   border-width: 1px;
   border-radius: 0;
 }
@@ -283,7 +297,6 @@ a.title {
   max-height: inherit;
 }
 
-
 // Principles
 
 #principles {
@@ -304,15 +317,15 @@ a.title {
   padding: 1rem 1.5rem 1.5rem;
 
   p:before {
-    content: '”';
+    content: "”";
     display: block;
   }
 
-  @include from($tablet) {
+  @include mx.tablet {
     padding: 2rem 3rem 3rem;
   }
 
-  @include from($desktop) {
+  @include mx.desktop {
     padding: 3rem 7.5rem 7rem;
 
     p:before {
@@ -321,11 +334,10 @@ a.title {
   }
 }
 
-
 // Partners
 
 .columns.partners {
-  border: 3px solid $grey-lighter;
+  border: 3px solid iv.$grey-lighter;
   border-width: 3px 0;
   padding: 2rem 0;
 }
@@ -340,15 +352,14 @@ a.title {
 .columns.contact {
   margin-top: 2rem;
 
-  @include until($tablet) {
+  @include mx.mobile {
     font-size: 0.75rem;
   }
 
-  @include from($desktop) {
+  @include mx.desktop {
     margin-top: 4rem;
   }
 }
-
 
 // Footer
 
@@ -356,18 +367,23 @@ a.title {
   margin-left: 2rem;
 }
 
-
 // Content
 
 .content {
   line-height: 1.75;
 
-  @include from($tablet) {
+  @include mx.tablet {
     font-size: 1rem;
   }
 }
 
-.content p:not(:last-child), .content dl:not(:last-child), .content ol:not(:last-child), .content ul:not(:last-child), .content blockquote:not(:last-child), .content pre:not(:last-child), .content table:not(:last-child) {
+.content p:not(:last-child),
+.content dl:not(:last-child),
+.content ol:not(:last-child),
+.content ul:not(:last-child),
+.content blockquote:not(:last-child),
+.content pre:not(:last-child),
+.content table:not(:last-child) {
   margin-bottom: 1.75em;
 }
 
@@ -390,28 +406,22 @@ a.title {
   margin-top: 1.75rem;
 }
 
-
-
-
-/** ---------------- **/
-
-
 // Event
 
 .is-overlapping {
   margin-top: -7rem;
 
-  @include from($tablet) {
+  @include mx.tablet {
     margin-top: -19rem;
   }
 
-  @include from($desktop) {
+  @include mx.desktop {
     margin-top: -24rem;
   }
 }
 
 .box.event {
-  @include from($desktop) {
+  @include mx.desktop {
     padding: 4rem 6rem;
   }
 }
@@ -425,11 +435,10 @@ a.title {
   margin-bottom: 2.5rem !important;
 }
 
-
 // Page
 
 #page.section {
-  @include from($desktop) {
+  @include mx.desktop {
     padding-top: 5rem;
   }
 }
@@ -444,36 +453,44 @@ iframe {
   max-width: 100%;
 }
 
-
-// Blog section
+// Blog section (Medium widget) — no @extend across modules; mirror card/title look
 
 .medium-widget-article__row {
   display: block !important;
 
-  @include from($tablet) {
+  @include mx.tablet {
     display: flex !important;
     margin-bottom: 4rem;
   }
 }
 
 .medium-widget-article__column {
-  @extend .card;
+  background-color: var(--bulma-scheme-main, #fff);
+  box-shadow: var(--bulma-shadow, 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1));
+  color: var(--bulma-text, #000);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  max-width: 100%;
+  position: relative;
 }
 
 .medium-widget-article__image {
-  @extend .card-image;
+  display: block;
+  position: relative;
 }
 
 .medium-widget-article__content {
-  @extend .card-content;
-  padding-bottom: 2rem;
+  padding: 2rem 2rem 2rem;
 }
 
 .medium-widget-article__title {
-  @extend .title;
+  font-family: $family-headlines;
   font-weight: normal !important;
   font-size: 1.875rem !important;
   text-align: center;
+  text-transform: uppercase;
+  color: dv.$link;
 }
 
 .medium-widget-article__description {

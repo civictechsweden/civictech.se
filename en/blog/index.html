@@ -1,0 +1,23 @@
+---
+title: Blog
+description: Blog posts from Civic Tech Sweden
+layout: global
+ref: blog
+lang: en
+---
+
+{% assign posts = site.blog | where: "lang", page.lang | sort: "date" | reverse %}
+
+<section class="section is-medium">
+  <div class="container">
+    <h1 class="title is-1 section-title has-text-centered">{{ page.title }}</h1>
+    <div class="columns is-multiline">
+      {% for post in posts %}
+        {% include blog-card.html %}
+      {% endfor %}
+    </div>
+    {% if posts.size == 0 %}
+      <p class="has-text-centered">No blog posts yet.</p>
+    {% endif %}
+  </div>
+</section>

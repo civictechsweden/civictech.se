@@ -106,6 +106,29 @@ layout: default
   </div>
 </section>
 
+{% assign blog_posts = site.blog | where: "lang", page.lang | sort: "date" | reverse %}
+{% if blog_posts.size > 0 %}
+<section id="blog" class="section is-medium">
+  <div class="container">
+    <h2 class="title section-title has-text-centered">{{ site.t[page.lang].blog-title }}</h2>
+    <div class="columns is-multiline">
+      {% for post in blog_posts limit: 3 %}
+        {% include blog-card.html %}
+      {% endfor %}
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-one-third">
+        {% if page.lang == "en" %}
+          <a class="button is-black is-outlined is-fullwidth read-more" href="{{ site.baseurl }}/en/blog/">{{ site.t[page.lang].more-blog }}</a>
+        {% else %}
+          <a class="button is-black is-outlined is-fullwidth read-more" href="{{ site.baseurl }}/blog/">{{ site.t[page.lang].more-blog }}</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+
 <section id="partners" class="section has-background-light">
   <div class="container">
     <h2 class="title section-title has-text-centered">{{site.t[page.lang].partner-title}}</h2>

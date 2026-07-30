@@ -1,0 +1,16 @@
+# Full Civic Tech Sweden Medium blog set (publication list + RSS extras).
+# One URL per line; query strings are ignored.
+
+# Authoritative publication posts
+https://medium.com/civictechsweden/almedalsdata-%C3%B6ppna-data-om-v%C3%A4rldens-st%C3%B6rsta-politiska-festival-760a46ed3b3c
+https://medium.com/civictechsweden/almedalsdata-diving-into-the-data-of-the-worlds-biggest-political-festival-267eb6865860
+https://medium.com/civictechsweden/panta-muggen-p%C3%A5-stan-ce6ad15c6e32
+https://medium.com/civictechsweden/s%C3%A5-blir-samh%C3%A4llet-mer-tillg%C3%A4ngligt-genom-anv%C3%A4ndardata-cddcb59cf351
+https://medium.com/civictechsweden/de-har-gjort-pok%C3%A9mon-go-f%C3%B6r-naturen-3810d2224ee8
+https://medium.com/civictechsweden/tools-to-build-community-civic-tech-lab-2-80bc764fc6a5
+https://medium.com/civictechsweden/engagemang-och-deltagande-inom-civic-tech-del-1-783df8cf3e89
+
+# Also present in Medium RSS for the publication
+https://medium.com/civictechsweden/vem-har-koll-p%C3%A5-sveriges-myndigheter-dc8ca8e9dab7
+https://medium.com/civictechsweden/gemensamt-remissvar-till-%C3%B6ppna-data-utredningen-fa3724fce173
+https://medium.com/civictechsweden/norrlands-%C3%A4ldre-tr%C3%A4ffar-specialistl%C3%A4kare-digitalt-i-pilotprojekt-327919f49b5f

@@ -1,0 +1,13 @@
+{
+  "name": "civictech.se",
+  "private": true,
+  "description": "Website for Civic Tech Sweden (Jekyll + Bulma)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/civictechsweden/civictech.se.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "1.0.4"
+  }
+}

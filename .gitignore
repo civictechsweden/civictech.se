@@ -1,6 +1,9 @@
 _site/
 .sass-cache/
+.jekyll-cache/
 .jekyll-metadata
 path/
 *.DS_Store
 bower_components/
+node_modules/
+tmp/

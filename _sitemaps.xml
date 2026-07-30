@@ -42,4 +42,17 @@ layout:
       </url>
     {% endif %}
   {% endfor %}
+  {% for post in site.blog %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      {% assign versions = site.blog | where: "ref", post.ref %}
+      {% for version in versions %}
+        {% if version.ref and version.ref != "" %}
+          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{ site.url }}{{ version.url }}" />
+        {% endif %}
+      {% endfor %}
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+    </url>
+  {% endfor %}
 </urlset>

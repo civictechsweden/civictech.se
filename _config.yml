@@ -1,5 +1,6 @@
 ---
 title: Civic Tech Sweden
+url: "https://civictech.se"
 timezone: Europe/Stockholm
 baseurl: ""
 collections:
@@ -17,6 +18,10 @@ collections:
     title: Groups
     output: true
     permalink: /:title/
+  blog:
+    title: Blog
+    output: true
+    permalink: /blog/:title/
 defaults:
   - scope:
       path: ""
@@ -87,12 +92,30 @@ defaults:
         - title:
           url:
           style:
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: blog
+      lang: sv
+      ref:
+      author:
+      excerpt:
+      image:
+      medium_url:
+      tags: []
 permalink: /projects/:title/
 description: Hackathons och Meetups för Sveriges Civic Tech-community
-theme: jekyll-theme-cayman
 plugins:
+  - jekyll-seo-tag
   - jemoji
   - jekyll-redirect-from
+sass:
+  load_paths:
+    - node_modules
+  quiet_deps: true
+  silence_deprecations:
+    - if-function
 t:
   sv:
     event-title: Event
@@ -101,7 +124,10 @@ t:
     event-upcoming: Kommande event
     more-events: Fler event
     blog-title: Blogg
-    more-blog: Till bloggen
+    more-blog: Fler blogginlägg
+    blog-by: Av
+    blog-on-medium: Ursprungligen på Medium
+    blog-back: Till bloggen
     project-title: Projekt
     project-chat: Chatta om projektet
     more-projects: Fler projekt
@@ -122,6 +148,9 @@ t:
     more-events: More events
     blog-title: Blog
     more-blog: More blog posts
+    blog-by: By
+    blog-on-medium: Originally on Medium
+    blog-back: Back to the blog
     project-title: Projects
     project-chat: Chat about the project
     more-projects: More projects

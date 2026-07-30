@@ -1,0 +1,59 @@
+---
+layout: global
+---
+
+<article id="blog-post" class="section is-medium">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-three-quarters-tablet is-two-thirds-desktop has-text-centered">
+        <h1 class="title is-1">{{ page.title }}</h1>
+        <p class="title is-6">
+          {% if page.author and page.author != "" %}
+            {{ site.t[page.lang].blog-by }} {{ page.author }}
+            {% if page.date %} · {% endif %}
+          {% endif %}
+          {% if page.date %}
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+          {% endif %}
+        </p>
+        {% if page.tags and page.tags.size > 0 %}
+          <p class="tags is-centered" style="justify-content: center;">
+            {% for tag in page.tags %}
+              <span class="tag is-light">{{ tag }}</span>
+            {% endfor %}
+          </p>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if page.image and page.image != "" %}
+      <div class="columns is-centered">
+        <div class="column is-three-quarters-tablet is-two-thirds-desktop">
+          <figure class="image">
+            <img src="{{ site.baseurl }}{{ page.image }}" alt="">
+          </figure>
+        </div>
+      </div>
+    {% endif %}
+
+    <div class="columns is-centered">
+      <div class="column is-three-quarters-tablet is-half-desktop">
+        <div class="content">
+          {{ content }}
+        </div>
+
+        <p class="mt-5">
+          {% if page.lang == "en" %}
+            <a href="{{ site.baseurl }}/en/blog/">← {{ site.t[page.lang].blog-back }}</a>
+          {% else %}
+            <a href="{{ site.baseurl }}/blog/">← {{ site.t[page.lang].blog-back }}</a>
+          {% endif %}
+          {% if page.medium_url and page.medium_url != "" %}
+            ·
+            <a href="{{ page.medium_url }}" rel="noopener noreferrer">{{ site.t[page.lang].blog-on-medium }}</a>
+          {% endif %}
+        </p>
+      </div>
+    </div>
+  </div>
+</article>

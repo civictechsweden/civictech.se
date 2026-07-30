@@ -1,0 +1,69 @@
+// Civic Tech Sweden brand configuration for Bulma 1.x.
+// Values mirror the previous _custom-variables.sass (Bulma 0.7 era).
+
+@use "bulma/sass" with (
+  // Greys → black-forward (legacy CTS brand)
+  $black: #000,
+  $black-bis: #000,
+  $black-ter: #000,
+  $grey-darker: #000,
+  $grey-dark: #000,
+  $grey: hsl(0, 0%, 48%),
+  $grey-light: hsl(0, 0%, 71%),
+  $grey-lighter: hsl(0, 0%, 86%),
+  $white-ter: hsl(0, 0%, 96%),
+  $white-bis: hsl(0, 0%, 98%),
+  $white: #fff,
+  // Brand palette
+  $yellow: #f2e610,
+  $green: #50e3c2,
+  $turquoise: #50e3c2,
+  $cyan: #50e3c2,
+  $blue: #3300ff,
+  $purple: #8e00ff,
+  $red: #db007e,
+  // Typography
+  $family-sans-serif:
+    '"OfficeCodeProD", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif',
+  $family-primary:
+    '"OfficeCodeProD", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif',
+  $family-secondary:
+    '"Open Sans Condensed", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif',
+  // Status / semantic colors (CTS mapping)
+  $primary: #50e3c2,
+  $info: #8e00ff,
+  $success: #3300ff,
+  $warning: #f2e610,
+  $danger: #db007e,
+  $light: hsl(0, 0%, 96%),
+  $dark: #000,
+  $link: #000,
+  $text: #000,
+  $text-strong: #000,
+  $background: transparent,
+  // Geometry
+  $radius-small: 0,
+  $radius: 0,
+  $radius-medium: 0,
+  $radius-large: 0
+);
+
+// Component-level CSS variables that Sass `with` does not fully cover.
+:root,
+[data-theme="light"],
+.theme-light {
+  --bulma-radius: 0;
+  --bulma-radius-small: 0;
+  --bulma-radius-medium: 0;
+  --bulma-radius-large: 0;
+  --bulma-button-padding-vertical: 1.5rem;
+  --bulma-button-padding-horizontal: 3rem;
+  --bulma-box-padding: 2.75rem;
+  --bulma-box-background-color: #50e3c2;
+  --bulma-box-shadow: none;
+  --bulma-footer-padding: 5rem 1.5rem 4.5rem;
+  --bulma-navbar-item-color: #f2e610;
+  --bulma-navbar-dropdown-arrow: #f2e610;
+  --bulma-navbar-dropdown-background-color: #8e00ff;
+  --bulma-card-footer-border-top: 0;
+}

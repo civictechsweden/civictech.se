@@ -9,7 +9,7 @@ sv:
 - title: Grupper
   type: groups
 - title: Blogg
-  url: https://medium.com/civictechsweden
+  url: "/blog/"
 - title: Chat
   url: https://app.element.io/#/room/#civictechse:matrix.org
   type: chat
@@ -25,7 +25,7 @@ en:
 - title: Groups
   type: groups
 - title: Blog
-  url: https://medium.com/civictechsweden
+  url: "/en/blog/"
 - title: Chat
   url: https://app.element.io/#/room/#civictechse:matrix.org
   type: chat

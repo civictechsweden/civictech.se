@@ -1,0 +1,32 @@
+<div class="column is-half-tablet is-one-third-desktop">
+  <div class="card">
+    {% if post.image and post.image != "" %}
+      <div class="card-image">
+        <figure class="image is-4by3">
+          <a href="{{ site.baseurl }}{{ post.url }}"
+            ><img src="{{ site.baseurl }}{{ post.image }}" alt=""
+          /></a>
+        </figure>
+      </div>
+    {% endif %}
+    <div class="card-content">
+      <h3 class="title has-text-centered">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h3>
+      {% if post.date %}
+        <p class="has-text-centered is-size-7">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+          {% if post.author and post.author != "" %} · {{ post.author }}{% endif %}
+        </p>
+      {% endif %}
+      {% if post.excerpt and post.excerpt != "" %}
+        <p>{{ post.excerpt }}</p>
+      {% endif %}
+    </div>
+    <div class="card-footer">
+      <a class="card-footer-item right" href="{{ site.baseurl }}{{ post.url }}"
+        ><img src="{{ site.baseurl }}/assets/images/pil.svg" alt="Läs mer"
+      /></a>
+    </div>
+  </div>
+</div>
